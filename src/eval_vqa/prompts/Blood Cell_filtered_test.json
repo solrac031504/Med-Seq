@@ -1,0 +1,1242 @@
+[
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_5_9176.jpeg",
+        "problem": "What imaging modality was used to capture this image? A)Microscopy, B)Endoscopy, C)Ultrasound, D)Electroencephalography (EEG)",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_3_8716.jpeg",
+        "problem": "What imaging modality was used to capture this image? A)Magnetic resonance imaging (MRI), B)Microscopy, C)X-ray, D)Radiography",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_3_9922.jpeg",
+        "problem": "What modality was utilized to obtain this image? A)Magnetic resonance imaging (MRI), B)Microscopy, C)Fluoroscopy, D)Endoscopy",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_1_112.jpeg",
+        "problem": "What type of imaging method was employed to obtain this image? A)Positron emission tomography (PET), B)X-ray, C)Microscopy, D)Electroencephalography (EEG)",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_2_1041.jpeg",
+        "problem": "What imaging modality was used to capture this image? A)Microscopy, B)Ultrasound, C)Endoscopy, D)Electroencephalography (EEG)",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_1_6162.jpeg",
+        "problem": "What imaging modality was used to capture this image? A)Microscopy, B)Positron emission tomography (PET), C)Thermal imaging, D)Ultrasound",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_1_7139.jpeg",
+        "problem": "What type of imaging technique was employed to acquire this picture? A)Endoscopy, B)Microscopy, C)Fluoroscopy, D)Computed tomography (CT)",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_3_2033.jpeg",
+        "problem": "Which imaging technique was utilized to obtain this picture? A)Magnetic resonance imaging (MRI), B)Computed tomography (CT), C)Electroencephalography (EEG), D)Microscopy",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_5_5349.jpeg",
+        "problem": "What imaging technique was utilized for capturing this image? A)Magnetic resonance imaging (MRI), B)Microscopy, C)Radiography, D)Thermal imaging",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_4_3568.jpeg",
+        "problem": "What imaging technique was employed to obtain this image? A)Microscopy, B)Fluoroscopy, C)Ultrasound, D)Thermal imaging",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_1_52.jpeg",
+        "problem": "What imaging technique was utilized to obtain this image? A)Microscopy, B)Positron emission tomography (PET), C)Endoscopy, D)Fluoroscopy",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_1_8378.jpeg",
+        "problem": "What was the imaging modality employed to capture this image? A)Fluoroscopy, B)Magnetic resonance imaging (MRI), C)Microscopy, D)Positron emission tomography (PET)",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_5_7595.jpeg",
+        "problem": "What method of imaging was utilized to obtain this visual representation? A)Fluoroscopy, B)Magnetic resonance imaging (MRI), C)Positron emission tomography (PET), D)Microscopy",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_0_9102.jpeg",
+        "problem": "Which imaging technique was employed to obtain this picture? A)Magnetic resonance imaging (MRI), B)Positron emission tomography (PET), C)Microscopy, D)Thermal imaging",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_3_3243.jpeg",
+        "problem": "What technique was employed in obtaining this image? A)Microscopy, B)Electroencephalography (EEG), C)Positron emission tomography (PET), D)Endoscopy",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_8_4721.jpeg",
+        "problem": "What imaging modality was used to capture this image? A)Radiography, B)Microscopy, C)X-ray, D)Computed tomography (CT)",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_5_9420.jpeg",
+        "problem": "What imaging modality was used to capture this image? A)Magnetic resonance imaging (MRI), B)Ultrasound, C)Electroencephalography (EEG), D)Microscopy",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_5_7586.jpeg",
+        "problem": "What imaging modality was used to capture this image? A)X-ray, B)Computed tomography (CT), C)Positron emission tomography (PET), D)Microscopy",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_0_1845.jpeg",
+        "problem": "What imaging modality was used to capture this image? A)X-ray, B)Ultrasound, C)Microscopy, D)Computed tomography (CT)",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_8_3082.jpeg",
+        "problem": "What was the imaging technique used to obtain this image? A)Ultrasound, B)X-ray, C)Microscopy, D)Endoscopy",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_0_6354.jpeg",
+        "problem": "What method of imaging was utilized to obtain this visual representation? A)X-ray, B)Thermal imaging, C)Fluoroscopy, D)Microscopy",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_9_1911.jpeg",
+        "problem": "What method was utilized to capture this image in medicine? A)Computed tomography (CT), B)Microscopy, C)Electroencephalography (EEG), D)Positron emission tomography (PET)",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_0_4130.jpeg",
+        "problem": "What type of imaging method was utilized to capture this image? A)Electroencephalography (EEG), B)Microscopy, C)Computed tomography (CT), D)Magnetic resonance imaging (MRI)",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_4_9971.jpeg",
+        "problem": "What type of imaging was employed to capture this image? A)Endoscopy, B)Microscopy, C)Positron emission tomography (PET), D)Radiography",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_0_5974.jpeg",
+        "problem": "What imaging technique was employed to obtain this picture? A)X-ray, B)Microscopy, C)Ultrasound, D)Electroencephalography (EEG)",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_12_6791.jpeg",
+        "problem": "What modality was employed to obtain this image in medicine? A)Endoscopy, B)Microscopy, C)Magnetic resonance imaging (MRI), D)X-ray",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_37_1581.jpeg",
+        "problem": "What imaging technique was employed to obtain this image? A)X-ray, B)Microscopy, C)Radiography, D)Magnetic resonance imaging (MRI)",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_36_9934.jpeg",
+        "problem": "What type of imaging technique was employed to obtain this picture? A)Magnetic resonance imaging (MRI), B)Microscopy, C)Radiography, D)Electroencephalography (EEG)",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_30_4474.jpeg",
+        "problem": "What method of capturing images was employed in acquiring this image? A)Electroencephalography (EEG), B)Ultrasound, C)Microscopy, D)Fluoroscopy",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_0_4354.jpeg",
+        "problem": "What method of imaging was utilized to obtain this image? A)Ultrasound, B)Computed tomography (CT), C)Microscopy, D)Thermal imaging",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_42_1758.jpeg",
+        "problem": "What was the imaging modality employed to capture this image? A)Thermal imaging, B)Radiography, C)Microscopy, D)Positron emission tomography (PET)",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_24_1869.jpeg",
+        "problem": "What imaging modality was used to capture this image? A)Positron emission tomography (PET), B)Ultrasound, C)Microscopy, D)Thermal imaging",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_46_5419.jpeg",
+        "problem": "Which diagnostic technique produced this picture? A)Ultrasound, B)X-ray, C)Fluoroscopy, D)Microscopy",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_37_9835.jpeg",
+        "problem": "What imaging modality was used to capture this image? A)Ultrasound, B)X-ray, C)Microscopy, D)Electroencephalography (EEG)",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_3_5077.jpeg",
+        "problem": "What method of imaging was employed to produce this image? A)Fluoroscopy, B)Computed tomography (CT), C)Electroencephalography (EEG), D)Microscopy",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_28_7983.jpeg",
+        "problem": "What method of capturing images was employed to obtain this image? A)Positron emission tomography (PET), B)Endoscopy, C)Microscopy, D)Fluoroscopy",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_3_8323.jpeg",
+        "problem": "What type of imaging technique was utilized to acquire this image? A)Microscopy, B)X-ray, C)Positron emission tomography (PET), D)Radiography",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_2_1685.jpeg",
+        "problem": "What technique was utilized to obtain this image in medicine? A)Microscopy, B)X-ray, C)Radiography, D)Ultrasound",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_0_4719.jpeg",
+        "problem": "What method of medical imaging was utilized to capture this image? A)Microscopy, B)Endoscopy, C)Computed tomography (CT), D)Fluoroscopy",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_1_2746.jpeg",
+        "problem": "What type of imaging was employed to acquire this image? A)X-ray, B)Computed tomography (CT), C)Fluoroscopy, D)Microscopy",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_1_1054.jpeg",
+        "problem": "What method of imaging was employed to obtain this image? A)Microscopy, B)Electroencephalography (EEG), C)Positron emission tomography (PET), D)Radiography",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_0_4707.jpeg",
+        "problem": "Which imaging technique was utilized to acquire this image? A)X-ray, B)Fluoroscopy, C)Radiography, D)Microscopy",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_1_7277.jpeg",
+        "problem": "What method of imaging was utilized to capture this visual? A)Microscopy, B)Magnetic resonance imaging (MRI), C)Radiography, D)Electroencephalography (EEG)",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_2_4261.jpeg",
+        "problem": "What method of imaging was utilized to obtain this picture? A)X-ray, B)Magnetic resonance imaging (MRI), C)Electroencephalography (EEG), D)Microscopy",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_0_4055.jpeg",
+        "problem": "What modality of capturing was employed to obtain this image? A)Endoscopy, B)Magnetic resonance imaging (MRI), C)Microscopy, D)Positron emission tomography (PET)",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_6_9529.jpeg",
+        "problem": "What types of cells in this image? A)Macrophages, B)eosinophils, C)Monocytes, D)Platelets",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_3_1752.jpeg",
+        "problem": "What types of cells in this image? A)T lymphocytes, B)Red blood cells, C)eosinophils, D)Basophils",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_3_2887.jpeg",
+        "problem": "What kind of cells can be seen in this image? A)Macrophages, B)Mast cells, C)eosinophils, D)Dendritic cells",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_1_5434.jpeg",
+        "problem": "Which cells are present in this image? A)T lymphocytes, B)eosinophils, C)Basophils, D)Macrophages",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_6_2161.jpeg",
+        "problem": "What specific cells are visible in this image? A)eosinophils, B)Basophils, C)Neutrophils, D)Macrophages",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_7_6454.jpeg",
+        "problem": "What types of cells in this image? A)T lymphocytes, B)eosinophils, C)Mast cells, D)B lymphocytes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_0_2498.jpeg",
+        "problem": "What cells can be seen in this image? A)Neutrophils, B)eosinophils, C)Macrophages, D)Monocytes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_2_1274.jpeg",
+        "problem": "What type of cells are shown in this image? A)eosinophils, B)Red blood cells, C)Basophils, D)Macrophages",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_3_3858.jpeg",
+        "problem": "What is the identity of the cells seen in this image? A)eosinophils, B)T lymphocytes, C)Basophils, D)Dendritic cells",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_1_9915.jpeg",
+        "problem": "Which specific cells are seen in the image? A)Platelets, B)B lymphocytes, C)eosinophils, D)Basophils",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_0_2313.jpeg",
+        "problem": "Which cell type is present in this image? A)Mast cells, B)Monocytes, C)eosinophils, D)Neutrophils",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_6_896.jpeg",
+        "problem": "Which specific cells can be seen in this image? A)eosinophils, B)T lymphocytes, C)B lymphocytes, D)Red blood cells",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_6_8952.jpeg",
+        "problem": "What is the classification of the cells in this image? A)Red blood cells, B)eosinophils, C)Monocytes, D)Mast cells",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_12_1091.jpeg",
+        "problem": "What are the cell types present in this image? A)T lymphocytes, B)eosinophils, C)Macrophages, D)Red blood cells",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_5_4902.jpeg",
+        "problem": "Which specific cells are present in the image? A)Dendritic cells, B)Mast cells, C)eosinophils, D)Basophils",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_12_6605.jpeg",
+        "problem": "What is the specific cellular type shown in the image? A)Mast cells, B)Red blood cells, C)eosinophils, D)T lymphocytes",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_4_9471.jpeg",
+        "problem": "What specific immune cells are visible in this image? A)Mast cells, B)Macrophages, C)eosinophils, D)Monocytes",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_8_647.jpeg",
+        "problem": "What types of cells in this image? A)Mast cells, B)eosinophils, C)Platelets, D)B lymphocytes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_9_1242.jpeg",
+        "problem": "What is the specific cell type shown in the image? A)Monocytes, B)T lymphocytes, C)eosinophils, D)Macrophages",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_5_7113.jpeg",
+        "problem": "What types of cells in this image? A)Neutrophils, B)Dendritic cells, C)Red blood cells, D)eosinophils",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_12_7914.jpeg",
+        "problem": "What types of cells in this image? A)eosinophils, B)B lymphocytes, C)Mast cells, D)Basophils",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_0_7604.jpeg",
+        "problem": "What types of cells in this image? A)Neutrophils, B)Monocytes, C)Dendritic cells, D)eosinophils",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_4_9099.jpeg",
+        "problem": "What is the identification of the cells depicted in the image? A)Monocytes, B)eosinophils, C)Red blood cells, D)T lymphocytes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_12_2378.jpeg",
+        "problem": "What types of cells in this image? A)eosinophils, B)Monocytes, C)Dendritic cells, D)Mast cells",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_1_2525.jpeg",
+        "problem": "What types of cells in this image? A)Neutrophils, B)Dendritic cells, C)T lymphocytes, D)eosinophils",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_2_6619.jpeg",
+        "problem": "What are the cells pictured in this image? A)Platelets, B)Red blood cells, C)eosinophils, D)T lymphocytes",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_11_9024.jpeg",
+        "problem": "What types of cells in this image? A)eosinophils, B)Macrophages, C)Dendritic cells, D)Monocytes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_11_7189.jpeg",
+        "problem": "What are the cells that are present in this image? A)T lymphocytes, B)Macrophages, C)Basophils, D)eosinophils",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_10_5605.jpeg",
+        "problem": "What are the specific cell types depicted in this image? A)eosinophils, B)Macrophages, C)Platelets, D)Basophils",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_5_518.jpeg",
+        "problem": "What is the type of cells seen in this image? A)Platelets, B)eosinophils, C)Monocytes, D)Neutrophils",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_7_1440.jpeg",
+        "problem": "What cells are present in this image? A)Macrophages, B)Basophils, C)eosinophils, D)B lymphocytes",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_1_5389.jpeg",
+        "problem": "What cell type can be observed in this image? A)eosinophils, B)B lymphocytes, C)Dendritic cells, D)Neutrophils",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_12_8969.jpeg",
+        "problem": "Identify the cell type depicted in this photograph. A)Mast cells, B)Platelets, C)eosinophils, D)B lymphocytes",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_8_2522.jpeg",
+        "problem": "What is the name of the cells shown in this image? A)eosinophils, B)Platelets, C)Dendritic cells, D)B lymphocytes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_7_1107.jpeg",
+        "problem": "Which specific cells are shown in the image? A)Neutrophils, B)eosinophils, C)Mast cells, D)Macrophages",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_2_276.jpeg",
+        "problem": "What specific cells are seen in this image? A)Mast cells, B)B lymphocytes, C)Neutrophils, D)eosinophils",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_9_5941.jpeg",
+        "problem": "Which cells are observed in this image? A)Platelets, B)eosinophils, C)Red blood cells, D)Dendritic cells",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_7_3400.jpeg",
+        "problem": "What is the identity of the cells shown in this image? A)Dendritic cells, B)eosinophils, C)Macrophages, D)Neutrophils",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_7_4876.jpeg",
+        "problem": "What specific cellular type is seen in this image? A)eosinophils, B)Basophils, C)Monocytes, D)Mast cells",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_4_6081.jpeg",
+        "problem": "What types of cells in this image? A)eosinophils, B)Mast cells, C)Red blood cells, D)T lymphocytes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_2_7310.jpeg",
+        "problem": "What cell type is present in this image? A)eosinophils, B)Monocytes, C)Dendritic cells, D)Neutrophils",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_11_168.jpeg",
+        "problem": "What are the cells observed in this image? A)Dendritic cells, B)eosinophils, C)B lymphocytes, D)Mast cells",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_11_9804.jpeg",
+        "problem": "What kind of cells are depicted in this image? A)Neutrophils, B)Monocytes, C)eosinophils, D)T lymphocytes",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_2_5848.jpeg",
+        "problem": "What cells are seen in this image? A)eosinophils, B)T lymphocytes, C)Basophils, D)Mast cells",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_7_9769.jpeg",
+        "problem": "What is the identity of the cells observed in this image? A)Macrophages, B)Mast cells, C)eosinophils, D)B lymphocytes",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_1_4966.jpeg",
+        "problem": "What type of cells are present in the image? A)Monocytes, B)eosinophils, C)Platelets, D)Neutrophils",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_9_3273.jpeg",
+        "problem": "What types of cells in this image? A)Monocytes, B)Red blood cells, C)eosinophils, D)Neutrophils",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_1_7860.jpeg",
+        "problem": "What is the identity of the cells in this picture? A)Macrophages, B)Neutrophils, C)eosinophils, D)Mast cells",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/EOSINOPHIL/_12_2342.jpeg",
+        "problem": "What types of cells in this image? A)B lymphocytes, B)eosinophils, C)Dendritic cells, D)Mast cells",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_0_7238.jpeg",
+        "problem": "What is the specific cell type visible in this image? A)Osteocytes, B)Fibroblasts, C)lymphocytes, D)Epithelial cells",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_5_5151.jpeg",
+        "problem": "What types of cells in this image? A)lymphocytes, B)Neurons, C)Astrocytes, D)Fibroblasts",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_4_1865.jpeg",
+        "problem": "What is the identity of the cells in this image? A)lymphocytes, B)Osteocytes, C)Astrocytes, D)Red blood cells",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_4_7637.jpeg",
+        "problem": "What cell types are visible in this image? A)Muscle cells, B)Platelets, C)Fibroblasts, D)lymphocytes",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_0_7040.jpeg",
+        "problem": "What kind of cells can be seen in this image? A)lymphocytes, B)Osteocytes, C)Macrophages, D)Neurons",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_5_876.jpeg",
+        "problem": "Which cells are present in this image? A)lymphocytes, B)Platelets, C)Fibroblasts, D)Astrocytes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_2_4955.jpeg",
+        "problem": "What is the cell type shown in the image? A)Red blood cells, B)lymphocytes, C)Fibroblasts, D)Muscle cells",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_2_704.jpeg",
+        "problem": "What kind of cells can be observed in the image? A)lymphocytes, B)Neurons, C)Keratinocytes, D)Platelets",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_5_8899.jpeg",
+        "problem": "What types of cells in this image? A)Macrophages, B)Fibroblasts, C)lymphocytes, D)Muscle cells",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_3_2344.jpeg",
+        "problem": "What cells are present in this image? A)Platelets, B)lymphocytes, C)Astrocytes, D)Keratinocytes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_4_8149.jpeg",
+        "problem": "What specific cell type can be observed in the provided image? A)lymphocytes, B)Platelets, C)Keratinocytes, D)Neurons",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_1_3819.jpeg",
+        "problem": "What is the cell type found in this image? A)Epithelial cells, B)lymphocytes, C)Osteocytes, D)Red blood cells",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_3_2953.jpeg",
+        "problem": "What cell type is displayed in the image? A)Fibroblasts, B)Muscle cells, C)Red blood cells, D)lymphocytes",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_0_7946.jpeg",
+        "problem": "What is the name of the cells shown in this image? A)Platelets, B)lymphocytes, C)Muscle cells, D)Red blood cells",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_4_834.jpeg",
+        "problem": "What is the identity of the cells shown in the image? A)Macrophages, B)Keratinocytes, C)lymphocytes, D)Red blood cells",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_0_1050.jpeg",
+        "problem": "Which type of cells can be observed in this image? A)Epithelial cells, B)lymphocytes, C)Muscle cells, D)Red blood cells",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_4_2036.jpeg",
+        "problem": "What types of cells in this image? A)Macrophages, B)lymphocytes, C)Astrocytes, D)Platelets",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_2_7853.jpeg",
+        "problem": "What is the cell type represented in this image? A)lymphocytes, B)Neurons, C)Osteocytes, D)Macrophages",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_0_6589.jpeg",
+        "problem": "What specific cells can be observed in this image? A)lymphocytes, B)Epithelial cells, C)Macrophages, D)Platelets",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_0_4279.jpeg",
+        "problem": "Which cells are seen in this image? A)Platelets, B)lymphocytes, C)Neurons, D)Macrophages",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_2_7269.jpeg",
+        "problem": "What types of cells in this image? A)Platelets, B)lymphocytes, C)Macrophages, D)Fibroblasts",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_1_5234.jpeg",
+        "problem": "What are the cell types observed in this image? A)Osteocytes, B)Macrophages, C)lymphocytes, D)Keratinocytes",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_3_1119.jpeg",
+        "problem": "What is the type of cells shown in the image? A)Keratinocytes, B)Epithelial cells, C)lymphocytes, D)Astrocytes",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_3_8419.jpeg",
+        "problem": "Identify the cell type depicted in this photograph. A)Astrocytes, B)Macrophages, C)Platelets, D)lymphocytes",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_1_5471.jpeg",
+        "problem": "What kind of cells are present in the image? A)Muscle cells, B)lymphocytes, C)Platelets, D)Neurons",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_3_4744.jpeg",
+        "problem": "Which cells are present in this image? A)lymphocytes, B)Astrocytes, C)Red blood cells, D)Fibroblasts",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_1_3950.jpeg",
+        "problem": "What kind of leukocytes are depicted in this picture? A)Keratinocytes, B)Platelets, C)lymphocytes, D)Fibroblasts",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_4_3666.jpeg",
+        "problem": "Which specific cells are observed in this image? A)Epithelial cells, B)Keratinocytes, C)lymphocytes, D)Red blood cells",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_0_7630.jpeg",
+        "problem": "What is the classification of cells seen in this image? A)Epithelial cells, B)lymphocytes, C)Astrocytes, D)Platelets",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_3_4418.jpeg",
+        "problem": "Which cells are present in this image? A)Neurons, B)Keratinocytes, C)Astrocytes, D)lymphocytes",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_2_3219.jpeg",
+        "problem": "What specific cells are present in the image? A)Red blood cells, B)lymphocytes, C)Epithelial cells, D)Astrocytes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_2_5368.jpeg",
+        "problem": "What is the cellular composition seen in this image? A)Red blood cells, B)Muscle cells, C)lymphocytes, D)Epithelial cells",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_2_6173.jpeg",
+        "problem": "What are the cell types seen in this image? A)Fibroblasts, B)Red blood cells, C)lymphocytes, D)Macrophages",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_2_4150.jpeg",
+        "problem": "Which specific cells are observed in this image? A)Osteocytes, B)Macrophages, C)Neurons, D)lymphocytes",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_2_8109.jpeg",
+        "problem": "What types of cells in this image? A)Muscle cells, B)Osteocytes, C)Fibroblasts, D)lymphocytes",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_2_8662.jpeg",
+        "problem": "What types of cells in this image? A)Red blood cells, B)Epithelial cells, C)lymphocytes, D)Macrophages",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_5_9208.jpeg",
+        "problem": "What types of cells in this image? A)Red blood cells, B)Fibroblasts, C)lymphocytes, D)Epithelial cells",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_5_1304.jpeg",
+        "problem": "What is the cell type identified in this image? A)Platelets, B)Muscle cells, C)lymphocytes, D)Fibroblasts",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_5_8803.jpeg",
+        "problem": "What is the cell type displayed in this image? A)Keratinocytes, B)Fibroblasts, C)Red blood cells, D)lymphocytes",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_3_5426.jpeg",
+        "problem": "What types of cells in this image? A)Osteocytes, B)lymphocytes, C)Astrocytes, D)Keratinocytes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_4_5458.jpeg",
+        "problem": "What specific type of cells are present in the image? A)Macrophages, B)Epithelial cells, C)Fibroblasts, D)lymphocytes",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_2_5023.jpeg",
+        "problem": "What is the cellular composition in this image? A)Muscle cells, B)Macrophages, C)Fibroblasts, D)lymphocytes",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_5_5644.jpeg",
+        "problem": "What cells can be observed in the provided image? A)Neurons, B)Fibroblasts, C)Epithelial cells, D)lymphocytes",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_2_8512.jpeg",
+        "problem": "Which specific cells can be seen in this image? A)Fibroblasts, B)Keratinocytes, C)Macrophages, D)lymphocytes",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_1_4036.jpeg",
+        "problem": "What types of cells in this image? A)Astrocytes, B)Osteocytes, C)Red blood cells, D)lymphocytes",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_0_582.jpeg",
+        "problem": "What is the cell type seen in the image? A)Macrophages, B)lymphocytes, C)Epithelial cells, D)Fibroblasts",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_5_4208.jpeg",
+        "problem": "What types of cells in this image? A)lymphocytes, B)Platelets, C)Macrophages, D)Neurons",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_4_2210.jpeg",
+        "problem": "What types of cells in this image? A)Platelets, B)Macrophages, C)Osteocytes, D)lymphocytes",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_0_9384.jpeg",
+        "problem": "What types of cells in this image? A)lymphocytes, B)Fibroblasts, C)Keratinocytes, D)Macrophages",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_1_945.jpeg",
+        "problem": "What types of cells in this image? A)Platelets, B)Muscle cells, C)Epithelial cells, D)lymphocytes",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_5_2263.jpeg",
+        "problem": "What is the identity of the cells depicted in this image? A)lymphocytes, B)Platelets, C)Astrocytes, D)Neurons",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_0_6428.jpeg",
+        "problem": "What is the name of the cells shown in the image? A)lymphocytes, B)Platelets, C)Neurons, D)Astrocytes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_0_1740.jpeg",
+        "problem": "Which cell type is observed in this image? A)lymphocytes, B)Astrocytes, C)Red blood cells, D)Osteocytes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_5_9665.jpeg",
+        "problem": "What are the cells that can be observed in this image? A)Astrocytes, B)Epithelial cells, C)lymphocytes, D)Keratinocytes",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/LYMPHOCYTE/_4_1765.jpeg",
+        "problem": "What kind of cells are present in this image? A)lymphocytes, B)Muscle cells, C)Red blood cells, D)Epithelial cells",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_2_7088.jpeg",
+        "problem": "What types of cells in this image? A)Basophils, B)monocytes, C)T-cells, D)Neutrophils",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_2_2598.jpeg",
+        "problem": "What specific cells are seen in this image? A)Platelets, B)Basophils, C)Neutrophils, D)monocytes",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_0_9550.jpeg",
+        "problem": "What are the cells seen in this image? A)monocytes, B)Platelets, C)B-cells, D)Mast cells",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_1_8778.jpeg",
+        "problem": "What is the cellular composition seen in this image? A)monocytes, B)T-cells, C)Eosinophils, D)Red blood cells",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_0_5189.jpeg",
+        "problem": "What types of cells in this image? A)B-cells, B)Mast cells, C)Macrophages, D)monocytes",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_3_8660.jpeg",
+        "problem": "What specific cell type is depicted in this image? A)Neutrophils, B)monocytes, C)Red blood cells, D)B-cells",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_0_3049.jpeg",
+        "problem": "What types of cells in this image? A)T-cells, B)Platelets, C)monocytes, D)Lymphocytes",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_3_1361.jpeg",
+        "problem": "Which cells are present in this image? A)Neutrophils, B)monocytes, C)Eosinophils, D)Mast cells",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_3_3484.jpeg",
+        "problem": "What are the cells that are visible in this image? A)Macrophages, B)monocytes, C)B-cells, D)T-cells",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_1_7310.jpeg",
+        "problem": "What specific cell type is depicted in this image? A)Macrophages, B)monocytes, C)Red blood cells, D)T-cells",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_1_2780.jpeg",
+        "problem": "What are the cells seen in this image? A)T-cells, B)Basophils, C)monocytes, D)Macrophages",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_2_7880.jpeg",
+        "problem": "What cell types are depicted in this image? A)Lymphocytes, B)Eosinophils, C)Basophils, D)monocytes",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_1_6263.jpeg",
+        "problem": "What is the cellular composition seen in this image? A)monocytes, B)Lymphocytes, C)T-cells, D)Basophils",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_3_7996.jpeg",
+        "problem": "What types of cells in this image? A)Mast cells, B)Red blood cells, C)monocytes, D)Neutrophils",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_3_7797.jpeg",
+        "problem": "What are the cells depicted in this image? A)monocytes, B)Basophils, C)Eosinophils, D)Macrophages",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_2_9953.jpeg",
+        "problem": "What types of cells in this image? A)Neutrophils, B)Basophils, C)Platelets, D)monocytes",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_3_4746.jpeg",
+        "problem": "What types of cells in this image? A)monocytes, B)Platelets, C)Neutrophils, D)Eosinophils",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_3_1855.jpeg",
+        "problem": "What are the cell types observed in the image? A)monocytes, B)B-cells, C)Basophils, D)Platelets",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_0_1526.jpeg",
+        "problem": "What are the cells in this image? A)Mast cells, B)Basophils, C)Red blood cells, D)monocytes",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_1_8178.jpeg",
+        "problem": "What are the types of cells seen in this image? A)B-cells, B)T-cells, C)monocytes, D)Neutrophils",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_1_4087.jpeg",
+        "problem": "What are the specific cell types depicted in this image? A)Red blood cells, B)Neutrophils, C)B-cells, D)monocytes",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_0_7683.jpeg",
+        "problem": "Which cell type is present in this image? A)Neutrophils, B)Eosinophils, C)Lymphocytes, D)monocytes",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_3_6941.jpeg",
+        "problem": "What is the identity of the cells shown in the image? A)T-cells, B)Macrophages, C)monocytes, D)Red blood cells",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_2_9069.jpeg",
+        "problem": "What specific type of cells can be identified in this image? A)Eosinophils, B)monocytes, C)T-cells, D)Mast cells",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_1_178.jpeg",
+        "problem": "What is the cell type observable in this image? A)monocytes, B)Neutrophils, C)Eosinophils, D)Platelets",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_3_434.jpeg",
+        "problem": "Which cells are present in the image? A)T-cells, B)Red blood cells, C)Lymphocytes, D)monocytes",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_1_6207.jpeg",
+        "problem": "What types of cells in this image? A)Mast cells, B)monocytes, C)Eosinophils, D)Macrophages",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_3_485.jpeg",
+        "problem": "What are the cells in this image called? A)Neutrophils, B)Macrophages, C)Eosinophils, D)monocytes",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_0_8961.jpeg",
+        "problem": "What type of cells are present in this image? A)monocytes, B)Neutrophils, C)Mast cells, D)Basophils",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_0_9442.jpeg",
+        "problem": "What are the cellular types depicted in this image? A)Basophils, B)monocytes, C)Platelets, D)B-cells",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_0_7577.jpeg",
+        "problem": "What are the specific cell types depicted in this image? A)B-cells, B)Platelets, C)monocytes, D)Mast cells",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_2_9610.jpeg",
+        "problem": "What are the types of cells depicted in this image? A)Red blood cells, B)T-cells, C)Basophils, D)monocytes",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_1_9615.jpeg",
+        "problem": "What types of cells in this image? A)Macrophages, B)Lymphocytes, C)Red blood cells, D)monocytes",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_1_6526.jpeg",
+        "problem": "What types of cells in this image? A)Mast cells, B)Neutrophils, C)monocytes, D)Red blood cells",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_2_966.jpeg",
+        "problem": "Which cellular type is present in this image? A)Basophils, B)Macrophages, C)monocytes, D)Eosinophils",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_3_1612.jpeg",
+        "problem": "Which cell types can be identified in this image? A)monocytes, B)Platelets, C)B-cells, D)Lymphocytes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_0_3157.jpeg",
+        "problem": "What is the identity of the cells present in this image? A)Red blood cells, B)Eosinophils, C)Basophils, D)monocytes",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_0_3066.jpeg",
+        "problem": "What cell types are depicted in this image? A)B-cells, B)Platelets, C)Red blood cells, D)monocytes",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_1_5818.jpeg",
+        "problem": "What kind of cells can be observed in this image? A)Basophils, B)B-cells, C)Red blood cells, D)monocytes",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_2_3639.jpeg",
+        "problem": "What are the cell types depicted in this image? A)monocytes, B)Red blood cells, C)Lymphocytes, D)Platelets",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_2_1632.jpeg",
+        "problem": "What cell type is shown in the image? A)Neutrophils, B)Platelets, C)monocytes, D)Mast cells",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_3_8158.jpeg",
+        "problem": "What are the types of cells depicted in this image? A)monocytes, B)Basophils, C)T-cells, D)B-cells",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_2_3974.jpeg",
+        "problem": "Which cells are present in this image? A)Eosinophils, B)Lymphocytes, C)monocytes, D)Red blood cells",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_3_4548.jpeg",
+        "problem": "What is the cellular identity of the cells shown in this image? A)Macrophages, B)Platelets, C)T-cells, D)monocytes",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_1_4441.jpeg",
+        "problem": "What kind of cells are present in this image? A)Platelets, B)Neutrophils, C)monocytes, D)Macrophages",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_0_251.jpeg",
+        "problem": "What are the cells present in this image? A)Platelets, B)T-cells, C)monocytes, D)Macrophages",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/MONOCYTE/_2_4994.jpeg",
+        "problem": "What specific cell type is depicted in this image? A)Mast cells, B)Neutrophils, C)B-cells, D)monocytes",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_16_5914.jpeg",
+        "problem": "What types of cells in this image? A)Myocytes, B)Fibroblasts, C)neutrophils, D)Macrophages",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_5_2681.jpeg",
+        "problem": "What is the cell type observed in this image? A)Myocytes, B)Melanocytes, C)Erythrocytes, D)neutrophils",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_9_5471.jpeg",
+        "problem": "What cells are seen in this image? A)Platelets, B)Myocytes, C)Erythrocytes, D)neutrophils",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_5_3167.jpeg",
+        "problem": "What are the cells shown in this image? A)Keratinocytes, B)Fibroblasts, C)neutrophils, D)Osteoblasts",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_6_6218.jpeg",
+        "problem": "What kind of leukocytes are depicted in this picture? A)Erythrocytes, B)Lymphocytes, C)neutrophils, D)Osteoblasts",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_2_1102.jpeg",
+        "problem": "What types of cells in this image? A)neutrophils, B)Osteoblasts, C)Erythrocytes, D)Macrophages",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_39_3200.jpeg",
+        "problem": "Identify the cell type depicted in this photograph. A)Macrophages, B)Lymphocytes, C)neutrophils, D)Platelets",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_23_7923.jpeg",
+        "problem": "What is the type of cell shown in this image? A)Lymphocytes, B)neutrophils, C)Myocytes, D)Fibroblasts",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_43_2971.jpeg",
+        "problem": "What type of cells are present in the image? A)Keratinocytes, B)Platelets, C)Osteoblasts, D)neutrophils",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_12_7420.jpeg",
+        "problem": "Which cell types are present in this image? A)Hepatocytes, B)Platelets, C)Keratinocytes, D)neutrophils",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_47_7500.jpeg",
+        "problem": "What are the specific cell types observed in this image? A)Macrophages, B)Lymphocytes, C)Melanocytes, D)neutrophils",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_27_1021.jpeg",
+        "problem": "What types of cells in this image? A)Myocytes, B)neutrophils, C)Melanocytes, D)Erythrocytes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_17_1000.jpeg",
+        "problem": "What types of cells in this image? A)Erythrocytes, B)Myocytes, C)Osteoblasts, D)neutrophils",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_36_555.jpeg",
+        "problem": "What is the identify of the cells in this image? A)Melanocytes, B)neutrophils, C)Osteoblasts, D)Macrophages",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_43_9276.jpeg",
+        "problem": "What is the identity of the cells in this image? A)neutrophils, B)Osteoblasts, C)Macrophages, D)Myocytes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_16_8929.jpeg",
+        "problem": "What are the cells that can be identified in this image? A)neutrophils, B)Erythrocytes, C)Melanocytes, D)Keratinocytes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_41_8232.jpeg",
+        "problem": "What are the cells that can be observed in this image? A)Macrophages, B)neutrophils, C)Platelets, D)Erythrocytes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_14_1266.jpeg",
+        "problem": "What is/are the specific cell type(s) seen in this image? A)neutrophils, B)Macrophages, C)Fibroblasts, D)Keratinocytes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_13_3538.jpeg",
+        "problem": "What cell type is visible in this image? A)Fibroblasts, B)Osteoblasts, C)neutrophils, D)Erythrocytes",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_12_7885.jpeg",
+        "problem": "What is the identification of the cells in this image? A)neutrophils, B)Hepatocytes, C)Keratinocytes, D)Osteoblasts",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_16_6249.jpeg",
+        "problem": "Which cells are seen in this image? A)neutrophils, B)Melanocytes, C)Hepatocytes, D)Macrophages",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_15_9327.jpeg",
+        "problem": "Which type of cells are present in this image? A)Keratinocytes, B)neutrophils, C)Melanocytes, D)Fibroblasts",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_44_391.jpeg",
+        "problem": "What types of cells in this image? A)Hepatocytes, B)neutrophils, C)Myocytes, D)Macrophages",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_29_4139.jpeg",
+        "problem": "What are the cells that can be found in this image? A)neutrophils, B)Myocytes, C)Macrophages, D)Melanocytes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_25_7263.jpeg",
+        "problem": "Which cells are seen in this image? A)Fibroblasts, B)Keratinocytes, C)neutrophils, D)Erythrocytes",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_18_1601.jpeg",
+        "problem": "What are the types of cells depicted in this image? A)neutrophils, B)Melanocytes, C)Lymphocytes, D)Hepatocytes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_31_2312.jpeg",
+        "problem": "What is the name of the cells in this image? A)Myocytes, B)neutrophils, C)Erythrocytes, D)Platelets",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_45_3074.jpeg",
+        "problem": "What are the cells in this image? A)Fibroblasts, B)neutrophils, C)Hepatocytes, D)Keratinocytes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_14_6680.jpeg",
+        "problem": "Which cell types are present in this image? A)Keratinocytes, B)Fibroblasts, C)neutrophils, D)Osteoblasts",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_11_1762.jpeg",
+        "problem": "Identify the cell type depicted in this photograph. A)Keratinocytes, B)Fibroblasts, C)neutrophils, D)Osteoblasts",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_32_1324.jpeg",
+        "problem": "Which specific cells are observed in this image? A)Hepatocytes, B)Fibroblasts, C)neutrophils, D)Keratinocytes",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_5_8607.jpeg",
+        "problem": "What are the cells that can be identified in this image? A)neutrophils, B)Platelets, C)Lymphocytes, D)Hepatocytes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_2_3350.jpeg",
+        "problem": "What types of cells in this image? A)Myocytes, B)Fibroblasts, C)Macrophages, D)neutrophils",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_34_4792.jpeg",
+        "problem": "What cell types are visible in the image? A)neutrophils, B)Lymphocytes, C)Osteoblasts, D)Keratinocytes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_33_6906.jpeg",
+        "problem": "What is/are the specific cell type(s) seen in this image? A)Melanocytes, B)Erythrocytes, C)neutrophils, D)Keratinocytes",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_24_1869.jpeg",
+        "problem": "What types of cells in this image? A)Keratinocytes, B)neutrophils, C)Osteoblasts, D)Myocytes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_11_5272.jpeg",
+        "problem": "Which cells are shown in this image? A)Erythrocytes, B)Fibroblasts, C)neutrophils, D)Osteoblasts",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_13_2814.jpeg",
+        "problem": "What are the cell types present in this image? A)Erythrocytes, B)Osteoblasts, C)Platelets, D)neutrophils",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_7_8662.jpeg",
+        "problem": "What are the cells observed in this image? A)Hepatocytes, B)Melanocytes, C)Platelets, D)neutrophils",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_43_7387.jpeg",
+        "problem": "What specific cells are visible in this image? A)Melanocytes, B)Macrophages, C)Hepatocytes, D)neutrophils",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_3_473.jpeg",
+        "problem": "Which cells can be observed in this image? A)Myocytes, B)Platelets, C)neutrophils, D)Hepatocytes",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_18_1037.jpeg",
+        "problem": "What types of cells in this image? A)Macrophages, B)Lymphocytes, C)neutrophils, D)Platelets",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_0_898.jpeg",
+        "problem": "What specific cells can be observed in this image? A)Keratinocytes, B)Myocytes, C)neutrophils, D)Erythrocytes",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_11_6650.jpeg",
+        "problem": "Identify the cell type depicted in this photograph. A)Platelets, B)neutrophils, C)Osteoblasts, D)Keratinocytes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_35_2923.jpeg",
+        "problem": "What specific cells are present in the image? A)Erythrocytes, B)Melanocytes, C)neutrophils, D)Lymphocytes",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_22_3168.jpeg",
+        "problem": "What are the specific cell types observed in this image? A)Lymphocytes, B)neutrophils, C)Erythrocytes, D)Macrophages",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_11_3599.jpeg",
+        "problem": "What types of cells in this image? A)Melanocytes, B)Lymphocytes, C)neutrophils, D)Fibroblasts",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_32_3375.jpeg",
+        "problem": "What cell type is present in this image? A)Fibroblasts, B)Melanocytes, C)neutrophils, D)Myocytes",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_45_8275.jpeg",
+        "problem": "What is the identity of the cells shown in this image? A)Erythrocytes, B)neutrophils, C)Melanocytes, D)Keratinocytes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_45_5005.jpeg",
+        "problem": "What is the specific cell type present in the image? A)Fibroblasts, B)Hepatocytes, C)neutrophils, D)Osteoblasts",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_0_2399.jpeg",
+        "problem": "What are the cells seen in this image? A)Macrophages, B)Platelets, C)Erythrocytes, D)neutrophils",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Blood Cell/val/NEUTROPHIL/_4_3721.jpeg",
+        "problem": "What is the identify of the cells in this image? A)Keratinocytes, B)neutrophils, C)Myocytes, D)Hepatocytes",
+        "solution": "<answer> B </answer>"
+    }
+]

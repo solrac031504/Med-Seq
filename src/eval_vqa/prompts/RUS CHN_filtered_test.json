@@ -1,0 +1,2007 @@
+[
+    {
+        "image": "Images/RUS CHN/Radius/7/Radius_382139.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)Fluoroscopy, B)Barium swallow, C)x_ray., D)SPECT scan",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIPFirst/5/PIPFirst_904317.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)Thermographic imaging, B)Thermography, C)x_ray., D)SPECT scan",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Radius/3/Radius_409264.png",
+        "problem": "What imaging technique is utilized to produce this picture? A)x_ray., B)Magnetic Resonance Imaging (MRI), C)Cystography, D)Doppler ultrasound",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/4/MCP_6581043.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)x_ray., B)SPECT scan, C)Thermography, D)Magnetic Resonance Imaging (MRI)",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIPFirst/3/DIPFirst_85394.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)Bone density scan, B)x_ray., C)Echocardiogram, D)Myelogram",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCPFirst/3/MCPFirst_637321.png",
+        "problem": "What type of imaging technique is utilized to capture this picture? A)x_ray., B)Arthroscopy, C)Bone density scan, D)Nuclear Medicine scan",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIPFirst/12/PIPFirst_1775547.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)x_ray., B)Cystography, C)Thermographic imaging, D)Fluoroscopy",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/12/MID_794850.png",
+        "problem": "Which imaging technique is utilized to obtain this picture? A)Thermography, B)Magnetic Resonance Imaging (MRI), C)x_ray., D)Positron Emission Tomography (PET) scan",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Radius/9/Radius_418425.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)Echocardiogram, B)x_ray., C)Ultrasound, D)Doppler ultrasound",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/9/MCP_798440.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)Thermography, B)x_ray., C)Ultrasound, D)Gastrografin swallow",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/1/MCP_3191016.png",
+        "problem": "Which modality is utilized to obtain this image? A)Positron Emission Tomography (PET) scan, B)Cystography, C)Gastrografin swallow, D)x_ray.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Radius/13/Radius_2175428.png",
+        "problem": "What is the imaging method employed to obtain this picture? A)Positron Emission Tomography (PET) scan, B)Nuclear Medicine scan, C)x_ray., D)Thermographic imaging",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/4/MID_83312.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)Cystography, B)Positron Emission Tomography (PET) scan, C)Barium swallow, D)x_ray.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/1/MID_298894.png",
+        "problem": "What modality is used to capture this image? A)Thermographic imaging, B)x_ray., C)Bone density scan, D)Arthroscopy",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/9/PIP_317457.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)SPECT scan, B)Barium swallow, C)x_ray., D)Bone density scan",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/6/MCP_566763.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)Thermography, B)Gastrografin swallow, C)x_ray., D)Fluoroscopy",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/5/MID_173321.png",
+        "problem": "Which imaging technique is employed to obtain this picture? A)x_ray., B)Magnetic Resonance Imaging (MRI), C)Thermographic imaging, D)Cystography",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/6/MID_549904.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)x_ray., B)Gastrografin swallow, C)Thermography, D)Arthroscopy",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/7/MID_2931009.png",
+        "problem": "What imaging technique is employed to obtain this photograph? A)Myelogram, B)Arthroscopy, C)Cystography, D)x_ray.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIPFirst/5/PIPFirst_682388.png",
+        "problem": "What imaging technique is utilized to produce this picture? A)Computed Tomography (CT) scan, B)Cystography, C)x_ray., D)Doppler ultrasound",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCPFirst/8/MCPFirst_747298.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)Thermography, B)x_ray., C)Arthroscopy, D)Endoscopy",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/6/PIP_5211008.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)Echocardiogram, B)x_ray., C)Computed Tomography (CT) scan, D)Angiography",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIPFirst/12/PIPFirst_917620.png",
+        "problem": "What imaging technique is employed to capture this picture? A)Thermography, B)Doppler ultrasound, C)x_ray., D)Echocardiogram",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/4/MCP_442257.png",
+        "problem": "What imaging technique was utilized to obtain this picture? A)Computed Tomography (CT) scan, B)Magnetic Resonance Imaging (MRI), C)SPECT scan, D)x_ray.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Radius/12/Radius_77071.png",
+        "problem": "What modality is used to capture this image? A)Barium swallow, B)x_ray., C)Ultrasound, D)Gastrografin swallow",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/12/MID_250691.png",
+        "problem": "What imaging modality is utilized to capture this picture? A)Doppler ultrasound, B)x_ray., C)Bone density scan, D)Thermographic imaging",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Radius/6/Radius_441568.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)Echocardiogram, B)Thermographic imaging, C)SPECT scan, D)x_ray.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIPFirst/4/DIPFirst_988399.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)Magnetic Resonance Imaging (MRI), B)Myelogram, C)x_ray., D)Fluoroscopy",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/12/MID_179125.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)Echocardiogram, B)x_ray., C)SPECT scan, D)Barium swallow",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/6/MCP_31199.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)Endoscopy, B)x_ray., C)Arthroscopy, D)Nuclear Medicine scan",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/5/DIP_799994.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)x_ray., B)Doppler ultrasound, C)Echocardiogram, D)Arthroscopy",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/12/PIP_388941.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)x_ray., B)Ultrasound, C)Gastrografin swallow, D)Magnetic Resonance Imaging (MRI)",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Radius/13/Radius_63969.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)Thermography, B)Gastrografin swallow, C)Positron Emission Tomography (PET) scan, D)x_ray.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/6/DIP_5731202.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)Fluoroscopy, B)Thermography, C)x_ray., D)Ultrasound",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/6/MID_707244.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)Bone density scan, B)Thermographic imaging, C)Fluoroscopy, D)x_ray.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/3/PIP_299717.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)x_ray., B)Gastrografin swallow, C)Bone density scan, D)Barium swallow",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/4/DIP_576432.png",
+        "problem": "What imaging technique is employed for capturing this picture? A)Myelogram, B)Fluoroscopy, C)Magnetic Resonance Imaging (MRI), D)x_ray.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/10/MCP_357323.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)Gastrografin swallow, B)x_ray., C)Barium swallow, D)Fluoroscopy",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Ulna/7/Ulna_607323.png",
+        "problem": "Which modality is employed to obtain this image? A)Positron Emission Tomography (PET) scan, B)x_ray., C)SPECT scan, D)Nuclear Medicine scan",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIPFirst/4/PIPFirst_66192.png",
+        "problem": "What modality is used to capture this image? A)Myelogram, B)Arthroscopy, C)x_ray., D)Barium swallow",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Radius/6/Radius_658632.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)Bone density scan, B)Nuclear Medicine scan, C)Thermography, D)x_ray.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/5/DIP_179207.png",
+        "problem": "What type of imaging is employed to obtain this picture? A)x_ray., B)Angiography, C)Arthroscopy, D)Echocardiogram",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCPFirst/7/MCPFirst_861328.png",
+        "problem": "What is the imaging technique used to capture this picture? A)Angiography, B)x_ray., C)Thermography, D)Myelogram",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCPFirst/5/MCPFirst_540351.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)Myelogram, B)Computed Tomography (CT) scan, C)Cystography, D)x_ray.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/4/MID_2381183.png",
+        "problem": "What imaging technique was utilized to acquire this picture? A)Myelogram, B)x_ray., C)Bone density scan, D)SPECT scan",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCPFirst/6/MCPFirst_570454.png",
+        "problem": "What imaging technique is employed to capture this picture? A)Arthroscopy, B)Gastrografin swallow, C)Angiography, D)x_ray.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/12/PIP_843732.png",
+        "problem": "What imaging technique is employed to capture this picture? A)x_ray., B)Magnetic Resonance Imaging (MRI), C)Ultrasound, D)Computed Tomography (CT) scan",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/7/DIP_112347.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)x_ray., B)Fluoroscopy, C)Nuclear Medicine scan, D)Thermographic imaging",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/4/MID_179277.png",
+        "problem": "What imaging technique is employed to capture this picture? A)Ultrasound, B)Magnetic Resonance Imaging (MRI), C)x_ray., D)Echocardiogram",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/6/DIP_380119.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)x_ray., B)Barium swallow, C)Endoscopy, D)Cystography",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/10/MCP_33019.png",
+        "problem": "What type of imaging technique was employed to obtain this picture? A)Cystography, B)Angiography, C)x_ray., D)Thermographic imaging",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Ulna/7/Ulna_407141.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)x_ray., B)Gastrografin swallow, C)Positron Emission Tomography (PET) scan, D)Endoscopy",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Radius/11/Radius_599618.png",
+        "problem": "What modality is used to capture this image? A)Computed Tomography (CT) scan, B)Nuclear Medicine scan, C)x_ray., D)Ultrasound",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIPFirst/11/DIPFirst_1347547.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)Echocardiogram, B)x_ray., C)Cystography, D)Positron Emission Tomography (PET) scan",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/6/MID_226743.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)x_ray., B)Gastrografin swallow, C)Thermographic imaging, D)Angiography",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/4/MID_5341196.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)Thermography, B)x_ray., C)Bone density scan, D)Nuclear Medicine scan",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Radius/13/Radius_588455.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)Fluoroscopy, B)Endoscopy, C)Computed Tomography (CT) scan, D)x_ray.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/1/PIP_51744.png",
+        "problem": "What modality is used to capture this image? A)Fluoroscopy, B)Ultrasound, C)x_ray., D)Nuclear Medicine scan",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/12/MID_8501178.png",
+        "problem": "What modality is used to capture this image? A)Fluoroscopy, B)x_ray., C)Thermography, D)SPECT scan",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Radius/7/Radius_680383.png",
+        "problem": "What imaging modality is utilized to obtain this picture? A)Barium swallow, B)Doppler ultrasound, C)Thermography, D)x_ray.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCPFirst/2/MCPFirst_666563.png",
+        "problem": "What imaging technique is employed to acquire this picture? A)Ultrasound, B)x_ray., C)Fluoroscopy, D)Myelogram",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/9/MID_259519.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)Angiography, B)x_ray., C)Fluoroscopy, D)SPECT scan",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Ulna/12/Ulna_455455.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)SPECT scan, B)Cystography, C)x_ray., D)Computed Tomography (CT) scan",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Radius/3/Radius_304577.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)Echocardiogram, B)Fluoroscopy, C)x_ray., D)Barium swallow",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIPFirst/11/DIPFirst_1073613.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)Thermography, B)Ultrasound, C)Echocardiogram, D)x_ray.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/3/DIP_22667.png",
+        "problem": "What method is employed to obtain this picture? A)Myelogram, B)Thermography, C)Gastrografin swallow, D)x_ray.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/12/PIP_2921213.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)Myelogram, B)x_ray., C)Computed Tomography (CT) scan, D)Cystography",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/4/MID_153261.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)Doppler ultrasound, B)x_ray., C)Echocardiogram, D)SPECT scan",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Radius/5/Radius_345315.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)x_ray., B)Doppler ultrasound, C)SPECT scan, D)Angiography",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Ulna/1/Ulna_430482.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)Thermographic imaging, B)x_ray., C)Angiography, D)Fluoroscopy",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Ulna/12/Ulna_34596.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)x_ray., B)Angiography, C)Nuclear Medicine scan, D)Thermographic imaging",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/3/DIP_83254.png",
+        "problem": "What is the name of the joint that originates from the bone shown in the picture? A)Sacrococcygeal Articulation, B)Sternoclavicular, C)Distal Interphalangeal, D)Cuneonavicular Articulation",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/7/DIP_660334.png",
+        "problem": "Which joint does the bone in the picture come from? A)Ulna, B)Pubic Symphysis, C)Proximal Radioulnar, D)Distal Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/9/DIP_220457.png",
+        "problem": "From which joint does the bone in the image originate? A)Distal Interphalangeal, B)First Distal Interphalangeal, C)First Metacarpophalangeal, D)Pubic Symphysial Junction",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/6/DIP_5961148.png",
+        "problem": "What is the name of the joint to which the bone in the picture belongs? A)Hip Bone, B)Ankle Bone, C)Distal Interphalangeal, D)Cervical Spine",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/6/DIP_8211254.png",
+        "problem": "From which joint does the bone in the image originate? A)Distal Interphalangeal, B)Wrist, C)Temporomandibular Junction, D)Ankle Bone",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/1/DIP_625944.png",
+        "problem": "From which joint does the bone in the image originate? A)Knee, B)Wrist, C)Distal Interphalangeal, D)Tibiofibular",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/11/DIP_259311.png",
+        "problem": "From which joint does the bone in the image originate? A)Pelvic Girdle, B)Cervical Spine, C)First Metacarpophalangeal, D)Distal Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/10/DIP_243679.png",
+        "problem": "From which joint does the bone in the image originate? A)Wrist, B)First Metacarpophalangeal, C)Distal Interphalangeal, D)Temporomandibular",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/5/DIP_521548.png",
+        "problem": "Which joint does the bone in the picture come from? A)First Distal Interphalangeal, B)Sacrococcygeal Articulation, C)Distal Interphalangeal, D)Temporomandibular Junction",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/7/DIP_105549.png",
+        "problem": "What is the name of the joint that the bone in the picture originates from? A)Distal Interphalangeal, B)Knee, C)Ankle Bone, D)Ulna",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/1/DIP_224969.png",
+        "problem": "Which joint does the bone in the picture come from? A)Atlantoaxial, B)Ankle Bone, C)Costosternal, D)Distal Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/3/DIP_217527.png",
+        "problem": "Which joint does the bone in the picture come from? A)Sternoclavicular, B)Acromioclavicular, C)Hip Bone, D)Distal Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/3/DIP_113429.png",
+        "problem": "Which joint does the bone in the picture come from? A)Distal Interphalangeal, B)Cervical Spine, C)Knee, D)Lumbar Spine",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/3/DIP_1511167.png",
+        "problem": "From which joint does the bone in the image originate? A)Atlantoaxial, B)Distal Interphalangeal, C)Acromioclavicular, D)Temporomandibular Junction",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/3/DIP_1631235.png",
+        "problem": "From which joint does the bone in the image originate? A)Wrist, B)First Distal Interphalangeal, C)Distal Interphalangeal, D)Tibiofibular",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/6/DIP_737264.png",
+        "problem": "Which joint does the bone in the picture come from? A)Distal Interphalangeal, B)Pubic Symphysial Junction, C)Costovertebral Junction, D)Proximal Interphalangeal",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/7/DIP_809554.png",
+        "problem": "From which joint does the bone in the image originate? A)Pubic Symphysial Junction, B)Sacroiliac, C)Distal Interphalangeal, D)Carpal-Metacarpal",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/4/DIP_576432.png",
+        "problem": "Which joint does the bone in the picture come from? A)Costovertebral Junction, B)Distal Interphalangeal, C)Costosternal, D)First Proximal Interphalangeal",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/7/DIP_147535.png",
+        "problem": "Which joint does the bone in the picture come from? A)Distal Interphalangeal, B)Sacroiliac Articulation, C)Temporomandibular, D)Elbow",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/2/DIP_1261085.png",
+        "problem": "Which joint does the bone in the picture come from? A)Sacrococcygeal Articulation, B)Middle Interphalangeal, C)Pelvic Girdle, D)Distal Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/10/DIP_939358.png",
+        "problem": "From which joint does the bone in the image originate? A)Ankle Bone, B)Atlantoaxial, C)Ulna, D)Distal Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/7/DIP_732340.png",
+        "problem": "Which joint does the bone in the picture come from? A)Costovertebral Junction, B)Costosternal, C)Temporomandibular Junction, D)Distal Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/7/DIP_1066657.png",
+        "problem": "Which joint does the bone in the picture come from? A)Glenohumeral, B)First Metacarpophalangeal, C)Distal Interphalangeal, D)Pelvic Girdle",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/5/DIP_522882.png",
+        "problem": "What is the name of the joint that the bone in the image originates from? A)Elbow, B)Distal Interphalangeal, C)Pubic Symphysial Junction, D)Radius",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/8/DIP_605986.png",
+        "problem": "From which joint does the bone in the image originate? A)First Distal Interphalangeal, B)Acromioclavicular, C)Distal Interphalangeal, D)Costosternal",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/11/DIP_10541091.png",
+        "problem": "From which joint does the bone in the image originate? A)Metacarpophalangeal, B)Distal Interphalangeal, C)Wrist, D)Temporomandibular Junction",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/6/DIP_411887.png",
+        "problem": "From which joint does the bone in the image originate? A)Distal Interphalangeal, B)Metatarsophalangeal, C)Radius, D)Glenohumeral",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/3/DIP_82544.png",
+        "problem": "From which joint does the bone in the image originate? A)Elbow, B)Metacarpophalangeal, C)Distal Interphalangeal, D)Sternoclavicular",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/3/DIP_222747.png",
+        "problem": "From which joint does the bone in the image originate? A)Hip Bone, B)Sacrococcygeal Articulation, C)Ankle Bone, D)Distal Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/7/DIP_301841.png",
+        "problem": "What is the name of the joint from which the bone in the picture originates? A)Cuneonavicular Articulation, B)Sternoclavicular, C)Knee, D)Distal Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/11/DIP_515714.png",
+        "problem": "From which joint does the bone in the image originate? A)Pubic Symphysial Junction, B)Distal Interphalangeal, C)Knee, D)Sacroiliac",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/7/DIP_931210.png",
+        "problem": "From which joint does the depicted bone originate? A)Metatarsophalangeal, B)Glenohumeral, C)Distal Interphalangeal, D)First Metacarpophalangeal",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/8/DIP_792388.png",
+        "problem": "Which joint does the bone in the picture come from? A)Distal Interphalangeal, B)Radius, C)First Proximal Interphalangeal, D)Proximal Interphalangeal",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/5/DIP_380213.png",
+        "problem": "From which joint does the bone in the image originate? A)Costovertebral Junction, B)Acromioclavicular, C)Distal Interphalangeal, D)First Metacarpophalangeal",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/5/DIP_5841158.png",
+        "problem": "Which joint is represented by the bone in the given picture? A)Pubic Symphysial Junction, B)Lumbar Spine, C)Glenohumeral, D)Distal Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/1/DIP_3931123.png",
+        "problem": "Which joint does the bone in the image belong to? A)Costosternal, B)Proximal Radioulnar, C)Tibiofibular, D)Distal Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/11/DIP_9371232.png",
+        "problem": "From which joint does the bone depicted in the picture originate? A)Middle Interphalangeal, B)Proximal Interphalangeal, C)Distal Interphalangeal, D)Costovertebral Junction",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/2/DIP_7301210.png",
+        "problem": "Which joint does the bone in the picture come from? A)Distal Interphalangeal, B)First Distal Interphalangeal, C)Metacarpophalangeal, D)Sacroiliac",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/11/DIP_3171017.png",
+        "problem": "Which joint does the bone in the picture come from? A)Metacarpophalangeal, B)Distal Interphalangeal, C)Ulna, D)Sacrococcygeal Articulation",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/7/DIP_780532.png",
+        "problem": "From which joint does the bone featured in the image originate? A)First Proximal Interphalangeal, B)Distal Interphalangeal, C)Middle Interphalangeal, D)Pelvic Girdle",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/11/DIP_95938.png",
+        "problem": "Which joint does the bone in the picture come from? A)Hip Bone, B)Lumbar Spine, C)Distal Interphalangeal, D)Atlantoaxial",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/7/DIP_688570.png",
+        "problem": "From which joint does the bone in the image originate? A)Distal Interphalangeal, B)Middle Interphalangeal, C)Sacroiliac, D)Radius",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/3/DIP_22667.png",
+        "problem": "Which joint does the bone in the picture come from? A)Distal Interphalangeal, B)Glenohumeral Connection, C)Atlantoaxial, D)Proximal Radioulnar",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIP/2/DIP_669492.png",
+        "problem": "Which joint does the bone in the picture come from? A)Glenohumeral Connection, B)First Distal Interphalangeal, C)First Proximal Interphalangeal, D)First Metacarpophalangeal",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIPFirst/11/DIPFirst_137471.png",
+        "problem": "Which joint does the bone in the picture come from? A)Atlantoaxial, B)Sacroiliac Articulation, C)Pubic Symphysis, D)First Distal Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIPFirst/11/DIPFirst_715347.png",
+        "problem": "Which joint is represented by the bone depicted in the picture? A)Lumbar Spine, B)Radius, C)First Distal Interphalangeal, D)Sacroiliac Articulation",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIPFirst/3/DIPFirst_85394.png",
+        "problem": "Which joint does the bone in the picture come from? A)Pubic Symphysial Junction, B)First Distal Interphalangeal, C)Middle Interphalangeal, D)Ankle Bone",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIPFirst/11/DIPFirst_1664458.png",
+        "problem": "From which joint does the bone depicted in the image originate? A)First Distal Interphalangeal, B)Sacroiliac Articulation, C)Atlantoaxial, D)Costosternal",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIPFirst/8/DIPFirst_1059245.png",
+        "problem": "From which joint does the bone in the image originate? A)Wrist, B)Knee, C)Glenohumeral Connection, D)First Distal Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIPFirst/11/DIPFirst_1018579.png",
+        "problem": "Which joint does the bone in the picture come from? A)First Distal Interphalangeal, B)Hip Bone, C)Ulna, D)Wrist",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIPFirst/5/DIPFirst_708307.png",
+        "problem": "Which joint does the bone in the picture come from? A)Costosternal, B)Lumbar Spine, C)First Distal Interphalangeal, D)Knee",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIPFirst/5/DIPFirst_736520.png",
+        "problem": "Which joint does the bone in the picture come from? A)Knee, B)First Distal Interphalangeal, C)Costosternal, D)First Proximal Interphalangeal",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIPFirst/11/DIPFirst_727477.png",
+        "problem": "From which joint does the bone depicted in the image originate? A)First Distal Interphalangeal, B)Carpal-Metacarpal, C)Proximal Radioulnar, D)Metatarsophalangeal",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIPFirst/11/DIPFirst_911171.png",
+        "problem": "From which joint does the bone in the image originate? A)Sacroiliac Articulation, B)First Distal Interphalangeal, C)Middle Interphalangeal, D)Radius",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIPFirst/11/DIPFirst_1167243.png",
+        "problem": "From which joint does the bone in the image originate? A)First Distal Interphalangeal, B)First Metacarpophalangeal, C)Proximal Radioulnar, D)Shoulder Blade",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIPFirst/6/DIPFirst_678460.png",
+        "problem": "Which joint does the bone in the picture come from? A)Distal Interphalangeal, B)Sternoclavicular, C)Tibiofibular, D)First Distal Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIPFirst/11/DIPFirst_1240538.png",
+        "problem": "From which joint does the displayed bone originate? A)First Distal Interphalangeal, B)Wrist, C)Sternoclavicular, D)Cervical Spine",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIPFirst/4/DIPFirst_754101.png",
+        "problem": "Which joint does the bone in the picture come from? A)Glenohumeral, B)Radius, C)First Distal Interphalangeal, D)Middle Interphalangeal",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIPFirst/4/DIPFirst_1046593.png",
+        "problem": "Which joint does the bone in the picture come from? A)Costovertebral Junction, B)Pubic Symphysial Junction, C)First Distal Interphalangeal, D)Metatarsophalangeal",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIPFirst/2/DIPFirst_705612.png",
+        "problem": "Which joint does the bone in the picture come from? A)First Distal Interphalangeal, B)Middle Interphalangeal, C)Costosternal, D)Glenohumeral Connection",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIPFirst/4/DIPFirst_1056368.png",
+        "problem": "From which joint does the bone depicted in the image originate? A)Sacroiliac, B)Ulna, C)First Distal Interphalangeal, D)Carpal-Metacarpal",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIPFirst/1/DIPFirst_1045385.png",
+        "problem": "From which joint does the bone in the image originate? A)Glenohumeral, B)First Distal Interphalangeal, C)Distal Interphalangeal, D)Carpal-Metacarpal",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIPFirst/4/DIPFirst_1130624.png",
+        "problem": "Which joint does the bone in the picture come from? A)Middle Interphalangeal, B)First Distal Interphalangeal, C)Lumbar Spine, D)Carpal-Metacarpal",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIPFirst/4/DIPFirst_749185.png",
+        "problem": "Which joint does the bone in the picture come from? A)Pelvic Girdle, B)First Distal Interphalangeal, C)Shoulder Blade, D)Lumbar Spine",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIPFirst/11/DIPFirst_1217255.png",
+        "problem": "From which joint does the bone in the image originate? A)Pelvic Girdle, B)Radius, C)First Distal Interphalangeal, D)Ulna",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIPFirst/5/DIPFirst_1020318.png",
+        "problem": "What is the origin of the bone shown in the picture? A)First Distal Interphalangeal, B)Costosternal, C)Radius, D)Metatarsophalangeal",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIPFirst/5/DIPFirst_970236.png",
+        "problem": "Which joint does the bone in the picture come from? A)Proximal Radioulnar, B)Proximal Interphalangeal, C)Atlantoaxial, D)First Distal Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIPFirst/7/DIPFirst_1289294.png",
+        "problem": "From which joint does the bone depicted in the image originate? A)First Distal Interphalangeal, B)Sternoclavicular Articulation, C)Glenohumeral, D)Shoulder Blade",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIPFirst/6/DIPFirst_939631.png",
+        "problem": "Which joint does the bone in the picture come from? A)First Distal Interphalangeal, B)Middle Interphalangeal, C)Glenohumeral Connection, D)Glenohumeral",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIPFirst/3/DIPFirst_757463.png",
+        "problem": "From which joint does the depicted bone originate? A)First Distal Interphalangeal, B)Glenohumeral, C)Hip Bone, D)Middle Interphalangeal",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIPFirst/3/DIPFirst_947607.png",
+        "problem": "From which joint does the bone in the image originate? A)Proximal Interphalangeal, B)First Distal Interphalangeal, C)Pelvic Girdle, D)Tibiofibular",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIPFirst/4/DIPFirst_646264.png",
+        "problem": "From which joint does the bone depicted in the image originate? A)Atlantoaxial, B)Sternoclavicular Articulation, C)First Distal Interphalangeal, D)Costovertebral Junction",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIPFirst/6/DIPFirst_1512292.png",
+        "problem": "Which joint does the bone in the picture come from? A)Atlantoaxial, B)First Distal Interphalangeal, C)Cervical Spine, D)Hip Bone",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIPFirst/4/DIPFirst_608116.png",
+        "problem": "What is the name of the joint from which the bone in the picture originates? A)First Distal Interphalangeal, B)Carpal-Metacarpal, C)Cervical Spine, D)First Proximal Interphalangeal",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIPFirst/5/DIPFirst_655137.png",
+        "problem": "From which joint does the bone depicted in the picture originate? A)Proximal Radioulnar, B)Costovertebral Junction, C)Metatarsophalangeal, D)First Distal Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIPFirst/6/DIPFirst_628115.png",
+        "problem": "Which joint does the bone in the picture come from? A)Tibiofibular, B)Atlantoaxial, C)Wrist, D)First Distal Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIPFirst/8/DIPFirst_1209193.png",
+        "problem": "Which joint does the bone in the picture come from? A)First Metacarpophalangeal, B)First Distal Interphalangeal, C)Lumbar Spine, D)Metacarpophalangeal",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIPFirst/6/DIPFirst_839526.png",
+        "problem": "From which joint does the bone in the image originate? A)Sacroiliac Articulation, B)Metacarpophalangeal, C)Hip Bone, D)Proximal Radioulnar",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIPFirst/4/DIPFirst_728586.png",
+        "problem": "Which joint does the bone in the picture come from? A)Acromioclavicular, B)First Proximal Interphalangeal, C)Metacarpophalangeal, D)Sternoclavicular Articulation",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIPFirst/10/DIPFirst_73068.png",
+        "problem": "From which joint does the bone in the image originate? A)Acromioclavicular, B)First Proximal Interphalangeal, C)Cuneonavicular Articulation, D)Metacarpophalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/DIPFirst/11/DIPFirst_1053144.png",
+        "problem": "Which joint does the bone in the picture come from? A)Radius, B)Ulna, C)Metacarpophalangeal, D)Pubic Symphysial Junction",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/10/MCP_409701.png",
+        "problem": "From which joint does the bone in the image originate? A)Sternoclavicular, B)Metacarpophalangeal, C)Lumbar Spine, D)Atlantoaxial",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/4/MCP_6581043.png",
+        "problem": "From which joint does the bone in the image originate? A)Metacarpophalangeal, B)Atlantoaxial, C)Glenohumeral Connection, D)Shoulder Blade",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/4/MCP_848272.png",
+        "problem": "From which joint does the bone in the image originate? A)Metacarpophalangeal, B)Glenohumeral, C)First Metacarpophalangeal, D)Costosternal",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/8/MCP_975556.png",
+        "problem": "From which joint does the bone in the image originate? A)Carpal-Metacarpal, B)Metacarpophalangeal, C)Atlantoaxial, D)Metatarsophalangeal",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/3/MCP_8151182.png",
+        "problem": "From which joint does the bone in the image originate? A)Metacarpophalangeal, B)Temporomandibular, C)Knee, D)Lumbar Spine",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/4/MCP_40039.png",
+        "problem": "From which joint does the bone in the image originate? A)Metacarpophalangeal, B)Carpal-Metacarpal, C)Glenohumeral, D)Hip Bone",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/3/MCP_321181.png",
+        "problem": "Which joint does the bone in the picture come from? A)Metacarpophalangeal, B)Middle Interphalangeal, C)Pubic Symphysial Junction, D)Atlantoaxial",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/9/MCP_798440.png",
+        "problem": "From which joint does the bone in the image originate? A)Metacarpophalangeal, B)Wrist, C)Pelvic Girdle, D)Tibiofibular",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/4/MCP_375177.png",
+        "problem": "From which joint does the bone in the image originate? A)Metacarpophalangeal, B)Proximal Interphalangeal, C)Sacroiliac Articulation, D)Atlantoaxial",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/4/MCP_369549.png",
+        "problem": "What is the name of the joint that the bone in the image originates from? A)Metacarpophalangeal, B)Ankle Bone, C)Pelvic Girdle, D)Temporomandibular",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/5/MCP_567622.png",
+        "problem": "From which joint does the bone in the image originate? A)Sternoclavicular, B)Metacarpophalangeal, C)Distal Interphalangeal, D)First Distal Interphalangeal",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/6/MCP_379561.png",
+        "problem": "From which joint does the bone in the image originate? A)Hip Bone, B)Elbow, C)Metacarpophalangeal, D)Proximal Radioulnar",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/4/MCP_342511.png",
+        "problem": "From which joint does the bone in the image originate? A)Lumbar Spine, B)Acromioclavicular, C)Hip Bone, D)Metacarpophalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/5/MCP_329151.png",
+        "problem": "From which joint does the bone in the image originate? A)Wrist, B)Cervical Spine, C)Proximal Interphalangeal, D)Metacarpophalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/7/MCP_5431056.png",
+        "problem": "From which joint does the bone in the image originate? A)First Proximal Interphalangeal, B)Pelvic Girdle, C)Metacarpophalangeal, D)Sternoclavicular Articulation",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/10/MCP_3431175.png",
+        "problem": "From which joint does the bone in the image originate? A)Hip Bone, B)Atlantoaxial, C)Metacarpophalangeal, D)Glenohumeral Connection",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/3/MCP_6341076.png",
+        "problem": "From which joint does the depicted bone originate? A)Atlantoaxial, B)Temporomandibular, C)Tibiofibular, D)Metacarpophalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/6/MCP_415407.png",
+        "problem": "From which joint does the bone depicted in the image originate? A)Metacarpophalangeal, B)Ankle Bone, C)Acromioclavicular, D)Metatarsophalangeal",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/3/MCP_640672.png",
+        "problem": "What is the name of the joint that the bone in the picture originated from? A)Metacarpophalangeal, B)Elbow, C)Radius, D)Cuneonavicular Articulation",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/10/MCP_981912.png",
+        "problem": "From which joint does the bone in the image originate? A)Sternoclavicular, B)Proximal Interphalangeal, C)Metacarpophalangeal, D)Costosternal",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/10/MCP_4541241.png",
+        "problem": "Which joint does the bone in the picture come from? A)Pubic Symphysial Junction, B)Metacarpophalangeal, C)Pelvic Girdle, D)Cuneonavicular Articulation",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/10/MCP_6831030.png",
+        "problem": "What is the name of the joint from which the bone in the picture is derived? A)Temporomandibular, B)Sacrococcygeal Articulation, C)Cuneonavicular Articulation, D)Metacarpophalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/4/MCP_79154.png",
+        "problem": "From which joint does the bone in the image originate? A)Metacarpophalangeal, B)Radius, C)Metatarsophalangeal, D)First Distal Interphalangeal",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/8/MCP_705818.png",
+        "problem": "From which joint does the bone in the image originate? A)Metacarpophalangeal, B)Atlantoaxial, C)Cervical Spine, D)Pubic Symphysis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/6/MCP_714490.png",
+        "problem": "From which joint does the bone in the image originate? A)Elbow, B)Metacarpophalangeal, C)Proximal Radioulnar, D)Costovertebral Junction",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/10/MCP_505696.png",
+        "problem": "Which joint does the bone in the picture come from? A)Hip Bone, B)Pelvic Girdle, C)Metacarpophalangeal, D)Glenohumeral",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/7/MCP_693372.png",
+        "problem": "From which joint does the bone depicted in the image originate? A)Lumbar Spine, B)Costovertebral Junction, C)Metacarpophalangeal, D)Costosternal",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/10/MCP_357323.png",
+        "problem": "From which joint does the bone in the image originate? A)First Proximal Interphalangeal, B)Acromioclavicular, C)Shoulder Blade, D)Metacarpophalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/3/MCP_400183.png",
+        "problem": "Which joint does the bone in the picture come from? A)Costovertebral Junction, B)Metacarpophalangeal, C)Metatarsophalangeal, D)Tibiofibular",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/8/MCP_246481.png",
+        "problem": "From which joint does the bone in the image originate? A)Atlantoaxial, B)Cervical Spine, C)Metacarpophalangeal, D)Pelvic Girdle",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/4/MCP_757420.png",
+        "problem": "From which joint does the depicted bone originate? A)Costosternal, B)First Proximal Interphalangeal, C)Metacarpophalangeal, D)Sternoclavicular",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/4/MCP_3651253.png",
+        "problem": "From which joint does the bone in the image originate? A)Metacarpophalangeal, B)Glenohumeral Connection, C)First Metacarpophalangeal, D)Metatarsophalangeal",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/5/MCP_298997.png",
+        "problem": "From which joint does the depicted bone originate? A)Pelvic Girdle, B)Metacarpophalangeal, C)Ulna, D)Distal Interphalangeal",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/3/MCP_32691.png",
+        "problem": "From which joint does the bone in the image originate? A)Pubic Symphysial Junction, B)Glenohumeral Connection, C)Metacarpophalangeal, D)First Distal Interphalangeal",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/6/MCP_334801.png",
+        "problem": "Which joint does the bone in the picture come from? A)Costovertebral Junction, B)Metacarpophalangeal, C)Hip Bone, D)Knee",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/6/MCP_709888.png",
+        "problem": "Which joint does the bone in the picture come from? A)Distal Interphalangeal, B)Proximal Interphalangeal, C)Pubic Symphysial Junction, D)Metacarpophalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/5/MCP_5851134.png",
+        "problem": "From which joint does the depicted bone originate? A)Hip Bone, B)Metacarpophalangeal, C)Pubic Symphysis, D)First Distal Interphalangeal",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/3/MCP_338139.png",
+        "problem": "Which joint does the bone in the picture come from? A)Acromioclavicular, B)Cervical Spine, C)Temporomandibular, D)Metacarpophalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/1/MCP_3931061.png",
+        "problem": "From which joint does the depicted bone originate? A)Metacarpophalangeal, B)Hip Bone, C)Elbow, D)Pubic Symphysis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/10/MCP_530136.png",
+        "problem": "Which joint does the bone in the picture come from? A)Costovertebral Junction, B)Sternoclavicular, C)Costosternal, D)First Metacarpophalangeal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/6/MCP_309565.png",
+        "problem": "From which joint does the depicted bone originate? A)First Metacarpophalangeal., B)Cervical Spine, C)Ulna, D)Shoulder Blade",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/6/MCP_59334.png",
+        "problem": "From which joint does the bone in the image originate? A)First Metacarpophalangeal., B)Costovertebral Junction, C)Radius, D)Sacrococcygeal Articulation",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCP/8/MCP_557603.png",
+        "problem": "From which joint does the bone in the image originate? A)Ankle Bone, B)Ulna, C)First Metacarpophalangeal., D)Atlantoaxial",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCPFirst/7/MCPFirst_846383.png",
+        "problem": "From which joint does the depicted bone originate? A)Shoulder Blade, B)Ulna, C)First Metacarpophalangeal., D)Atlantoaxial",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCPFirst/11/MCPFirst_758480.png",
+        "problem": "Which joint does the bone in the picture come from? A)Atlantoaxial, B)Sacroiliac, C)First Metacarpophalangeal., D)Cervical Spine",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCPFirst/7/MCPFirst_837423.png",
+        "problem": "From which joint does the bone shown in the picture originate? A)Acromioclavicular, B)First Metacarpophalangeal., C)Sternoclavicular, D)Tibiofibular",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCPFirst/10/MCPFirst_576159.png",
+        "problem": "From which joint does the bone in the image originate? A)Atlantoaxial, B)First Metacarpophalangeal., C)Knee, D)Temporomandibular",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCPFirst/3/MCPFirst_63894.png",
+        "problem": "From which joint does the bone in the image originate? A)First Distal Interphalangeal, B)Elbow, C)Proximal Radioulnar, D)First Metacarpophalangeal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCPFirst/4/MCPFirst_692610.png",
+        "problem": "From which joint does the bone in the image originate? A)Proximal Radioulnar, B)First Metacarpophalangeal., C)Sacrococcygeal Articulation, D)Knee",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCPFirst/2/MCPFirst_517536.png",
+        "problem": "From which joint does the bone in the image originate? A)Shoulder Blade, B)First Metacarpophalangeal., C)Proximal Interphalangeal, D)Ankle Bone",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCPFirst/11/MCPFirst_558477.png",
+        "problem": "Which joint does the bone in the picture come from? A)Pubic Symphysis, B)Wrist, C)Cervical Spine, D)First Metacarpophalangeal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCPFirst/4/MCPFirst_757124.png",
+        "problem": "Which joint does the bone in the picture come from? A)Sternoclavicular Articulation, B)Lumbar Spine, C)First Metacarpophalangeal., D)Pubic Symphysial Junction",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCPFirst/8/MCPFirst_742195.png",
+        "problem": "From which joint does the bone in the image originate? A)First Metacarpophalangeal., B)Pubic Symphysial Junction, C)Cuneonavicular Articulation, D)Cervical Spine",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCPFirst/1/MCPFirst_1030346.png",
+        "problem": "From which joint does the depicted bone originate? A)First Metacarpophalangeal., B)Pubic Symphysial Junction, C)Temporomandibular, D)Lumbar Spine",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCPFirst/3/MCPFirst_597213.png",
+        "problem": "Which joint does the bone in the picture come from? A)Costosternal, B)Tibiofibular, C)Wrist, D)First Metacarpophalangeal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCPFirst/11/MCPFirst_1166391.png",
+        "problem": "From which joint does the bone in the image originate? A)Proximal Radioulnar, B)Lumbar Spine, C)First Metacarpophalangeal., D)Knee",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCPFirst/8/MCPFirst_579354.png",
+        "problem": "Which joint does the bone in the picture come from? A)First Metacarpophalangeal., B)Hip Bone, C)Ankle Bone, D)Costosternal",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCPFirst/5/MCPFirst_589113.png",
+        "problem": "Which joint does the bone in the picture come from? A)First Metacarpophalangeal., B)Sternoclavicular Articulation, C)Hip Bone, D)Acromioclavicular",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCPFirst/9/MCPFirst_1049413.png",
+        "problem": "From which joint does the bone in the image originate? A)Knee, B)Pelvic Girdle, C)Middle Interphalangeal, D)Radius",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCPFirst/11/MCPFirst_531349.png",
+        "problem": "Which joint does the bone in the picture come from? A)First Proximal Interphalangeal, B)Costosternal, C)Temporomandibular Junction, D)Middle Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCPFirst/11/MCPFirst_83845.png",
+        "problem": "Which joint does the bone in the picture come from? A)Middle Interphalangeal, B)Sacroiliac Articulation, C)Atlantoaxial, D)First Proximal Interphalangeal",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCPFirst/11/MCPFirst_72061.png",
+        "problem": "Which joint does the bone in the picture come from? A)Shoulder Blade, B)Distal Interphalangeal, C)Middle Interphalangeal, D)First Proximal Interphalangeal",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCPFirst/3/MCPFirst_552116.png",
+        "problem": "Which joint does the bone in the picture come from? A)Middle Interphalangeal, B)Cuneonavicular Articulation, C)Temporomandibular, D)Elbow",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCPFirst/3/MCPFirst_7534.png",
+        "problem": "From which joint does the bone in the image originate? A)Middle Interphalangeal, B)Temporomandibular Junction, C)Atlantoaxial, D)Ulna",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MCPFirst/9/MCPFirst_556141.png",
+        "problem": "Which joint does the bone in the picture come from? A)Cervical Spine, B)Middle Interphalangeal, C)First Metacarpophalangeal, D)Wrist",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/12/MID_320941.png",
+        "problem": "From which joint does this bone in the picture originate? A)Pubic Symphysis, B)Proximal Radioulnar, C)Middle Interphalangeal, D)Ankle Bone",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/6/MID_272953.png",
+        "problem": "From which joint does the bone in the image originate? A)Middle Interphalangeal, B)Sacrococcygeal Articulation, C)Atlantoaxial, D)Ankle Bone",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/12/MID_709174.png",
+        "problem": "From which joint does the bone in the image originate? A)Sacroiliac, B)Middle Interphalangeal, C)Lumbar Spine, D)Hip Bone",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/1/MID_980766.png",
+        "problem": "Which joint does the bone in the picture come from? A)Middle Interphalangeal, B)Tibiofibular, C)Metacarpophalangeal, D)Shoulder Blade",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/11/MID_630394.png",
+        "problem": "What is the name of the joint to which the bone in the picture belongs? A)Middle Interphalangeal, B)Metacarpophalangeal, C)Temporomandibular, D)Elbow",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/4/MID_195187.png",
+        "problem": "From which joint does the depicted bone originate? A)Tibiofibular, B)Middle Interphalangeal, C)Costovertebral Junction, D)Sternoclavicular",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/12/MID_353854.png",
+        "problem": "Which joint does the bone in the picture come from? A)Pubic Symphysial Junction, B)Middle Interphalangeal, C)Tibiofibular, D)Sacrococcygeal Articulation",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/1/MID_361275.png",
+        "problem": "Which joint does the bone in the picture come from? A)Sacroiliac, B)Middle Interphalangeal, C)Tibiofibular, D)Pubic Symphysis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/12/MID_7021034.png",
+        "problem": "From which joint does the bone in the image originate? A)Sternoclavicular Articulation, B)Distal Interphalangeal, C)Middle Interphalangeal, D)Ankle Bone",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/6/MID_833826.png",
+        "problem": "From which joint does the bone in the image originate? A)Middle Interphalangeal, B)Pelvic Girdle, C)Sacroiliac, D)Hip Bone",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/9/MID_850524.png",
+        "problem": "Which joint does the bone in the picture come from? A)Metatarsophalangeal, B)Middle Interphalangeal, C)First Distal Interphalangeal, D)Proximal Interphalangeal",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/11/MID_357291.png",
+        "problem": "From which joint does the bone in the image originate? A)First Metacarpophalangeal, B)Tibiofibular, C)Glenohumeral, D)Middle Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/11/MID_239215.png",
+        "problem": "From which joint does the bone in the image originate? A)Tibiofibular, B)Costosternal, C)Middle Interphalangeal, D)First Distal Interphalangeal",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/4/MID_13677.png",
+        "problem": "From which joint does the bone in the image originate? A)Sternoclavicular Articulation, B)Costovertebral Junction, C)Middle Interphalangeal, D)Ankle Bone",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/6/MID_707244.png",
+        "problem": "From which joint does the bone in the image originate? A)Temporomandibular, B)Radius, C)Hip Bone, D)Middle Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/1/MID_551909.png",
+        "problem": "Which joint does the bone in the image belong to? A)Carpal-Metacarpal, B)Sacroiliac Articulation, C)Middle Interphalangeal, D)Wrist",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/3/MID_7151114.png",
+        "problem": "Which joint does the bone in the picture come from? A)Sternoclavicular, B)Middle Interphalangeal, C)Atlantoaxial, D)First Metacarpophalangeal",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/12/MID_248857.png",
+        "problem": "Which joint does the bone in the picture come from? A)Glenohumeral Connection, B)Middle Interphalangeal, C)Knee, D)Pubic Symphysial Junction",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/11/MID_681934.png",
+        "problem": "From which joint does the bone in the image originate? A)Cuneonavicular Articulation, B)Temporomandibular, C)Ulna, D)Middle Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/4/MID_740578.png",
+        "problem": "From which joint does the bone in the image originate? A)Shoulder Blade, B)Metatarsophalangeal, C)Pubic Symphysis, D)Middle Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/9/MID_356609.png",
+        "problem": "From which joint does the bone in the image originate? A)Proximal Interphalangeal, B)Carpal-Metacarpal, C)Middle Interphalangeal, D)Sacroiliac Articulation",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/4/MID_297675.png",
+        "problem": "Which joint does the bone in the picture come from? A)Costovertebral Junction, B)Middle Interphalangeal, C)Temporomandibular Junction, D)Ankle Bone",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/11/MID_310301.png",
+        "problem": "From which joint does the bone in the image originate? A)Cuneonavicular Articulation, B)Acromioclavicular, C)Proximal Radioulnar, D)Middle Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/3/MID_388722.png",
+        "problem": "From which joint does the bone in the image originate? A)Pelvic Girdle, B)Middle Interphalangeal, C)Knee, D)Lumbar Spine",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/3/MID_2991179.png",
+        "problem": "From which joint does the bone in the image originate? A)Middle Interphalangeal, B)Shoulder Blade, C)Carpal-Metacarpal, D)Temporomandibular Junction",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/1/MID_562765.png",
+        "problem": "Which joint does the bone shown in the image belong to? A)Middle Interphalangeal, B)Hip Bone, C)Glenohumeral Connection, D)Glenohumeral",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/7/MID_5631010.png",
+        "problem": "From which joint does the bone in the image originate? A)Middle Interphalangeal, B)Temporomandibular Junction, C)Pubic Symphysial Junction, D)Pelvic Girdle",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/6/MID_2621107.png",
+        "problem": "From which joint does the bone in the image originate? A)First Proximal Interphalangeal, B)Middle Interphalangeal, C)Atlantoaxial, D)First Distal Interphalangeal",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/3/MID_2591037.png",
+        "problem": "From which joint does the bone in the image originate? A)Carpal-Metacarpal, B)Middle Interphalangeal, C)Radius, D)Proximal Radioulnar",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/12/MID_82048.png",
+        "problem": "From which joint does the bone depicted in the picture originate? A)Middle Interphalangeal, B)Lumbar Spine, C)Temporomandibular Junction, D)Elbow",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/12/MID_1051791.png",
+        "problem": "Which joint does the bone in the picture come from? A)Radius, B)Middle Interphalangeal, C)Proximal Radioulnar, D)Carpal-Metacarpal",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/5/MID_553870.png",
+        "problem": "From which joint does the bone in the image originate? A)Glenohumeral Connection, B)Proximal Interphalangeal, C)Middle Interphalangeal, D)Distal Interphalangeal",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/4/MID_670392.png",
+        "problem": "From which joint does the bone in the image originate? A)Sternoclavicular Articulation, B)Wrist, C)Tibiofibular, D)Middle Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/3/MID_767782.png",
+        "problem": "From which joint does the bone in the image originate? A)Pelvic Girdle, B)Proximal Radioulnar, C)Sacroiliac Articulation, D)Middle Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/4/MID_725398.png",
+        "problem": "Which joint does the bone in the picture come from? A)Middle Interphalangeal, B)Hip Bone, C)Knee, D)Costovertebral Junction",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/12/MID_5411101.png",
+        "problem": "From which joint does the bone in the image originate? A)Pubic Symphysis, B)Hip Bone, C)Costovertebral Junction, D)Middle Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/6/MID_292361.png",
+        "problem": "From which joint does the bone in the image originate? A)Distal Interphalangeal, B)Middle Interphalangeal, C)Lumbar Spine, D)Shoulder Blade",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/4/MID_238707.png",
+        "problem": "From which joint does the depicted bone originate? A)Sternoclavicular, B)Middle Interphalangeal, C)Hip Bone, D)Cervical Spine",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/4/MID_264139.png",
+        "problem": "From which joint does the bone in the image originate? A)Middle Interphalangeal, B)Sacrococcygeal Articulation, C)Temporomandibular Junction, D)Metacarpophalangeal",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/5/MID_1064839.png",
+        "problem": "Which joint does the bone in the picture come from? A)Distal Interphalangeal, B)Middle Interphalangeal, C)Tibiofibular, D)Acromioclavicular",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/4/MID_353417.png",
+        "problem": "From which joint does the depicted bone originate? A)Middle Interphalangeal, B)Radius, C)Cuneonavicular Articulation, D)Wrist",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/3/MID_24167.png",
+        "problem": "From which joint does the bone in the image originate? A)Middle Interphalangeal, B)Costovertebral Junction, C)Pubic Symphysis, D)Ulna",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/4/MID_276999.png",
+        "problem": "From which joint does the bone depicted in the image originate? A)Proximal Interphalangeal, B)Temporomandibular, C)Tibiofibular, D)Middle Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/2/MID_5511023.png",
+        "problem": "Which joint does the bone in the picture come from? A)Middle Interphalangeal, B)Proximal Interphalangeal, C)Pelvic Girdle, D)Temporomandibular",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/6/MID_797576.png",
+        "problem": "From which joint does the bone depicted in the picture originate? A)Hip Bone, B)Pubic Symphysial Junction, C)Middle Interphalangeal, D)Ulna",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/9/MID_807438.png",
+        "problem": "From which joint does the bone in the image originate? A)Sternoclavicular Articulation, B)Ulna, C)Middle Interphalangeal, D)Knee",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/3/MID_22555.png",
+        "problem": "Which joint does the bone in the picture come from? A)Wrist, B)Pelvic Girdle, C)Distal Interphalangeal, D)Middle Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/5/MID_250677.png",
+        "problem": "What is the name of the joint where the depicted bone is located? A)Atlantoaxial, B)Pubic Symphysial Junction, C)Temporomandibular Junction, D)Middle Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/MIP/4/MID_617164.png",
+        "problem": "From which joint does the bone depicted in the image originate? A)Atlantoaxial, B)Middle Interphalangeal, C)Tibiofibular, D)Metacarpophalangeal",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/12/PIP_808942.png",
+        "problem": "What is the specific name of the joint that corresponds to the bone depicted in the image? A)Costovertebral Junction, B)Sacrococcygeal Articulation, C)Middle Interphalangeal, D)Cuneonavicular Articulation",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/6/PIP_876246.png",
+        "problem": "From which joint does the bone in the image originate? A)Acromioclavicular, B)Proximal Interphalangeal, C)First Distal Interphalangeal, D)Metatarsophalangeal",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/7/PIP_863590.png",
+        "problem": "From which joint does the depicted bone originate? A)Metacarpophalangeal, B)Proximal Interphalangeal, C)Sacroiliac Articulation, D)First Metacarpophalangeal",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/6/PIP_348505.png",
+        "problem": "Which joint does the bone in the picture come from? A)Proximal Interphalangeal, B)Lumbar Spine, C)Glenohumeral, D)Hip Bone",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/4/PIP_4001243.png",
+        "problem": "From which joint does the bone in the image originate? A)First Metacarpophalangeal, B)Proximal Interphalangeal, C)Wrist, D)Middle Interphalangeal",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/6/PIP_248769.png",
+        "problem": "From which joint does the bone in the image originate? A)Metatarsophalangeal, B)Proximal Interphalangeal, C)Costosternal, D)Sternoclavicular Articulation",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/11/PIP_912302.png",
+        "problem": "Which joint does the bone in the picture come from? A)Glenohumeral Connection, B)Costosternal, C)Proximal Interphalangeal, D)Acromioclavicular",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/10/PIP_849358.png",
+        "problem": "From which joint does the bone in the image originate? A)Elbow, B)Sternoclavicular, C)Proximal Interphalangeal, D)Pubic Symphysial Junction",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/5/PIP_801630.png",
+        "problem": "From which joint does the depicted bone originate? A)Proximal Interphalangeal, B)Tibiofibular, C)Lumbar Spine, D)Costosternal",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/9/PIP_317457.png",
+        "problem": "From which joint does the bone in the image originate? A)Sternoclavicular, B)Ulna, C)Sacroiliac Articulation, D)Proximal Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/4/PIP_5321196.png",
+        "problem": "Which joint does the bone in the picture come from? A)Glenohumeral, B)Costosternal, C)Middle Interphalangeal, D)Proximal Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/4/PIP_346375.png",
+        "problem": "From which joint does the bone in the image originate? A)Ankle Bone, B)Proximal Interphalangeal, C)First Metacarpophalangeal, D)Radius",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/12/PIP_2871029.png",
+        "problem": "From which joint does the bone in the image originate? A)Pubic Symphysis, B)Sacroiliac Articulation, C)Atlantoaxial, D)Proximal Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/7/PIP_320217.png",
+        "problem": "From which joint does the bone in the image originate? A)Sacroiliac, B)Shoulder Blade, C)Metatarsophalangeal, D)Proximal Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/7/PIP_676244.png",
+        "problem": "From which joint does the bone in the image originate? A)Proximal Interphalangeal, B)Cervical Spine, C)Pubic Symphysis, D)Ulna",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/6/PIP_846210.png",
+        "problem": "From which joint does the bone in the image originate? A)Middle Interphalangeal, B)Wrist, C)Proximal Interphalangeal, D)Sternoclavicular Articulation",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/6/PIP_721398.png",
+        "problem": "From which joint does the bone in the image originate? A)Distal Interphalangeal, B)Radius, C)Proximal Interphalangeal, D)Metacarpophalangeal",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/12/PIP_454933.png",
+        "problem": "From which joint does the bone in the image originate? A)Sternoclavicular, B)Metatarsophalangeal, C)Proximal Radioulnar, D)Proximal Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/12/PIP_907952.png",
+        "problem": "Which joint does the bone in the picture come from? A)Metatarsophalangeal, B)Wrist, C)Proximal Interphalangeal, D)Sacrococcygeal Articulation",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/4/PIP_305739.png",
+        "problem": "Which joint does the bone in the picture come from? A)Knee, B)Wrist, C)Proximal Interphalangeal, D)Radius",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/9/PIP_709448.png",
+        "problem": "From which joint does the depicted bone originate? A)Radius, B)Tibiofibular, C)Proximal Interphalangeal, D)Middle Interphalangeal",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/12/PIP_263995.png",
+        "problem": "Which joint does the bone in the picture come from? A)Cervical Spine, B)Proximal Interphalangeal, C)Hip Bone, D)Middle Interphalangeal",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/8/PIP_494645.png",
+        "problem": "From which joint does the bone in the image originate? A)Atlantoaxial, B)Proximal Interphalangeal, C)Tibiofibular, D)Sacroiliac Articulation",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/3/PIP_237527.png",
+        "problem": "From which joint does the bone in the image originate? A)Proximal Interphalangeal, B)Metacarpophalangeal, C)Middle Interphalangeal, D)Ulna",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/7/PIP_812588.png",
+        "problem": "From which joint does the bone in the image originate? A)Carpal-Metacarpal, B)Sacrococcygeal Articulation, C)Proximal Interphalangeal, D)Sacroiliac",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/3/PIP_323525.png",
+        "problem": "From which joint does the bone in the image originate? A)Cervical Spine, B)Proximal Interphalangeal, C)Metacarpophalangeal, D)First Metacarpophalangeal",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/9/PIP_833534.png",
+        "problem": "From which joint does the bone in the image originate? A)Proximal Interphalangeal, B)Pubic Symphysis, C)Sternoclavicular, D)Sacroiliac Articulation",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/4/PIP_306177.png",
+        "problem": "Which joint does the bone in the picture come from? A)Temporomandibular Junction, B)Proximal Interphalangeal, C)Sacroiliac, D)Knee",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/4/PIP_5431250.png",
+        "problem": "From which joint does the bone in the image originate? A)Pubic Symphysial Junction, B)Pubic Symphysis, C)Wrist, D)Proximal Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/3/PIP_4511117.png",
+        "problem": "From which joint does the bone in the image originate? A)Acromioclavicular, B)Pelvic Girdle, C)Metacarpophalangeal, D)Proximal Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/8/PIP_728554.png",
+        "problem": "From which joint does the bone in the image originate? A)Shoulder Blade, B)Glenohumeral, C)Pubic Symphysis, D)Proximal Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/4/PIP_558286.png",
+        "problem": "From which joint does the bone in the image originate? A)Proximal Interphalangeal, B)Metacarpophalangeal, C)Atlantoaxial, D)Sacroiliac Articulation",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/8/PIP_310985.png",
+        "problem": "Which joint does the bone in the picture come from? A)Ulna, B)Metacarpophalangeal, C)Proximal Interphalangeal, D)Sacroiliac",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/9/PIP_315863.png",
+        "problem": "From which joint does the bone in the image originate? A)Pubic Symphysis, B)Proximal Interphalangeal, C)Temporomandibular Junction, D)Carpal-Metacarpal",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/4/PIP_680172.png",
+        "problem": "From which joint does the bone depicted in the image originate? A)Acromioclavicular, B)Pelvic Girdle, C)First Metacarpophalangeal, D)Proximal Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/10/PIP_387775.png",
+        "problem": "Which joint does the bone in the picture come from? A)Acromioclavicular, B)Proximal Interphalangeal, C)Proximal Radioulnar, D)Costovertebral Junction",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/9/PIP_711362.png",
+        "problem": "What is the name of the joint that is represented by the bone in the image? A)Metatarsophalangeal, B)Glenohumeral, C)Distal Interphalangeal, D)Proximal Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/11/PIP_536680.png",
+        "problem": "From which joint does the depicted bone originate? A)Wrist, B)Proximal Interphalangeal, C)First Distal Interphalangeal, D)Distal Interphalangeal",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/4/PIP_395747.png",
+        "problem": "From which joint does the bone in the image originate? A)Glenohumeral, B)Distal Interphalangeal, C)Temporomandibular, D)Proximal Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/12/PIP_843732.png",
+        "problem": "From which joint does the bone in the image originate? A)Pubic Symphysis, B)Middle Interphalangeal, C)Atlantoaxial, D)Proximal Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/8/PIP_4001027.png",
+        "problem": "From which joint does the depicted bone originate? A)Temporomandibular, B)Elbow, C)Middle Interphalangeal, D)Proximal Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/11/PIP_870328.png",
+        "problem": "Which joint does the bone in the picture come from? A)Wrist, B)Proximal Interphalangeal, C)Lumbar Spine, D)Sternoclavicular Articulation",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/4/PIP_244269.png",
+        "problem": "From which joint does the bone in the image originate? A)Distal Interphalangeal, B)Shoulder Blade, C)Metatarsophalangeal, D)Proximal Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/12/PIP_756992.png",
+        "problem": "From which joint does the bone depicted in the image originate? A)Proximal Interphalangeal, B)Shoulder Blade, C)Elbow, D)Radius",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/9/PIP_340535.png",
+        "problem": "Which joint does the bone in the picture come from? A)Proximal Radioulnar, B)Middle Interphalangeal, C)Proximal Interphalangeal, D)Sacrococcygeal Articulation",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/9/PIP_527100.png",
+        "problem": "What is the name of the joint to which the bone in the image belongs? A)First Metacarpophalangeal, B)Temporomandibular, C)Proximal Interphalangeal, D)Pubic Symphysial Junction",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/12/PIP_536136.png",
+        "problem": "Which joint does the bone in the picture come from? A)Temporomandibular Junction, B)First Metacarpophalangeal, C)Proximal Interphalangeal, D)First Distal Interphalangeal",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/1/PIP_51744.png",
+        "problem": "From which joint does the depicted bone originate? A)Proximal Interphalangeal, B)Middle Interphalangeal, C)Costosternal, D)Sacroiliac Articulation",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/4/PIP_278235.png",
+        "problem": "From which joint does the bone in the image originate? A)Pubic Symphysial Junction, B)Proximal Interphalangeal, C)Atlantoaxial, D)Ankle Bone",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/4/PIP_719186.png",
+        "problem": "From which joint does the bone in the image originate? A)Temporomandibular, B)Knee, C)First Metacarpophalangeal, D)Proximal Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/3/PIP_5591220.png",
+        "problem": "From which joint does the bone in the image originate? A)First Distal Interphalangeal, B)Ulna, C)Carpal-Metacarpal, D)Proximal Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/5/PIP_524882.png",
+        "problem": "From which joint does the bone depicted in the image originate? A)Shoulder Blade, B)Proximal Radioulnar, C)Proximal Interphalangeal, D)Elbow",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/12/PIP_7721102.png",
+        "problem": "Which joint is represented by the bone in the provided picture? A)First Distal Interphalangeal, B)Knee, C)Sacrococcygeal Articulation, D)Proximal Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/3/PIP_567940.png",
+        "problem": "From which joint does the bone in the image originate? A)Knee, B)Tibiofibular, C)Pelvic Girdle, D)Proximal Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/12/PIP_338175.png",
+        "problem": "From which joint does the bone in the image originate? A)Proximal Interphalangeal, B)Sacroiliac Articulation, C)Costosternal, D)Sacrococcygeal Articulation",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/12/PIP_683122.png",
+        "problem": "From which joint does the bone in the image originate? A)Metacarpophalangeal, B)Proximal Interphalangeal, C)Sternoclavicular Articulation, D)Elbow",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/5/PIP_935104.png",
+        "problem": "From which joint does the bone in the image originate? A)Tibiofibular, B)Proximal Interphalangeal, C)Cuneonavicular Articulation, D)Ulna",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/10/PIP_5101040.png",
+        "problem": "From which joint does the bone shown in the picture originate? A)Radius, B)Proximal Interphalangeal, C)Atlantoaxial, D)Sternoclavicular",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIP/5/PIP_5911134.png",
+        "problem": "From which joint does the bone in the image originate? A)Sacroiliac, B)Proximal Interphalangeal, C)Proximal Radioulnar, D)First Metacarpophalangeal",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIPFirst/6/PIPFirst_743128.png",
+        "problem": "From which joint does the bone depicted in the image originate? A)Sternoclavicular, B)First Distal Interphalangeal, C)Pelvic Girdle, D)Proximal Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIPFirst/5/PIPFirst_864235.png",
+        "problem": "From which joint does the bone depicted in the image originate? A)Temporomandibular, B)Sternoclavicular, C)Distal Interphalangeal, D)Proximal Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIPFirst/5/PIPFirst_912367.png",
+        "problem": "Which joint does the bone in the picture come from? A)Proximal Radioulnar, B)Atlantoaxial, C)Ulna, D)First Proximal Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIPFirst/1/PIPFirst_654582.png",
+        "problem": "From which joint does the bone in the image originate? A)Cuneonavicular Articulation, B)Sacrococcygeal Articulation, C)First Proximal Interphalangeal, D)Lumbar Spine",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIPFirst/11/PIPFirst_903258.png",
+        "problem": "Which joint does the bone in the picture come from? A)Acromioclavicular, B)First Proximal Interphalangeal, C)Second Distal Interphalangeal, D)First Distal Interphalangeal",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIPFirst/10/PIPFirst_1071192.png",
+        "problem": "Which joint does the bone in the picture come from? A)First Proximal Interphalangeal, B)Atlantoaxial, C)Temporomandibular Junction, D)Elbow",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIPFirst/4/PIPFirst_639175.png",
+        "problem": "Which joint does the bone in the picture come from? A)Ulna, B)Pubic Symphysis, C)First Proximal Interphalangeal, D)Glenohumeral",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIPFirst/6/PIPFirst_633555.png",
+        "problem": "Which joint does the bone in the picture come from? A)Temporomandibular Junction, B)Sacroiliac Articulation, C)Radius, D)First Proximal Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIPFirst/11/PIPFirst_733197.png",
+        "problem": "What is the specific name of the joint shown in the picture? A)First Metacarpophalangeal, B)First Proximal Interphalangeal, C)Sternoclavicular Articulation, D)Carpal-Metacarpal",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIPFirst/5/PIPFirst_59560.png",
+        "problem": "What is the name of the joint from which the bone in the picture originates? A)Sacroiliac, B)Cervical Spine, C)First Proximal Interphalangeal, D)Costovertebral Junction",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIPFirst/5/PIPFirst_603447.png",
+        "problem": "Which joint does the bone in the picture come from? A)Metacarpophalangeal, B)First Metacarpophalangeal, C)Pelvic Girdle, D)First Proximal Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIPFirst/5/PIPFirst_881255.png",
+        "problem": "Which joint does the bone in the picture come from? A)First Proximal Interphalangeal, B)Temporomandibular Junction, C)Metatarsophalangeal, D)Ankle Bone",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIPFirst/12/PIPFirst_1077622.png",
+        "problem": "Which joint does the bone in the picture come from? A)Glenohumeral, B)First Proximal Interphalangeal, C)Pubic Symphysis, D)Elbow",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIPFirst/8/PIPFirst_798168.png",
+        "problem": "Which joint does the bone in the picture come from? A)Metatarsophalangeal, B)Carpal-Metacarpal, C)First Proximal Interphalangeal, D)Lumbar Spine",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIPFirst/5/PIPFirst_618501.png",
+        "problem": "From which joint does the bone in the image originate? A)Pubic Symphysial Junction, B)First Metacarpophalangeal, C)Metatarsophalangeal, D)First Proximal Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIPFirst/9/PIPFirst_1250365.png",
+        "problem": "Which joint does the bone in the picture come from? A)Hip Bone, B)Sacroiliac Articulation, C)First Proximal Interphalangeal, D)Acromioclavicular",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIPFirst/8/PIPFirst_997262.png",
+        "problem": "Which joint does the bone in the picture come from? A)Glenohumeral, B)Cervical Spine, C)First Proximal Interphalangeal, D)Temporomandibular",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIPFirst/1/PIPFirst_664318.png",
+        "problem": "Which joint does the bone in the picture come from? A)Sternoclavicular, B)Sternoclavicular Articulation, C)First Proximal Interphalangeal, D)Shoulder Blade",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIPFirst/12/PIPFirst_1367366.png",
+        "problem": "From which joint does the bone in the image originate? A)First Proximal Interphalangeal, B)Ankle Bone, C)Pubic Symphysial Junction, D)Temporomandibular Junction",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIPFirst/8/PIPFirst_1091125.png",
+        "problem": "Which joint does the bone in the picture come from? A)Temporomandibular, B)Pubic Symphysis, C)First Proximal Interphalangeal, D)First Distal Interphalangeal",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIPFirst/5/PIPFirst_666484.png",
+        "problem": "From which joint does the bone in the image originate? A)Cuneonavicular Articulation, B)Sacroiliac Articulation, C)First Proximal Interphalangeal, D)Radius",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIPFirst/5/PIPFirst_1021295.png",
+        "problem": "From which joint does the bone in the image originate? A)First Proximal Interphalangeal, B)Hip Bone, C)Knee, D)Pelvic Girdle",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIPFirst/4/PIPFirst_83157.png",
+        "problem": "Which joint does the bone in the picture come from? A)Cuneonavicular Articulation, B)Glenohumeral Connection, C)Second Distal Interphalangeal, D)First Proximal Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIPFirst/5/PIPFirst_976111.png",
+        "problem": "Which joint does the bone in the picture come from? A)Pubic Symphysis, B)Tibiofibular, C)First Proximal Interphalangeal, D)Ulna",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIPFirst/6/PIPFirst_588515.png",
+        "problem": "Which joint does the bone in the picture come from? A)Radius, B)First Proximal Interphalangeal, C)Pubic Symphysis, D)Sacrococcygeal Articulation",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIPFirst/6/PIPFirst_682467.png",
+        "problem": "From which joint does the bone in the image originate? A)Hip Bone, B)First Proximal Interphalangeal, C)Cervical Spine, D)Sacroiliac",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIPFirst/6/PIPFirst_945174.png",
+        "problem": "Which joint does the bone in the picture come from? A)Sternoclavicular, B)Pubic Symphysial Junction, C)Shoulder Blade, D)First Proximal Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/PIPFirst/4/PIPFirst_962315.png",
+        "problem": "From which joint does the bone in the image originate? A)First Proximal Interphalangeal, B)Knee, C)Metacarpophalangeal, D)Ulna",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Radius/5/Radius_422430.png",
+        "problem": "What is the name of the joint that the bone in the image originates from? A)First Proximal Interphalangeal, B)Costosternal, C)Metatarsophalangeal, D)First Metacarpophalangeal",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Radius/3/Radius_409264.png",
+        "problem": "From which joint does the bone in the image originate? A)Knee, B)Cervical Spine, C)First Proximal Interphalangeal, D)First Distal Interphalangeal",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Radius/5/Radius_651223.png",
+        "problem": "From which joint does the bone depicted in the image originate? A)Metacarpophalangeal, B)Sternoclavicular, C)Second Distal Interphalangeal, D)First Proximal Interphalangeal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Radius/8/Radius_456267.png",
+        "problem": "Which joint does the bone in the picture come from? A)Costovertebral Junction, B)Metacarpophalangeal, C)Radius, D)Temporomandibular",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Radius/5/Radius_716499.png",
+        "problem": "Which joint does the bone in the picture come from? A)First Distal Interphalangeal, B)Proximal Interphalangeal, C)Radius, D)Temporomandibular Junction",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Radius/5/Radius_453377.png",
+        "problem": "Which joint does the bone in the picture come from? A)Sacroiliac Articulation, B)First Distal Interphalangeal, C)Sacrococcygeal Articulation, D)Radius",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Radius/1/Radius_539533.png",
+        "problem": "Which joint does the bone in the picture come from? A)Metacarpophalangeal, B)Glenohumeral, C)Radius, D)Glenohumeral Connection",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Radius/7/Radius_704394.png",
+        "problem": "Which joint does the bone in the picture come from? A)Temporomandibular, B)Radius, C)First Distal Interphalangeal, D)Atlantoaxial",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Radius/6/Radius_744524.png",
+        "problem": "Which joint does the bone in the picture come from? A)Pubic Symphysial Junction, B)First Proximal Interphalangeal, C)Pubic Symphysis, D)Radius",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Radius/3/Radius_488338.png",
+        "problem": "Which joint does the bone in the picture come from? A)Radius, B)Acromioclavicular, C)Sternoclavicular, D)Middle Interphalangeal",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Radius/6/Radius_441568.png",
+        "problem": "Which joint does the bone in the picture come from? A)Proximal Radioulnar, B)Temporomandibular, C)Radius, D)Pubic Symphysis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Radius/14/Radius_659173.png",
+        "problem": "Which joint does the bone in the picture come from? A)Pubic Symphysis, B)Radius, C)Temporomandibular Junction, D)Atlantoaxial",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Radius/5/Radius_466118.png",
+        "problem": "Which joint does the bone in the picture come from? A)Metacarpophalangeal, B)Sternoclavicular Articulation, C)Radius, D)First Metacarpophalangeal",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Radius/11/Radius_411198.png",
+        "problem": "Which joint does the bone in the picture come from? A)Radius, B)Lumbar Spine, C)Sternoclavicular Articulation, D)Proximal Radioulnar",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Radius/3/Radius_531337.png",
+        "problem": "What is the name of the joint that the bone in the picture originates from? A)Costovertebral Junction, B)Radius, C)Pubic Symphysis, D)Costosternal",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Radius/6/Radius_69373.png",
+        "problem": "Which joint does the bone in the picture come from? A)Sacroiliac Articulation, B)Glenohumeral Connection, C)Temporomandibular Junction, D)Radius",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Radius/6/Radius_467562.png",
+        "problem": "Which joint does the bone in the picture come from? A)Radius, B)Sacrococcygeal Articulation, C)Distal Interphalangeal, D)Shoulder Blade",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Radius/12/Radius_48010.png",
+        "problem": "Which joint does the bone in the picture come from? A)Glenohumeral Connection, B)Pubic Symphysial Junction, C)Wrist, D)Radius",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Radius/6/Radius_520610.png",
+        "problem": "Which joint does the bone in the picture come from? A)Sternoclavicular Articulation, B)Sacroiliac Articulation, C)Ulna, D)Radius",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Radius/5/Radius_430544.png",
+        "problem": "From which bone does the joint in the image originate? A)Pubic Symphysis, B)Radius, C)Ulna, D)Carpal-Metacarpal",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Radius/1/Radius_952346.png",
+        "problem": "Which joint does the bone in the picture come from? A)Atlantoaxial, B)Sacroiliac Articulation, C)Lumbar Spine, D)Radius",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Radius/14/Radius_522572.png",
+        "problem": "Which joint does the bone in the picture come from? A)Radius, B)Ankle Bone, C)Temporomandibular Junction, D)Lumbar Spine",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Radius/7/Radius_508104.png",
+        "problem": "From which joint does the bone in the image originate? A)First Proximal Interphalangeal, B)Radius, C)Proximal Radioulnar, D)Temporomandibular Junction",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Radius/6/Radius_562404.png",
+        "problem": "Which joint does the bone in the picture come from? A)Cuneonavicular Articulation, B)Atlantoaxial, C)First Proximal Interphalangeal, D)Radius",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Radius/3/Radius_304577.png",
+        "problem": "Which joint does the bone in the picture come from? A)Carpal-Metacarpal, B)Radius, C)Knee, D)Costovertebral Junction",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Radius/9/Radius_759255.png",
+        "problem": "Which joint does the bone in the picture come from? A)Ankle Bone, B)Metacarpophalangeal, C)Sternoclavicular, D)Radius",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Radius/6/Radius_457274.png",
+        "problem": "Which joint does the bone in the picture come from? A)Radius, B)Sternoclavicular, C)First Metacarpophalangeal, D)Carpal-Metacarpal",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Ulna/7/Ulna_707366.png",
+        "problem": "Which joint does the bone in the picture come from? A)Wrist, B)Tibiofibular, C)Ulna., D)First Distal Interphalangeal",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Ulna/1/Ulna_496376.png",
+        "problem": "From which joint does the bone in the image originate? A)Acromioclavicular, B)Temporomandibular Junction, C)Temporomandibular, D)Ulna.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Ulna/8/Ulna_285159.png",
+        "problem": "Which joint does the bone in the picture come from? A)Ulna., B)Glenohumeral Connection, C)Knee, D)First Distal Interphalangeal",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Ulna/1/Ulna_400488.png",
+        "problem": "Which joint does the bone in the picture come from? A)Temporomandibular, B)Sternoclavicular Articulation, C)Sacrococcygeal Articulation, D)Ulna.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Ulna/6/Ulna_318115.png",
+        "problem": "Which joint does the bone in the picture come from? A)Ulna., B)Shoulder Blade, C)Wrist, D)First Metacarpophalangeal",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Ulna/8/Ulna_372348.png",
+        "problem": "From which joint does the bone in the image originate? A)Ulna., B)Metacarpophalangeal, C)Lumbar Spine, D)Cervical Spine",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Ulna/1/Ulna_387565.png",
+        "problem": "Which joint does the bone in the picture come from? A)Ulna., B)Carpal-Metacarpal, C)Middle Interphalangeal, D)Pubic Symphysis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Ulna/8/Ulna_51054.png",
+        "problem": "Which joint does the bone in the picture come from? A)Middle Interphalangeal, B)Ulna., C)Hip Bone, D)Ankle Bone",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Ulna/1/Ulna_438539.png",
+        "problem": "From which joint does the bone in the image originate? A)Ulna., B)Cervical Spine, C)Costovertebral Junction, D)Costosternal",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Ulna/7/Ulna_455260.png",
+        "problem": "Which joint does the bone in the picture come from? A)Ulna., B)Tibiofibular, C)Atlantoaxial, D)Costovertebral Junction",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Ulna/7/Ulna_387280.png",
+        "problem": "From which joint does the pictured bone originate? A)Ankle Bone, B)Glenohumeral, C)Ulna., D)Metacarpophalangeal",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Ulna/7/Ulna_341284.png",
+        "problem": "Which joint does the bone in the picture come from? A)First Metacarpophalangeal, B)Carpal-Metacarpal, C)Ankle Bone, D)Ulna.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Ulna/7/Ulna_407141.png",
+        "problem": "Which joint does the bone in the picture come from? A)Tibiofibular, B)Metacarpophalangeal, C)Ulna., D)Costovertebral Junction",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Ulna/7/Ulna_354327.png",
+        "problem": "Which joint does the bone in the picture come from? A)Glenohumeral, B)Cervical Spine, C)Ulna., D)Cuneonavicular Articulation",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Ulna/10/Ulna_33843.png",
+        "problem": "Which joint does the bone in the picture come from? A)Atlantoaxial, B)Ulna., C)Tibiofibular, D)Pubic Symphysial Junction",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Ulna/2/Ulna_413335.png",
+        "problem": "From which joint does the depicted bone originate? A)Ulna., B)Distal Interphalangeal, C)Lumbar Spine, D)Temporomandibular Junction",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Ulna/1/Ulna_355204.png",
+        "problem": "From which joint does the bone in the image originate? A)Temporomandibular, B)Cervical Spine, C)Ulna., D)Hip Bone",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Ulna/2/Ulna_39728.png",
+        "problem": "Which joint does the bone in the picture come from? A)Knee, B)First Distal Interphalangeal, C)Ulna., D)Middle Interphalangeal",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Ulna/7/Ulna_460190.png",
+        "problem": "Which joint does the bone in the picture come from? A)Metacarpophalangeal, B)Acromioclavicular, C)Ulna., D)Radius",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Ulna/1/Ulna_38667.png",
+        "problem": "Which joint does the bone in the picture come from? A)Ulna., B)Acromioclavicular, C)Knee, D)Costovertebral Junction",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/RUS CHN/Ulna/4/Ulna_532320.png",
+        "problem": "From which joint does the bone in the image originate? A)Ulna., B)Costosternal, C)Sacroiliac, D)First Proximal Interphalangeal",
+        "solution": "<answer> A </answer>"
+    }
+]

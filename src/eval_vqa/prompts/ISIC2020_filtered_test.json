@@ -1,0 +1,1627 @@
+[
+    {
+        "image": "Images/ISIC2020/train/ISIC_8034250.jpg",
+        "problem": "What was the method employed to acquire this image? A)Mammography, B)X-ray, C)Ultrasonography, D)Dermoscopy",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8090739.jpg",
+        "problem": "In the medical field, what technique was employed to capture this image? A)Dermoscopy, B)Computed tomography, C)Endoscopy, D)Electroencephalogram",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8201227.jpg",
+        "problem": "What imaging method was utilized to obtain this picture? A)Dermoscopy, B)Colonoscopy, C)Mammography, D)Magnetic resonance imaging",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8209611.jpg",
+        "problem": "What modality was used to capture this image? A)Computed tomography, B)Colonoscopy, C)Ultrasonography, D)Dermoscopy",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8228671.jpg",
+        "problem": "What technique or method was employed to obtain this image? A)X-ray, B)Mammography, C)Colonoscopy, D)Dermoscopy",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8241770.jpg",
+        "problem": "Which technique was employed to acquire this image? A)Ultrasonography, B)X-ray, C)Dermoscopy, D)Mammography",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8260291.jpg",
+        "problem": "What technique was utilized to obtain this visual representation? A)Dermoscopy, B)Mammography, C)Ultrasonography, D)Electroencephalogram",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8322005.jpg",
+        "problem": "What technique was utilized to obtain this visual representation? A)Electrocardiogram, B)Magnetic resonance imaging, C)Dermoscopy, D)Ultrasonography",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8324870.jpg",
+        "problem": "Which imaging technique was utilized to capture this image? A)Electrocardiogram, B)Dermoscopy, C)Positron emission tomography, D)Computed tomography",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8336956.jpg",
+        "problem": "What method was utilized to obtain this visual representation? A)Endoscopy, B)Dermoscopy, C)Computed tomography, D)Ultrasonography",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8344758.jpg",
+        "problem": "What was the technique employed to obtain this image? A)Endoscopy, B)Positron emission tomography, C)Dermoscopy, D)Mammography",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8357442.jpg",
+        "problem": "Which technique was employed to capture this image? A)Computed tomography, B)Endoscopy, C)Electroencephalogram, D)Dermoscopy",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8380421.jpg",
+        "problem": "What modality was used to capture this image? A)Electroencephalogram, B)Dermoscopy, C)Mammography, D)Colonoscopy",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8397088.jpg",
+        "problem": "What imaging technique was utilized to obtain this picture? A)Electrocardiogram, B)Positron emission tomography, C)Dermoscopy, D)X-ray",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8431668.jpg",
+        "problem": "What technique was utilized for the acquisition of this image? A)Computed tomography, B)Endoscopy, C)Dermoscopy, D)Ultrasonography",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8431681.jpg",
+        "problem": "What modality was used to capture this image? A)Electrocardiogram, B)Dermoscopy, C)Colonoscopy, D)X-ray",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8496078.jpg",
+        "problem": "Which technique was employed to capture this image? A)X-ray, B)Dermoscopy, C)Computed tomography, D)Colonoscopy",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8500006.jpg",
+        "problem": "Which imaging technique was utilized to acquire this image? A)Colonoscopy, B)Electroencephalogram, C)Dermoscopy, D)Endoscopy",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8560381.jpg",
+        "problem": "What imaging technique was employed to capture this picture? A)Dermoscopy, B)Positron emission tomography, C)Magnetic resonance imaging, D)X-ray",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8577010.jpg",
+        "problem": "What technique was utilized to obtain this image? A)Mammography, B)Positron emission tomography, C)Dermoscopy, D)Magnetic resonance imaging",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8606094.jpg",
+        "problem": "What modality was used to capture this image? A)Endoscopy, B)Ultrasonography, C)Dermoscopy, D)X-ray",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8609722.jpg",
+        "problem": "Through which technique was this image obtained? A)Dermoscopy, B)Positron emission tomography, C)Endoscopy, D)Colonoscopy",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8635853.jpg",
+        "problem": "What technique was employed for the acquisition of this image? A)Computed tomography, B)Dermoscopy, C)Endoscopy, D)Electrocardiogram",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8637134.jpg",
+        "problem": "What modality was used to capture this image? A)Dermoscopy, B)X-ray, C)Magnetic resonance imaging, D)Ultrasonography",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8658889.jpg",
+        "problem": "What imaging technique was utilized for obtaining this picture? A)Electrocardiogram, B)Mammography, C)Dermoscopy, D)Computed tomography",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8680421.jpg",
+        "problem": "What modality was used to capture this image? A)Mammography, B)Endoscopy, C)Dermoscopy, D)Colonoscopy",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8681917.jpg",
+        "problem": "What modality was used to capture this image? A)Dermoscopy, B)Computed tomography, C)X-ray, D)Colonoscopy",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8712028.jpg",
+        "problem": "What modality was used to capture this image? A)Ultrasonography, B)Dermoscopy, C)Computed tomography, D)Electrocardiogram",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8725334.jpg",
+        "problem": "What modality was used to capture this image? A)Mammography, B)Dermoscopy, C)Electrocardiogram, D)Ultrasonography",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8758359.jpg",
+        "problem": "What modality was used to capture this image? A)Computed tomography, B)Positron emission tomography, C)Ultrasonography, D)Dermoscopy",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8770401.jpg",
+        "problem": "What technique was utilized to obtain this picture? A)Endoscopy, B)Dermoscopy, C)X-ray, D)Electrocardiogram",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8808909.jpg",
+        "problem": "What modality was used to capture this image? A)Dermoscopy, B)X-ray, C)Computed tomography, D)Positron emission tomography",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8821700.jpg",
+        "problem": "What modality was used to capture this image? A)Electroencephalogram, B)Colonoscopy, C)Positron emission tomography, D)Dermoscopy",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8831176.jpg",
+        "problem": "What method was utilized to acquire this image? A)Magnetic resonance imaging, B)Dermoscopy, C)Electrocardiogram, D)Colonoscopy",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8845339.jpg",
+        "problem": "What technique was utilized to obtain this picture? A)Ultrasonography, B)Magnetic resonance imaging, C)Dermoscopy, D)Positron emission tomography",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8849946.jpg",
+        "problem": "What was the imaging technique used to obtain this picture? A)Endoscopy, B)Colonoscopy, C)Dermoscopy, D)Electrocardiogram",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8865426.jpg",
+        "problem": "What imaging method was employed to acquire this picture? A)Electrocardiogram, B)Ultrasonography, C)Colonoscopy, D)Dermoscopy",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8872158.jpg",
+        "problem": "What was the imaging technique employed to acquire this image? A)Colonoscopy, B)Electrocardiogram, C)Dermoscopy, D)X-ray",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8905642.jpg",
+        "problem": "What modality was used to capture this image? A)Dermoscopy, B)Positron emission tomography, C)Endoscopy, D)Computed tomography",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8917625.jpg",
+        "problem": "What modality was used to capture this image? A)X-ray, B)Colonoscopy, C)Computed tomography, D)Dermoscopy",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8930970.jpg",
+        "problem": "What was the technique employed for obtaining this image? A)Colonoscopy, B)Computed tomography, C)Dermoscopy, D)Electroencephalogram",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8938776.jpg",
+        "problem": "What was the modality employed to obtain this image? A)Ultrasonography, B)Computed tomography, C)X-ray, D)Dermoscopy",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8940715.jpg",
+        "problem": "What technique was employed in obtaining this image? A)Dermoscopy, B)Electrocardiogram, C)Colonoscopy, D)Ultrasonography",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8981700.jpg",
+        "problem": "Which method was employed to obtain this image? A)Dermoscopy, B)Endoscopy, C)Positron emission tomography, D)Colonoscopy",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9043384.jpg",
+        "problem": "What modality was used to capture this image? A)Dermoscopy, B)Ultrasonography, C)Computed tomography, D)Positron emission tomography",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9079849.jpg",
+        "problem": "What modality was used to capture this image? A)Electrocardiogram, B)Dermoscopy, C)Colonoscopy, D)Mammography",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9135750.jpg",
+        "problem": "What modality was used to capture this image? A)Dermoscopy, B)Positron emission tomography, C)Colonoscopy, D)Endoscopy",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9157952.jpg",
+        "problem": "What was the modality employed for acquiring this image? A)Ultrasonography, B)Dermoscopy, C)Colonoscopy, D)Computed tomography",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9182516.jpg",
+        "problem": "What modality was used to capture this image? A)Electroencephalogram, B)Dermoscopy, C)Computed tomography, D)Magnetic resonance imaging",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9199965.jpg",
+        "problem": "What modality was used to capture this image? A)Ultrasonography, B)Endoscopy, C)Dermoscopy, D)X-ray",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9232519.jpg",
+        "problem": "What imaging technique was employed for the acquisition of this picture? A)Dermoscopy, B)Colonoscopy, C)Ultrasonography, D)Electroencephalogram",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9259892.jpg",
+        "problem": "Which imaging technique was applied to obtain this picture? A)Magnetic resonance imaging, B)Positron emission tomography, C)Dermoscopy, D)Ultrasonography",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9291926.jpg",
+        "problem": "Which imaging technique was employed to capture this image? A)Electroencephalogram, B)Magnetic resonance imaging, C)Dermoscopy, D)Computed tomography",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9308275.jpg",
+        "problem": "What imaging method was employed to obtain this picture? A)X-ray, B)Ultrasonography, C)Dermoscopy, D)Endoscopy",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9324486.jpg",
+        "problem": "What was the imaging technique employed to capture this image? A)Colonoscopy, B)Electroencephalogram, C)Dermoscopy, D)Positron emission tomography",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9351516.jpg",
+        "problem": "What technique was employed to acquire this image? A)Positron emission tomography, B)Electrocardiogram, C)Dermoscopy, D)Magnetic resonance imaging",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9356306.jpg",
+        "problem": "Which method was utilized to obtain this image? A)Endoscopy, B)Dermoscopy, C)Positron emission tomography, D)Ultrasonography",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9361984.jpg",
+        "problem": "What imaging technique was employed to capture this image? A)Dermoscopy, B)Ultrasonography, C)Mammography, D)Colonoscopy",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9364879.jpg",
+        "problem": "What technique was utilized in obtaining this image? A)Endoscopy, B)Electrocardiogram, C)Dermoscopy, D)Positron emission tomography",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9472515.jpg",
+        "problem": "What modality was used to capture this image? A)Magnetic resonance imaging, B)Mammography, C)Dermoscopy, D)X-ray",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9499654.jpg",
+        "problem": "Which technique was utilized to acquire this image? A)Electrocardiogram, B)Ultrasonography, C)Colonoscopy, D)Dermoscopy",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9503498.jpg",
+        "problem": "In what modality was this image captured? A)Computed tomography, B)X-ray, C)Dermoscopy, D)Electroencephalogram",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9542791.jpg",
+        "problem": "What was the imaging technique used to obtain this picture? A)Electroencephalogram, B)Positron emission tomography, C)Ultrasonography, D)Dermoscopy",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9543945.jpg",
+        "problem": "What was the technique employed to obtain this picture? A)Computed tomography, B)Mammography, C)Dermoscopy, D)X-ray",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9546061.jpg",
+        "problem": "Which method was utilized to obtain this image? A)Dermoscopy, B)Computed tomography, C)Colonoscopy, D)Electroencephalogram",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9560483.jpg",
+        "problem": "What modality was used to capture this image? A)Magnetic resonance imaging, B)Dermoscopy, C)Electrocardiogram, D)X-ray",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9582886.jpg",
+        "problem": "What modality was used to capture this image? A)Colonoscopy, B)Positron emission tomography, C)Mammography, D)Dermoscopy",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9619162.jpg",
+        "problem": "What technique was employed to acquire this picture? A)Electroencephalogram, B)Dermoscopy, C)Computed tomography, D)Magnetic resonance imaging",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9632819.jpg",
+        "problem": "What modality was used to capture this image? A)Colonoscopy, B)Dermoscopy, C)Computed tomography, D)Magnetic resonance imaging",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9636881.jpg",
+        "problem": "Which imaging technique was employed to capture this image? A)Positron emission tomography, B)Electrocardiogram, C)Dermoscopy, D)Mammography",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9699520.jpg",
+        "problem": "What method was utilized to acquire this picture? A)Ultrasonography, B)Dermoscopy, C)Colonoscopy, D)Computed tomography",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9880108.jpg",
+        "problem": "What type of examination was utilized to obtain this image? A)Electrocardiogram, B)Magnetic resonance imaging, C)Dermoscopy, D)Ultrasonography",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9889201.jpg",
+        "problem": "What imaging technique was employed for this image? A)Colonoscopy, B)Dermoscopy, C)Electroencephalogram, D)Ultrasonography",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8041078.jpg",
+        "problem": "Does the abnormality in this image demonstrate characteristics of being benign or malignant? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8065339.jpg",
+        "problem": "Does this image indicate a benign or malignant condition? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8066191.jpg",
+        "problem": "Does the abnormality in this image indicate malignancy or is it benign? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8076729.jpg",
+        "problem": "Is the image in question indicative of a benign or malignant abnormality? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8086499.jpg",
+        "problem": "Is the abnormality in this picture indicative of a benign or malignant condition? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8089289.jpg",
+        "problem": "Is the anomaly in this image of a benign or malignant nature? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8108008.jpg",
+        "problem": "Does this image demonstrate a benign or malignant abnormality? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8118367.jpg",
+        "problem": "Is the abnormality shown in this image classified as benign or malignant? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8127242.jpg",
+        "problem": "Is the abnormality in this image benign or malignant? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8130862.jpg",
+        "problem": "Does the abnormality in this image show characteristics of a benign or malignant nature? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8153195.jpg",
+        "problem": "Is the pathology depicted in this image benign or malignant? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8160596.jpg",
+        "problem": "Is the anomaly in this picture indicative of benignity or malignancy? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8165133.jpg",
+        "problem": "Is the aberration depicted in this image classified as benign or malignant? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8166819.jpg",
+        "problem": "Is this image displaying a benign or malignant abnormality? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8167414.jpg",
+        "problem": "Does the image show a benign or malignant abnormality? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8168598.jpg",
+        "problem": "Does the abnormality in this image represent a benign feature or a malignant feature? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8177391.jpg",
+        "problem": "Does this image indicate a benign or malignant condition? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8179839.jpg",
+        "problem": "Is the abnormality in this image benign or malignant? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8183419.jpg",
+        "problem": "Is the abnormality in the given image classified as benign or malignant? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8207792.jpg",
+        "problem": "Is the abnormality seen in the image considered benign or malignant? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8218609.jpg",
+        "problem": "Is the feature in this image indicative of a benign or malignant state? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8227913.jpg",
+        "problem": "Is the abnormality observed in this image non-cancerous or cancerous? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8230731.jpg",
+        "problem": "Does the abnormality in this image exhibit characteristics of being non-cancerous or cancerous? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8231949.jpg",
+        "problem": "Is the abnormality in this image indicative of a benign or malignant condition? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8236112.jpg",
+        "problem": "Does this image represent a benign or malignant abnormality? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8246523.jpg",
+        "problem": "Is the image's abnormality of a benign or malignant nature? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8247802.jpg",
+        "problem": "Is the abnormality in this image harmless or cancerous? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8250872.jpg",
+        "problem": "Is the abnormality depicted in this image harmless or cancerous? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8258795.jpg",
+        "problem": "What is the nature of the abnormality depicted in this image, benign or malignant? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8265045.jpg",
+        "problem": "Is the irregularity in this picture classified as benign or malignant? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8265669.jpg",
+        "problem": "Is the anomaly in this picture cancerous or non-cancerous? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8268025.jpg",
+        "problem": "Is the anomaly in this image of a harmless nature or does it have the potential to be cancerous? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8272013.jpg",
+        "problem": "Does the anomaly in this picture classify as benign or malignant? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8285361.jpg",
+        "problem": "Is the abnormality in this image deemed malignant or benign? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8303710.jpg",
+        "problem": "Is the abnormality in this image deemed malignant or benign? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8314368.jpg",
+        "problem": "Is the abnormality in this image benign or malignant? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8316216.jpg",
+        "problem": "Is the image showing an abnormality classified as benign or malignant? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8327485.jpg",
+        "problem": "Is the image classified as benign or malignant? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8341461.jpg",
+        "problem": "Does the anomaly depicted in the photograph represent a benign or malignant condition? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8347165.jpg",
+        "problem": "Does this image depict a benign or malignant condition? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8352232.jpg",
+        "problem": "Is the image in question in a benign or malignant state? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8375982.jpg",
+        "problem": "Is this image indicating a benign or malignant abnormality? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8406465.jpg",
+        "problem": "Is this image indicative of a malignant or benign abnormality? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8417739.jpg",
+        "problem": "Is the image's abnormality diagnosed as benign or malignant? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8420927.jpg",
+        "problem": "Is the abnormality in this image categorized as benign or malignant? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8430749.jpg",
+        "problem": "Is the abnormality depicted in this image harmless or cancerous? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8434081.jpg",
+        "problem": "Does this image show a benign or malignant condition? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8451301.jpg",
+        "problem": "Is the image abnormality in this image classified as benign or malignant? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8454600.jpg",
+        "problem": "Is the aberration in this image indicative of a benign or malignant condition? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8458669.jpg",
+        "problem": "Is the observed image showing a benign or malignant abnormality? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8466745.jpg",
+        "problem": "Is the abnormality in this image considered non-cancerous or cancerous? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8467955.jpg",
+        "problem": "Does the abnormality in this image exhibit signs of malignancy or benignancy? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8475324.jpg",
+        "problem": "Is the abnormality in this image considered to be cancerous or non-cancerous? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8483490.jpg",
+        "problem": "Is the image in question considered as benign or malignant? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8484660.jpg",
+        "problem": "What is the nature of the abnormality in this image, benign or malignant? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8485142.jpg",
+        "problem": "Does the image in question exhibit a benign or malignant abnormality? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8485199.jpg",
+        "problem": "Does this image indicate a benign or malignant condition? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8494551.jpg",
+        "problem": "Is the pathology depicted in this image benign or malignant? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8502341.jpg",
+        "problem": "Is the image in question categorically benign or malignant? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8507519.jpg",
+        "problem": "Does the abnormality in this image exhibit characteristics of being non-cancerous or cancerous? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8510741.jpg",
+        "problem": "Is the image abnormality categorized as benign or malignant? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8515281.jpg",
+        "problem": "Does the irregularity shown in this picture represent a non-cancerous or cancerous condition? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8519931.jpg",
+        "problem": "Is the abnormality in this image benign or malignant? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8523143.jpg",
+        "problem": "Is the anomaly in this image considered to be harmless or cancerous? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8526902.jpg",
+        "problem": "Is the image showing in this case indicative of a benign or malignant abnormality? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8531942.jpg",
+        "problem": "Is the abnormality depicted in this image classified as benign or malignant? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8539883.jpg",
+        "problem": "Is the abnormality depicted in the image benign or malignant? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8545097.jpg",
+        "problem": "Could the abnormality in this image be classified as benign or malignant? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8545141.jpg",
+        "problem": "Is the aberration depicted in this image indicative of a benign or malignant condition? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8555379.jpg",
+        "problem": "Does the image in question indicate a benign or malignant abnormality? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8579466.jpg",
+        "problem": "Is the image shown in the abnormality benign or malignant? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8584628.jpg",
+        "problem": "Is the image's anomaly benign or malignant? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8587542.jpg",
+        "problem": "Does the image show a benign or malignant abnormality? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8587822.jpg",
+        "problem": "What is the nature of the abnormality in this image - benign or malignant? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8595896.jpg",
+        "problem": "Is the abnormality in this image indicating a benign or malignant condition? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8598545.jpg",
+        "problem": "Does the abnormality in this image demonstrate characteristics of being benign or malignant? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8610377.jpg",
+        "problem": "Does the abnormality in this image demonstrate characteristics of being benign or malignant? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8611845.jpg",
+        "problem": "Is the image abnormality in this picture determined to be benign or malignant? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8623743.jpg",
+        "problem": "Is the anomaly in this image indicative of a benign or malignant condition? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8636598.jpg",
+        "problem": "Is the abnormality depicted in the image harmless or cancerous? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8637134.jpg",
+        "problem": "Is the abnormal image in this case malignant or benign? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8663971.jpg",
+        "problem": "Is the anomaly in this picture considered as benign or malignant? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8675233.jpg",
+        "problem": "Is there malignancy present in this image? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8679617.jpg",
+        "problem": "What is the nature of the abnormality in this image, benign or malignant? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8689112.jpg",
+        "problem": "Is the anomaly in this picture indicative of benign or malignant? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8689144.jpg",
+        "problem": "Does the abnormality in this image display characteristics of a benign or malignant nature? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8702191.jpg",
+        "problem": "What type of abnormality is present in this image - benign or malignant? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8705729.jpg",
+        "problem": "Is the anomaly in this picture malignant or benign? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8714502.jpg",
+        "problem": "Is the image in question exhibiting a benign or malignant abnormality? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8719883.jpg",
+        "problem": "Is the image displayed in this case indicative of a benign or malignant abnormality? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8736590.jpg",
+        "problem": "Is the abnormality depicted in this image considered benign or malignant? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8738598.jpg",
+        "problem": "Is the image in question cancerous or non-cancerous? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8764094.jpg",
+        "problem": "Is the anomaly in this picture considered as benign or malignant? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8778158.jpg",
+        "problem": "Does the anomalousity in this picture indicate a benign or malignant condition? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8791163.jpg",
+        "problem": "Is the image abnormality in this picture considered to be of a benign or malignant nature? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8812621.jpg",
+        "problem": "Is the abnormality observed in this image non-cancerous or cancerous? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8814398.jpg",
+        "problem": "Does this image show a benign or malignant abnormality? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8816494.jpg",
+        "problem": "Is the abnormality in this image considered cancerous or non-cancerous? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8817986.jpg",
+        "problem": "Is the image in question of a benign or malignant nature? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8822016.jpg",
+        "problem": "Is the observed anomaly in this image indicative of a benign or malignant condition? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8837100.jpg",
+        "problem": "Are the characteristics of this image indicative of a benign or malignant abnormality? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8840271.jpg",
+        "problem": "Is the abnormality in this image considered to be benign or malignant? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8858597.jpg",
+        "problem": "Is the image in question showing benign or malignant abnormality? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8867555.jpg",
+        "problem": "Is the aberration in this picture classified as benign or malignant? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8871461.jpg",
+        "problem": "Is the anomaly depicted in this image indicating a benign or malignant condition? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8873236.jpg",
+        "problem": "Does this image indicate a benign or malignant condition? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8883577.jpg",
+        "problem": "Is the abnormality in this image non-cancerous or cancerous? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8886415.jpg",
+        "problem": "Is the anomaly in this picture an example of a benign or malignant condition? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8894948.jpg",
+        "problem": "Is the image in question indicating a benign or malignant abnormality? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8898151.jpg",
+        "problem": "Is the anomaly in this picture of a harmless nature or indicative of malignancy? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8898156.jpg",
+        "problem": "Does this image indicate a benign or malignant condition? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8903932.jpg",
+        "problem": "Is the abnormality in the image noncancerous or cancerous? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8921092.jpg",
+        "problem": "Is the anomaly shown in this image a benign or malignant one? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8935114.jpg",
+        "problem": "Is the image's anomaly benign or malignant? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8938615.jpg",
+        "problem": "Is the anomaly depicted in the image categorized as benign or malignant? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8942401.jpg",
+        "problem": "Is the image in this case indicative of a benign or malignant abnormality? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8966915.jpg",
+        "problem": "Does the abnormality in the image have a benign or malignant nature? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8969305.jpg",
+        "problem": "Does the image in question show an abnormality that is benign or malignant? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8974464.jpg",
+        "problem": "Does the abnormality in this image indicate a benign condition or a malignant condition? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8978063.jpg",
+        "problem": "Does the abnormality in this image indicate a benign or malignant condition? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8979622.jpg",
+        "problem": "Is the anomaly displayed in this image indicative of a benign or malignant condition? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8993666.jpg",
+        "problem": "Is the abnormality in this image considered to be a benign or malignant? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8995356.jpg",
+        "problem": "Is the abnormality observed in this image considered benign or malignant? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9005312.jpg",
+        "problem": "Does the image show a benign or malignant abnormality? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9013967.jpg",
+        "problem": "Does the abnormality depicted in the picture indicate a benign or malignant condition? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9030907.jpg",
+        "problem": "Is the anomaly depicted in this image deemed benign or malignant? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9050685.jpg",
+        "problem": "Is the image abnormality in this picture indicative of a benign or malignant condition? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9051856.jpg",
+        "problem": "Does this image depict a benign or malignant condition? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9060377.jpg",
+        "problem": "What is the nature of the abnormality depicted in this image, benign or malignant? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9118842.jpg",
+        "problem": "Is the image abnormality diagnosed as benign or malignant? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9119297.jpg",
+        "problem": "Does the abnormality in this image display characteristics of being benign or malignant? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9124500.jpg",
+        "problem": "Is the image abnormality in this picture characterized as benign or malignant? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9128031.jpg",
+        "problem": "Does the abnormality in this image show malignancy or benignancy? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9135390.jpg",
+        "problem": "Is the anomaly depicted in this image of a benign nature or is it malignant? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9137479.jpg",
+        "problem": "Is the anomaly in this image non-cancerous or cancerous? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9141613.jpg",
+        "problem": "Is the anomaly in this image indicative of a benign or malignant condition? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9165807.jpg",
+        "problem": "Does the abnormality in this image correspond to a benign condition or a malignant condition? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9191270.jpg",
+        "problem": "Do the findings in this image indicate a benign or malignant abnormality? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9198657.jpg",
+        "problem": "Does the image showing an abnormality indicate a benign or malignant condition? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9199158.jpg",
+        "problem": "Is the anomaly observed in this image benign or malignant? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9207328.jpg",
+        "problem": "Is the anomaly in this picture a benign or malignant one? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9208953.jpg",
+        "problem": "Is the abnormality observed in this image indicative of a harmless or cancerous condition? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9227253.jpg",
+        "problem": "Is the anomaly observed in this image benign or malignant? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9228729.jpg",
+        "problem": "Is the image abnormality in this picture harmless or cancerous? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9252122.jpg",
+        "problem": "Is the image displayed in this case benign or malignant? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9260395.jpg",
+        "problem": "Is the abnormality in this image deemed as benign or malignant? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9262162.jpg",
+        "problem": "Is the abnormality in this image deemed malignant or benign? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9267392.jpg",
+        "problem": "Is the image abnormality of benign or malignant nature? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9284203.jpg",
+        "problem": "Does this image indicate a benign or malignant condition? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9290785.jpg",
+        "problem": "Is the anomaly present in this image categorized as benign or malignant? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9299483.jpg",
+        "problem": "Does the image show a benign or malignant abnormality? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9308808.jpg",
+        "problem": "Is the image shown in this case indicative of a benign or malignant abnormality? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9320090.jpg",
+        "problem": "Is the image in question of a benign or malignant nature? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9321383.jpg",
+        "problem": "Does the abnormality in this image fall into the category of benign or malignant? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9325164.jpg",
+        "problem": "Is the finding in this image indicative of a benign or malignant condition? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9330083.jpg",
+        "problem": "Is the abnormality depicted in this image considered benign or malignant? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9334145.jpg",
+        "problem": "Does the anomaly depicted in this photograph represent a benign or a malignant condition? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9336830.jpg",
+        "problem": "Does the abnormality shown in this image have a benign or malignant nature? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9349930.jpg",
+        "problem": "Is this image classified as benign or malignant? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9350507.jpg",
+        "problem": "Is the image presenting a benign or malignant abnormality? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9354947.jpg",
+        "problem": "Is the finding in this image indicative of a benign or malignant condition? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9390107.jpg",
+        "problem": "Is the anomaly shown in this image a benign or malignant one? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9407448.jpg",
+        "problem": "Does the abnormality in this image indicate malignancy or benignancy? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9414126.jpg",
+        "problem": "Is the abnormality in this image classified as a benign or malignant condition? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9430349.jpg",
+        "problem": "Is the abnormality in this image indicative of a benign or a malignant condition? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9443184.jpg",
+        "problem": "Does the abnormality in this image have a benign or malignant characteristic? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9462346.jpg",
+        "problem": "Is the image in this case classified as benign or malignant? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9463865.jpg",
+        "problem": "Is the abnormality displayed in the image classified as benign or malignant? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9472975.jpg",
+        "problem": "Is the anomaly within this image of a benign or malignant nature? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9492603.jpg",
+        "problem": "Does the abnormality in this image show signs of being malignant or benign? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9496339.jpg",
+        "problem": "Does this image indicate a benign or malignant condition? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9509992.jpg",
+        "problem": "Is the image abnormality classified as benign or malignant? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9516457.jpg",
+        "problem": "Does the image indicate the presence of a benign or malignant abnormality? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9524576.jpg",
+        "problem": "Does the anomaly depicted in this photograph represent a benign or malignant condition? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9534978.jpg",
+        "problem": "Does the abnormality in this image belong to the category of benign or malignant? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9545150.jpg",
+        "problem": "Is the anomaly depicted in this image categorized as benign or malignant? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9545346.jpg",
+        "problem": "Is the anomaly in the image considered benign or malignant? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9551360.jpg",
+        "problem": "Is the abnormality in the image classified as benign or malignant? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9557058.jpg",
+        "problem": "Is the abnormality in this image indicative of a malignancy or a benign condition? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9560298.jpg",
+        "problem": "Is the image in question of a benign or malignant nature? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9562399.jpg",
+        "problem": "Is the anomaly in this picture characterized as benign or malignant? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9563972.jpg",
+        "problem": "Is the abnormality in this image indicative of a benign condition or a malignant condition? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9565194.jpg",
+        "problem": "Is the abnormality in this image a benign or malignant condition? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9565803.jpg",
+        "problem": "Does this image indicate a benign or malignant condition? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9567812.jpg",
+        "problem": "Is the anomaly in the picture benign or malignant? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9574488.jpg",
+        "problem": "Is the abnormality in this image cancerous or noncancerous? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9581645.jpg",
+        "problem": "Is this image depicting a benign or malignant abnormality? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9597139.jpg",
+        "problem": "Is the anomaly in this image categorized as benign or malignant? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9598638.jpg",
+        "problem": "Is the image abnormality characterized as benign or malignant? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9607252.jpg",
+        "problem": "What is the nature of the abnormality in this image, benign or malignant? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9624268.jpg",
+        "problem": "Is the image in question indicative of a benign or malignant abnormality? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9628370.jpg",
+        "problem": "Is the abnormality in the image determined to be benign or malignant? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9631792.jpg",
+        "problem": "Is the image in question benign or malignant in terms of its abnormality? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9655520.jpg",
+        "problem": "Does the abnormality in this image fall under the category of benign or malignant? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9682376.jpg",
+        "problem": "Is the image abnormality in this picture cancerous or non-cancerous? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9693759.jpg",
+        "problem": "Is the image in question of a benign or malignant nature? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9711851.jpg",
+        "problem": "Is the abnormality observed in this image classified as benign or malignant? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9713706.jpg",
+        "problem": "Would you classify the abnormality in this image as benign or malignant? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9718067.jpg",
+        "problem": "Is the image abnormality in this case considered benign or malignant? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9742040.jpg",
+        "problem": "Is the image showing an abnormality classified as benign or malignant? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9749056.jpg",
+        "problem": "Is the abnormality depicted in the image harmless or cancerous? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9762609.jpg",
+        "problem": "Is the image depicted in this abnormality benign or malignant? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9780031.jpg",
+        "problem": "Is the image's abnormality diagnosed as benign or malignant? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9801917.jpg",
+        "problem": "Is the image abnormality in question noncancerous or cancerous? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9824211.jpg",
+        "problem": "What is the nature (benign or malignant) of the abnormality shown in this image? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9829605.jpg",
+        "problem": "Does the abnormality in this image appear benign or malignant? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9834264.jpg",
+        "problem": "Is the image in question benign or malignant in terms of the abnormality present in it? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9843688.jpg",
+        "problem": "Is the image abnormality in this case considered benign or malignant? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9853411.jpg",
+        "problem": "Is the anomaly in this picture considered harmless or cancerous? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9855682.jpg",
+        "problem": "Does the abnormality in this image depict a benign or malignant characteristic? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9858883.jpg",
+        "problem": "Is the anomaly shown in this image indicative of a benign or malignant condition? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9861674.jpg",
+        "problem": "Is the abnormality seen in this image benign or malignant? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9865682.jpg",
+        "problem": "Is the abnormality in this image characterized as benign or malignant? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9872410.jpg",
+        "problem": "Is the abnormality depicted in this image of a benign or malignant nature? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9885953.jpg",
+        "problem": "Is the image abnormality deemed to be benign or malignant? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9891484.jpg",
+        "problem": "Does the abnormality in this image fall into the benign or malignant category? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9907793.jpg",
+        "problem": "Is the image showing an abnormality classified as benign or malignant? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9908982.jpg",
+        "problem": "Is the abnormality in this image indicative of malignancy or benignity? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9909792.jpg",
+        "problem": "Is the abnormality observed in this image indicative of a benign or malignant condition? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9918333.jpg",
+        "problem": "Does the abnormality in this image show malignancy or benignancy? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9930252.jpg",
+        "problem": "Is the abnormality in this image benign or malignant? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9939197.jpg",
+        "problem": "Is the abnormality in this image classified as a benign or malignant condition? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9954010.jpg",
+        "problem": "Is the condition in this image harmless or cancerous? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9954915.jpg",
+        "problem": "Is the feature in this image indicative of a benign or malignant state? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9960855.jpg",
+        "problem": "Does this image indicate a benign or malignant condition? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9975037.jpg",
+        "problem": "Is the image in question deemed benign or malignant? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9975260.jpg",
+        "problem": "Is the anomaly displayed in this image considered benign or malignant? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9991394.jpg",
+        "problem": "Does the abnormality in this image present a benign or malignant nature? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9995691.jpg",
+        "problem": "Is the irregularity in this picture harmless or cancerous? A)Malignant, B)Benign image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9999134.jpg",
+        "problem": "Is the anomaly in this picture categorized as benign or malignant? A)Benign image., B)Malignant",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8068693.jpg",
+        "problem": "Is the abnormality depicted in this image classified as benign or malignant? A)Malignant, B)Benign",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8281208.jpg",
+        "problem": "Is the abnormality in this image determined to be benign or malignant? A)Malignant, B)Benign",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8493108.jpg",
+        "problem": "Is the anomaly in this image indicative of a benign or malignant condition? A)Benign, B)Malignant",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8509577.jpg",
+        "problem": "Is the irregularity in this image benign or malignant? A)Benign, B)Malignant",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8527092.jpg",
+        "problem": "Does the abnormality in this image denote a malignancy or benignity? A)Benign, B)Malignant",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8609756.jpg",
+        "problem": "Is the abnormality in this image cancerous or non-cancerous? A)Benign, B)Malignant",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8677053.jpg",
+        "problem": "Does the abnormality in this image have a benign or malignant nature? A)Benign, B)Malignant",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8702237.jpg",
+        "problem": "Is the abnormality in this image cancerous or noncancerous? A)Malignant, B)Benign",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8732757.jpg",
+        "problem": "Is the abnormality in this image cancerous or non-cancerous? A)Benign, B)Malignant",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_8859274.jpg",
+        "problem": "Is the anomaly in this image harmless or cancerous? A)Benign, B)Malignant",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9038318.jpg",
+        "problem": "Is the anomaly in this image harmless or cancerous? A)Malignant, B)Benign",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9130157.jpg",
+        "problem": "Is the abnormality depicted in this image classified as benign or malignant? A)Malignant, B)Benign",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9164054.jpg",
+        "problem": "Is the abnormality in this image classified as benign or malignant? A)Malignant, B)Benign",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9174306.jpg",
+        "problem": "Is the abnormality in this image harmless or cancerous? A)Malignant, B)Benign",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9199429.jpg",
+        "problem": "Does the anomaly depicted in this photograph represent a benign or malignant condition? A)Benign, B)Malignant",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9402324.jpg",
+        "problem": "Is the anomaly in this image benign or malignant? A)Malignant, B)Benign",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9548821.jpg",
+        "problem": "Is the abnormality in this image cancerous or noncancerous? A)Malignant, B)Benign",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9596721.jpg",
+        "problem": "Is the aberration in this image categorized as benign or malignant? A)Malignant, B)Benign",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9785077.jpg",
+        "problem": "Is the pathology in this image benign or malignant? A)Benign, B)Malignant",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9821002.jpg",
+        "problem": "Is the anomaly in this image cancerous or non-cancerous? A)Benign, B)Malignant",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9870885.jpg",
+        "problem": "Is the abnormality in this image harmless or cancerous? A)Benign, B)Malignant",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2020/train/ISIC_9978107.jpg",
+        "problem": "Is the abnormality in this image malignant or benign? A)Benign, B)Malignant",
+        "solution": "<answer> B </answer>"
+    }
+]

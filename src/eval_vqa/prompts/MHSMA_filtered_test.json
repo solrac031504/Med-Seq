@@ -1,0 +1,1237 @@
+[
+    {
+        "image": "Images/MHSMA/test/test_106.jpg",
+        "problem": "What imaging modality was used to capture this image? A)microscopy., B)Nuclear medicine scan, C)Angiogram, D)PET scan",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_270.jpg",
+        "problem": "What imaging technique was utilized to obtain this picture? A)MRI, B)Electroencephalogram (EEG), C)microscopy., D)Nuclear medicine scan",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_113.jpg",
+        "problem": "What method of imaging was utilized to obtain this visual representation? A)Electrocardiogram (ECG), B)X-ray, C)microscopy., D)Angiogram",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_192.jpg",
+        "problem": "What imaging modality was used to capture this image? A)Mammogram, B)microscopy., C)Electroencephalogram (EEG), D)MRI",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_1.jpg",
+        "problem": "Is the acrosome in the provided image of the sperm showing any irregularities? A)Yes, the acrosome is unusually large in the provided image., B)No, the acrosome is completely absent in the provided image., C)No, the acrosome is discolored and shows signs of deterioration in the provided image., D)No, the acrosome appears to be normal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_15.jpg",
+        "problem": "Is there any sign of abnormality in the acrosome shown in the given image of the sperm? A)No, the acrosome appears to be normal., B)No, the acrosome is completely absent in the provided image., C)Yes, the acrosome is unusually large in the provided image., D)No, the acrosome is enlarged and asymmetrical in the provided image.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_23.jpg",
+        "problem": "Is there any indication of abnormality in the acrosome shown in the provided image of the sperm? A)No, the acrosome is discolored and shows signs of deterioration in the provided image., B)No, the acrosome is completely absent in the provided image., C)No, the acrosome appears to be normal., D)Yes, the acrosome is misshapen and fragmented in the provided image.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_59.jpg",
+        "problem": "Is the acrosome in the provided image of the sperm showing any irregularities? A)No, the acrosome is discolored and shows signs of deterioration in the provided image., B)Yes, the acrosome is misshapen and fragmented in the provided image., C)Yes, the acrosome is unusually large in the provided image., D)No, the acrosome appears to be normal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_63.jpg",
+        "problem": "Is there any abnormality seen in the acrosome of the sperm image provided? A)No, the acrosome is discolored and shows signs of deterioration in the provided image., B)Yes, the acrosome is misshapen and fragmented in the provided image., C)Yes, the acrosome is unusually large in the provided image., D)No, the acrosome appears to be normal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_64.jpg",
+        "problem": "Is there any evidence of abnormalities in the acrosome depicted in the given sperm image? A)No, the acrosome appears to be normal., B)Yes, the acrosome is misshapen and fragmented in the provided image., C)No, the acrosome is discolored and shows signs of deterioration in the provided image., D)No, the acrosome is completely absent in the provided image.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_92.jpg",
+        "problem": "Is there any evidence of abnormality in the acrosome shown in the provided sperm image? A)No, the acrosome is enlarged and asymmetrical in the provided image., B)Yes, the acrosome is misshapen and fragmented in the provided image., C)No, the acrosome is discolored and shows signs of deterioration in the provided image., D)No, the acrosome appears to be normal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_93.jpg",
+        "problem": "Is the acrosome in the given sperm image displaying any anomalies? A)Yes, the acrosome is unusually large in the provided image., B)No, the acrosome is enlarged and asymmetrical in the provided image., C)Yes, the acrosome is misshapen and fragmented in the provided image., D)No, the acrosome appears to be normal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_96.jpg",
+        "problem": "Is there any visible abnormality in the acrosome of the sperm image provided? A)Yes, the acrosome is unusually large in the provided image., B)Yes, the acrosome is misshapen and fragmented in the provided image., C)No, the acrosome is enlarged and asymmetrical in the provided image., D)No, the acrosome appears to be normal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_105.jpg",
+        "problem": "Is the acrosome in the provided sperm image showing any abnormalities? A)No, the acrosome is completely absent in the provided image., B)No, the acrosome appears to be normal., C)Yes, the acrosome is misshapen and fragmented in the provided image., D)No, the acrosome is discolored and shows signs of deterioration in the provided image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_110.jpg",
+        "problem": "Is there any sign of abnormality in the acrosome of the depicted sperm in the image? A)No, the acrosome is completely absent in the provided image., B)Yes, the acrosome is misshapen and fragmented in the provided image., C)No, the acrosome is discolored and shows signs of deterioration in the provided image., D)No, the acrosome appears to be normal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_121.jpg",
+        "problem": "Is the acrosome in the provided sperm image abnormal in any way? A)No, the acrosome is completely absent in the provided image., B)Yes, the acrosome is misshapen and fragmented in the provided image., C)No, the acrosome appears to be normal., D)No, the acrosome is discolored and shows signs of deterioration in the provided image.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_137.jpg",
+        "problem": "Is there any abnormality observed in the acrosome of the provided sperm image? A)No, the acrosome is discolored and shows signs of deterioration in the provided image., B)No, the acrosome is completely absent in the provided image., C)Yes, the acrosome is unusually large in the provided image., D)No, the acrosome appears to be normal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_144.jpg",
+        "problem": "Is there any evidence of abnormality in the acrosome shown in the provided sperm image? A)Yes, the acrosome is misshapen and fragmented in the provided image., B)Yes, the acrosome is unusually large in the provided image., C)No, the acrosome is completely absent in the provided image., D)No, the acrosome appears to be normal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_179.jpg",
+        "problem": "Is there any evidence of abnormalities in the acrosome in the provided image of the sperm? A)Yes, the acrosome is misshapen and fragmented in the provided image., B)No, the acrosome appears to be normal., C)No, the acrosome is completely absent in the provided image., D)No, the acrosome is enlarged and asymmetrical in the provided image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_184.jpg",
+        "problem": "Is there any evidence of abnormalities in the acrosome of the sperm image provided? A)No, the acrosome appears to be normal., B)Yes, the acrosome is misshapen and fragmented in the provided image., C)No, the acrosome is completely absent in the provided image., D)Yes, the acrosome is unusually large in the provided image.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_191.jpg",
+        "problem": "Is the acrosome in the given image of the sperm displaying any irregularities? A)No, the acrosome is discolored and shows signs of deterioration in the provided image., B)No, the acrosome is enlarged and asymmetrical in the provided image., C)No, the acrosome appears to be normal., D)Yes, the acrosome is misshapen and fragmented in the provided image.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_203.jpg",
+        "problem": "Is there any evidence of abnormalities in the acrosome in the displayed image of the sperm? A)No, the acrosome is completely absent in the provided image., B)No, the acrosome appears to be normal., C)No, the acrosome is discolored and shows signs of deterioration in the provided image., D)Yes, the acrosome is misshapen and fragmented in the provided image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_214.jpg",
+        "problem": "Is the acrosome in the provided image of the sperm showing any abnormalities? A)Yes, the acrosome is unusually large in the provided image., B)No, the acrosome is discolored and shows signs of deterioration in the provided image., C)No, the acrosome is enlarged and asymmetrical in the provided image., D)No, the acrosome appears to be normal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_267.jpg",
+        "problem": "Is there any abnormality present in the acrosome seen in the provided image of sperm? A)Yes, the acrosome is unusually large in the provided image., B)No, the acrosome appears to be normal., C)Yes, the acrosome is misshapen and fragmented in the provided image., D)No, the acrosome is enlarged and asymmetrical in the provided image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_272.jpg",
+        "problem": "Is there anything abnormal observed in the acrosome of the depicted sperm image? A)Yes, the acrosome is unusually large in the provided image., B)No, the acrosome is enlarged and asymmetrical in the provided image., C)Yes, the acrosome is misshapen and fragmented in the provided image., D)No, the acrosome appears to be normal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_276.jpg",
+        "problem": "Is the acrosome in the depicted sperm image showing any irregularities? A)No, the acrosome is completely absent in the provided image., B)Yes, the acrosome is unusually large in the provided image., C)No, the acrosome is discolored and shows signs of deterioration in the provided image., D)No, the acrosome appears to be normal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_8.jpg",
+        "problem": "Is there any abnormality observed in the acrosome depicted in the sperm image provided? A)No, the acrosome is discolored and shows signs of deterioration in the provided image., B)Yes, the acrosome is unusually large in the provided image., C)No, the acrosome is enlarged and asymmetrical in the provided image., D)No, the acrosome appears to be normal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_22.jpg",
+        "problem": "Is the acrosome in the provided image of the sperm indicative of any abnormalities? A)Yes, the acrosome is unusually large in the provided image., B)No, the acrosome is enlarged and asymmetrical in the provided image., C)No, the acrosome appears to be normal., D)No, the acrosome is discolored and shows signs of deterioration in the provided image.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_31.jpg",
+        "problem": "Is the acrosome in the provided sperm image normal? A)No, the acrosome appears to be normal., B)Yes, the acrosome is misshapen and fragmented in the provided image., C)No, the acrosome is discolored and shows signs of deterioration in the provided image., D)No, the acrosome is enlarged and asymmetrical in the provided image.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_48.jpg",
+        "problem": "Is there any abnormality observed in the acrosome of the displayed sperm image? A)Yes, the acrosome is misshapen and fragmented in the provided image., B)Yes, the acrosome is unusually large in the provided image., C)No, the acrosome appears to be normal., D)No, the acrosome is enlarged and asymmetrical in the provided image.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_61.jpg",
+        "problem": "Is there any abnormality detected in the acrosome shown in the provided image of the sperm? A)Yes, the acrosome is misshapen and fragmented in the provided image., B)No, the acrosome is completely absent in the provided image., C)No, the acrosome appears to be normal., D)No, the acrosome is discolored and shows signs of deterioration in the provided image.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_88.jpg",
+        "problem": "Is there any abnormality observed in the acrosome displayed in the provided image of the sperm? A)No, the acrosome appears to be normal., B)No, the acrosome is enlarged and asymmetrical in the provided image., C)No, the acrosome is discolored and shows signs of deterioration in the provided image., D)Yes, the acrosome is misshapen and fragmented in the provided image.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_98.jpg",
+        "problem": "Is the acrosome in the provided image of the sperm showing any irregularities? A)Yes, the acrosome is unusually large in the provided image., B)No, the acrosome is completely absent in the provided image., C)No, the acrosome appears to be normal., D)No, the acrosome is discolored and shows signs of deterioration in the provided image.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_109.jpg",
+        "problem": "Is there any sign of abnormalities in the acrosome of the provided sperm image? A)Yes, the acrosome is misshapen and fragmented in the provided image., B)No, the acrosome is enlarged and asymmetrical in the provided image., C)No, the acrosome is completely absent in the provided image., D)No, the acrosome appears to be normal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_137.jpg",
+        "problem": "Is the acrosome in the provided sperm image displaying any irregularities? A)Yes, the acrosome is misshapen and fragmented in the provided image., B)No, the acrosome is enlarged and asymmetrical in the provided image., C)No, the acrosome is discolored and shows signs of deterioration in the provided image., D)No, the acrosome appears to be normal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_141.jpg",
+        "problem": "Is there any sign of abnormality in the acrosome shown in the provided image of the sperm? A)No, the acrosome is completely absent in the provided image., B)No, the acrosome appears to be normal., C)No, the acrosome is discolored and shows signs of deterioration in the provided image., D)Yes, the acrosome is unusually large in the provided image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_158.jpg",
+        "problem": "Is the acrosome in the provided image of the sperm displaying any irregularities? A)No, the acrosome is discolored and shows signs of deterioration in the provided image., B)No, the acrosome is completely absent in the provided image., C)Yes, the acrosome is unusually large in the provided image., D)No, the acrosome appears to be normal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_170.jpg",
+        "problem": "Is there any abnormality observed in the acrosome of the sperm image provided? A)No, the acrosome appears to be normal., B)No, the acrosome is discolored and shows signs of deterioration in the provided image., C)Yes, the acrosome is unusually large in the provided image., D)Yes, the acrosome is misshapen and fragmented in the provided image.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_178.jpg",
+        "problem": "Is there any indication of abnormality in the acrosome shown in the provided sperm image? A)No, the acrosome is discolored and shows signs of deterioration in the provided image., B)Yes, the acrosome is misshapen and fragmented in the provided image., C)No, the acrosome appears to be normal., D)Yes, the acrosome is unusually large in the provided image.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_185.jpg",
+        "problem": "Is there any abnormality detected in the acrosome shown in the provided image of the sperm? A)No, the acrosome appears to be normal., B)Yes, the acrosome is misshapen and fragmented in the provided image., C)No, the acrosome is completely absent in the provided image., D)No, the acrosome is enlarged and asymmetrical in the provided image.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_190.jpg",
+        "problem": "Is there any abnormality observed in the acrosome shown in the provided sperm image? A)No, the acrosome is completely absent in the provided image., B)Yes, the acrosome is misshapen and fragmented in the provided image., C)No, the acrosome is enlarged and asymmetrical in the provided image., D)No, the acrosome appears to be normal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_196.jpg",
+        "problem": "Is there any evidence of abnormalities in the acrosome shown in the provided sperm image? A)No, the acrosome is discolored and shows signs of deterioration in the provided image., B)No, the acrosome is enlarged and asymmetrical in the provided image., C)Yes, the acrosome is misshapen and fragmented in the provided image., D)No, the acrosome appears to be normal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_207.jpg",
+        "problem": "Is there any abnormality observed in the acrosome portrayed in the sperm image provided? A)No, the acrosome is discolored and shows signs of deterioration in the provided image., B)No, the acrosome appears to be normal., C)Yes, the acrosome is misshapen and fragmented in the provided image., D)No, the acrosome is completely absent in the provided image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_220.jpg",
+        "problem": "Is there any visible abnormality with the acrosome in the provided image of the sperm? A)No, the acrosome is enlarged and asymmetrical in the provided image., B)No, the acrosome is discolored and shows signs of deterioration in the provided image., C)Yes, the acrosome is misshapen and fragmented in the provided image., D)No, the acrosome appears to be normal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_224.jpg",
+        "problem": "Is there any abnormality observed in the acrosome displayed in the given image of the sperm? A)Yes, the acrosome is unusually large in the provided image., B)No, the acrosome appears to be normal., C)No, the acrosome is completely absent in the provided image., D)No, the acrosome is enlarged and asymmetrical in the provided image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_227.jpg",
+        "problem": "Is there any abnormality detected in the acrosome of the provided sperm image? A)No, the acrosome is enlarged and asymmetrical in the provided image., B)No, the acrosome appears to be normal., C)Yes, the acrosome is unusually large in the provided image., D)No, the acrosome is completely absent in the provided image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_231.jpg",
+        "problem": "Is the acrosome in the given sperm image displaying any irregularities? A)No, the acrosome is enlarged and asymmetrical in the provided image., B)No, the acrosome appears to be normal., C)Yes, the acrosome is misshapen and fragmented in the provided image., D)No, the acrosome is discolored and shows signs of deterioration in the provided image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_18.jpg",
+        "problem": "Is the acrosome of the sperm in this image irregular or regular? A)It is abnormal., B)It is normal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_78.jpg",
+        "problem": "Is the acrosome of the sperm in this image within normal range or outside normal range? A)It is abnormal., B)It is normal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_94.jpg",
+        "problem": "Is the acrosome of the sperm in this image considered normal or abnormal? A)It is abnormal., B)It is normal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_98.jpg",
+        "problem": "Is the acrosome of the sperm in this image showing any signs of abnormality? A)It is abnormal., B)It is normal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_107.jpg",
+        "problem": "Is the acrosome of the sperm in this image normal or abnormal? A)It is abnormal., B)It is normal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_128.jpg",
+        "problem": "Does the sperm acrosome in this image exhibit normal or abnormal characteristics? A)It is abnormal., B)It is normal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_146.jpg",
+        "problem": "Is the acrosome of the sperm in this image normal or abnormal? A)It is abnormal., B)It is normal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_155.jpg",
+        "problem": "Is the acrosome of the sperm in this image considered to be healthy or unhealthy? A)It is abnormal., B)It is normal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_170.jpg",
+        "problem": "Is the acrosome of the sperm in the provided image within normal range or outside normal range? A)It is abnormal., B)It is normal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_181.jpg",
+        "problem": "Does the image show a normal or abnormal acrosome of the sperm? A)It is abnormal., B)It is normal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_212.jpg",
+        "problem": "Is the acrosome of the sperm in this image normal or abnormal? A)It is abnormal., B)It is normal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_238.jpg",
+        "problem": "Is the acrosome of the sperm in this image normal or abnormal? A)It is abnormal., B)It is normal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_256.jpg",
+        "problem": "Is the acrosome of the sperm in this image considered to be abnormal or normal? A)It is abnormal., B)It is normal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_285.jpg",
+        "problem": "Is the acrosome of the sperm in this image abnormal or normal? A)It is abnormal., B)It is normal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_37.jpg",
+        "problem": "Does the acrosome of the sperm in this image appear normal or abnormal? A)It is abnormal., B)It is normal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_80.jpg",
+        "problem": "Is the acrosome of the sperm in this image within the normal range or outside the normal range? A)It is abnormal., B)It is normal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_198.jpg",
+        "problem": "Is the acrosome of the sperm in this image irregular or regular? A)It is abnormal., B)It is normal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_202.jpg",
+        "problem": "Does the image show a normal or abnormal acrosome of the sperm? A)It is abnormal., B)It is normal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_62.png",
+        "problem": "What imaging modality was used to capture this image? A)Positron emission tomography (PET), B)microscopy., C)X-ray imaging, D)Computed tomography (CT) scan",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_83.png",
+        "problem": "What imaging technique was utilized to obtain this image? A)X-ray imaging, B)Endoscopy, C)microscopy., D)Magnetic resonance imaging (MRI)",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_87.png",
+        "problem": "What type of imaging technique was utilized to capture this image? A)Mammography, B)X-ray imaging, C)microscopy., D)Fluoroscopy",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_198.png",
+        "problem": "What imaging modality was used to capture this image? A)Electroencephalogram (EEG), B)Endoscopy, C)microscopy., D)Mammography",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_297.png",
+        "problem": "What modality of imaging was utilized for capturing this image? A)Computed tomography (CT) scan, B)microscopy., C)X-ray imaging, D)Electrocardiogram (ECG)",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_89.png",
+        "problem": "What modality of imaging was utilized to acquire this image? A)Fluoroscopy, B)Positron emission tomography (PET), C)microscopy., D)Magnetic resonance imaging (MRI)",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_125.png",
+        "problem": "What imaging modality was used to capture this image? A)Positron emission tomography (PET), B)microscopy., C)Mammography, D)Ultrasound imaging",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_17.png",
+        "problem": "Is the head of the sperm in the displayed image considered to be in a normal condition? A)The head appears multiplied., B)The head appears enlarged., C)The head appears normal., D)The head appears shrunken.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_30.png",
+        "problem": "What is the appearance of the head in the displayed sperm image? A)The head appears normal., B)The head appears malformed., C)The head appears enlarged., D)The head appears discolored.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_45.png",
+        "problem": "Is the head in the displayed sperm image normal? A)The head appears inflamed., B)The head appears normal., C)The head appears discolored., D)The head appears multiplied.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_63.png",
+        "problem": "Is the head in the displayed sperm image in a normal condition? A)The head appears asymmetrical., B)The head appears inflamed., C)The head appears detached., D)The head appears normal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_93.png",
+        "problem": "Is the head of the sperm in the displayed image normal? A)The head appears normal., B)The head appears shrunken., C)The head appears multiplied., D)The head appears enlarged.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_105.png",
+        "problem": "Does the head in the displayed sperm image exhibit any abnormalities? A)The head appears absent., B)The head appears normal., C)The head appears inflamed., D)The head appears discolored.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_124.png",
+        "problem": "Is the head of the sperm in the displayed image normal? A)The head appears malformed., B)The head appears normal., C)The head appears multiplied., D)The head appears transparent.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_135.png",
+        "problem": "What is the appearance of the head in the displayed sperm image? A)The head appears malformed., B)The head appears enlarged., C)The head appears normal., D)The head appears detached.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_136.png",
+        "problem": "Is the head of the sperm image in a normal condition? A)The head appears normal., B)The head appears transparent., C)The head appears enlarged., D)The head appears shrunken.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_173.png",
+        "problem": "Is the head in the displayed sperm image in a normal condition? A)The head appears discolored., B)The head appears shrunken., C)The head appears asymmetrical., D)The head appears normal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_180.png",
+        "problem": "Is the head of the sperm in the displayed image indicative of any abnormality? A)The head appears transparent., B)The head appears malformed., C)The head appears discolored., D)The head appears normal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_183.png",
+        "problem": "What is the appearance of the head in the displayed sperm image? A)The head appears discolored., B)The head appears absent., C)The head appears normal., D)The head appears malformed.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_207.png",
+        "problem": "What is the appearance of the head in the displayed sperm image? A)The head appears enlarged., B)The head appears inflamed., C)The head appears discolored., D)The head appears normal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_255.png",
+        "problem": "Is the head in the displayed sperm image normal? A)The head appears absent., B)The head appears detached., C)The head appears normal., D)The head appears enlarged.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_12.png",
+        "problem": "Is the head of the sperm in the displayed image normal? A)The head appears absent., B)The head appears discolored., C)The head appears normal., D)The head appears multiplied.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_26.png",
+        "problem": "Is the head in the displayed sperm image in a normal condition? A)The head appears normal., B)The head appears detached., C)The head appears inflamed., D)The head appears malformed.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_34.png",
+        "problem": "Is the head of the sperm in the displayed image in a normal condition? A)The head appears normal., B)The head appears multiplied., C)The head appears detached., D)The head appears malformed.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_41.png",
+        "problem": "Is the head of the sperm in the displayed image normal? A)The head appears normal., B)The head appears asymmetrical., C)The head appears transparent., D)The head appears malformed.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_47.png",
+        "problem": "Is the head in the displayed sperm image in a normal condition? A)The head appears normal., B)The head appears shrunken., C)The head appears absent., D)The head appears asymmetrical.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_54.png",
+        "problem": "Is the head in the displayed sperm image normal? A)The head appears multiplied., B)The head appears malformed., C)The head appears inflamed., D)The head appears normal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_57.png",
+        "problem": "What is the appearance of the head in the displayed sperm image? A)The head appears shrunken., B)The head appears transparent., C)The head appears inflamed., D)The head appears normal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_59.png",
+        "problem": "Is the head in the displayed sperm image normal? A)The head appears normal., B)The head appears detached., C)The head appears enlarged., D)The head appears malformed.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_82.png",
+        "problem": "Is the head of the sperm in the displayed image normal? A)The head appears malformed., B)The head appears shrunken., C)The head appears multiplied., D)The head appears normal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_89.png",
+        "problem": "What is the appearance of the head in the displayed sperm image? A)The head appears discolored., B)The head appears normal., C)The head appears multiplied., D)The head appears enlarged.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_99.png",
+        "problem": "Is the head of the sperm in the displayed image showing any abnormalities? A)The head appears transparent., B)The head appears malformed., C)The head appears detached., D)The head appears normal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_127.png",
+        "problem": "What is the appearance of the head in the displayed sperm image? A)The head appears multiplied., B)The head appears asymmetrical., C)The head appears normal., D)The head appears absent.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_133.png",
+        "problem": "Is the head in the displayed sperm image normal? A)The head appears detached., B)The head appears absent., C)The head appears normal., D)The head appears malformed.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_135.png",
+        "problem": "What is the appearance of the head in the displayed sperm image? A)The head appears normal., B)The head appears absent., C)The head appears shrunken., D)The head appears multiplied.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_143.png",
+        "problem": "What is the appearance of the head in the displayed sperm image? A)The head appears malformed., B)The head appears detached., C)The head appears discolored., D)The head appears normal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_168.png",
+        "problem": "Is the head normal in the displayed sperm image? A)The head appears multiplied., B)The head appears asymmetrical., C)The head appears inflamed., D)The head appears normal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_170.png",
+        "problem": "What is the appearance of the head in the displayed sperm image? A)The head appears normal., B)The head appears multiplied., C)The head appears malformed., D)The head appears discolored.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_172.png",
+        "problem": "Is the head of the sperm in the displayed image normal? A)The head appears normal., B)The head appears asymmetrical., C)The head appears enlarged., D)The head appears malformed.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_207.png",
+        "problem": "What is the appearance of the head in the displayed sperm image? A)The head appears normal., B)The head appears detached., C)The head appears enlarged., D)The head appears absent.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_217.png",
+        "problem": "What is the appearance of the head in the displayed sperm image? A)The head appears discolored., B)The head appears normal., C)The head appears detached., D)The head appears shrunken.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_2.png",
+        "problem": "What is the appearance of the head in the displayed sperm image? A)The head appears abnormal., B)The head is undamaged., C)The head is enlarged., D)The head is unaffected.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_5.png",
+        "problem": "What is the appearance of the head in the displayed sperm image? A)The head is undersized., B)The head appears abnormal., C)The head is unaffected., D)The head is healthy.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_16.png",
+        "problem": "Is there any abnormality noticed in the head of the displayed sperm image? A)The head is perfectly formed., B)The head appears abnormal., C)The head appears normal., D)The head is symmetrical.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_29.png",
+        "problem": "What is the appearance of the head in the displayed sperm image? A)The head appears abnormal., B)The head appears normal., C)The head is misshapen., D)The head is symmetrical.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_53.png",
+        "problem": "Is there anything abnormal about the head in the displayed sperm image? A)The head is unaffected., B)The head is unremarkable., C)The head is perfectly formed., D)The head appears abnormal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_85.png",
+        "problem": "What is the appearance of the head in the displayed sperm image? A)The head is enlarged., B)The head is perfectly formed., C)The head appears abnormal., D)The head is unremarkable.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_87.png",
+        "problem": "Is the head of the sperm in the displayed image displaying any abnormalities? A)The head is enlarged., B)The head appears abnormal., C)The head is symmetrical., D)The head is healthy.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_166.png",
+        "problem": "What is the appearance of the head in the displayed sperm image? A)The head is perfectly formed., B)The head appears abnormal., C)The head is unaffected., D)The head is enlarged.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_206.png",
+        "problem": "What is the appearance of the head in the displayed sperm image? A)The head is symmetrical., B)The head appears normal., C)The head appears abnormal., D)The head is perfectly formed.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_230.png",
+        "problem": "What is the state of the head in the depicted sperm image? A)The head is undersized., B)The head appears normal., C)The head appears abnormal., D)The head is misshapen.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_261.png",
+        "problem": "Is the head in the displayed sperm image abnormal? A)The head is unremarkable., B)The head appears abnormal., C)The head is perfectly formed., D)The head is undersized.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_263.png",
+        "problem": "Does the head in the displayed sperm image show any abnormalities? A)The head is undersized., B)The head appears abnormal., C)The head is undamaged., D)The head is enlarged.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_9.png",
+        "problem": "Is there any abnormality observed in the head of the displayed sperm image? A)The head appears normal., B)The head is unaffected., C)The head is healthy., D)The head appears abnormal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_16.png",
+        "problem": "What is the appearance of the head in the displayed sperm image? A)The head is healthy., B)The head is undersized., C)The head is enlarged., D)The head appears abnormal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_60.png",
+        "problem": "Is there any abnormality observed in the head of the sperm displayed in the image? A)The head is perfectly formed., B)The head is misshapen., C)The head appears abnormal., D)The head is unremarkable.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_87.png",
+        "problem": "What is the appearance of the head in the displayed sperm image? A)The head is undamaged., B)The head is unaffected., C)The head is undersized., D)The head appears abnormal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_154.png",
+        "problem": "How does the head of the sperm in the provided image appear? A)The head is symmetrical., B)The head is misshapen., C)The head is healthy., D)The head appears abnormal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_164.png",
+        "problem": "Is there anything abnormal about the head in the displayed sperm image? A)The head appears abnormal., B)The head is unaffected., C)The head is misshapen., D)The head appears normal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_189.png",
+        "problem": "Is there anything noticeable about the head in the displayed sperm image? A)The head is perfectly formed., B)The head is misshapen., C)The head appears abnormal., D)The head is undersized.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_203.png",
+        "problem": "How would you describe the condition of the head in the displayed sperm image? A)The head is perfectly formed., B)The head is healthy., C)The head appears abnormal., D)The head is unaffected.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_213.png",
+        "problem": "What is the appearance of the head in the displayed sperm image? A)The head is perfectly formed., B)The head is unremarkable., C)The head appears abnormal., D)The head is unaffected.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_226.png",
+        "problem": "Is the head of the sperm image showing any abnormalities? A)The head is misshapen., B)The head appears abnormal., C)The head is perfectly formed., D)The head is unaffected.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_42.png",
+        "problem": "What type of imaging was employed to obtain this image? A)Endoscopy, B)Electrocardiogram (ECG), C)Electroencephalogram (EEG), D)microscopy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_122.png",
+        "problem": "What method of imaging was employed to obtain this image? A)Endoscopy, B)microscopy., C)Magnetic resonance imaging (MRI), D)Computed tomography (CT) scan",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_51.png",
+        "problem": "What type of imaging was employed to obtain this image? A)Electroencephalogram (EEG), B)Endoscopy, C)microscopy., D)X-ray imaging",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_191.png",
+        "problem": "What imaging modality was used to capture this image? A)Magnetic resonance imaging (MRI), B)Ultrasound imaging, C)Fluoroscopy, D)microscopy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_225.png",
+        "problem": "What type of imaging technique was utilized to obtain this image? A)Electroencephalogram (EEG), B)Endoscopy, C)microscopy., D)Electrocardiogram (ECG)",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_7.png",
+        "problem": "Is there any abnormality observed in the tail of the sperm image provided? A)No, the tail appears to be normal., B)Yes, the tail appears to be abnormal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_10.png",
+        "problem": "Is there any abnormality observed in the tail of the sperm image provided? A)No, the tail appears to be normal., B)Yes, the tail appears to be abnormal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_19.png",
+        "problem": "Is there any abnormality observed in the tail of the sperm image provided? A)No, the tail appears to be normal., B)Yes, the tail appears to be abnormal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_43.png",
+        "problem": "Is there any sign of abnormalities in the tail of the sperm image provided? A)Yes, the tail appears to be abnormal., B)No, the tail appears to be normal.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_47.png",
+        "problem": "Is there any abnormality observed in the tail of the sperm image provided? A)Yes, the tail appears to be abnormal., B)No, the tail appears to be normal.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_49.png",
+        "problem": "Is there any indication of abnormalities in the tail of the sperm image provided? A)No, the tail appears to be normal., B)Yes, the tail appears to be abnormal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_58.png",
+        "problem": "Is there any abnormality observed in the tail of the sperm image provided? A)No, the tail appears to be normal., B)Yes, the tail appears to be abnormal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_81.png",
+        "problem": "Is there any abnormality present in the tail of the provided sperm image? A)Yes, the tail appears to be abnormal., B)No, the tail appears to be normal.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_84.png",
+        "problem": "Is there any abnormality observed in the tail of the sperm image provided? A)No, the tail appears to be normal., B)Yes, the tail appears to be abnormal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_103.png",
+        "problem": "Is there any abnormality observed in the tail of the sperm shown in the image? A)Yes, the tail appears to be abnormal., B)No, the tail appears to be normal.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_107.png",
+        "problem": "Is there any abnormality observed in the tail of the provided sperm image? A)Yes, the tail appears to be abnormal., B)No, the tail appears to be normal.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_108.png",
+        "problem": "Is there any abnormality observed in the tail of the sperm in the provided image? A)No, the tail appears to be normal., B)Yes, the tail appears to be abnormal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_120.png",
+        "problem": "Is there any abnormality observed in the tail of the sperm image provided? A)No, the tail appears to be normal., B)Yes, the tail appears to be abnormal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_127.png",
+        "problem": "Is there any abnormality observed in the tail of the sperm image provided? A)No, the tail appears to be normal., B)Yes, the tail appears to be abnormal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_132.png",
+        "problem": "Is there any abnormality observed in the tail of the sperm image provided? A)No, the tail appears to be normal., B)Yes, the tail appears to be abnormal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_156.png",
+        "problem": "Is there any sign of abnormalities in the tail shown in the provided sperm image? A)No, the tail appears to be normal., B)Yes, the tail appears to be abnormal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_157.png",
+        "problem": "Is there any abnormality observed in the tail of the sperm image provided? A)No, the tail appears to be normal., B)Yes, the tail appears to be abnormal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_161.png",
+        "problem": "Is there any abnormality observed in the tail of the sperm image provided? A)Yes, the tail appears to be abnormal., B)No, the tail appears to be normal.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_180.png",
+        "problem": "Is there any abnormality noticed in the tail shown in the provided sperm image? A)Yes, the tail appears to be abnormal., B)No, the tail appears to be normal.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_182.png",
+        "problem": "Is there any abnormality observed in the tail of the sperm image provided? A)Yes, the tail appears to be abnormal., B)No, the tail appears to be normal.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_186.png",
+        "problem": "Is there any abnormality observed in the tail of the sperm image provided? A)No, the tail appears to be normal., B)Yes, the tail appears to be abnormal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_192.png",
+        "problem": "Is there any abnormality observed in the tail of the sperm image provided? A)Yes, the tail appears to be abnormal., B)No, the tail appears to be normal.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_205.png",
+        "problem": "Is there anything unusual or abnormal about the tail in the provided sperm image? A)No, the tail appears to be normal., B)Yes, the tail appears to be abnormal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_217.png",
+        "problem": "Is the tail in the provided sperm image showing any abnormalities? A)Yes, the tail appears to be abnormal., B)No, the tail appears to be normal.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_226.png",
+        "problem": "Is there any abnormality observed in the tail of the sperm image provided? A)No, the tail appears to be normal., B)Yes, the tail appears to be abnormal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_254.png",
+        "problem": "Is there any abnormality observed in the tail of the sperm in the provided image? A)No, the tail appears to be normal., B)Yes, the tail appears to be abnormal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_260.png",
+        "problem": "Is there any abnormality observed in the tail of the displayed sperm image? A)No, the tail appears to be normal., B)Yes, the tail appears to be abnormal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_279.png",
+        "problem": "Is there any sign of abnormalities in the tail shown in the provided sperm image? A)No, the tail appears to be normal., B)Yes, the tail appears to be abnormal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_284.png",
+        "problem": "Is there any abnormality observed in the tail shown in the provided image of sperm? A)Yes, the tail appears to be abnormal., B)No, the tail appears to be normal.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_288.png",
+        "problem": "Is there any abnormality observed in the tail of the provided sperm image? A)No, the tail appears to be normal., B)Yes, the tail appears to be abnormal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_289.png",
+        "problem": "Is there any abnormality observed in the tail of the provided sperm image? A)Yes, the tail appears to be abnormal., B)No, the tail appears to be normal.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_293.png",
+        "problem": "Is there any abnormality observed in the tail of the sperm image provided? A)No, the tail appears to be normal., B)Yes, the tail appears to be abnormal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_298.png",
+        "problem": "Is there any abnormality observed in the tail of the sperm image provided? A)Yes, the tail appears to be abnormal., B)No, the tail appears to be normal.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_3.png",
+        "problem": "Is there any abnormality observed in the tail of the sperm shown in the image? A)Yes, the tail appears to be abnormal., B)No, the tail appears to be normal.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_11.png",
+        "problem": "Is there any abnormality in the tail of the sperm image provided? A)Yes, the tail appears to be abnormal., B)No, the tail appears to be normal.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_27.png",
+        "problem": "Is there any abnormality observed in the tail of the sperm shown in the image? A)No, the tail appears to be normal., B)Yes, the tail appears to be abnormal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_30.png",
+        "problem": "Is there any abnormality observed in the tail of the sperm image provided? A)Yes, the tail appears to be abnormal., B)No, the tail appears to be normal.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_70.png",
+        "problem": "Is there any indication of abnormality in the tail shown in the provided sperm image? A)Yes, the tail appears to be abnormal., B)No, the tail appears to be normal.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_73.png",
+        "problem": "Is there any indication of abnormality in the tail observed in the provided sperm image? A)Yes, the tail appears to be abnormal., B)No, the tail appears to be normal.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_93.png",
+        "problem": "Is there any abnormality observed in the tail of the sperm image provided? A)No, the tail appears to be normal., B)Yes, the tail appears to be abnormal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_97.png",
+        "problem": "Is there any abnormality observed in the tail of the sperm image provided? A)No, the tail appears to be normal., B)Yes, the tail appears to be abnormal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_117.png",
+        "problem": "Is there any abnormality observed in the tail of the sperm image provided? A)Yes, the tail appears to be abnormal., B)No, the tail appears to be normal.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_119.png",
+        "problem": "Is there any abnormality observed in the tail of the sperm image provided? A)No, the tail appears to be normal., B)Yes, the tail appears to be abnormal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_127.png",
+        "problem": "Is there any abnormality observed in the tail of the sperm shown in the image? A)No, the tail appears to be normal., B)Yes, the tail appears to be abnormal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_139.png",
+        "problem": "Is there any abnormality observed in the tail of the sperm shown in the provided image? A)No, the tail appears to be normal., B)Yes, the tail appears to be abnormal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_146.png",
+        "problem": "Is the tail in the provided sperm image normal or does it show any abnormalities? A)No, the tail appears to be normal., B)Yes, the tail appears to be abnormal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_166.png",
+        "problem": "Is there any indication of abnormalities in the tail of the sperm image provided? A)No, the tail appears to be normal., B)Yes, the tail appears to be abnormal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_174.png",
+        "problem": "Is there any abnormality observed in the tail of the sperm image provided? A)Yes, the tail appears to be abnormal., B)No, the tail appears to be normal.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_200.png",
+        "problem": "Is there any abnormality present in the tail shown in the provided sperm image? A)Yes, the tail appears to be abnormal., B)No, the tail appears to be normal.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_208.png",
+        "problem": "Is there any abnormality observed in the tail of the sperm image that has been provided? A)Yes, the tail appears to be abnormal., B)No, the tail appears to be normal.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_223.png",
+        "problem": "Is there any indication of abnormalities in the tail observed in the provided sperm image? A)No, the tail appears to be normal., B)Yes, the tail appears to be abnormal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_233.png",
+        "problem": "Is there any abnormality observed in the tail of the sperm image provided? A)Yes, the tail appears to be abnormal., B)No, the tail appears to be normal.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_0.png",
+        "problem": "Is there any indication of abnormalities in the tail seen in the provided sperm image? A)Yes, the tail appears to be abnormal., B)No, the tail is perfectly normal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_229.png",
+        "problem": "Is there anything abnormal about the tail in the provided sperm image? A)No, the tail is perfectly normal., B)Yes, the tail appears to be abnormal.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_251.png",
+        "problem": "Is there any abnormality observed in the tail of the sperm image provided? A)Yes, the tail appears to be abnormal., B)No, the tail is perfectly normal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_285.png",
+        "problem": "Is there any abnormality observed in the tail of the sperm image provided? A)Yes, the tail appears to be abnormal., B)No, the tail is perfectly normal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_297.png",
+        "problem": "Is there any abnormality observed in the tail of the depicted sperm image? A)No, the tail is perfectly normal., B)Yes, the tail appears to be abnormal.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_97.jpg",
+        "problem": "What imaging modality was used to capture this image? A)X-ray, B)Mammogram, C)Electrocardiogram (ECG), D)microscopy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_125.jpg",
+        "problem": "What method of imaging was employed to obtain this image? A)MRI, B)Electrocardiogram (ECG), C)microscopy., D)Nuclear medicine scan",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_170.jpg",
+        "problem": "What method of imaging was utilized to obtain this picture? A)Ultrasound, B)microscopy., C)Electroencephalogram (EEG), D)Angiogram",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_192.jpg",
+        "problem": "What imaging technique was utilized to capture this image? A)Ultrasound, B)Electroencephalogram (EEG), C)Nuclear medicine scan, D)microscopy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_211.jpg",
+        "problem": "What type of imaging technique was employed to obtain this image? A)PET scan, B)microscopy., C)Ultrasound, D)Electroencephalogram (EEG)",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_132.jpg",
+        "problem": "What type of imaging method was employed to obtain this image? A)microscopy., B)Angiogram, C)MRI, D)Mammogram",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_195.jpg",
+        "problem": "What modality of imaging was employed to acquire this image? A)Nuclear medicine scan, B)microscopy., C)PET scan, D)CT scan",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_220.jpg",
+        "problem": "Which imaging technique was employed to obtain this picture? A)Mammogram, B)microscopy., C)Ultrasound, D)Angiogram",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_223.jpg",
+        "problem": "Which imaging technique was utilized to acquire this image? A)microscopy., B)CT scan, C)MRI, D)Mammogram",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_6.jpg",
+        "problem": "Is the vacuole in the provided sperm image showing any anomalies? A)Yes, the vacuole is enlarged., B)No, the vacuole appears to be normal., C)No, the vacuole is irregularly shaped., D)No, the vacuole is absent.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_50.jpg",
+        "problem": "Is there any evidence of abnormalities in the vacuole seen in the provided sperm image? A)No, the vacuole is irregularly shaped., B)No, the vacuole appears to be normal., C)Yes, the vacuole is enlarged., D)No, the vacuole is absent.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_83.jpg",
+        "problem": "Is there any evidence of abnormalities in the vacuole seen in the provided image of the sperm? A)No, the vacuole appears to be normal., B)Yes, the vacuole is enlarged., C)No, the vacuole is absent., D)Yes, the vacuole is discolored.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_86.jpg",
+        "problem": "Is there any evidence of abnormalities in the vacuole depicted in the provided image of the sperm? A)No, the vacuole is irregularly shaped., B)No, the vacuole is absent., C)No, the vacuole shows signs of inflammation., D)No, the vacuole appears to be normal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_114.jpg",
+        "problem": "Is there any evidence of abnormalities in the vacuole depicted in the provided sperm image? A)No, the vacuole appears to be normal., B)No, the vacuole is absent., C)No, the vacuole shows signs of inflammation., D)No, the vacuole is irregularly shaped.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_150.jpg",
+        "problem": "Is there any evidence of abnormalities in the vacuole seen in the provided image of the sperm? A)Yes, the vacuole is discolored., B)No, the vacuole shows signs of inflammation., C)No, the vacuole is absent., D)No, the vacuole appears to be normal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_151.jpg",
+        "problem": "Is there any sign of abnormalities in the vacuole shown in the provided sperm image? A)No, the vacuole appears to be normal., B)No, the vacuole is absent., C)Yes, the vacuole is discolored., D)No, the vacuole is irregularly shaped.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_189.jpg",
+        "problem": "Is the vacuole in the provided sperm image showing any irregularities? A)No, the vacuole appears to be normal., B)No, the vacuole is absent., C)Yes, the vacuole is enlarged., D)No, the vacuole shows signs of inflammation.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_194.jpg",
+        "problem": "Is there any abnormality observed in the vacuole shown in the sperm image? A)No, the vacuole is irregularly shaped., B)No, the vacuole appears to be normal., C)Yes, the vacuole is enlarged., D)No, the vacuole shows signs of inflammation.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_215.jpg",
+        "problem": "Is the vacuole in the provided image of the sperm normal or are there any abnormalities observed? A)No, the vacuole shows signs of inflammation., B)No, the vacuole is absent., C)No, the vacuole appears to be normal., D)Yes, the vacuole is enlarged.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_216.jpg",
+        "problem": "Is there any sign of abnormality in the vacuole in the provided image of the sperm? A)No, the vacuole shows signs of inflammation., B)No, the vacuole is absent., C)No, the vacuole appears to be normal., D)No, the vacuole is irregularly shaped.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_226.jpg",
+        "problem": "Is there any sign of abnormality in the vacuole observed in the provided sperm image? A)No, the vacuole appears to be normal., B)No, the vacuole shows signs of inflammation., C)Yes, the vacuole is enlarged., D)No, the vacuole is absent.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_230.jpg",
+        "problem": "Is the vacuole in the image of the provided sperm showing any abnormalities? A)No, the vacuole shows signs of inflammation., B)No, the vacuole is absent., C)No, the vacuole appears to be normal., D)No, the vacuole is irregularly shaped.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_236.jpg",
+        "problem": "Is there any indication of abnormalities in the vacuole of the sperm image provided? A)Yes, the vacuole is discolored., B)No, the vacuole shows signs of inflammation., C)No, the vacuole appears to be normal., D)No, the vacuole is irregularly shaped.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_4.jpg",
+        "problem": "Is there any sign of abnormality in the vacuole seen in the given sperm image? A)Yes, the vacuole is enlarged., B)No, the vacuole is absent., C)No, the vacuole is irregularly shaped., D)No, the vacuole appears to be normal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_11.jpg",
+        "problem": "Is there any abnormality observed in the vacuole of the provided sperm image? A)No, the vacuole is absent., B)No, the vacuole shows signs of inflammation., C)Yes, the vacuole is discolored., D)No, the vacuole appears to be normal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_23.jpg",
+        "problem": "Is there any evidence of abnormalities in the vacuole shown in the provided image of the sperm? A)Yes, the vacuole is enlarged., B)No, the vacuole is absent., C)No, the vacuole appears to be normal., D)Yes, the vacuole is discolored.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_28.jpg",
+        "problem": "Is there any sign of abnormalities in the vacuole depicted in the provided image of the sperm? A)No, the vacuole is absent., B)Yes, the vacuole is enlarged., C)No, the vacuole appears to be normal., D)No, the vacuole shows signs of inflammation.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_52.jpg",
+        "problem": "Is there any indication of abnormalities in the vacuole observed in the given sperm image? A)Yes, the vacuole is discolored., B)Yes, the vacuole is enlarged., C)No, the vacuole is irregularly shaped., D)No, the vacuole appears to be normal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_65.jpg",
+        "problem": "Is there any abnormality observed in the vacuole seen in the provided image of the sperm? A)No, the vacuole appears to be normal., B)No, the vacuole is absent., C)Yes, the vacuole is enlarged., D)Yes, the vacuole is discolored.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_66.jpg",
+        "problem": "Is there any sign of abnormality in the vacuole seen in the provided sperm image? A)Yes, the vacuole is enlarged., B)No, the vacuole shows signs of inflammation., C)No, the vacuole appears to be normal., D)No, the vacuole is irregularly shaped.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_112.jpg",
+        "problem": "Is there any abnormality observed in the vacuole of the sperm image provided? A)Yes, the vacuole is enlarged., B)No, the vacuole appears to be normal., C)No, the vacuole is irregularly shaped., D)Yes, the vacuole is discolored.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_135.jpg",
+        "problem": "Is there any evidence of abnormalities in the vacuole of the sperm image provided? A)No, the vacuole shows signs of inflammation., B)No, the vacuole appears to be normal., C)Yes, the vacuole is discolored., D)Yes, the vacuole is enlarged.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_139.jpg",
+        "problem": "Is there any abnormality observed in the vacuole shown in the provided sperm image? A)No, the vacuole is irregularly shaped., B)Yes, the vacuole is discolored., C)No, the vacuole appears to be normal., D)Yes, the vacuole is enlarged.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_146.jpg",
+        "problem": "Is there any abnormality observed in the vacuole depicted in the sperm image? A)Yes, the vacuole is enlarged., B)No, the vacuole shows signs of inflammation., C)No, the vacuole is absent., D)No, the vacuole appears to be normal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_152.jpg",
+        "problem": "Is there any sign of abnormalities in the vacuole seen in the provided sperm image? A)No, the vacuole shows signs of inflammation., B)No, the vacuole is irregularly shaped., C)No, the vacuole is absent., D)No, the vacuole appears to be normal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_182.jpg",
+        "problem": "Is the vacuole in the provided sperm image within the normal range? A)Yes, the vacuole is enlarged., B)No, the vacuole is absent., C)No, the vacuole appears to be normal., D)No, the vacuole is irregularly shaped.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_194.jpg",
+        "problem": "Is there any abnormality observed in the vacuole of the sperm image? A)Yes, the vacuole is enlarged., B)Yes, the vacuole is discolored., C)No, the vacuole appears to be normal., D)No, the vacuole is irregularly shaped.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_209.jpg",
+        "problem": "Is the vacuole in the provided image of the sperm normal or are there any abnormalities present? A)Yes, the vacuole is enlarged., B)No, the vacuole is irregularly shaped., C)No, the vacuole appears to be normal., D)No, the vacuole is absent.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_217.jpg",
+        "problem": "Is there any indication of abnormalities in the vacuole seen in the provided sperm image? A)No, the vacuole is irregularly shaped., B)No, the vacuole is absent., C)Yes, the vacuole is enlarged., D)No, the vacuole appears to be normal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_225.jpg",
+        "problem": "Is the vacuole in the provided sperm image normal in appearance? A)No, the vacuole appears to be normal., B)Yes, the vacuole is discolored., C)No, the vacuole shows signs of inflammation., D)No, the vacuole is irregularly shaped.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_227.jpg",
+        "problem": "Is there any abnormality observed in the vacuole in the provided image of the sperm? A)No, the vacuole appears to be normal., B)Yes, the vacuole is enlarged., C)No, the vacuole is absent., D)Yes, the vacuole is discolored.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_228.jpg",
+        "problem": "Is there any sign of abnormality in the vacuole observed in the provided sperm image? A)No, the vacuole is absent., B)Yes, the vacuole is discolored., C)No, the vacuole appears to be normal., D)Yes, the vacuole is enlarged.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_239.jpg",
+        "problem": "Is there any sign of abnormalities in the vacuole seen in the provided sperm image? A)Yes, the vacuole is discolored., B)No, the vacuole shows signs of inflammation., C)No, the vacuole appears to be normal., D)No, the vacuole is irregularly shaped.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_40.jpg",
+        "problem": "Is the vacuole in the provided sperm image normal or does it show any abnormalities? A)Yes, the vacuole appears to be abnormal., B)No, the vacuole is perfectly normal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_89.jpg",
+        "problem": "Is there any evidence of abnormality in the vacuole seen in the provided sperm image? A)Yes, the vacuole appears to be abnormal., B)No, the vacuole is perfectly normal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_118.jpg",
+        "problem": "Is there any abnormality observed in the vacuole depicted in the given sperm image? A)Yes, the vacuole appears to be abnormal., B)No, the vacuole is perfectly normal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_174.jpg",
+        "problem": "Is there any abnormality observed in the vacuole depicted in the given image of sperm? A)No, the vacuole is perfectly normal., B)Yes, the vacuole appears to be abnormal.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_179.jpg",
+        "problem": "Is there any abnormality observed in the vacuole of the provided sperm image? A)No, the vacuole is perfectly normal., B)Yes, the vacuole appears to be abnormal.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_204.jpg",
+        "problem": "Is there any anomaly observed in the vacuole depicted in the provided image of the sperm? A)No, the vacuole is perfectly normal., B)Yes, the vacuole appears to be abnormal.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/test/test_211.jpg",
+        "problem": "Is there any evidence of abnormality in the vacuole observed in the given sperm image? A)Yes, the vacuole appears to be abnormal., B)No, the vacuole is perfectly normal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_16.jpg",
+        "problem": "Is there any evidence of abnormality in the vacuole observed in the given sperm image? A)No, the vacuole is perfectly normal., B)Yes, the vacuole appears to be abnormal.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_74.jpg",
+        "problem": "Is there any abnormality observed in the vacuole present in the provided image of sperm? A)Yes, the vacuole appears to be abnormal., B)No, the vacuole is perfectly normal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_89.jpg",
+        "problem": "Is the vacuole in the provided image of the sperm showing any signs of abnormality? A)Yes, the vacuole appears to be abnormal., B)No, the vacuole is perfectly normal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_118.jpg",
+        "problem": "Is there anything abnormal about the vacuole in the provided sperm image? A)No, the vacuole is perfectly normal., B)Yes, the vacuole appears to be abnormal.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_212.jpg",
+        "problem": "Is there any abnormality observed in the vacuole present in the provided image of sperm? A)Yes, the vacuole appears to be abnormal., B)No, the vacuole is perfectly normal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_232.jpg",
+        "problem": "Is there any evidence of abnormalities in the vacuole observed in the given sperm image? A)Yes, the vacuole appears to be abnormal., B)No, the vacuole is perfectly normal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MHSMA/val/val_238.jpg",
+        "problem": "Is the vacuole in the provided sperm image showing any signs of abnormalities? A)Yes, the vacuole appears to be abnormal., B)No, the vacuole is perfectly normal.",
+        "solution": "<answer> A </answer>"
+    }
+]

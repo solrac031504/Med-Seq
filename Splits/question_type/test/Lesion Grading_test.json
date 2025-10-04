@@ -1,0 +1,2182 @@
+[
+    {
+        "image": "Images/DRIMDB/drimdb_bad (24).jpg",
+        "problem": "What is the quality of the retinal image using a three-class grading system that includes good, bad, and outlier classes? A)It's a good retinal image., B)It's a outlier retinal image., C)it's a bad retinal image.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/93db23b5ff1a4000a04593513739119e.jpg",
+        "problem": "What is the specific image quality of this retinal image using a three-class grading system consisting of good, bad, and outlier classes? A)It's a good retinal image., B)It's a outlier retinal image., C)it's a bad retinal image.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/drimdb_bad (16).jpg",
+        "problem": "Retinal image quality assessment (IQA) is a crucial process for automated retinal image analysis systems to obtain an accurate and successful diagnosis of retinal diseases. if we used a three-class grading system that consists of good, bad, and outlier classes.  What specific image quality of this image? A)It's a good retinal image., B)It's a outlier retinal image., C)it's a bad retinal image.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/94576b2f75dd4f72805f9e349c4082c8_s.jpg",
+        "problem": "What is the specific classification of image quality for this retinal image? A)It's a good retinal image., B)It's a outlier retinal image., C)it's a bad retinal image.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/fd1826f8d4b74c978d745de1622a4b42_s.jpg",
+        "problem": "What is the specific quality classification of this retinal image using a three-class grading system? A)it's a bad retinal image., B)It's a outlier retinal image., C)It's a good retinal image.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/979b99d55d1f433c823a0003874d8460.jpg",
+        "problem": "What classification would be given to the retinal image if a three-class grading system consisting of good, bad, and outlier classes is utilized for retinal image quality assessment? A)It's a outlier retinal image., B)it's a bad retinal image., C)It's a good retinal image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/c94f112ece6b4bf0b8d87d800e40df65.jpg",
+        "problem": "What grade does this retinal image receive in terms of its quality? A)It's a good retinal image., B)it's a bad retinal image., C)It's a outlier retinal image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/b14e0e77a6eb4634afbbbf721a783e09_s.jpg",
+        "problem": "What is the specific classification of the image quality of this retinal image using a three-class grading system? A)It's a good retinal image., B)It's a outlier retinal image., C)it's a bad retinal image.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/drimdb_bad (48).jpg",
+        "problem": "What is the specific classification of the image quality for this retinal image when using a three-class grading system? A)it's a bad retinal image., B)It's a outlier retinal image., C)It's a good retinal image.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/38d9fb72cfe3443d87c5cf28adca3758.jpg",
+        "problem": "What is the specific classification of the image quality of this retinal image within the three-class grading system? A)It's a bad retinal image., B)it's a good retinal image., C)It's a outlier retinal image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/1f3904bb30d34884b4946c19a4118488.jpg",
+        "problem": "What is the specific classification of the retinal image quality in this image based on the three-class grading system? A)It's a bad retinal image., B)It's a outlier retinal image., C)it's a good retinal image.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/195a17e600084f859adf50391d330981.jpg",
+        "problem": "What is the specific image quality classification of this retinal image based on the three-class grading system? A)It's a bad retinal image., B)it's a good retinal image., C)It's a outlier retinal image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/drimdb_good (27).jpg",
+        "problem": "Retinal image quality assessment (IQA) is a crucial process for automated retinal image analysis systems to obtain an accurate and successful diagnosis of retinal diseases. if we used a three-class grading system that consists of good, bad, and outlier classes.  What specific image quality of in this image? A)it's a good retinal image., B)It's a bad retinal image., C)It's a outlier retinal image.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/drimdb_good (81).jpg",
+        "problem": "What is the specific classification of the retinal image quality in this image according to the three-class grading system? A)it's a good retinal image., B)It's a bad retinal image., C)It's a outlier retinal image.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/1a038e5f6cb441e58443c3678886ea8c.jpg",
+        "problem": "What is the specific grading of the image quality of this retinal image according to the three-class system? A)it's a good retinal image., B)It's a outlier retinal image., C)It's a bad retinal image.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/18c8058455f649c7a114d57719e21a50.jpg",
+        "problem": "Retinal image quality assessment (IQA) is a crucial process for automated retinal image analysis systems to obtain an accurate and successful diagnosis of retinal diseases. if we used a three-class grading system that consists of good, bad, and outlier classes.  What specific image quality of in this image? A)It's a bad retinal image., B)it's a good retinal image., C)It's a outlier retinal image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/drimdb_good (11).jpg",
+        "problem": "What is the quality of the retinal image in terms of the three-class grading system (good, bad, and outlier)? A)It's a bad retinal image., B)it's a good retinal image., C)It's a outlier retinal image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/drimdb_good (95).jpg",
+        "problem": "What is the specific classification of the image quality in this retinal image when using a three-class grading system that includes good, bad, and outlier classes? A)It's a bad retinal image., B)it's a good retinal image., C)It's a outlier retinal image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/18c8058455f649c7a114d57719e21a50_s.jpg",
+        "problem": "What is the classification of the image quality of this retinal image using the three-class grading system? A)it's a good retinal image., B)It's a outlier retinal image., C)It's a bad retinal image.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/dfdd7e2f2c504f1faf668b74048d2ace_s.jpg",
+        "problem": "What is the classification of the image quality in this retinal image using the three-class grading system? A)It's a outlier retinal image., B)It's a bad retinal image., C)it's a good retinal image.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/drimdb_good (104).jpg",
+        "problem": "Retinal image quality assessment (IQA) is a crucial process for automated retinal image analysis systems to obtain an accurate and successful diagnosis of retinal diseases. if we used a three-class grading system that consists of good, bad, and outlier classes.  What specific image quality of in this image? A)It's a bad retinal image., B)It's a outlier retinal image., C)it's a good retinal image.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/4a9ca09b19e34266a133fe46a450518e.jpg",
+        "problem": "What grading class does the retinal image fall under in terms of image quality? A)it's a good retinal image., B)It's a bad retinal image., C)It's a outlier retinal image.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/87307942bac14ede8266b6dfb2d860ef_s.jpg",
+        "problem": "Retinal image quality assessment (IQA) is a crucial process for automated retinal image analysis systems to obtain an accurate and successful diagnosis of retinal diseases. if we used a three-class grading system that consists of good, bad, and outlier classes.  What specific image quality of in this image? A)it's a good retinal image., B)It's a outlier retinal image., C)It's a bad retinal image.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/553c15b8d6cf48d5a7d1f99d0ade3a83_s.jpg",
+        "problem": "What is the classification of the image quality in the retinal image using a three-class grading system consisting of good, bad, and outlier classes? A)It's a outlier retinal image., B)It's a bad retinal image., C)it's a good retinal image.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/3c33e6acdb514387bac48b985f409000_s.jpg",
+        "problem": "What is the classification of the image quality of this retinal image using a three-class grading system that includes good, bad, and outlier classes? A)It's a bad retinal image., B)it's a good retinal image., C)It's a outlier retinal image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/27273ead65fc4b1091c19912381fce65_s.jpg",
+        "problem": "What is the classification of the retinal image quality in this image using a three-class grading system? A)it's a good retinal image., B)It's a bad retinal image., C)It's a outlier retinal image.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/drimdb_good (121).jpg",
+        "problem": "What is the specific classification of the image quality for this retinal image according to the three-class grading system? A)It's a outlier retinal image., B)it's a good retinal image., C)It's a bad retinal image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/851abdda00004583b6377b2f58544a81.jpg",
+        "problem": "Retinal image quality assessment (IQA) is a crucial process for automated retinal image analysis systems to obtain an accurate and successful diagnosis of retinal diseases. if we used a three-class grading system that consists of good, bad, and outlier classes.  What specific image quality of in this image? A)it's a good retinal image., B)It's a outlier retinal image., C)It's a bad retinal image.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/drimdb_outlier (5).jpg",
+        "problem": "Retinal image quality assessment (IQA) is a crucial process for automated retinal image analysis systems to obtain an accurate and successful diagnosis of retinal diseases. if we used a three-class grading system that consists of good, bad, and outlier classes.  What specific image quality of in this image? A)It's a good retinal image., B)it's a outlier retinal image., C)It's a bad retinal image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/1165f5abc31b45a3b9e8c471fce447f6_s.jpg",
+        "problem": "What classification does this retinal image fall into based on the three-class grading system? A)it's a outlier retinal image., B)It's a bad retinal image., C)It's a good retinal image.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000137 (2).png",
+        "problem": "Identify the cancer stage depicted in this picture. A)Stage Ib, B)Stage IIIc, C)Stage IIc, D)Stage 0",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000142.png",
+        "problem": "What is the specific stage of cancer depicted in this image? A)Stage Ib, B)Stage 0, C)Stage IIIc, D)Stage IIIb",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000165 (6).png",
+        "problem": "Identify the cancer stage depicted in this photograph. A)Stage IIIc, B)Stage Ib, C)Stage IIIb, D)Stage IIIa",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000161 (4).png",
+        "problem": "What stage does the cancer in the image correspond to? A)Stage IV, B)Stage IIa, C)Stage IIc, D)Stage Ib",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000143 (6).png",
+        "problem": "What stage does the cancer in this image indicate? A)Stage Ib, B)Stage 0, C)Stage Ic, D)Stage IIa",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000119 (6).png",
+        "problem": "What is the cancer stage depicted in this image? A)Stage IV, B)Stage IIb, C)Stage Ib, D)Stage IIa",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000149 (7).png",
+        "problem": "What is the level of cancer progression depicted in this image? A)Stage IIb, B)Stage Ib, C)Stage IIc, D)Stage IIIc",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000114 (5).png",
+        "problem": "What is the specific stage of cancer depicted in this image? A)Stage IIIb, B)Stage Ib, C)Stage IIa, D)Stage Ia",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000134 (2).png",
+        "problem": "What stage is the cancer shown in the image? A)Stage IIc, B)Stage IIIb, C)Stage Ia, D)Stage Ib",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000124 (6).png",
+        "problem": "What stage is the cancer depicted in the image? A)Stage Ic, B)Stage IV, C)Stage Ib, D)Stage IIIa",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000125 (8).png",
+        "problem": "What stage does the cancer depicted in this photograph correspond to? A)Stage Ia, B)Stage Ib, C)Stage IIIc, D)Stage IV",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000123 (6).png",
+        "problem": "What stage does the cancer in this image belong to? A)Stage IIa, B)Stage IIIb, C)Stage IIIc, D)Stage Ib",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000130 (6).png",
+        "problem": "Identify the cancer stage depicted in this picture. A)Stage Ib, B)Stage IIIc, C)Stage IIa, D)Stage IIIa",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000132 (8).png",
+        "problem": "What stage is the cancer depicted in the image? A)Stage Ia, B)Stage Ib, C)Stage IIIa, D)Stage IIc",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000136 (2).png",
+        "problem": "What is the indicated stage of cancer in this image? A)Stage Ic, B)Stage Ib, C)Stage IV, D)Stage IIIb",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000155.png",
+        "problem": "What is the specific stage of cancer depicted in this image? A)Stage Ia, B)Stage Ib, C)Stage IIc, D)Stage IIa",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/val/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000114.png",
+        "problem": "What is the specific stage assigned to the cancer depicted in the image? A)Stage IIb, B)Stage IIIa, C)Stage Ib, D)Stage Ia",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/val/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000114 (10).png",
+        "problem": "What is the cancer stage depicted in the image? A)Stage IIa, B)Stage IIb, C)Stage Ib, D)Stage IIc",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/val/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000116 (3).png",
+        "problem": "What stage is the cancer depicted in the image? A)Stage Ib, B)Stage IV, C)Stage IIIa, D)Stage IIIb",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/val/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000109 (8).png",
+        "problem": "What is the specific stage of cancer shown in the image? A)Stage IIIb, B)Stage IIc, C)Stage IIb, D)Stage Ib",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000122.png",
+        "problem": "What is the stage of the displayed cancer? A)Stage IIIa, B)Stage IIId, C)Stage IIIc, D)Stage IVc",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000143.png",
+        "problem": "What stage is the cancer depicted in the image? A)Stage IVb, B)Stage IVd, C)Stage IVc, D)Stage IIIa",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000147 (2).png",
+        "problem": "What is the staging of the cancer shown in this image? A)Stage Ib, B)Stage IIIc, C)Stage IIIa, D)Stage IVa",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000131 (2).png",
+        "problem": "What stage is indicated by the cancer in the provided image? A)Stage IIIa, B)Stage IVd, C)Stage IVc, D)Stage Ic",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000115 (2).png",
+        "problem": "At what stage does the cancer appear in this image? A)Stage IIId, B)Stage IIb, C)Stage IVd, D)Stage IIIa",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000170.png",
+        "problem": "What stage does the cancer in this image indicate? A)Stage IIIc, B)Stage IVc, C)Stage IIIa, D)Stage Ib",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000169.png",
+        "problem": "What is the cancer stage depicted in the image? A)Stage IVb, B)Stage IIIa, C)Stage IIIc, D)Stage IVc",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/val/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000108.png",
+        "problem": "Identify the cancer stage depicted in this photograph. A)Stage IVa, B)Stage IIIa, C)Stage IVc, D)Stage Ib",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/val/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000131.png",
+        "problem": "What stage is the cancer depicted in the image? A)Stage IIb, B)Stage IIIa, C)Stage IIIc, D)Stage IIId",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/val/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000110.png",
+        "problem": "At what stage is the cancer depicted in this image? A)Stage IVb, B)Stage IIIa, C)Stage Ib, D)Stage IIb",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/val/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000118 (2).png",
+        "problem": "What stage is the cancer depicted in the image? A)Stage Ib, B)Stage IVc, C)Stage IIIa, D)Stage IVa",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/val/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000120.png",
+        "problem": "What is the cancer staging of the tumor shown in this image? A)Stage Ib, B)Stage IVb, C)Stage Ic, D)Stage IIIa",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000163 (4).png",
+        "problem": "What is the cancer stage depicted in this image? A)Stage IIIa of Squamous cell carcinoma of the left hilum., B)Stage IVb of Squamous cell carcinoma of the left lung., C)Stage IVc of Adenocarcinoma of the right lung., D)Stage Ia of Squamous cell carcinoma of the right hilum.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000151.png",
+        "problem": "What is the cancer stage depicted in this image? A)Stage IIIb of Adenocarcinoma of the left lung., B)Stage IIIc of Small cell carcinoma of the right lung., C)Stage IIIa of Squamous cell carcinoma of the left hilum., D)Stage IIb of Adenocarcinoma of the right hilum.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000115 (5).png",
+        "problem": "What is the stage of the cancer in this image? A)Stage IIIa of Squamous cell carcinoma of the left hilum., B)Stage IVb of Squamous cell carcinoma of the left lung., C)Stage Ia of Squamous cell carcinoma of the right hilum., D)Stage IIa of Adenocarcinoma of the right bronchus.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000120 (2).png",
+        "problem": "What stage does the cancer depicted in this photograph correspond to? A)Stage Ic of Squamous cell carcinoma of the left bronchus., B)Stage IIIa of Squamous cell carcinoma of the left hilum., C)Stage IIIc of Small cell carcinoma of the right lung., D)Stage Ia of Squamous cell carcinoma of the right hilum.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000169 (6).png",
+        "problem": "What is the cancer stage depicted in the provided image? A)Stage IVc of Adenocarcinoma of the right lung., B)Stage IIIa of Squamous cell carcinoma of the left hilum., C)Stage Ia of Squamous cell carcinoma of the right hilum., D)Stage IIa of Adenocarcinoma of the right bronchus.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000146 (6).png",
+        "problem": "What is the stage of the cancer in this image? A)Stage IVc of Adenocarcinoma of the right lung., B)Stage Ib of Small cell carcinoma of the right hilum., C)Stage IIIa of Squamous cell carcinoma of the left hilum., D)Stage IVb of Squamous cell carcinoma of the left lung.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000114 (2).png",
+        "problem": "Based on this image, what stage can the cancer be classified as? A)Stage IIIa of Squamous cell carcinoma of the left hilum., B)Stage Ia of Squamous cell carcinoma of the right hilum., C)Stage IIb of Adenocarcinoma of the right hilum., D)Stage IVc of Adenocarcinoma of the right lung.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000136 (4).png",
+        "problem": "What level of progression does the cancer depicted in this picture represent? A)Stage IIa of Adenocarcinoma of the right bronchus., B)Stage IIIa of Squamous cell carcinoma of the left hilum., C)Stage Ib of Small cell carcinoma of the right hilum., D)Stage IVc of Adenocarcinoma of the right lung.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000153 (4).png",
+        "problem": "What is the stage of the cancer in this image? A)Stage Ia of Squamous cell carcinoma of the right hilum., B)Stage Ib of Small cell carcinoma of the right hilum., C)Stage IIIb of Adenocarcinoma of the left lung., D)Stage IIIa of Squamous cell carcinoma of the left hilum.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000141 (4).png",
+        "problem": "Identify the cancer stage depicted in this photograph. A)Stage IVb of Squamous cell carcinoma of the left lung., B)Stage IIa of Adenocarcinoma of the right bronchus., C)Stage IVa of Small cell carcinoma of the left lung., D)Stage IIIa of Squamous cell carcinoma of the left hilum.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000142 (5).png",
+        "problem": "What is the stage of the cancer in this image? A)Stage IIb of Adenocarcinoma of the right hilum., B)Stage IIIa of Squamous cell carcinoma of the left hilum., C)Stage Ia of Squamous cell carcinoma of the right hilum., D)Stage Ic of Squamous cell carcinoma of the left bronchus.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000124.png",
+        "problem": "What stage is depicted in this image of Squamous cell carcinoma of the left hilum? A)Stage Ic of Squamous cell carcinoma of the left bronchus., B)Stage Ia of Squamous cell carcinoma of the right hilum., C)Stage IIIa of Squamous cell carcinoma of the left hilum., D)Stage IIa of Adenocarcinoma of the right bronchus.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/val/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000114 (6).png",
+        "problem": "What is the stage of the cancer in this image? A)Stage Ib of Small cell carcinoma of the right hilum., B)Stage Ia of Squamous cell carcinoma of the right hilum., C)Stage IVb of Squamous cell carcinoma of the left lung., D)Stage IIIa of Squamous cell carcinoma of the left hilum.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/38132_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)No diabetic retinopathy., B)Optic neuritis, C)Keratoconus, D)Age-related macular degeneration",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/17822_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Congenital cataracts, B)Age-related macular degeneration, C)No diabetic retinopathy., D)Glaucoma",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/398_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Keratoconus, B)No diabetic retinopathy., C)Uveitis, D)Retinal detachment",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/935_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)No diabetic retinopathy., B)Keratoconus, C)Corneal ulcer, D)Conjunctivitis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/489_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Age-related macular degeneration, B)Central retinal vein occlusion, C)No diabetic retinopathy., D)Keratoconus",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/14749_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Congenital cataracts, B)No diabetic retinopathy., C)Conjunctivitis, D)Corneal ulcer",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/11143_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)No diabetic retinopathy., B)Age-related macular degeneration, C)Central retinal vein occlusion, D)Keratoconus",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/19481_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Retinal detachment, B)Conjunctivitis, C)No diabetic retinopathy., D)Central retinal vein occlusion",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/23233_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Age-related macular degeneration, B)Optic neuritis, C)No diabetic retinopathy., D)Glaucoma",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/28436_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Congenital cataracts, B)Central retinal vein occlusion, C)No diabetic retinopathy., D)Age-related macular degeneration",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/18574_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)No diabetic retinopathy., B)Corneal ulcer, C)Conjunctivitis, D)Retinal detachment",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/13977_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Retinal detachment, B)Uveitis, C)No diabetic retinopathy., D)Optic neuritis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/34769_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Central retinal vein occlusion, B)Glaucoma, C)No diabetic retinopathy., D)Congenital cataracts",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/14898_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Keratoconus, B)No diabetic retinopathy., C)Central retinal vein occlusion, D)Corneal ulcer",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/17355_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Corneal ulcer, B)No diabetic retinopathy., C)Uveitis, D)Keratoconus",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/4731_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)No diabetic retinopathy., B)Central retinal vein occlusion, C)Glaucoma, D)Uveitis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/25302_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Central retinal vein occlusion, B)No diabetic retinopathy., C)Keratoconus, D)Corneal ulcer",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/22283_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Corneal ulcer, B)Keratoconus, C)Central retinal vein occlusion, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/3653_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Congenital cataracts, B)No diabetic retinopathy., C)Retinal detachment, D)Optic neuritis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/28587_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Keratoconus, B)No diabetic retinopathy., C)Conjunctivitis, D)Uveitis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/26547_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Glaucoma, B)Conjunctivitis, C)Uveitis, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/6189_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Optic neuritis, B)Conjunctivitis, C)Congenital cataracts, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/21312_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Age-related macular degeneration, B)No diabetic retinopathy., C)Central retinal vein occlusion, D)Retinal detachment",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/33008_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Age-related macular degeneration, B)No diabetic retinopathy., C)Corneal ulcer, D)Keratoconus",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/24171_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)No diabetic retinopathy., B)Conjunctivitis, C)Keratoconus, D)Uveitis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/32228_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Glaucoma, B)Congenital cataracts, C)Corneal ulcer, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/19960_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Uveitis, B)No diabetic retinopathy., C)Optic neuritis, D)Conjunctivitis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/30695_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Uveitis, B)Age-related macular degeneration, C)Glaucoma, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/10112_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Age-related macular degeneration, B)Glaucoma, C)Central retinal vein occlusion, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/33894_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)No diabetic retinopathy., B)Conjunctivitis, C)Keratoconus, D)Optic neuritis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/26898_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Conjunctivitis, B)Keratoconus, C)Uveitis, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/5819_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Optic neuritis, B)No diabetic retinopathy., C)Glaucoma, D)Congenital cataracts",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/19067_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)No diabetic retinopathy., B)Age-related macular degeneration, C)Central retinal vein occlusion, D)Uveitis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/36827_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Retinal detachment, B)No diabetic retinopathy., C)Glaucoma, D)Conjunctivitis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/11087_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Retinal detachment, B)Age-related macular degeneration, C)Keratoconus, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/40913_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Glaucoma, B)Optic neuritis, C)Conjunctivitis, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/41287_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)No diabetic retinopathy., B)Age-related macular degeneration, C)Retinal detachment, D)Congenital cataracts",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/15643_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Keratoconus, B)Optic neuritis, C)Retinal detachment, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/32656_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Age-related macular degeneration, B)Keratoconus, C)No diabetic retinopathy., D)Optic neuritis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/3518_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Optic neuritis, B)Keratoconus, C)No diabetic retinopathy., D)Glaucoma",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/32489_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Retinal detachment, B)Central retinal vein occlusion, C)Uveitis, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/23547_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Age-related macular degeneration, B)Optic neuritis, C)Conjunctivitis, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/2285_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Age-related macular degeneration, B)Conjunctivitis, C)Uveitis, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/10175_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Optic neuritis, B)Retinal detachment, C)No diabetic retinopathy., D)Uveitis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/14198_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Central retinal vein occlusion, B)Retinal detachment, C)No diabetic retinopathy., D)Uveitis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/22527_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Conjunctivitis, B)Central retinal vein occlusion, C)No diabetic retinopathy., D)Retinal detachment",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/41187_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Age-related macular degeneration, B)No diabetic retinopathy., C)Retinal detachment, D)Optic neuritis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/10073_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Conjunctivitis, B)Optic neuritis, C)No diabetic retinopathy., D)Keratoconus",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/18498_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Age-related macular degeneration, B)Glaucoma, C)No diabetic retinopathy., D)Keratoconus",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/13132_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Uveitis, B)Conjunctivitis, C)Age-related macular degeneration, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/23734_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Keratoconus, B)Corneal ulcer, C)No diabetic retinopathy., D)Optic neuritis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/23035_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)No diabetic retinopathy., B)Conjunctivitis, C)Optic neuritis, D)Retinal detachment",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/36456_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)No diabetic retinopathy., B)Congenital cataracts, C)Corneal ulcer, D)Keratoconus",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/35463_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Conjunctivitis, B)Glaucoma, C)No diabetic retinopathy., D)Age-related macular degeneration",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/24968_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)No diabetic retinopathy., B)Conjunctivitis, C)Optic neuritis, D)Retinal detachment",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/29432_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Central retinal vein occlusion, B)Keratoconus, C)Corneal ulcer, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/24876_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Age-related macular degeneration, B)No diabetic retinopathy., C)Retinal detachment, D)Uveitis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/8906_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Congenital cataracts, B)Conjunctivitis, C)Uveitis, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/35343_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Uveitis, B)Retinal detachment, C)Corneal ulcer, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/42471_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Optic neuritis, B)No diabetic retinopathy., C)Keratoconus, D)Uveitis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/18023_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Central retinal vein occlusion, B)No diabetic retinopathy., C)Optic neuritis, D)Uveitis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/43738_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)No diabetic retinopathy., B)Central retinal vein occlusion, C)Uveitis, D)Congenital cataracts",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/2305_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Conjunctivitis, B)No diabetic retinopathy., C)Keratoconus, D)Optic neuritis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/23256_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Glaucoma, B)No diabetic retinopathy., C)Keratoconus, D)Congenital cataracts",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/33674_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Conjunctivitis, B)Uveitis, C)Corneal ulcer, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/23231_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Congenital cataracts, B)Optic neuritis, C)Uveitis, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/21448_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Conjunctivitis, B)No diabetic retinopathy., C)Uveitis, D)Retinal detachment",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/24697_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Central retinal vein occlusion, B)Conjunctivitis, C)No diabetic retinopathy., D)Age-related macular degeneration",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/13572_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Keratoconus, B)Optic neuritis, C)Uveitis, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/10429_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Corneal ulcer, B)Optic neuritis, C)Conjunctivitis, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/15250_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Glaucoma, B)Uveitis, C)No diabetic retinopathy., D)Central retinal vein occlusion",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/31091_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Optic neuritis, B)Keratoconus, C)Central retinal vein occlusion, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/40871_right.jpeg",
+        "problem": "What does this image reveal in terms of abnormality? A)Conjunctivitis, B)Keratoconus, C)Uveitis, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/42157_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Age-related macular degeneration, B)No diabetic retinopathy., C)Retinal detachment, D)Optic neuritis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/6872_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)No diabetic retinopathy., B)Congenital cataracts, C)Age-related macular degeneration, D)Keratoconus",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/32079_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)No diabetic retinopathy., B)Optic neuritis, C)Uveitis, D)Congenital cataracts",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/24474_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Corneal ulcer, B)Central retinal vein occlusion, C)Glaucoma, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/30502_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Central retinal vein occlusion, B)Conjunctivitis, C)Glaucoma, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/8660_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)No diabetic retinopathy., B)Conjunctivitis, C)Glaucoma, D)Optic neuritis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/37811_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Central retinal vein occlusion, B)Optic neuritis, C)Congenital cataracts, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/24793_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Optic neuritis, B)Glaucoma, C)No diabetic retinopathy., D)Retinal detachment",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/41015_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Optic neuritis, B)Congenital cataracts, C)Retinal detachment, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/25806_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)No diabetic retinopathy., B)Conjunctivitis, C)Keratoconus, D)Retinal detachment",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/18357_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Conjunctivitis, B)Optic neuritis, C)No diabetic retinopathy., D)Keratoconus",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/44220_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Uveitis, B)Optic neuritis, C)No diabetic retinopathy., D)Retinal detachment",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/7688_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Conjunctivitis, B)No diabetic retinopathy., C)Uveitis, D)Keratoconus",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/38612_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Retinal detachment, B)Central retinal vein occlusion, C)No diabetic retinopathy., D)Age-related macular degeneration",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/33077_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)No diabetic retinopathy., B)Uveitis, C)Corneal ulcer, D)Age-related macular degeneration",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/36359_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Central retinal vein occlusion, B)Retinal detachment, C)No diabetic retinopathy., D)Corneal ulcer",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/3970_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Retinal detachment, B)Central retinal vein occlusion, C)Uveitis, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/15752_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Optic neuritis, B)Corneal ulcer, C)No diabetic retinopathy., D)Age-related macular degeneration",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/2857_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Optic neuritis, B)No diabetic retinopathy., C)Uveitis, D)Corneal ulcer",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/26937_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Congenital cataracts, B)Central retinal vein occlusion, C)Optic neuritis, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/5935_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Uveitis, B)Glaucoma, C)No diabetic retinopathy., D)Corneal ulcer",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/16642_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)No diabetic retinopathy., B)Age-related macular degeneration, C)Keratoconus, D)Central retinal vein occlusion",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/26218_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Congenital cataracts, B)No diabetic retinopathy., C)Glaucoma, D)Corneal ulcer",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/1733_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Keratoconus, B)Congenital cataracts, C)No diabetic retinopathy., D)Retinal detachment",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/2439_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Conjunctivitis, B)Uveitis, C)Optic neuritis, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/39464_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Glaucoma, B)Retinal detachment, C)Optic neuritis, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/38589_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)No diabetic retinopathy., B)Uveitis, C)Retinal detachment, D)Central retinal vein occlusion",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/25947_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Central retinal vein occlusion, B)Retinal detachment, C)No diabetic retinopathy., D)Uveitis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/2976_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)No diabetic retinopathy., B)Retinal detachment, C)Corneal ulcer, D)Age-related macular degeneration",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/18066_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)No diabetic retinopathy., B)Conjunctivitis, C)Corneal ulcer, D)Congenital cataracts",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/10173_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Uveitis, B)Age-related macular degeneration, C)No diabetic retinopathy., D)Keratoconus",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/44083_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Corneal ulcer, B)Optic neuritis, C)Uveitis, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/3527_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Corneal ulcer, B)Central retinal vein occlusion, C)Keratoconus, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/23832_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Conjunctivitis, B)No diabetic retinopathy., C)Corneal ulcer, D)Congenital cataracts",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/31873_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Congenital cataracts, B)Age-related macular degeneration, C)No diabetic retinopathy., D)Uveitis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/38957_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Optic neuritis, B)No diabetic retinopathy., C)Retinal detachment, D)Age-related macular degeneration",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/38933_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Uveitis, B)Central retinal vein occlusion, C)No diabetic retinopathy., D)Conjunctivitis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/968_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Conjunctivitis, B)Congenital cataracts, C)No diabetic retinopathy., D)Corneal ulcer",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/41881_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)No diabetic retinopathy., B)Age-related macular degeneration, C)Conjunctivitis, D)Glaucoma",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/17217_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Corneal ulcer, B)No diabetic retinopathy., C)Glaucoma, D)Conjunctivitis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/36757_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Keratoconus, B)Glaucoma, C)Age-related macular degeneration, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/174_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Retinal detachment, B)Central retinal vein occlusion, C)No diabetic retinopathy., D)Corneal ulcer",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/20892_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Central retinal vein occlusion, B)No diabetic retinopathy., C)Congenital cataracts, D)Corneal ulcer",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/38621_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Glaucoma, B)Age-related macular degeneration, C)No diabetic retinopathy., D)Corneal ulcer",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/2099_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Corneal ulcer, B)Age-related macular degeneration, C)Glaucoma, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/25466_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Keratoconus, B)No diabetic retinopathy., C)Optic neuritis, D)Central retinal vein occlusion",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/40125_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Central retinal vein occlusion, B)Conjunctivitis, C)Corneal ulcer, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/38762_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Age-related macular degeneration, B)No diabetic retinopathy., C)Optic neuritis, D)Congenital cataracts",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/35838_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Keratoconus, B)No diabetic retinopathy., C)Uveitis, D)Retinal detachment",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/30935_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Congenital cataracts, B)No diabetic retinopathy., C)Conjunctivitis, D)Corneal ulcer",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/3662_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Congenital cataracts, B)Corneal ulcer, C)Keratoconus, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/29305_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Glaucoma, B)Conjunctivitis, C)Uveitis, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/18579_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Age-related macular degeneration, B)Optic neuritis, C)Congenital cataracts, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/41241_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Central retinal vein occlusion, B)Corneal ulcer, C)No diabetic retinopathy., D)Congenital cataracts",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/7793_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Glaucoma, B)Uveitis, C)No diabetic retinopathy., D)Conjunctivitis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/28530_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Age-related macular degeneration, B)Keratoconus, C)No diabetic retinopathy., D)Central retinal vein occlusion",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/20753_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)No diabetic retinopathy., B)Uveitis, C)Conjunctivitis, D)Optic neuritis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/16060_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Keratoconus, B)No diabetic retinopathy., C)Retinal detachment, D)Conjunctivitis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/36748_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Central retinal vein occlusion, B)Age-related macular degeneration, C)Glaucoma, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/37305_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)No diabetic retinopathy., B)Age-related macular degeneration, C)Glaucoma, D)Corneal ulcer",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/19598_left.jpeg",
+        "problem": "What does the image indicate in terms of abnormalities? A)Uveitis, B)Central retinal vein occlusion, C)Corneal ulcer, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/32986_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Corneal ulcer, B)Central retinal vein occlusion, C)Conjunctivitis, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/2853_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)No diabetic retinopathy., B)Retinal detachment, C)Central retinal vein occlusion, D)Age-related macular degeneration",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/24301_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Central retinal vein occlusion, B)No diabetic retinopathy., C)Glaucoma, D)Congenital cataracts",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/30352_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Keratoconus, B)No diabetic retinopathy., C)Retinal detachment, D)Central retinal vein occlusion",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/9066_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Retinal detachment, B)No diabetic retinopathy., C)Conjunctivitis, D)Congenital cataracts",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/3325_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Uveitis, B)Retinal detachment, C)No diabetic retinopathy., D)Optic neuritis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/1651_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)No diabetic retinopathy., B)Corneal ulcer, C)Keratoconus, D)Uveitis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/18922_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Central retinal vein occlusion, B)Retinal detachment, C)Keratoconus, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/29217_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Keratoconus, B)No diabetic retinopathy., C)Uveitis, D)Congenital cataracts",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/3468_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Conjunctivitis, B)Uveitis, C)Congenital cataracts, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/43690_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Central retinal vein occlusion, B)No diabetic retinopathy., C)Retinal detachment, D)Uveitis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/17010_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Age-related macular degeneration, B)Glaucoma, C)No diabetic retinopathy., D)Central retinal vein occlusion",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/26778_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Optic neuritis, B)Glaucoma, C)No diabetic retinopathy., D)Central retinal vein occlusion",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/28865_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)No diabetic retinopathy., B)Keratoconus, C)Central retinal vein occlusion, D)Uveitis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/2418_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Central retinal vein occlusion, B)No diabetic retinopathy., C)Uveitis, D)Keratoconus",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/16738_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Uveitis, B)No diabetic retinopathy., C)Conjunctivitis, D)Optic neuritis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/30466_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)No diabetic retinopathy., B)Conjunctivitis, C)Keratoconus, D)Retinal detachment",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/41627_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Uveitis, B)No diabetic retinopathy., C)Optic neuritis, D)Corneal ulcer",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/43191_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Optic neuritis, B)Retinal detachment, C)Age-related macular degeneration, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/24259_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)No diabetic retinopathy., B)Age-related macular degeneration, C)Congenital cataracts, D)Conjunctivitis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/43064_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)No diabetic retinopathy., B)Congenital cataracts, C)Corneal ulcer, D)Age-related macular degeneration",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/34719_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Glaucoma, B)Retinal detachment, C)Age-related macular degeneration, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/5052_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Glaucoma, B)Retinal detachment, C)No diabetic retinopathy., D)Conjunctivitis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/14337_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Age-related macular degeneration, B)No diabetic retinopathy., C)Corneal ulcer, D)Optic neuritis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/25242_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)No diabetic retinopathy., B)Uveitis, C)Age-related macular degeneration, D)Conjunctivitis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/18783_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)No diabetic retinopathy., B)Age-related macular degeneration, C)Conjunctivitis, D)Optic neuritis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/43375_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Congenital cataracts, B)Age-related macular degeneration, C)Corneal ulcer, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/24206_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Corneal ulcer, B)No diabetic retinopathy., C)Optic neuritis, D)Glaucoma",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/27577_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)No diabetic retinopathy., B)Central retinal vein occlusion, C)Conjunctivitis, D)Keratoconus",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/29638_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)No diabetic retinopathy., B)Congenital cataracts, C)Uveitis, D)Corneal ulcer",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/11143_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Corneal ulcer, B)No diabetic retinopathy., C)Congenital cataracts, D)Conjunctivitis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/11268_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)No diabetic retinopathy., B)Optic neuritis, C)Glaucoma, D)Conjunctivitis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/37408_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Retinal detachment, B)No diabetic retinopathy., C)Keratoconus, D)Central retinal vein occlusion",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/7091_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Keratoconus, B)Retinal detachment, C)No diabetic retinopathy., D)Conjunctivitis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/39348_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Conjunctivitis, B)Corneal ulcer, C)Optic neuritis, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/5349_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Age-related macular degeneration, B)Uveitis, C)Optic neuritis, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/4980_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Uveitis, B)No diabetic retinopathy., C)Corneal ulcer, D)Keratoconus",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/18128_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Uveitis, B)Conjunctivitis, C)No diabetic retinopathy., D)Central retinal vein occlusion",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/19014_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)No diabetic retinopathy., B)Central retinal vein occlusion, C)Uveitis, D)Optic neuritis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/8314_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Central retinal vein occlusion, B)Glaucoma, C)No diabetic retinopathy., D)Age-related macular degeneration",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/4125_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Corneal ulcer, B)Central retinal vein occlusion, C)No diabetic retinopathy., D)Uveitis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/6835_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Glaucoma, B)No diabetic retinopathy., C)Age-related macular degeneration, D)Congenital cataracts",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/39699_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)No diabetic retinopathy., B)Retinal detachment, C)Central retinal vein occlusion, D)Uveitis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/36794_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)No diabetic retinopathy., B)Conjunctivitis, C)Glaucoma, D)Central retinal vein occlusion",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/23596_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Keratoconus, B)No diabetic retinopathy., C)Uveitis, D)Corneal ulcer",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/27210_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Age-related macular degeneration, B)Central retinal vein occlusion, C)No diabetic retinopathy., D)Corneal ulcer",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/36022_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)No diabetic retinopathy., B)Corneal ulcer, C)Central retinal vein occlusion, D)Uveitis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/37448_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Glaucoma, B)Congenital cataracts, C)Optic neuritis, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/11362_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Central retinal vein occlusion, B)Retinal detachment, C)Keratoconus, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/15150_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Optic neuritis, B)No diabetic retinopathy., C)Glaucoma, D)Keratoconus",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/17762_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Corneal ulcer, B)Keratoconus, C)No diabetic retinopathy., D)Optic neuritis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/11601_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Optic neuritis, B)No diabetic retinopathy., C)Uveitis, D)Glaucoma",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/7810_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Keratoconus, B)Retinal detachment, C)No diabetic retinopathy., D)Central retinal vein occlusion",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/29984_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)No diabetic retinopathy., B)Age-related macular degeneration, C)Retinal detachment, D)Central retinal vein occlusion",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/21826_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Optic neuritis, B)Congenital cataracts, C)No diabetic retinopathy., D)Uveitis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/21849_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Central retinal vein occlusion, B)Age-related macular degeneration, C)Corneal ulcer, D)No diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/21079_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)No diabetic retinopathy., B)Central retinal vein occlusion, C)Retinal detachment, D)Corneal ulcer",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/38556_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)No diabetic retinopathy., B)Conjunctivitis, C)Uveitis, D)Congenital cataracts",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/32005_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Keratoconus, B)Congenital cataracts, C)No diabetic retinopathy., D)Optic neuritis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/42137_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)No diabetic retinopathy., B)Optic neuritis, C)Conjunctivitis, D)Congenital cataracts",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/17722_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Age-related macular degeneration, B)Corneal ulcer, C)No diabetic retinopathy., D)Congenital cataracts",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/23237_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Keratoconus, B)Retinal detachment, C)No diabetic retinopathy., D)Central retinal vein occlusion",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/0/1480_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Keratoconus, B)Corneal ulcer, C)No diabetic retinopathy., D)Glaucoma",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/10150_right.jpeg",
+        "problem": "In this image, what specific abnormality is observed? A)Chronic conjunctivitis., B)Mild diabetic retinopathy., C)Congenital color blindness., D)Mild corneal ulcer.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/31397_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild astigmatism., B)Mild diabetic retinopathy., C)Partial retinal detachment., D)Papilledema due to increased intracranial pressure.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/25154_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild corneal ulcer., B)Papilledema due to increased intracranial pressure., C)Mild diabetic retinopathy., D)Moderate glaucoma.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/23890_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Congenital color blindness., B)Chronic conjunctivitis., C)Mild diabetic retinopathy., D)Acute optic neuritis.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/17705_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild diabetic retinopathy., B)Acute optic neuritis., C)Moderate glaucoma., D)Congenital color blindness.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/30606_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild corneal ulcer., B)Papilledema due to increased intracranial pressure., C)Mild diabetic retinopathy., D)Congenital color blindness.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/7107_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild diabetic retinopathy., B)Mild astigmatism., C)Partial retinal detachment., D)Acute optic neuritis.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/3888_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Chronic conjunctivitis., B)Mild diabetic retinopathy., C)Acute optic neuritis., D)Advanced cataracts.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/5407_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild diabetic retinopathy., B)Advanced cataracts., C)Mild astigmatism., D)Partial retinal detachment.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/5435_right.jpeg",
+        "problem": "In this image, what is the specific anomaly identified? A)Acute optic neuritis., B)Partial retinal detachment., C)Mild diabetic retinopathy., D)Congenital color blindness.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/32703_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Severe macular degeneration., B)Mild diabetic retinopathy., C)Papilledema due to increased intracranial pressure., D)Mild corneal ulcer.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/26056_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Chronic conjunctivitis., B)Moderate glaucoma., C)Partial retinal detachment., D)Mild diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/43158_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild astigmatism., B)Papilledema due to increased intracranial pressure., C)Congenital color blindness., D)Mild diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/13158_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild diabetic retinopathy., B)Partial retinal detachment., C)Congenital color blindness., D)Severe macular degeneration.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/22821_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Partial retinal detachment., B)Advanced cataracts., C)Moderate glaucoma., D)Mild diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/32176_left.jpeg",
+        "problem": "What does this image show in terms of a specific abnormality? A)Papilledema due to increased intracranial pressure., B)Mild diabetic retinopathy., C)Severe macular degeneration., D)Acute optic neuritis.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/29320_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild astigmatism., B)Advanced cataracts., C)Papilledema due to increased intracranial pressure., D)Mild diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/13962_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild corneal ulcer., B)Mild diabetic retinopathy., C)Congenital color blindness., D)Moderate glaucoma.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/4831_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Severe macular degeneration., B)Mild diabetic retinopathy., C)Moderate glaucoma., D)Partial retinal detachment.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/34078_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Moderate glaucoma., B)Acute optic neuritis., C)Mild diabetic retinopathy., D)Severe macular degeneration.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/7219_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild diabetic retinopathy., B)Congenital color blindness., C)Mild corneal ulcer., D)Papilledema due to increased intracranial pressure.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/7457_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Congenital color blindness., B)Papilledema due to increased intracranial pressure., C)Mild diabetic retinopathy., D)Mild astigmatism.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/42973_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Advanced cataracts., B)Partial retinal detachment., C)Mild diabetic retinopathy., D)Chronic conjunctivitis.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/31724_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild diabetic retinopathy., B)Acute optic neuritis., C)Advanced cataracts., D)Partial retinal detachment.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/31060_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Partial retinal detachment., B)Advanced cataracts., C)Severe macular degeneration., D)Mild diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/11929_left.jpeg",
+        "problem": "What does this image show in terms of a specific abnormality? A)Congenital color blindness., B)Moderate glaucoma., C)Acute optic neuritis., D)Mild diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/25637_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Congenital color blindness., B)Chronic conjunctivitis., C)Mild diabetic retinopathy., D)Advanced cataracts.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/766_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Severe macular degeneration., B)Papilledema due to increased intracranial pressure., C)Mild diabetic retinopathy., D)Congenital color blindness.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/3587_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild diabetic retinopathy., B)Moderate glaucoma., C)Mild astigmatism., D)Severe macular degeneration.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/33659_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild diabetic retinopathy., B)Mild corneal ulcer., C)Acute optic neuritis., D)Advanced cataracts.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/7466_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild corneal ulcer., B)Acute optic neuritis., C)Mild diabetic retinopathy., D)Moderate glaucoma.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/13751_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Acute optic neuritis., B)Advanced cataracts., C)Mild diabetic retinopathy., D)Mild astigmatism.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/37859_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Chronic conjunctivitis., B)Mild diabetic retinopathy., C)Mild astigmatism., D)Mild corneal ulcer.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/11547_left.jpeg",
+        "problem": "What is the precise anomaly evident in this image? A)Papilledema due to increased intracranial pressure., B)Mild diabetic retinopathy., C)Mild astigmatism., D)Moderate glaucoma.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/44309_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild diabetic retinopathy., B)Acute optic neuritis., C)Partial retinal detachment., D)Congenital color blindness.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/42615_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Congenital color blindness., B)Advanced cataracts., C)Papilledema due to increased intracranial pressure., D)Mild diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/16778_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Acute optic neuritis., B)Advanced cataracts., C)Congenital color blindness., D)Mild diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/1856_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild diabetic retinopathy., B)Congenital color blindness., C)Partial retinal detachment., D)Mild corneal ulcer.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/17986_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Advanced cataracts., B)Mild diabetic retinopathy., C)Papilledema due to increased intracranial pressure., D)Congenital color blindness.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/19472_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Partial retinal detachment., B)Chronic conjunctivitis., C)Mild diabetic retinopathy., D)Advanced cataracts.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/1266_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Advanced cataracts., B)Acute optic neuritis., C)Mild diabetic retinopathy., D)Moderate glaucoma.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/32454_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Chronic conjunctivitis., B)Moderate glaucoma., C)Mild astigmatism., D)Mild diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/42264_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Severe macular degeneration., B)Mild astigmatism., C)Mild corneal ulcer., D)Mild diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/22700_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Partial retinal detachment., B)Acute optic neuritis., C)Mild diabetic retinopathy., D)Advanced cataracts.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/8407_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild corneal ulcer., B)Severe macular degeneration., C)Mild diabetic retinopathy., D)Mild astigmatism.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/5697_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild diabetic retinopathy., B)Papilledema due to increased intracranial pressure., C)Acute optic neuritis., D)Partial retinal detachment.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/11995_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Congenital color blindness., B)Mild astigmatism., C)Mild diabetic retinopathy., D)Advanced cataracts.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/11815_right.jpeg",
+        "problem": "What does this image show in terms of abnormality? A)Mild diabetic retinopathy., B)Acute optic neuritis., C)Mild astigmatism., D)Congenital color blindness.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/39326_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Severe macular degeneration., B)Mild astigmatism., C)Mild diabetic retinopathy., D)Advanced cataracts.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/25417_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild corneal ulcer., B)Chronic conjunctivitis., C)Papilledema due to increased intracranial pressure., D)Mild diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/4545_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Advanced cataracts., B)Chronic conjunctivitis., C)Mild diabetic retinopathy., D)Severe macular degeneration.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/560_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Congenital color blindness., B)Mild diabetic retinopathy., C)Partial retinal detachment., D)Moderate glaucoma.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/19422_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild diabetic retinopathy., B)Partial retinal detachment., C)Mild corneal ulcer., D)Severe macular degeneration.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/13891_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild diabetic retinopathy., B)Congenital color blindness., C)Severe macular degeneration., D)Chronic conjunctivitis.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/1/40265_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Chronic conjunctivitis., B)Moderate glaucoma., C)Mild diabetic retinopathy., D)Severe macular degeneration.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/39613_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Moderate diabetic retinopathy., B)Mild diabetic retinopathy., C)Mild cataracts., D)Retinal detachment.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/6093_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild diabetic retinopathy., B)Moderate diabetic retinopathy., C)Severe macular degeneration., D)Advanced glaucoma.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/3932_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Severe macular degeneration., B)Mild diabetic retinopathy., C)Moderate diabetic retinopathy., D)Mild cataracts.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/1259_left.jpeg",
+        "problem": "What does this image display in terms of abnormality? A)Mild diabetic retinopathy., B)Mild cataracts., C)Advanced glaucoma., D)Moderate diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/12539_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Severe macular degeneration., B)Mild cataracts., C)Moderate diabetic retinopathy., D)Advanced glaucoma.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/10131_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Advanced glaucoma., B)Mild cataracts., C)Severe macular degeneration., D)Moderate diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/9830_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild diabetic retinopathy., B)Moderate diabetic retinopathy., C)Mild cataracts., D)Advanced glaucoma.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/4421_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Advanced glaucoma., B)Moderate diabetic retinopathy., C)Severe macular degeneration., D)Mild diabetic retinopathy.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/12944_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild cataracts., B)Moderate diabetic retinopathy., C)Retinal detachment., D)Mild diabetic retinopathy.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/37359_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild cataracts., B)Mild diabetic retinopathy., C)Moderate diabetic retinopathy., D)Retinal detachment.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/35647_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Severe macular degeneration., B)Advanced glaucoma., C)Moderate diabetic retinopathy., D)Retinal detachment.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/5019_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Advanced glaucoma., B)Mild diabetic retinopathy., C)Moderate diabetic retinopathy., D)Retinal detachment.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/5647_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild diabetic retinopathy., B)Moderate diabetic retinopathy., C)Mild cataracts., D)Severe macular degeneration.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/22327_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Moderate diabetic retinopathy., B)Mild diabetic retinopathy., C)Mild cataracts., D)Retinal detachment.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/5516_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Moderate diabetic retinopathy., B)Retinal detachment., C)Advanced glaucoma., D)Mild diabetic retinopathy.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/13323_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild diabetic retinopathy., B)Severe macular degeneration., C)Retinal detachment., D)Moderate diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/31338_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild diabetic retinopathy., B)Retinal detachment., C)Moderate diabetic retinopathy., D)Advanced glaucoma.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/24676_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Moderate diabetic retinopathy., B)Advanced glaucoma., C)Severe macular degeneration., D)Retinal detachment.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/29057_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild diabetic retinopathy., B)Advanced glaucoma., C)Mild cataracts., D)Moderate diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/8003_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Advanced glaucoma., B)Moderate diabetic retinopathy., C)Mild cataracts., D)Retinal detachment.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/10244_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Moderate diabetic retinopathy., B)Mild cataracts., C)Severe macular degeneration., D)Retinal detachment.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/34191_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild diabetic retinopathy., B)Severe macular degeneration., C)Advanced glaucoma., D)Moderate diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/21757_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Retinal detachment., B)Severe macular degeneration., C)Advanced glaucoma., D)Moderate diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/10966_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Moderate diabetic retinopathy., B)Retinal detachment., C)Severe macular degeneration., D)Mild diabetic retinopathy.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/15898_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild cataracts., B)Retinal detachment., C)Moderate diabetic retinopathy., D)Mild diabetic retinopathy.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/3031_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild diabetic retinopathy., B)Advanced glaucoma., C)Severe macular degeneration., D)Moderate diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/26481_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild diabetic retinopathy., B)Mild cataracts., C)Severe macular degeneration., D)Moderate diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/7829_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Severe macular degeneration., B)Mild cataracts., C)Moderate diabetic retinopathy., D)Advanced glaucoma.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/23702_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild diabetic retinopathy., B)Retinal detachment., C)Moderate diabetic retinopathy., D)Mild cataracts.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/5872_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild diabetic retinopathy., B)Moderate diabetic retinopathy., C)Advanced glaucoma., D)Mild cataracts.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/27624_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild diabetic retinopathy., B)Severe macular degeneration., C)Moderate diabetic retinopathy., D)Advanced glaucoma.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/5800_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Severe macular degeneration., B)Retinal detachment., C)Moderate diabetic retinopathy., D)Mild cataracts.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/43890_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Moderate diabetic retinopathy., B)Mild cataracts., C)Advanced glaucoma., D)Retinal detachment.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/13584_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Advanced glaucoma., B)Retinal detachment., C)Mild diabetic retinopathy., D)Moderate diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/40941_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild cataracts., B)Retinal detachment., C)Mild diabetic retinopathy., D)Moderate diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/18362_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Moderate diabetic retinopathy., B)Retinal detachment., C)Mild cataracts., D)Advanced glaucoma.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/23614_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild diabetic retinopathy., B)Advanced glaucoma., C)Moderate diabetic retinopathy., D)Severe macular degeneration.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/7276_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Moderate diabetic retinopathy., B)Mild diabetic retinopathy., C)Retinal detachment., D)Mild cataracts.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/41641_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild diabetic retinopathy., B)Advanced glaucoma., C)Moderate diabetic retinopathy., D)Retinal detachment.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/35667_left.jpeg",
+        "problem": "What specific anomaly is visible in this image? A)Mild cataracts., B)Mild diabetic retinopathy., C)Moderate diabetic retinopathy., D)Severe macular degeneration.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/28039_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Moderate diabetic retinopathy., B)Retinal detachment., C)Mild diabetic retinopathy., D)Advanced glaucoma.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/40915_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Retinal detachment., B)Advanced glaucoma., C)Moderate diabetic retinopathy., D)Mild cataracts.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/5953_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild diabetic retinopathy., B)Moderate diabetic retinopathy., C)Mild cataracts., D)Retinal detachment.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/30919_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Retinal detachment., B)Mild diabetic retinopathy., C)Advanced glaucoma., D)Moderate diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/8245_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Severe macular degeneration., B)Moderate diabetic retinopathy., C)Retinal detachment., D)Mild cataracts.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/43143_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild cataracts., B)Moderate diabetic retinopathy., C)Advanced glaucoma., D)Retinal detachment.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/25745_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Moderate diabetic retinopathy., B)Mild cataracts., C)Severe macular degeneration., D)Advanced glaucoma.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/4078_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Severe macular degeneration., B)Advanced glaucoma., C)Mild cataracts., D)Moderate diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/23821_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild cataracts., B)Retinal detachment., C)Moderate diabetic retinopathy., D)Severe macular degeneration.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/7222_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild diabetic retinopathy., B)Mild cataracts., C)Severe macular degeneration., D)Moderate diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/8966_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild cataracts., B)Retinal detachment., C)Mild diabetic retinopathy., D)Moderate diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/36941_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild diabetic retinopathy., B)Mild cataracts., C)Moderate diabetic retinopathy., D)Severe macular degeneration.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/6544_left.jpeg",
+        "problem": "What is the particular abnormality observed in this image? A)Moderate diabetic retinopathy., B)Advanced glaucoma., C)Mild diabetic retinopathy., D)Severe macular degeneration.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/11623_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Moderate diabetic retinopathy., B)Retinal detachment., C)Advanced glaucoma., D)Severe macular degeneration.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/4025_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Moderate diabetic retinopathy., B)Advanced glaucoma., C)Mild diabetic retinopathy., D)Severe macular degeneration.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/16600_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Moderate diabetic retinopathy., B)Mild cataracts., C)Mild diabetic retinopathy., D)Advanced glaucoma.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/5632_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild cataracts., B)Severe macular degeneration., C)Mild diabetic retinopathy., D)Moderate diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/20439_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Severe macular degeneration., B)Moderate diabetic retinopathy., C)Advanced glaucoma., D)Retinal detachment.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/22101_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild cataracts., B)Advanced glaucoma., C)Moderate diabetic retinopathy., D)Mild diabetic retinopathy.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/43948_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Moderate diabetic retinopathy., B)Severe macular degeneration., C)Mild diabetic retinopathy., D)Mild cataracts.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/29016_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Advanced glaucoma., B)Moderate diabetic retinopathy., C)Mild cataracts., D)Mild diabetic retinopathy.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/11770_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild cataracts., B)Advanced glaucoma., C)Retinal detachment., D)Moderate diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/2/31675_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Retinal detachment., B)Severe macular degeneration., C)Moderate diabetic retinopathy., D)Mild cataracts.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/3/36336_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Acute conjunctivitis., B)Severe diabetic retinopathy., C)Acute macular degeneration., D)Chronic ocular hypertension.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/3/11871_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Severe diabetic retinopathy., B)Moderate cataracts., C)Acute conjunctivitis., D)Chronic retinal detachment.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/3/9951_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild glaucoma., B)Moderate optic neuritis., C)Mild corneal dystrophy., D)Severe diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/3/37339_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Severe diabetic retinopathy., B)Mild corneal dystrophy., C)Acute macular degeneration., D)Mild glaucoma.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/3/18046_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Severe diabetic retinopathy., B)Moderate cataracts., C)Mild uveitis., D)Mild corneal dystrophy.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/3/34175_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Moderate cataracts., B)Severe diabetic retinopathy., C)Mild uveitis., D)Acute conjunctivitis.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/3/23245_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Severe diabetic retinopathy., B)Acute conjunctivitis., C)Moderate optic neuritis., D)Mild corneal dystrophy.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/3/33685_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild glaucoma., B)Acute macular degeneration., C)Severe diabetic retinopathy., D)Moderate vitreous hemorrhage.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/3/7531_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Chronic retinal detachment., B)Moderate optic neuritis., C)Severe diabetic retinopathy., D)Moderate cataracts.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/3/35052_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Chronic retinal detachment., B)Chronic ocular hypertension., C)Acute conjunctivitis., D)Severe diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/3/35124_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Severe diabetic retinopathy., B)Moderate vitreous hemorrhage., C)Moderate optic neuritis., D)Moderate cataracts.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/3/34547_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild uveitis., B)Moderate vitreous hemorrhage., C)Severe diabetic retinopathy., D)Moderate cataracts.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/3/8424_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Acute conjunctivitis., B)Chronic ocular hypertension., C)Moderate cataracts., D)Severe diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/3/16011_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Mild glaucoma., B)Chronic ocular hypertension., C)Moderate optic neuritis., D)Severe diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/3/39106_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Severe diabetic retinopathy., B)Acute macular degeneration., C)Moderate cataracts., D)Moderate vitreous hemorrhage.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/3/14224_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Acute macular degeneration., B)Chronic retinal detachment., C)Severe diabetic retinopathy., D)Chronic ocular hypertension.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/3/20458_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Moderate optic neuritis., B)Mild corneal dystrophy., C)Chronic ocular hypertension., D)Severe diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/3/7329_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Chronic ocular hypertension., B)Severe diabetic retinopathy., C)Mild corneal dystrophy., D)Mild glaucoma.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/3/2862_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Moderate cataracts., B)Mild glaucoma., C)Acute macular degeneration., D)Severe diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/3/5298_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Severe diabetic retinopathy., B)Moderate vitreous hemorrhage., C)Mild uveitis., D)Moderate optic neuritis.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/3/32000_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Severe diabetic retinopathy., B)Moderate vitreous hemorrhage., C)Chronic retinal detachment., D)Mild corneal dystrophy.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/3/32247_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Acute conjunctivitis., B)Severe diabetic retinopathy., C)Mild corneal dystrophy., D)Mild uveitis.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/3/26553_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Moderate optic neuritis., B)Severe diabetic retinopathy., C)Mild uveitis., D)Acute conjunctivitis.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/3/13684_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Moderate cataracts., B)Severe diabetic retinopathy., C)Moderate vitreous hemorrhage., D)Mild glaucoma.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/3/16624_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Chronic ocular hypertension., B)Mild glaucoma., C)Severe diabetic retinopathy., D)Moderate vitreous hemorrhage.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/4/43997_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Uveitis, B)Presbyopia, C)Proliferative diabetic retinopathy., D)Corneal ulcer",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/4/32149_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Optic neuritis, B)Presbyopia, C)Proliferative diabetic retinopathy., D)Conjunctivitis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/4/43997_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Macular degeneration, B)Retinitis pigmentosa, C)Proliferative diabetic retinopathy., D)Corneal ulcer",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/4/30549_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Corneal ulcer, B)Retinitis pigmentosa, C)Conjunctivitis, D)Proliferative diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/4/18059_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Proliferative diabetic retinopathy., B)Conjunctivitis, C)Retinal detachment, D)Macular degeneration",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/4/2970_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Optic neuritis, B)Glaucoma, C)Proliferative diabetic retinopathy., D)Corneal ulcer",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/4/38325_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Conjunctivitis, B)Macular degeneration, C)Proliferative diabetic retinopathy., D)Uveitis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/4/16413_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Cataracts, B)Glaucoma, C)Presbyopia, D)Proliferative diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/4/14849_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Proliferative diabetic retinopathy., B)Optic neuritis, C)Presbyopia, D)Macular degeneration",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/4/33283_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Optic neuritis, B)Conjunctivitis, C)Macular degeneration, D)Proliferative diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/4/13669_right.jpeg",
+        "problem": "What is the particular pathology seen in this image? A)Optic neuritis, B)Corneal ulcer, C)Proliferative diabetic retinopathy., D)Cataracts",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/4/22160_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Cataracts, B)Presbyopia, C)Conjunctivitis, D)Proliferative diabetic retinopathy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/4/15975_right.jpeg",
+        "problem": "What is the particular anomaly identified in this image? A)Retinitis pigmentosa, B)Cataracts, C)Proliferative diabetic retinopathy., D)Conjunctivitis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/4/25080_right.jpeg",
+        "problem": "What is the particular anomaly depicted in this image? A)Retinal detachment, B)Retinitis pigmentosa, C)Proliferative diabetic retinopathy., D)Corneal ulcer",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/4/22906_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Glaucoma, B)Proliferative diabetic retinopathy., C)Uveitis, D)Conjunctivitis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/4/25972_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Proliferative diabetic retinopathy., B)Cataracts, C)Macular degeneration, D)Conjunctivitis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/4/22716_right.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Proliferative diabetic retinopathy., B)Retinitis pigmentosa, C)Optic neuritis, D)Glaucoma",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/4/10312_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Corneal ulcer, B)Proliferative diabetic retinopathy., C)Glaucoma, D)Presbyopia",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/4/35804_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Optic neuritis, B)Proliferative diabetic retinopathy., C)Retinal detachment, D)Corneal ulcer",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/4/37117_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Proliferative diabetic retinopathy., B)Conjunctivitis, C)Corneal ulcer, D)Presbyopia",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Diabetic Retinopathy/4/405_left.jpeg",
+        "problem": "What is the specific abnormality present in this image? A)Uveitis, B)Proliferative diabetic retinopathy., C)Corneal ulcer, D)Conjunctivitis",
+        "solution": "<answer> B </answer>"
+    }
+]

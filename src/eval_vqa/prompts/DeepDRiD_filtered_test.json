@@ -1,0 +1,122 @@
+[
+    {
+        "image": "Images/DeepDRiD/regular-fundus-test/347/347_r1.jpg",
+        "problem": "What imaging technique was employed to obtain this picture? A)MRI., B)Electrocardiogram (ECG)., C)Endoscopy., D)fundus photography.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/DeepDRiD/regular-fundus-test/387/387_l1.jpg",
+        "problem": "What modality was used to capture this image? A)Ultrasound., B)fundus photography., C)CT scan., D)Electrocardiogram (ECG).",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/DeepDRiD/regular-fundus-test/398/398_l2.jpg",
+        "problem": "What modality was used to capture this image? A)fundus photography., B)Endoscopy., C)Ultrasound., D)MRI.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/DeepDRiD/regular-fundus-test/403/403_l1.jpg",
+        "problem": "What imaging technique was employed to capture this image? A)CT scan., B)Ultrasound., C)fundus photography., D)Endoscopy.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/DeepDRiD/regular-fundus-test/409/409_l2.jpg",
+        "problem": "What imaging technique was employed to capture this image? A)fundus photography., B)Ultrasound., C)MRI., D)Endoscopy.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/DeepDRiD/regular-fundus-test/409/409_r1.jpg",
+        "problem": "What method was employed to acquire this image? A)Ultrasound., B)fundus photography., C)MRI., D)Endoscopy.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/DeepDRiD/regular-fundus-test/417/417_l1.jpg",
+        "problem": "What method was utilized for capturing this image? A)fundus photography., B)CT scan., C)Electrocardiogram (ECG)., D)Ultrasound.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/DeepDRiD/regular-fundus-test/421/421_r1.jpg",
+        "problem": "What modality was used to capture this image? A)CT scan., B)fundus photography., C)Ultrasound., D)Endoscopy.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/DeepDRiD/regular-fundus-test/444/444_l2.jpg",
+        "problem": "Which technique was utilized to obtain this image? A)fundus photography., B)Electrocardiogram (ECG)., C)CT scan., D)Ultrasound.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/DeepDRiD/regular-fundus-test/451/451_l2.jpg",
+        "problem": "Which imaging technique was utilized to obtain this picture? A)Endoscopy., B)MRI., C)CT scan., D)fundus photography.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/DeepDRiD/regular-fundus-test/453/453_l1.jpg",
+        "problem": "What type of imaging technique was utilized to obtain this picture? A)Endoscopy., B)MRI., C)fundus photography., D)Ultrasound.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/DeepDRiD/regular-fundus-test/456/456_l1.jpg",
+        "problem": "What type of imaging technique was employed to obtain this picture? A)Ultrasound., B)Electrocardiogram (ECG)., C)MRI., D)fundus photography.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/DeepDRiD/regular-fundus-test/457/457_r2.jpg",
+        "problem": "What imaging technique was utilized to obtain this image? A)fundus photography., B)Endoscopy., C)MRI., D)CT scan.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/DeepDRiD/regular-fundus-test/462/462_l1.jpg",
+        "problem": "What modality was used to capture this image? A)Endoscopy., B)CT scan., C)Ultrasound., D)fundus photography.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/DeepDRiD/regular-fundus-test/465/465_l2.jpg",
+        "problem": "Which imaging technique was utilized to obtain this photograph? A)CT scan., B)Ultrasound., C)Endoscopy., D)fundus photography.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/DeepDRiD/regular-fundus-test/499/499_r2.jpg",
+        "problem": "Which imaging technique was utilized to obtain this picture? A)CT scan., B)fundus photography., C)Electrocardiogram (ECG)., D)MRI.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/DeepDRiD/regular-fundus-validation/318/318_r1.jpg",
+        "problem": "Which technique was utilized to obtain this image? A)Ultrasound., B)Endoscopy., C)Electrocardiogram (ECG)., D)fundus photography.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/DeepDRiD/regular-fundus-validation/338/338_l1.jpg",
+        "problem": "Which imaging technique was utilized to obtain this photograph? A)Endoscopy., B)CT scan., C)fundus photography., D)Electrocardiogram (ECG).",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/DeepDRiD/regular-fundus-validation/346/346_l1.jpg",
+        "problem": "What method was employed to acquire this image? A)Ultrasound., B)Endoscopy., C)Electrocardiogram (ECG)., D)fundus photography.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/DeepDRiD/regular-fundus-validation/352/352_r2.jpg",
+        "problem": "What imaging technique was employed to obtain this picture? A)MRI., B)CT scan., C)Electrocardiogram (ECG)., D)fundus photography.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/DeepDRiD/regular-fundus-validation/367/367_l2.jpg",
+        "problem": "Which technique was employed to obtain this image? A)Electrocardiogram (ECG)., B)fundus photography., C)Endoscopy., D)CT scan.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/DeepDRiD/regular-fundus-validation/395/395_r1.jpg",
+        "problem": "What modality was used to capture this image? A)Endoscopy., B)fundus photography., C)MRI., D)Ultrasound.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/DeepDRiD/regular-fundus-validation/400/400_r1.jpg",
+        "problem": "What imaging technique was employed to obtain this picture? A)MRI., B)Endoscopy., C)Ultrasound., D)fundus photography.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/DeepDRiD/regular-fundus-validation/416/416_l2.jpg",
+        "problem": "Which imaging technique was employed to obtain this picture? A)fundus photography., B)MRI., C)Electrocardiogram (ECG)., D)Endoscopy.",
+        "solution": "<answer> A </answer>"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "image": "Images/Pulmonary Chest MC/MCUCXR_0077_0.png",
+        "problem": "What content appears in this image? A)Lung, B)Brain, C)Skin, D)Intestine",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest MC/MCUCXR_0082_0.png",
+        "problem": "What does the X-ray of the chest reveal? A)The diagnosis is pleural effusion., B)The diagnosis is lung cancer., C)The diagnosis is normal lung., D)The diagnosis is tuberculosis.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest MC/MCUCXR_0041_0.png",
+        "problem": "What does the X-ray image reveal about the patient's lungs? A)The diagnosis is normal lung., B)The diagnosis is tuberculosis., C)The diagnosis is asthma., D)The diagnosis is emphysema.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest MC/MCUCXR_0028_0.png",
+        "problem": "What is the diagnosis for this X-ray image? A)The diagnosis is tuberculosis., B)The diagnosis is emphysema., C)The diagnosis is normal lung., D)The diagnosis is asthma.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest MC/MCUCXR_0024_0.png",
+        "problem": "What does the X-ray image show in terms of diagnosis? A)The diagnosis is pneumothorax., B)The diagnosis is asthma., C)The diagnosis is pulmonary embolism., D)The diagnosis is normal lung.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest MC/MCUCXR_0103_0.png",
+        "problem": "What does the X-ray image show for the diagnosis? A)The diagnosis is normal lung., B)The diagnosis is pneumonia., C)The diagnosis is lung cancer., D)The diagnosis is tuberculosis.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest MC/MCUCXR_0002_0.png",
+        "problem": "What does this X-ray image show in terms of diagnosis? A)The diagnosis is normal lung., B)The diagnosis is pulmonary embolism., C)The diagnosis is pneumothorax., D)The diagnosis is emphysema.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest MC/MCUCXR_0027_0.png",
+        "problem": "What does the X-ray of the chest reveal? A)The diagnosis is pneumothorax., B)The diagnosis is pulmonary fibrosis., C)The diagnosis is pulmonary embolism., D)The diagnosis is normal lung.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest MC/MCUCXR_0004_0.png",
+        "problem": "What is the diagnosis for this X-ray image? A)The diagnosis is normal lung., B)The diagnosis is pulmonary fibrosis., C)The diagnosis is bronchitis., D)The diagnosis is tuberculosis.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest MC/MCUCXR_0390_1.png",
+        "problem": "What does this lung X-ray image indicate the presence of? A)manifestation of tuberculosis, B)Lung cancer, C)Pulmonary embolism, D)Pulmonary fibrosis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest MC/MCUCXR_0243_1.png",
+        "problem": "What type of abnormality is present in this lung X-ray image? A)manifestation of tuberculosis, B)Pulmonary embolism, C)Sarcoidosis, D)Pneumonia",
+        "solution": "<answer> A </answer>"
+    }
+]

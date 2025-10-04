@@ -1,0 +1,1492 @@
+[
+    {
+        "image": "Images/Fitzpatrick 17k/e4b7c6f7a58a85b819bc105765ef15ee.jpg",
+        "problem": "What type of imaging technique was utilized to obtain this image? A)Computed tomography (CT) scan, B)Electrocardiogram (ECG), C)Positron emission tomography (PET) scan, D)Dermoscopy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/1d9ece3c7d1fce85a6d2c5b325ddbdec.jpg",
+        "problem": "Which imaging technique was utilized to obtain this image? A)Dermoscopy., B)Endoscopy, C)Ultrasound, D)Colonoscopy",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/f420eb73f0b50a89b5fddccc85796062.jpg",
+        "problem": "What method was employed to take this image? A)Positron emission tomography (PET) scan, B)Dermoscopy., C)Computed tomography (CT) scan, D)Ultrasound",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/033001225ab6fcdc1067b4a813484808.jpg",
+        "problem": "What modality of imaging was used to obtain this picture? A)Dermoscopy., B)X-ray, C)Mammogram, D)Endoscopy",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/04437cd3092a8922dc9af8100d350431.jpg",
+        "problem": "What imaging modality was used to capture this image? A)Electrocardiogram (ECG), B)Dermoscopy., C)Electroencephalogram (EEG), D)Computed tomography (CT) scan",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/2cd0eea369d371352654a4b566050fcb.jpg",
+        "problem": "What imaging modality was used to capture this image? A)Electroencephalogram (EEG), B)Colonoscopy, C)Endoscopy, D)Dermoscopy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/0b283a47352d88ab55257c9fce2d3603.jpg",
+        "problem": "Which diagnostic technique generated this picture? A)Electroencephalogram (EEG), B)Positron emission tomography (PET) scan, C)Endoscopy, D)Dermoscopy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/1fddf1175e5891571f553e556b9ee946.jpg",
+        "problem": "What modality of imaging was employed to obtain this picture? A)Colonoscopy, B)Dermoscopy., C)Magnetic resonance imaging (MRI), D)Mammogram",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/05c184b591332a263f92de1e0097b69d.jpg",
+        "problem": "What was the imaging modality utilized to capture this image? A)Dermoscopy., B)Mammogram, C)Endoscopy, D)Positron emission tomography (PET) scan",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/b79fd3e168f158c9122a69699eff6043.jpg",
+        "problem": "What was the imaging technique utilized to capture this image? A)Dermoscopy., B)Mammogram, C)Colonoscopy, D)Positron emission tomography (PET) scan",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/950f4808e8fe4427aaf3e549d6d91878.jpg",
+        "problem": "Which diagnostic technique produced this picture? A)Electroencephalogram (EEG), B)Mammogram, C)Dermoscopy., D)Magnetic resonance imaging (MRI)",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/6a42b572581dc870a1cfe3f15e7d5da8.jpg",
+        "problem": "Which diagnostic technique was employed to obtain this image? A)Dermoscopy., B)Colonoscopy, C)Magnetic resonance imaging (MRI), D)Ultrasound",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/1dadc6ac2b9b2dcb6a99a50c0bacdd63.jpg",
+        "problem": "What modality of imaging was utilized to acquire this picture? A)Dermoscopy., B)Electrocardiogram (ECG), C)Electroencephalogram (EEG), D)Magnetic resonance imaging (MRI)",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/8085a5cd99c5a219cb08e29623c98e0d.jpg",
+        "problem": "What was the imaging modality used to obtain this image? A)Electroencephalogram (EEG), B)Ultrasound, C)X-ray, D)Dermoscopy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/dace9bdc930a19b89e9ba6891526e7af.jpg",
+        "problem": "What modality was employed for the image acquisition? A)Ultrasound, B)Colonoscopy, C)Dermoscopy., D)Positron emission tomography (PET) scan",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/c759cb2ff555f62be20ba3f89a620d0f.jpg",
+        "problem": "What modality of imaging was employed for the acquisition of this image? A)Dermoscopy., B)Positron emission tomography (PET) scan, C)Electroencephalogram (EEG), D)X-ray",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/894778422e81abebadc30e1dec63b529.jpg",
+        "problem": "Which modality was used for imaging to obtain this picture? A)X-ray, B)Dermoscopy., C)Computed tomography (CT) scan, D)Magnetic resonance imaging (MRI)",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/7ec44aa8a5c1f558934c8c21282a62d0.jpg",
+        "problem": "What was the imaging modality employed to obtain this picture? A)Electroencephalogram (EEG), B)Ultrasound, C)Mammogram, D)Dermoscopy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/5d397d83fe773d3f20229663f2df0db2.jpg",
+        "problem": "What modality was utilized to obtain this image? A)Dermoscopy., B)Computed tomography (CT) scan, C)Electrocardiogram (ECG), D)X-ray",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/5606fde13ebd69815560e363a7a51a95.jpg",
+        "problem": "What modality was utilized for capturing this image? A)X-ray, B)Ultrasound, C)Dermoscopy., D)Endoscopy",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/af64774e30b2dc701e3f2a88348a78dc.jpg",
+        "problem": "Which diagnostic technique produced this picture? A)Electroencephalogram (EEG), B)Dermoscopy., C)Ultrasound, D)Positron emission tomography (PET) scan",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/16b8bc3e9b110be6a2a9fd20ae126dc3.jpg",
+        "problem": "What was the imaging modality used to obtain this image? A)Colonoscopy, B)Ultrasound, C)Positron emission tomography (PET) scan, D)Dermoscopy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/6f9788b03ce97deb2db5040feb24c331.jpg",
+        "problem": "What type of imaging modality was utilized to obtain this image? A)Dermoscopy., B)Mammogram, C)Positron emission tomography (PET) scan, D)Magnetic resonance imaging (MRI)",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/1675c4964ad3983452332d531cbe97ed.jpg",
+        "problem": "What method of imaging was employed to obtain this image? A)Dermoscopy., B)Electroencephalogram (EEG), C)Electrocardiogram (ECG), D)Mammogram",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/c1dd528ef78088a6a2d2a6caf7913fdd.jpg",
+        "problem": "Which medical technique was employed to capture this image? A)Dermoscopy., B)Positron emission tomography (PET) scan, C)Colonoscopy, D)Electrocardiogram (ECG)",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/fe0d0f2a52c0dd67cdeef523867e4a0b.jpg",
+        "problem": "What type of imaging method was utilized to obtain this image? A)Dermoscopy., B)Electrocardiogram (ECG), C)Ultrasound, D)Positron emission tomography (PET) scan",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/f8e06f1415d340c7de7d37bfa5119d88.jpg",
+        "problem": "What was the imaging modality used for capturing this image? A)Colonoscopy, B)Magnetic resonance imaging (MRI), C)Dermoscopy., D)Endoscopy",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/975681e62d4e5ea00b03528dce284363.jpg",
+        "problem": "What imaging modality was used to capture this image? A)X-ray, B)Dermoscopy., C)Computed tomography (CT) scan, D)Colonoscopy",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/0670109bba30929ab1f1597ab29e3826.jpg",
+        "problem": "What was the imaging modality used to obtain this picture? A)Computed tomography (CT) scan, B)Dermoscopy., C)Endoscopy, D)Electrocardiogram (ECG)",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/81a611ad2434debb5b71a245a77b60e9.jpg",
+        "problem": "What was the imaging modality employed for capturing this image? A)Dermoscopy., B)Ultrasound, C)Endoscopy, D)Magnetic resonance imaging (MRI)",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/edf77bb87bc617ba54e061e35922b655.jpg",
+        "problem": "What method of imaging was employed to capture this image? A)Dermoscopy., B)Electrocardiogram (ECG), C)Electroencephalogram (EEG), D)Colonoscopy",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/acc320bf2c87c4239617cb186785c4dd.jpg",
+        "problem": "What imaging modality was used to capture this image? A)Electroencephalogram (EEG), B)X-ray, C)Dermoscopy., D)Magnetic resonance imaging (MRI)",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/2674e2f874182dcecf7a012ebd6ed21e.jpg",
+        "problem": "Through which diagnostic technique was this picture obtained? A)Ultrasound, B)Endoscopy, C)Dermoscopy., D)Computed tomography (CT) scan",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/c3aa1c21ff0bb61356d49b1006381e90.jpg",
+        "problem": "What imaging modality was used to capture this image? A)Positron emission tomography (PET) scan, B)Electroencephalogram (EEG), C)Endoscopy, D)Dermoscopy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/c29f67f26e6bc154186be75ada00b139.jpg",
+        "problem": "What type of imaging technique was utilized to capture this image? A)Dermoscopy., B)X-ray, C)Positron emission tomography (PET) scan, D)Electrocardiogram (ECG)",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/ed93cd3aaa352be9d0c8ea7f0626a1c6.jpg",
+        "problem": "What imaging modality was used to capture this image? A)Mammogram, B)Electroencephalogram (EEG), C)Dermoscopy., D)Colonoscopy",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/11f45cfda08e482b02f52701a461e4aa.jpg",
+        "problem": "What type of diagnostic imaging technique produced this picture? A)Ultrasound, B)Computed tomography (CT) scan, C)Endoscopy, D)Dermoscopy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/f8ec3bff30f0f39568125ed1c2d00a49.jpg",
+        "problem": "What type of imaging technique was utilized to capture this image? A)Mammogram, B)Colonoscopy, C)Positron emission tomography (PET) scan, D)Dermoscopy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/0294c0bfeba8a35db3ca2fcfafd655ef.jpg",
+        "problem": "What type of imaging technique was employed for capturing this image? A)Dermoscopy., B)X-ray, C)Electroencephalogram (EEG), D)Ultrasound",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/a287eee904ba42152dba6404fc8271a6.jpg",
+        "problem": "What is the imaging modality employed to obtain this image? A)Colonoscopy, B)Dermoscopy., C)Magnetic resonance imaging (MRI), D)Electrocardiogram (ECG)",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/662f1ece36c9fdba47c94ff10cc91dd6.jpg",
+        "problem": "What specific method of imaging was utilized to capture this image? A)Ultrasound, B)Computed tomography (CT) scan, C)Mammogram, D)Dermoscopy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/ad8f32410a06401b1593ba1a11f0bb82.jpg",
+        "problem": "What modality was utilized to acquire this image? A)Dermoscopy., B)Colonoscopy, C)Mammogram, D)Positron emission tomography (PET) scan",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/52febf5b7413bb8b3210667f2356f4a0.jpg",
+        "problem": "What imaging modality was used to capture this image? A)Dermoscopy., B)Endoscopy, C)Computed tomography (CT) scan, D)Ultrasound",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/a7d8b9e1d9b2570fcb4828f8db65a09a.jpg",
+        "problem": "What imaging modality was used to capture this image? A)Mammogram, B)Computed tomography (CT) scan, C)Dermoscopy., D)Ultrasound",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/a209f98d89870f80418d66dfcfbd39b4.jpg",
+        "problem": "Which imaging technique was utilized to obtain this image? A)Mammogram, B)Magnetic resonance imaging (MRI), C)Dermoscopy., D)X-ray",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/f0e9639410d0be5e67ba55b2efd6f32b.jpg",
+        "problem": "What modality of imaging was utilized to obtain this image? A)Magnetic resonance imaging (MRI), B)Mammogram, C)Dermoscopy., D)Ultrasound",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/c27fc3af37ea5faa547ab138012015c8.jpg",
+        "problem": "What imaging modality was used to capture this image? A)Endoscopy, B)Dermoscopy., C)Electrocardiogram (ECG), D)Colonoscopy",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/0cf5b1941e8c7250e0b7dc188096fbfb.jpg",
+        "problem": "What method of imaging was utilized for this image? A)Dermoscopy., B)Positron emission tomography (PET) scan, C)X-ray, D)Electrocardiogram (ECG)",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/ac92fe145c794a1ac751ffcf0bc1d2d0.jpg",
+        "problem": "What type of medical imaging technique was employed to obtain this image? A)Endoscopy, B)X-ray, C)Positron emission tomography (PET) scan, D)Dermoscopy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/93f102c65b21b9f259b247d1b10feda4.jpg",
+        "problem": "What imaging modality was used to capture this image? A)Dermoscopy., B)Electrocardiogram (ECG), C)Computed tomography (CT) scan, D)Electroencephalogram (EEG)",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/56a56bab440691729c74b779864dc1c9.jpg",
+        "problem": "What type of diagnostic imaging technique produced this picture? A)Dermoscopy., B)Magnetic resonance imaging (MRI), C)Endoscopy, D)X-ray",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/84e064c4594aa616fb9858f77a945d1a.jpg",
+        "problem": "What specific method of imaging was utilized to obtain this picture? A)Positron emission tomography (PET) scan, B)Dermoscopy., C)Colonoscopy, D)X-ray",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/73f55e129ba72bd586227ee3d613416a.jpg",
+        "problem": "What imaging modality was used to capture this image? A)Colonoscopy, B)Positron emission tomography (PET) scan, C)Dermoscopy., D)X-ray",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/f7c68db8ef5a8a1f024eb43d3ff1e2ee.jpg",
+        "problem": "What term can be used to classify the anomaly observed in this image? A)Degenerative, B)Neoplastic, C)Inflammatory., D)Autoimmune",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/a7ab9862e98c72251f222c169d8cd704.jpg",
+        "problem": "What is the specific classification of the anomaly observed in this image? A)Metabolic, B)Inflammatory., C)Congenital, D)Neoplastic",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/9829c11b6a2ea0a47031a865d761a670.jpg",
+        "problem": "What classification does this image fall under, in terms of the abnormality? A)Endocrine, B)Congenital, C)Inflammatory., D)Traumatic",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/b3cfeb8cb9bf30a43562c363a4d332ee.jpg",
+        "problem": "What classification does the anomaly in this image fall under? A)Inflammatory., B)Congenital, C)Endocrine, D)Vascular",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/0b10fdfb05c62e72e7b351d0872be8eb.jpg",
+        "problem": "What is the classification of the anomaly depicted in this image? A)Infectious, B)Degenerative, C)Endocrine, D)Inflammatory.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/990d78eb61cc7e59bd11061bfa809895.jpg",
+        "problem": "What is the specific category of the abnormality in this image? A)Genetic, B)Inflammatory., C)Degenerative, D)Vascular",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/9286c12edea4dad4341f5070d37b4b8f.jpg",
+        "problem": "What is the classification of the anomaly demonstrated in this image? A)Endocrine, B)Traumatic, C)Inflammatory., D)Genetic",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/85bdd6635f417d0aaac3656fc0d75bb0.jpg",
+        "problem": "What is the particular type of anomaly visible in this image? A)Inflammatory., B)Congenital, C)Genetic, D)Traumatic",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/e7c05b125f8c5b63ca95c677ec4d782b.jpg",
+        "problem": "What category does the abnormality in this image belong to? A)Congenital, B)Vascular, C)Inflammatory., D)Autoimmune",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/e5f220d7867358862c81f790e8ff9b5d.jpg",
+        "problem": "What type or classification does this abnormality in the image belong to? A)Inflammatory., B)Neoplastic, C)Infectious, D)Autoimmune",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/a8f42335be58654ae529b849cbb642f1.jpg",
+        "problem": "What term is used to classify the anomaly seen in this image? A)Degenerative, B)Genetic, C)Inflammatory., D)Autoimmune",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/456fae3b6780fe417757c9d3cd902245.jpg",
+        "problem": "What is the classification of the irregularity depicted in this image? A)Inflammatory., B)Degenerative, C)Autoimmune, D)Genetic",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/cda60094b6b8ec18eb3824637fa25b10.jpg",
+        "problem": "What classification does this image fall under in terms of the abnormalities observed? A)Autoimmune, B)Metabolic, C)Infectious, D)Inflammatory.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/548774165893f4fa827d6a789994940c.jpg",
+        "problem": "What is the classification of the aberration depicted in this image? A)Inflammatory., B)Degenerative, C)Autoimmune, D)Metabolic",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/fc65ea077602dbf24f92b1edddfb3682.jpg",
+        "problem": "What is the particular classification of the irregularity depicted in this image? A)Traumatic, B)Inflammatory., C)Vascular, D)Congenital",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/f3ad2f7ff9048737ab1e42a2670b9b57.jpg",
+        "problem": "What type of anomaly is observed in this image? A)Inflammatory., B)Autoimmune, C)Infectious, D)Genetic",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/4f01060464bcbaa9469aff766330cf02.jpg",
+        "problem": "What type of abnormality is present in this image? A)Genetic, B)Inflammatory., C)Metabolic, D)Congenital",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/00aaedcb09d25f3f5e003c7ed803c40d.jpg",
+        "problem": "What type or classification does this abnormality in the image belong to? A)Metabolic, B)Genetic, C)Inflammatory., D)Congenital",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/599c2f9d1ab6563d67a180e79a4f9477.jpg",
+        "problem": "What classification does this image fall into in terms of the abnormality observed? A)Vascular, B)Neoplastic, C)Endocrine, D)Inflammatory.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/2706899602d875ee873b407db27dd7c7.jpg",
+        "problem": "What is the specific category of the abnormality in this image? A)Traumatic, B)Inflammatory., C)Autoimmune, D)Neoplastic",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/b01a47a7fa02f5069b2c26634671664f.jpg",
+        "problem": "What is the classification of the anomaly in this image? A)Inflammatory., B)Congenital, C)Endocrine, D)Neoplastic",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/2f1beec961a0f47a9226ec50a3e517d7.jpg",
+        "problem": "What is the classification of the anomaly depicted in the image? A)Autoimmune, B)Congenital, C)Genetic, D)Inflammatory.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/61dd886398067f59ad59df7e43b054db.jpg",
+        "problem": "What is the specific category of the abnormality in this image? A)Vascular, B)Inflammatory., C)Genetic, D)Endocrine",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/d8e4dab281628f85ee5a2353cb0fe25f.jpg",
+        "problem": "What is the specific category of the abnormality in this image? A)Inflammatory., B)Congenital, C)Vascular, D)Endocrine",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/ee72eaba80dd5e94d6af69e9c3a1bf7c.jpg",
+        "problem": "What is the specific category of the abnormality in this image? A)Traumatic, B)Congenital, C)Inflammatory., D)Metabolic",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/8a13a1b82407db375e99e76a243a51f5.jpg",
+        "problem": "What kind of abnormality category is observed in this image? A)Inflammatory., B)Genetic, C)Infectious, D)Metabolic",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/7059e538e6ba532a231eef3cef2137d7.jpg",
+        "problem": "What term describes the classification of the anomaly in this picture? A)Infectious, B)Inflammatory., C)Neoplastic, D)Genetic",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/61d5d67caeafd5fd1b793f1b281863dd.jpg",
+        "problem": "What is the specific classification of the anomaly depicted in this picture? A)Endocrine, B)Inflammatory., C)Traumatic, D)Congenital",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/b61e0a2fb5ae1cfd3d9ad738396f3397.jpg",
+        "problem": "What is the particular classification of the anomaly depicted in this image? A)Traumatic, B)Endocrine, C)Inflammatory., D)Autoimmune",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/1dfd372dd25c563cf1d07b76ea669bd1.jpg",
+        "problem": "What type of abnormality is depicted in this image? A)Inflammatory., B)Infectious, C)Metabolic, D)Autoimmune",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/b9fc4ec902e845e60e2348f20556fae2.jpg",
+        "problem": "What is the classification of the irregularity depicted in this image? A)Degenerative, B)Autoimmune, C)Inflammatory., D)Metabolic",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/0e72bbb362a1bd1b3002361047bfc9ce.jpg",
+        "problem": "What is the specific category of the abnormality in this image? A)Inflammatory., B)Degenerative, C)Congenital, D)Neoplastic",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/0b509e4af2d8bd0d07724e68dc0114b1.jpg",
+        "problem": "What is the particular classification of the anomaly shown in this picture? A)Neoplastic, B)Inflammatory., C)Congenital, D)Degenerative",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/d7514dbe9c15cfbf77984267bd3bf0a4.jpg",
+        "problem": "What is the type of anomaly present in this image? A)Inflammatory., B)Metabolic, C)Infectious, D)Neoplastic",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/fec39dd3690accab12c9627434fbe572.jpg",
+        "problem": "What classification does this anomaly in the image belong to? A)Inflammatory., B)Genetic, C)Vascular, D)Metabolic",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/44e0f40bb5f8525d9c19015926c89063.jpg",
+        "problem": "What categorization does this image fall under, in terms of the abnormality observed? A)Endocrine, B)Traumatic, C)Inflammatory., D)Autoimmune",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/85c7047aa376cf891f6515c101e51034.jpg",
+        "problem": "What is the classification of the anomaly portrayed in this image? A)Autoimmune, B)Vascular, C)Inflammatory., D)Traumatic",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/1f7208ea5dbc7a45321e20ddb2ff2d15.jpg",
+        "problem": "What type of abnormality does this image exhibit? A)Degenerative, B)Metabolic, C)Inflammatory., D)Neoplastic",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/5e5006f7bb05010321cfc7334f8645e7.jpg",
+        "problem": "What type of abnormality does this image exhibit? A)Degenerative, B)Endocrine, C)Neoplastic, D)Inflammatory.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/c91fccd7013fc10373df83e40c6dfaba.jpg",
+        "problem": "What does the abnormality in this image belong to? A)Congenital, B)Genetic, C)Inflammatory., D)Traumatic",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/91f0e31271eb04d1186f3c90e7f42368.jpg",
+        "problem": "What is the particular type of anomaly observed in this image? A)Traumatic, B)Inflammatory., C)Infectious, D)Vascular",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/987cbb71cee093391ec0b8b8ee241f1d.jpg",
+        "problem": "What is the classification of the anomaly portrayed in this image? A)Congenital, B)Vascular, C)Inflammatory., D)Endocrine",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/685b9f31b2e9bf950d98d8542a955a27.jpg",
+        "problem": "What kind of abnormality does this image exhibit? A)Degenerative, B)Inflammatory., C)Neoplastic, D)Infectious",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/95c86a883bfc3f475810e729381631f9.jpg",
+        "problem": "What would you classify the abnormality in this image as? A)Genetic, B)Inflammatory., C)Neoplastic, D)Endocrine",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/1599f93730e3fcdff0698a0f118b1c35.jpg",
+        "problem": "What is the specific category of the abnormality in this image? A)Metabolic, B)Inflammatory., C)Infectious, D)Vascular",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/b2dc236d41f78bec1a4f7776e9b2cd55.jpg",
+        "problem": "What does the abnormality in this image exhibit in terms of category? A)Traumatic, B)Inflammatory., C)Autoimmune, D)Vascular",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/b203c40fd7091efe2664603b7bf3a5a1.jpg",
+        "problem": "What is the specific category of the abnormality in this image? A)Inflammatory., B)Neoplastic, C)Infectious, D)Traumatic",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/e60a43eb58cb7f07a4e2629a7b07fcc5.jpg",
+        "problem": "What type of abnormality is indicated in this image? A)Degenerative, B)Inflammatory., C)Congenital, D)Traumatic",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/e4819656cf119e1649a3ef2ff5124ba2.jpg",
+        "problem": "Under what classification does the anomaly depicted in the photograph fall? A)Metabolic, B)Neoplastic, C)Autoimmune, D)Inflammatory.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/06927894daf158c5fafc52b5558dcc85.jpg",
+        "problem": "In terms of abnormality classification, what specific category does this image belong to? A)Congenital, B)Vascular, C)Inflammatory., D)Endocrine",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/a8ed8c9d35f6fac6ec0b697b7cb5b072.jpg",
+        "problem": "What type of abnormality is evident in this image? A)Congenital, B)Genetic, C)Inflammatory., D)Degenerative",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/ce76b12909dfe207ddecdbef8a0b88eb.jpg",
+        "problem": "What is the specific category of the abnormality in this image? A)Neoplastic, B)Metabolic, C)Genetic, D)Inflammatory.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/d6f332abcef23bccc522ed6e65948bfd.jpg",
+        "problem": "What is the classification of the anomaly observed in this picture? A)Inflammatory., B)Traumatic, C)Degenerative, D)Autoimmune",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/20ef1b41d54af4e26af95d7942081075.jpg",
+        "problem": "What is the specific type of anomaly depicted in this image? A)Inflammatory., B)Degenerative, C)Infectious, D)Vascular",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/2131d014a301d4773e32bdc6ef466b53.jpg",
+        "problem": "What term is used to classify the anomaly seen in this image? A)Neoplastic, B)Autoimmune, C)Inflammatory., D)Genetic",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/2aab301297ca4b010f507747eb8363ab.jpg",
+        "problem": "What type of abnormality is observed in this image? A)Endocrine, B)Infectious, C)Inflammatory., D)Vascular",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/94b5882641907692239e332a177271d2.jpg",
+        "problem": "What category does this abnormality in the image fall under? A)Genetic, B)Infectious, C)Metabolic, D)Inflammatory.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/eec6fc5623b1d46fa196daad1e92d3a5.jpg",
+        "problem": "What is the specific category of the abnormality in this image? A)Inflammatory., B)Metabolic, C)Traumatic, D)Genetic",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/13af1280425fce3e6ae9d82ab70aca92.jpg",
+        "problem": "What category does this image's abnormality belong to? A)Metabolic, B)Degenerative, C)Inflammatory., D)Autoimmune",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/500464a429fd68f4822d7a7705d3d7c5.jpg",
+        "problem": "What classification does this image fall under in regards to the abnormality observed? A)Vascular, B)Infectious, C)Inflammatory., D)Autoimmune",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/59c799d5b10ad1763d6b95956539c710.jpg",
+        "problem": "What is the particular classification of the anomaly seen in this picture? A)Inflammatory., B)Vascular, C)Degenerative, D)Autoimmune",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/9996bf83a72387392c56db456d429a54.jpg",
+        "problem": "What type of anomaly is present in this image? A)Endocrine, B)Infectious, C)Inflammatory., D)Autoimmune",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/169d02e9d9d02c66de50f15252840cd7.jpg",
+        "problem": "What classification does the abnormality in this image fall under? A)Degenerative, B)Infectious, C)Genetic, D)Inflammatory.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/11ac46503214c13b5dba3b83106d9984.jpg",
+        "problem": "What is the classification of the anomaly depicted in this image? A)Genetic, B)Inflammatory., C)Vascular, D)Infectious",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/b78a7ebf536a8ed5385f7f8c16e721cb.jpg",
+        "problem": "What classification does this abnormality fall under? A)Genetic, B)Inflammatory., C)Neoplastic, D)Endocrine",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/aafc091486c0b29dd05d399e88bb96b8.jpg",
+        "problem": "What type of abnormality is present in the image? A)Congenital, B)Infectious, C)Autoimmune, D)Inflammatory.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/7be62f84971982a3658776983a345b70.jpg",
+        "problem": "Under which classification does the anomaly in the photograph fall? A)Traumatic, B)Neoplastic, C)Infectious, D)Inflammatory.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/62c710c6b60df8f44b0bd654ec5ef29a.jpg",
+        "problem": "What classification does this image fall under in terms of the abnormalities observed? A)Metabolic, B)Inflammatory., C)Endocrine, D)Neoplastic",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/e40f18ff7242f68c3ab08f474c9516e2.jpg",
+        "problem": "In what specific classification does this image's abnormality fall under? A)Traumatic, B)Degenerative, C)Inflammatory., D)Autoimmune",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/ac692642a5abdd2c523d8efd0f7bcb53.jpg",
+        "problem": "What particular type of anomaly is present in this image? A)Degenerative, B)Metabolic, C)Neoplastic, D)Inflammatory.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/3e8f63f62f77832ba43311deddb69544.jpg",
+        "problem": "What classification does this image fall under in terms of its abnormality? A)Inflammatory., B)Vascular, C)Neoplastic, D)Infectious",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/813110f4196c27f35beec9dc2431c7e2.jpg",
+        "problem": "What term describes the classification of the anomaly seen in this image? A)Autoimmune, B)Infectious, C)Inflammatory., D)Degenerative",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/1ec2ac5269fcac9c7f9ad946e8ba28a1.jpg",
+        "problem": "What is the classification of the irregularity depicted in this image? A)Inflammatory., B)Traumatic, C)Neoplastic, D)Infectious",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/ac92fe145c794a1ac751ffcf0bc1d2d0.jpg",
+        "problem": "What particular type of anomaly is present in this image? A)Metabolic, B)Autoimmune, C)Inflammatory., D)Infectious",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/adc5b89304d222cb0318017fcfce820b.jpg",
+        "problem": "What is the classification of the anomaly observed in this picture? A)Traumatic, B)Congenital, C)Neoplastic, D)Inflammatory.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/621e3bf338b5f526919f5987f0d593df.jpg",
+        "problem": "What is the classification of the anomaly showcased in this image? A)Genetic, B)Neoplastic, C)Inflammatory., D)Degenerative",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/0066264501f73b1db09b3e2aa4dac0a0.jpg",
+        "problem": "What is the classification of the aberration observed in this image? A)Infectious, B)Neoplastic, C)Metabolic, D)Inflammatory.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/f15828472c1db5b19e679f72db29d8d9.jpg",
+        "problem": "Under which classification does the abnormality seen in this picture fall? A)Inflammatory., B)Traumatic, C)Autoimmune, D)Vascular",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/864b5d7e4fed8e4b21f143fe7e8639e1.jpg",
+        "problem": "Under what classification does the irregularity in this picture fall? A)Metabolic, B)Autoimmune, C)Inflammatory., D)Traumatic",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/da46232b8b656deaf750bf1267eef20d.jpg",
+        "problem": "What is the classification for the anomaly depicted in this image? A)Infectious, B)Endocrine, C)Traumatic, D)Inflammatory.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/8a34554db21b860d3ff8509be4cf5612.jpg",
+        "problem": "What is the classification of the anomaly depicted in this picture? A)Infectious, B)Neoplastic, C)Endocrine, D)Inflammatory.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/52d6fe66c12a24f00017f941267924b3.jpg",
+        "problem": "What category does the abnormality in this image fall under? A)Neoplastic, B)Autoimmune, C)Inflammatory., D)Metabolic",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/fc0672d13c13674662bccce1e36b4bba.jpg",
+        "problem": "Under which classification does the anomaly depicted in the photograph fall? A)Infectious, B)Autoimmune, C)Inflammatory., D)Vascular",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/c9f9786dc2a70094fe2ca0d13de5dfa1.jpg",
+        "problem": "What is the particular classification of the anomaly portrayed in this image? A)Infectious, B)Metabolic, C)Genetic, D)Inflammatory.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/dfd1c22bcf83c12ddfcc9dc1355416e2.jpg",
+        "problem": "What is the specific category of the abnormality in this image? A)Genetic, B)Congenital, C)Inflammatory., D)Metabolic",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/f974c0102afb36938c16aff5f61d15ad.jpg",
+        "problem": "What is the specific category of the abnormality in this image? A)Autoimmune, B)Vascular, C)Endocrine, D)Inflammatory.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/36957e56d706090b596f6ac80924bdf2.jpg",
+        "problem": "What is the specific category of the abnormality in this image? A)Genetic, B)Congenital, C)Inflammatory., D)Autoimmune",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/19ce53c364f3b0b022270c91e8ea64d7.jpg",
+        "problem": "Under which classification does the pathology shown in the photograph fall? A)Malignant subcutaneous., B)Genetic vascular., C)Metastatic intramuscular., D)Benign dermal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/98db2a1e03968a16984492ea28daad25.jpg",
+        "problem": "In what particular category does this abnormality in the image fall? A)Infectious hypodermal., B)Metastatic intramuscular., C)Inflammatory epidermal., D)Benign dermal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/cb33bd170307c07e3547c91b825e65a7.jpg",
+        "problem": "What kind of abnormality is depicted in this image? A)Benign dermal., B)Inflammatory epidermal., C)Metastatic intramuscular., D)Malignant subcutaneous.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/f1135101625abee46f1260f3e11bc6c1.jpg",
+        "problem": "What is the particular classification of the anomaly observed in this image? A)Inflammatory epidermal., B)Genetic vascular., C)Malignant subcutaneous., D)Benign dermal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/da90292bc5bfffe960bd3c3d4767a846.jpg",
+        "problem": "What classification does the abnormality in this image fall into? A)Benign dermal., B)Malignant subcutaneous., C)Inflammatory epidermal., D)Infectious hypodermal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/5d397d83fe773d3f20229663f2df0db2.jpg",
+        "problem": "What specific classification does the abnormality in this image fall under? A)Genetic vascular., B)Infectious hypodermal., C)Benign dermal., D)Malignant subcutaneous.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/66f84860d3920287b8093d95dd49162a.jpg",
+        "problem": "What is the classification of the anomaly in the provided image? A)Infectious hypodermal., B)Inflammatory epidermal., C)Benign dermal., D)Malignant subcutaneous.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/5ba6e729a29e8a2fbab55a9bcec3f942.jpg",
+        "problem": "What classification does this image fall under in terms of abnormality? A)Metastatic intramuscular., B)Benign dermal., C)Malignant subcutaneous., D)Infectious hypodermal.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/a96d9f9d604ecca87d59aa89aa84c00a.jpg",
+        "problem": "What type of abnormality is depicted in this image? A)Metastatic intramuscular., B)Genetic vascular., C)Infectious hypodermal., D)Benign dermal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/bcee3f63a75e96ba6863ca4ee9544fe7.jpg",
+        "problem": "What is the classification of the anomaly featured in this image? A)Malignant subcutaneous., B)Inflammatory epidermal., C)Benign dermal., D)Metastatic intramuscular.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/f3fd93d48f9b56eb3f739b76bfa34963.jpg",
+        "problem": "What type of abnormality is present in this image? A)Infectious hypodermal., B)Genetic vascular., C)Benign dermal., D)Metastatic intramuscular.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/37c8b1a9a0d0f0419933113610dbd896.jpg",
+        "problem": "What is the particular type of abnormality depicted in this image? A)Malignant subcutaneous., B)Inflammatory epidermal., C)Benign dermal., D)Genetic vascular.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/10b7dd2d14c4b745c0ced3a5936f9ff6.jpg",
+        "problem": "What is the classification of the anomaly observed in this picture? A)Infectious hypodermal., B)Metastatic intramuscular., C)Genetic vascular., D)Benign dermal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/3db45506b78666259893065a9810913f.jpg",
+        "problem": "What is the particular classification of the anomaly captured in this image? A)Genetic vascular., B)Infectious hypodermal., C)Benign dermal., D)Metastatic intramuscular.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/9e41dfef88af0d8e29fddd91da1f4c5a.jpg",
+        "problem": "What is the specific category of the abnormality in this image? A)Inflammatory epidermal., B)Genetic vascular., C)Benign dermal., D)Metastatic intramuscular.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/f23969dd796272131ecc65dd5d8cd499.jpg",
+        "problem": "What classification does the anomaly in this picture fall under? A)Benign dermal., B)Malignant subcutaneous., C)Inflammatory epidermal., D)Genetic vascular.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/9ae2146c6383515a25d6d1938554351c.jpg",
+        "problem": "What particular classification does this image's abnormality belong to? A)Metastatic dermal., B)Malignant dermal., C)Non-cancerous subcutaneous., D)Invasive melanocytic.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/ab6f88d273564516c297046fe9ad1c81.jpg",
+        "problem": "What is the particular classification of the anomaly observed in this image? A)Benign epidermal., B)Metastatic dermal., C)Malignant dermal., D)Invasive melanocytic.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/47fdee8c6edf33214c50371b27554356.jpg",
+        "problem": "What classification does the abnormality in this image belong to? A)Benign epidermal., B)Metastatic dermal., C)Premalignant dermal., D)Malignant dermal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/11192bb0867db84d2a2ab4a8cf99a230.jpg",
+        "problem": "What kind of abnormality is depicted in this image? A)Metastatic dermal., B)Premalignant dermal., C)Non-cancerous subcutaneous., D)Malignant dermal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/bd64e4906674b26d4d5e58e36a39a861.jpg",
+        "problem": "What is the classification of the anomaly depicted in this image? A)Malignant dermal., B)Benign epidermal., C)Invasive melanocytic., D)Premalignant dermal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/c1fcf5b167a0bdcb3c1eba9ecab76ae7.jpg",
+        "problem": "What is the classification of the anomaly present in this image? A)Benign epidermal., B)Malignant dermal., C)Metastatic dermal., D)Premalignant dermal.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/c0a31afecc839c5fccf8c15ca9cee431.jpg",
+        "problem": "What is the classification of the anomaly depicted in this image? A)Malignant melanoma., B)Benign melanoma, C)Melanoma in situ, D)Melanocytic malignancy",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/74bc180ce4619e21a8a8d425c4e86765.jpg",
+        "problem": "What is the particular classification of the anomaly shown in this image? A)Benign melanoma, B)Melanocytic nevus, C)Melanocytic malignancy, D)Malignant melanoma.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/6af0a95515b388eac5fa547ca8f8e931.jpg",
+        "problem": "What is the classification of the anomaly in this image? A)Melanocytic dysplasia, B)Malignant melanoma., C)Melanocytic carcinoma, D)Melanocytic hyperplasia",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/ecd97fd36f39e9fd52f09f50c3dc59b5.jpg",
+        "problem": "What is the specific category of the abnormality in this image? A)Malignant melanoma., B)Melanocytic hyperplasia, C)Metastatic melanoma, D)Melanocytic malignancy",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/bd70e00d188e7ef98bf9e7edaaff752e.jpg",
+        "problem": "What is the particular classification of the anomaly displayed in this image? A)Non-malignant melanoma, B)Malignant melanoma., C)Melanoma in situ, D)Melanocytic tumor",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/ddb15beb69fc4276b74a948a00eed2c8.jpg",
+        "problem": "What is the particular classification of the anomaly depicted in this image? A)Melanocytic carcinoma, B)Malignant melanoma., C)Melanocytic dysplasia, D)Metastatic melanoma",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/0393b043e435e566657cf7d61879026c.jpg",
+        "problem": "What is the specific category of the abnormality in this image? A)Melanocytic nevus, B)Malignant melanoma., C)Benign melanoma, D)Melanocytic malignancy",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/c1b162ecbd537349c8df036a7f7627dc.jpg",
+        "problem": "Under which classification does the anomaly depicted in this photograph fall? A)Metastatic melanoma, B)Melanocytic tumor, C)Melanoma in situ, D)Malignant melanoma.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/2311fe11163e4e84336c53eefb5e24d7.jpg",
+        "problem": "What is the classification of the anomaly depicted in this image? A)Melanocytic malignancy, B)Melanocytic nevus, C)Melanocytic dysplasia, D)Malignant melanoma.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/b9ddf5dbd6257c786e13658934c56ac6.jpg",
+        "problem": "What is the particular classification of the anomaly depicted in this image? A)Melanocytic nevus, B)Melanocytic hyperplasia, C)Melanocytic tumor, D)Malignant melanoma.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/96e320998184af49bfc791c8f1b0e174.jpg",
+        "problem": "Under what classification does the anomaly in the photograph fall? A)Melanocytic carcinoma, B)Malignant melanoma., C)Non-malignant melanoma, D)Melanocytic malignancy",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/60f79f88cbb999246aea835979d1c1db.jpg",
+        "problem": "What is the specific term used to classify the anomaly seen in this image? A)Metastatic melanoma, B)Non-malignant melanoma, C)Melanocytic malignancy, D)Malignant melanoma.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/b3d94ddf1388ed3894ad18ea3fefc880.jpg",
+        "problem": "What specific type of abnormality is present in this image? A)Melanocytic dysplasia, B)Melanocytic nevus, C)Benign melanoma, D)Malignant melanoma.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/29af4d3eb184c04c90e77ddfe38b7497.jpg",
+        "problem": "What is the specific category of the abnormality in this image? A)Hepatodermatosis, B)Genodermatoses., C)Pulmonodermatitis, D)Gastrodermatitis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/f97e3399321bd71c322a8d79c3c09659.jpg",
+        "problem": "What is the specific category of the abnormality in this image? A)Genodermatoses., B)Oculodermatitis, C)Nephrodermatosis, D)Hematodermatosis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/8825ff4eab36ad5c305001252bca6849.jpg",
+        "problem": "What is the term used to classify the abnormality depicted in this image? A)Lymphodermatosis, B)Genodermatoses., C)Hematodermatosis, D)Nephrodermatosis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/bf0475f3f7125014bc48ae0a47ac6d81.jpg",
+        "problem": "Under what classification does the anomaly in the photograph fall? A)Pulmonodermatitis, B)Hematodermatosis, C)Genodermatoses., D)Oculodermatitis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/26c26cac0f8cb4b9ac269d2dd1bcb2e4.jpg",
+        "problem": "Under which classification does the anomaly observed in the photograph fall? A)Neurodermatosis, B)Genodermatoses., C)Dermatofibromatosis, D)Hematodermatosis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/da96c20f9353b87c80161d79974c8a8e.jpg",
+        "problem": "In what specific category does this image's abnormality fall? A)Nephrodermatosis, B)Hepatodermatosis, C)Genodermatoses., D)Gastrodermatitis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/cc86c9c2338728fba08dccbe27373ce3.jpg",
+        "problem": "What is the classification of the anomaly displayed in this image? A)Osteodermatitis, B)Genodermatoses., C)Gastrodermatitis, D)Neurodermatosis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/b6852837c9016fa7e8a7dc5330f5fdb3.jpg",
+        "problem": "What is the specific category of the abnormality in this image? A)Genodermatoses., B)Gastrodermatitis, C)Oculodermatitis, D)Hematodermatosis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/e3dba8c3820d5566b75322f757bf16cb.jpg",
+        "problem": "What is the specific classification of the anomaly displayed in this image? A)Genodermatoses., B)Lymphodermatosis, C)Pulmonodermatitis, D)Hepatodermatosis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/b37cde3da8ef41fa62ed7c20babe8584.jpg",
+        "problem": "Which specific category does this image's abnormality fall into? A)Pulmonodermatitis, B)Gastrodermatitis, C)Osteodermatitis, D)Genodermatoses.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/9a3488a4aad190131182537c9681f651.jpg",
+        "problem": "What is the term used to classify the abnormality seen in this image? A)Genodermatoses., B)Dermatofibromatosis, C)Osteodermatitis, D)Nephrodermatosis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/bc1384c77a7efc91b35dc13638507677.jpg",
+        "problem": "What is the particular classification of the irregularity depicted in this image? A)Pulmonodermatitis, B)Genodermatoses., C)Lymphodermatosis, D)Dermatofibromatosis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/fb2f9e162b2bed28be4fc4733b79580e.jpg",
+        "problem": "What type of abnormality does this image depict? A)Gastrodermatitis, B)Genodermatoses., C)Dermatofibromatosis, D)Hepatodermatosis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/71e715c047d9649eb2314d1536afee72.jpg",
+        "problem": "What is the specific category of the abnormality in this image? A)Lymphodermatosis, B)Dermatofibromatosis, C)Genodermatoses., D)Pulmonodermatitis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/2d5bd071542b8bcfaee644555d739466.jpg",
+        "problem": "Under which classification does the anomaly depicted in the photograph fall? A)Pulmonodermatitis, B)Genodermatoses., C)Nephrodermatosis, D)Gastrodermatitis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/7c4736f6da0962b2bfe8f51fdf491d27.jpg",
+        "problem": "What is the name of the specific category that this image's abnormality falls under? A)Hematodermatosis, B)Hepatodermatosis, C)Oculodermatitis, D)Genodermatoses.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/d82aeffe880d398d2e5c91d40632a629.jpg",
+        "problem": "Under which category does the anomaly shown in the picture fall? A)Hepatodermatosis, B)Lymphodermatosis, C)Oculodermatitis, D)Genodermatoses.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/055588dd31ede35b688a8f03fdf07ac1.jpg",
+        "problem": "What is the term used to classify the abnormality displayed in this image? A)Hematodermatosis, B)Pulmonodermatitis, C)Gastrodermatitis, D)Genodermatoses.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/e901fe839ca788946f4ee9acb4383e64.jpg",
+        "problem": "What is the name for the specific category of the abnormality depicted in this image? A)Hepatodermatosis, B)Hematodermatosis, C)Gastrodermatitis, D)Genodermatoses.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/1a58d22ddb6a56de7494b5e61cf94450.jpg",
+        "problem": "What is the specific category of the abnormality in this image? A)Hepatodermatosis, B)Neurodermatosis, C)Genodermatoses., D)Gastrodermatitis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/0477c68e5d16b825ce05d13b641e0c2d.jpg",
+        "problem": "What is the term used to describe the specific category of the abnormality shown in this image? A)Genodermatoses., B)Neurodermatosis, C)Lymphodermatosis, D)Nephrodermatosis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/f9b6beafa49dd83963f22ebb5357e954.jpg",
+        "problem": "Under what classification does the anomaly depicted in the photograph fall? A)Gastrodermatitis, B)Genodermatoses., C)Pulmonodermatitis, D)Hematodermatosis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/d1e6596adacdf125251c8a8eb616f271.jpg",
+        "problem": "What is the term for the classification of the abnormality depicted in this image? A)Gastrodermatitis, B)Neurodermatosis, C)Pulmonodermatitis, D)Genodermatoses.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/1a848ff1c42090d168810523536413ca.jpg",
+        "problem": "Under which category does the anomaly shown in the picture fall? A)Neurodermatosis, B)Genodermatoses., C)Hepatodermatosis, D)Dermatofibromatosis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/c066ffd220a95f22e5d13309fbc04725.jpg",
+        "problem": "What is the name of the specific classification for the anomaly depicted in this image? A)Hematodermatosis, B)Genodermatoses., C)Pulmonodermatitis, D)Osteodermatitis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/37eae27b3b60a420dade1a950f7bfb81.jpg",
+        "problem": "What is the specific classification of the anomaly displayed in this image? A)Lymphodermatosis, B)Genodermatoses., C)Oculodermatitis, D)Osteodermatitis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/02764399e3d946b6703af4c5b427abdf.jpg",
+        "problem": "What is the term used to classify the abnormality depicted in this image? A)Osteodermatitis, B)Hematodermatosis, C)Genodermatoses., D)Neurodermatosis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/c5dcdd3971892a68e855d53f620b182b.jpg",
+        "problem": "What is the term used to classify the abnormality seen in this image? A)Pulmonodermatitis, B)Neurodermatosis, C)Gastrodermatitis, D)Genodermatoses.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/bd50d77da0c4f3dc1dc9fc8a921b31e7.jpg",
+        "problem": "Under which category does the anomaly shown in the picture fall? A)Genodermatoses., B)Lymphodermatosis, C)Gastrodermatitis, D)Neurodermatosis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/b3e3b94e401dea8250058ec834f28446.jpg",
+        "problem": "What is the term used to categorize the abnormality observed in this image? A)Genodermatoses., B)Osteodermatitis, C)Neurodermatosis, D)Hepatodermatosis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/0a2d766579aa15e2bd0d05db1ce697d7.jpg",
+        "problem": "What is the term used to specifically classify the abnormality in this image? A)Hepatodermatosis, B)Genodermatoses., C)Gastrodermatitis, D)Neurodermatosis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/a1f25ea3320770012fe4e9ea2be24ca0.jpg",
+        "problem": "What is the classification of the anomaly seen in this image? A)Hematodermatosis, B)Lymphodermatosis, C)Genodermatoses., D)Oculodermatitis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/bb666fe1ba8344ae92032e144d8c6473.jpg",
+        "problem": "What is the specific category of the abnormality in this image? A)Genodermatoses., B)Osteodermatitis, C)Neurodermatosis, D)Hepatodermatosis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/16da44ca4bd3c77321401f8f4ae82138.jpg",
+        "problem": "Under which classification does the irregularity in this photograph fall? A)Malignant epidermal., B)Harmless cutaneous., C)Non-cancerous dermal., D)Metastatic melanocytic.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/32402e8c62ef1a1d67723e10a356335b.jpg",
+        "problem": "Under which classification does the abnormality seen in the photograph fall? A)Harmless cutaneous., B)Non-cancerous dermal., C)Invasive squamous., D)Malignant epidermal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/5d25c6673ea2d8b1268f9b644723843d.jpg",
+        "problem": "In this image, what is the particular classification of the anomaly? A)Metastatic melanocytic., B)Non-cancerous dermal., C)Benign epithelial., D)Malignant epidermal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/eec8c53d191fee6417cfcd4f12d415d3.jpg",
+        "problem": "What is the classification of the anomaly shown in this image? A)Non-cancerous dermal., B)Malignant epidermal., C)Benign epithelial., D)Harmless cutaneous.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/ce6185287c4b9aabd353be048b379f22.jpg",
+        "problem": "What classification does the anomaly in this image fall under? A)Non-cancerous dermal., B)Harmless cutaneous., C)Malignant epidermal., D)Benign epithelial.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/257b98dac6241fa7fc474d3ccd0cc23e.jpg",
+        "problem": "What classification does this abnormality in the image fall under? A)Benign epithelial., B)Non-cancerous dermal., C)Malignant epidermal., D)Invasive squamous.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/f420eb73f0b50a89b5fddccc85796062.jpg",
+        "problem": "What is the precise classification of the anomaly captured in this image? A)Malignant epidermal., B)Benign epithelial., C)Non-cancerous dermal., D)Harmless cutaneous.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/4fa9a2f6266c5e685bbce85809b99bee.jpg",
+        "problem": "What is the classification of the anomaly visible in this picture? A)Metastatic melanocytic., B)Harmless cutaneous., C)Non-cancerous dermal., D)Malignant epidermal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/07de122cbdd10a1b4719b6c9c8cb764f.jpg",
+        "problem": "What kind of abnormality is depicted in this image? A)Malignant epidermal., B)Non-cancerous dermal., C)Invasive squamous., D)Metastatic melanocytic.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/0751a673ac74656b792bc19927d5e851.jpg",
+        "problem": "What particular classification does this image's abnormality fall under? A)Benign epithelial., B)Metastatic melanocytic., C)Malignant epidermal., D)Non-cancerous dermal.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/e853570597d53d361cc70868ada1a07b.jpg",
+        "problem": "What is the classification of the pathology observed in this picture? A)Malignant epidermal., B)Non-cancerous dermal., C)Metastatic melanocytic., D)Invasive squamous.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/016abe4884715af85cd3f309f93b9641.jpg",
+        "problem": "What is the particular classification of the anomaly present in this picture? A)Malignant epidermal., B)Harmless cutaneous., C)Metastatic melanocytic., D)Non-cancerous dermal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/4f528bf1928eb2aeb6fea903ef744a55.jpg",
+        "problem": "What is the classification of the anomaly depicted in this image? A)Harmless cutaneous., B)Benign epithelial., C)Malignant epidermal., D)Non-cancerous dermal.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/40c567216c3762b0d364abb3f718e9b9.jpg",
+        "problem": "What is the classification for the abnormality observed in this image? A)Malignant epidermal., B)Harmless cutaneous., C)Benign epithelial., D)Invasive squamous.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/e3727c5b4b75f017baf1aba0aad019e7.jpg",
+        "problem": "What type of anomaly is depicted in this image? A)Metastatic melanocytic., B)Malignant epidermal., C)Non-cancerous dermal., D)Invasive squamous.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/deb015c236a19812c7c566c778b30337.jpg",
+        "problem": "What is the classification for the anomaly depicted in this image? A)Non-cancerous dermal., B)Harmless cutaneous., C)Malignant epidermal., D)Invasive squamous.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/082e7482504084c98c2262a38b0ecbd3.jpg",
+        "problem": "What is the classification of the anomaly depicted in this image? A)Benign epithelial., B)Invasive squamous., C)Malignant epidermal., D)Harmless cutaneous.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/b8ed051cda5c50d697175212fb3d1860.jpg",
+        "problem": "What type of abnormality is seen in this image? A)Invasive squamous., B)Benign epithelial., C)Malignant epidermal., D)Non-cancerous dermal.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/1695bd10a336ec55c2ef289b51b8b43a.jpg",
+        "problem": "What is the particular type of the anomaly displayed in this image? A)Harmless cutaneous., B)Metastatic melanocytic., C)Benign epithelial., D)Malignant epidermal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/5832419baf0cbfefcac35578a40fa5a5.jpg",
+        "problem": "What is the particular classification of the anomaly seen in this picture? A)Benign epithelial., B)Invasive squamous., C)Non-cancerous dermal., D)Malignant epidermal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/2a4d059a9c13d12cc9a03c17fbac5a4e.jpg",
+        "problem": "What is the specific classification of the anomaly seen in this image? A)Invasive squamous., B)Harmless cutaneous., C)Malignant epidermal., D)Benign epithelial.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/b41744abc102ddd0ff8cc3b44ad39b01.jpg",
+        "problem": "What is the classification of the anomaly depicted in this picture? A)Metastatic melanocytic., B)Harmless cutaneous., C)Malignant epidermal., D)Non-cancerous dermal.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/bdea9a2f7ab80e98881388dcf36424e9.jpg",
+        "problem": "What is the specific category of the abnormality in this image? A)Benign epithelial., B)Non-cancerous dermal., C)Harmless cutaneous., D)Malignant epidermal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/53f7dbf331f5eee075a7ad7d14eb6733.jpg",
+        "problem": "What is the specific classification of the anomaly depicted in this image? A)Invasive squamous., B)Benign epithelial., C)Non-cancerous dermal., D)Malignant epidermal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/e3dce91b73fb5259fdcf32c9ac711958.jpg",
+        "problem": "What is the classification of the anomaly displayed in this image? A)Invasive squamous., B)Harmless cutaneous., C)Metastatic melanocytic., D)Malignant epidermal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/54aa2f1bf36b27de991db5cd358bde06.jpg",
+        "problem": "What is the specific classification of the anomaly shown in this image? A)Harmless cutaneous., B)Metastatic melanocytic., C)Invasive squamous., D)Malignant epidermal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/c78072771a39d4d94d0430cf8ec6dab3.jpg",
+        "problem": "What is the accurate classification of the anomaly depicted in this image? A)Benign epithelial., B)Harmless cutaneous., C)Invasive squamous., D)Malignant epidermal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/2b0732e27770e1466ef1a3d918353a69.jpg",
+        "problem": "What is the type of anomaly depicted in this image? A)Metastatic melanocytic., B)Non-cancerous dermal., C)Harmless cutaneous., D)Malignant epidermal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/0e802991cd0257f69f62adedb41152f8.jpg",
+        "problem": "What is the specific category of the abnormality in this image? A)Malignant epidermal., B)Invasive squamous., C)Non-cancerous dermal., D)Harmless cutaneous.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/63d45ab797b56c3f56e8b4bb32d4aac1.jpg",
+        "problem": "What is the specific category of the abnormality in this image? A)Invasive squamous., B)Harmless cutaneous., C)Benign epithelial., D)Malignant epidermal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/185942f8efd8a8c00a3b7b42096f458b.jpg",
+        "problem": "What is the particular classification of the anomaly observed in this picture? A)Malignant epidermal., B)Harmless cutaneous., C)Benign epithelial., D)Non-cancerous dermal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/b8f7a8261d720585ae60f800b4eaf999.jpg",
+        "problem": "In what category does this image's abnormality fall under? A)Metastatic melanocytic., B)Benign epithelial., C)Malignant epidermal., D)Non-cancerous dermal.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/49ed416e5f1dc646ecbaf99b23b48095.jpg",
+        "problem": "What is the particular classification of the anomaly captured in this image? A)Metastatic melanocytic., B)Harmless cutaneous., C)Invasive squamous., D)Malignant epidermal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/064f39810e82e6097f9c187f003ede0a.jpg",
+        "problem": "What is the particular classification of the anomaly observed in this image? A)Benign epithelial., B)Malignant epidermal., C)Harmless cutaneous., D)Invasive squamous.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/a18693f7fc1cf91848857da05da1efb6.jpg",
+        "problem": "Under which classification does this image's abnormality fall? A)Malignant epidermal., B)Non-cancerous dermal., C)Benign epithelial., D)Invasive squamous.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/8dff4409431ca7a83a108fa35ec2959d.jpg",
+        "problem": "What classification does the abnormality in this image fall under? A)Malignant epidermal., B)Metastatic melanocytic., C)Invasive squamous., D)Benign epithelial.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/4c731419c06a0d56f81cb03929783d38.jpg",
+        "problem": "In what specific category does this image abnormality fall? A)Benign epithelial., B)Malignant epidermal., C)Harmless cutaneous., D)Invasive squamous.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/3e4a274cdc0acb42a64dffa7b034a9cf.jpg",
+        "problem": "What is the classification of the irregularity depicted in this image? A)Benign epithelial., B)Harmless cutaneous., C)Non-cancerous dermal., D)Malignant epidermal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/4981320ef16be15730f7fce6207c9f88.jpg",
+        "problem": "Under which category does the anomaly depicted in this image fall? A)Harmless cutaneous., B)Metastatic melanocytic., C)Non-cancerous dermal., D)Malignant epidermal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/fb11cc09b9df6abad072d5e45f2d45c5.jpg",
+        "problem": "What classification does the anomaly in this image fall under? A)Invasive squamous., B)Metastatic melanocytic., C)Malignant epidermal., D)Benign epithelial.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/54062cedd5bf0e41f3c95feba2bb0373.jpg",
+        "problem": "What is the precise classification of the anomaly depicted in this visual representation? A)Non-cancerous dermal., B)Benign epithelial., C)Metastatic melanocytic., D)Malignant epidermal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/76c6ff58a8babae647dcc37ea074939d.jpg",
+        "problem": "Under which classification does the irregularity in this photograph fall? A)Malignant epidermal., B)Benign epithelial., C)Harmless cutaneous., D)Invasive squamous.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/543017d891174b7fe9443a4dfa537410.jpg",
+        "problem": "Under which classification does the abnormality depicted in the photograph fall? A)Metastatic melanocytic., B)Malignant epidermal., C)Harmless cutaneous., D)Non-cancerous dermal.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/548ec840d0d93a2e469cd33f6127cd6d.jpg",
+        "problem": "What is the particular classification of the anomaly depicted in this image? A)Cancerous superficial., B)Metastatic dermal., C)Benign epidermal., D)Invasive epidermal.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/7ee21e6c71ee77980f3480bdbbf27a88.jpg",
+        "problem": "What type of abnormality is present in this image? A)Non-cancerous subcutaneous., B)Metastatic dermal., C)Malignant dermal., D)Benign epidermal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/74a2d7b3c01c63f68614c48270507f89.jpg",
+        "problem": "What is the classification of the anomaly in this picture? A)Malignant dermal., B)Invasive epidermal., C)Non-cancerous subcutaneous., D)Benign epidermal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/9b950015c022988a79291ec308d2c839.jpg",
+        "problem": "What is the classification of the anomaly captured in this image? A)Metastatic dermal., B)Cancerous superficial., C)Benign epidermal., D)Malignant dermal.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/9f02224f0aecb68e7e32278e3fc316b3.jpg",
+        "problem": "What is the specific category of the abnormality in this image? A)Non-cancerous subcutaneous., B)Benign epidermal., C)Cancerous superficial., D)Invasive epidermal.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/c23326630cac06140bf03363cb334c71.jpg",
+        "problem": "What type of abnormality is present in the image? A)Non-cancerous subcutaneous., B)Invasive epidermal., C)Malignant dermal., D)Benign epidermal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/7c3b644eb566121ed53b40d5ffed199a.jpg",
+        "problem": "What specific type of abnormality is present in this image? A)Malignant dermal., B)Invasive epidermal., C)Cancerous superficial., D)Benign epidermal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/aca7d6f50977c69e54dd0113c886edce.jpg",
+        "problem": "What is the classification of the anomaly visible in this image? A)Benign epidermal., B)Non-cancerous subcutaneous., C)Cancerous superficial., D)Metastatic dermal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/6a42b572581dc870a1cfe3f15e7d5da8.jpg",
+        "problem": "What is the particular classification of the anomaly observed in this image? A)Metastatic dermal., B)Malignant dermal., C)Cancerous superficial., D)Benign epidermal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/1dadc6ac2b9b2dcb6a99a50c0bacdd63.jpg",
+        "problem": "What is the classification of the anomaly displayed in this picture? A)Metastatic dermal., B)Cancerous superficial., C)Benign epidermal., D)Invasive epidermal.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/dace9bdc930a19b89e9ba6891526e7af.jpg",
+        "problem": "What is the classification of the anomaly depicted in this image? A)Metastatic dermal., B)Benign epidermal., C)Cancerous superficial., D)Invasive epidermal.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/24460d390414317863f266f00bdae501.jpg",
+        "problem": "What is the classification of the anomaly depicted in this picture? A)Cancerous superficial., B)Benign epidermal., C)Non-cancerous subcutaneous., D)Invasive epidermal.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/8c49760c0ad3370dba17aa9ced6b12d6.jpg",
+        "problem": "What is the specific category of the abnormality in this image? A)Benign epidermal., B)Cancerous superficial., C)Invasive epidermal., D)Malignant dermal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/756b24ca24f44a02a098370acdc3ab16.jpg",
+        "problem": "What category does the abnormality in this image belong to? A)Metastatic dermal., B)Benign epidermal., C)Non-cancerous subcutaneous., D)Cancerous superficial.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/b46271e7c6f703060101f39d44a5b301.jpg",
+        "problem": "What is the particular classification of the anomaly in this picture? A)Metastatic dermal., B)Malignant dermal., C)Benign epidermal., D)Cancerous superficial.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/7b9136b93d147a484a1470a77169aee0.jpg",
+        "problem": "What classification does this image fall into in terms of the abnormality? A)Invasive epidermal., B)Cancerous superficial., C)Metastatic dermal., D)Benign epidermal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/41169ebef5fa15937f0eefb98d81339c.jpg",
+        "problem": "What classification does this image fall into in terms of the abnormality? A)Non-cancerous subcutaneous., B)Invasive epidermal., C)Benign epidermal., D)Malignant dermal.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/bfeeff0ed90def231162cac66c3d025d.jpg",
+        "problem": "What is the specific classification of the abnormality seen in this image? A)Metastatic dermal., B)Benign epidermal., C)Cancerous superficial., D)Malignant dermal.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/42f27c8b4b58fb34592ae57811e8f6ff.jpg",
+        "problem": "What does this image show in terms of abnormality classification? A)Benign epidermal., B)Cancerous superficial., C)Invasive epidermal., D)Malignant dermal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/5f15a814cc5a6ca1db94f5f8c6a14832.jpg",
+        "problem": "In this image, what is the specific classification of the abnormality? A)Non-cancerous subcutaneous., B)Metastatic dermal., C)Invasive epidermal., D)Benign epidermal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/bbca2441e0c4ab4833a5796a9b9da0e4.jpg",
+        "problem": "What is the classification of the anomaly displayed in this image? A)Benign epidermal., B)Invasive epidermal., C)Malignant dermal., D)Non-cancerous subcutaneous.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/97ffa3d56134d487c288543ad391d69c.jpg",
+        "problem": "What classification does the anomaly in this image belong to? A)Cancerous superficial., B)Metastatic dermal., C)Malignant dermal., D)Benign epidermal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/ac6c6b189299da4e34f8c35a1b92438c.jpg",
+        "problem": "What is the specific classification of the anomaly captured in this image? A)Non-cancerous subcutaneous., B)Benign epidermal., C)Cancerous superficial., D)Malignant dermal.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/9f0676a940a76b88f8aaf161bf2a311d.jpg",
+        "problem": "What is the classification of the abnormality captured in this image? A)Benign epidermal., B)Invasive epidermal., C)Cancerous superficial., D)Metastatic dermal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/1dbde15208dce78fe95468e229a81363.jpg",
+        "problem": "What specific classification does this image abnormality fall under? A)Non-cancerous subcutaneous., B)Cancerous superficial., C)Metastatic dermal., D)Benign epidermal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/4304199921ec391c01cbd147cc2e59a8.jpg",
+        "problem": "In this image, what is the particular classification of the anomaly? A)Benign epidermal., B)Cancerous superficial., C)Malignant dermal., D)Non-cancerous subcutaneous.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/5fb6e34e0898bdd2bd736c7db0d2a0f0.jpg",
+        "problem": "What classification does this image fall under for the abnormality? A)Cancerous superficial., B)Non-cancerous subcutaneous., C)Invasive epidermal., D)Benign epidermal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/1ac32fd4d37811f356201fc9a5d42ee6.jpg",
+        "problem": "What type of abnormality is present in the image? A)Benign epidermal., B)Non-cancerous subcutaneous., C)Malignant dermal., D)Cancerous superficial.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/0f7677df2ecf265c1ae1737d75f2c552.jpg",
+        "problem": "In what specific category does this image's abnormality fall under? A)Non-cancerous subcutaneous., B)Invasive epidermal., C)Metastatic dermal., D)Benign epidermal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/8eb074ec464733f3a583af942fee9a14.jpg",
+        "problem": "What is the classification of the irregularity shown in this picture? A)Benign epidermal., B)Invasive epidermal., C)Non-cancerous subcutaneous., D)Cancerous superficial.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/72015b5cbc3acebc1441248befaa321a.jpg",
+        "problem": "What type of abnormality is observed in this image? A)Eczema., B)Non-Hodgkin's lymphoma., C)Malignant cutaneous lymphoma., D)Squamous cell carcinoma.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/b2a36a8d0b2c0d129e7510a32c18bdcc.jpg",
+        "problem": "What is the particular classification of the anomaly depicted in this image? A)Malignant cutaneous lymphoma., B)Melanoma., C)Psoriasis., D)Squamous cell carcinoma.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/923534fd044e776e66d0e5fca35e0a1c.jpg",
+        "problem": "What is the specific classification of the anomaly depicted in this image? A)Melanoma., B)Malignant cutaneous lymphoma., C)Non-Hodgkin's lymphoma., D)Boils.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/064964a7ed462b114d9ab6a7111caef7.jpg",
+        "problem": "Under which classification does the abnormality depicted in the photograph fall? A)Malignant cutaneous lymphoma., B)Boils., C)Benign cutaneous lymphoma., D)Dermatitis.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/39d7ad8e2b3eca2f8356b2df57c59767.jpg",
+        "problem": "Under which category does the abnormality seen in this picture fall? A)Malignant cutaneous lymphoma., B)Non-Hodgkin's lymphoma., C)Eczema., D)Psoriasis.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/4c4ee394e3bd1da54bdec11874990b30.jpg",
+        "problem": "Under what classification does the anomaly in the photograph fall? A)Dermatitis., B)Melanoma., C)Psoriasis., D)Malignant cutaneous lymphoma.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/625a3d389090a29849a40ea3b68bb1fe.jpg",
+        "problem": "In this image, what is the precise classification of the abnormality? A)Malignant cutaneous lymphoma., B)Melanoma., C)Metastatic cutaneous lymphoma., D)Boils.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/3e9e422aca2163c9c46222bd6517432f.jpg",
+        "problem": "What is the classification of the anomaly observed in this image? A)Psoriasis., B)Malignant cutaneous lymphoma., C)Basal cell carcinoma., D)Metastatic cutaneous lymphoma.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/d04699fc9e876ddd627d102570694a0c.jpg",
+        "problem": "What is the accurate classification of the anomaly depicted in this image? A)Malignant cutaneous lymphoma., B)Boils., C)Psoriasis., D)Non-Hodgkin's lymphoma.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/c69b810bbe5c2eb7785daa9af3f2b5f8.jpg",
+        "problem": "Under which classification does the anomaly depicted in this photograph fall? A)Non-Hodgkin's lymphoma., B)Metastatic cutaneous lymphoma., C)Malignant cutaneous lymphoma., D)Psoriasis.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/1093510b8b4e09034d87fb69cb047259.jpg",
+        "problem": "What is the specific category of the abnormality in this image? A)Malignant cutaneous lymphoma., B)Boils., C)Benign cutaneous lymphoma., D)Melanoma.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/13c8455096abc7427eeba56c81c7a54c.jpg",
+        "problem": "What is the specific classification of the anomaly seen in this image? A)Basal cell carcinoma., B)Malignant cutaneous lymphoma., C)Psoriasis., D)Benign cutaneous lymphoma.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/4e7f1251e17184621d52f441c4acc44d.jpg",
+        "problem": "What is the precise classification of the anomaly depicted in the image? A)Malignant cutaneous lymphoma., B)Boils., C)Non-Hodgkin's lymphoma., D)Melanoma.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/e927c81f6b508269c83350184f124a2d.jpg",
+        "problem": "What is the specific category of the abnormality in this image? A)Malignant cutaneous lymphoma., B)Psoriasis., C)Metastatic cutaneous lymphoma., D)Melanoma.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/558b6378ac18ecc0c35d6b33e073d1d2.jpg",
+        "problem": "What is the designated classification for the anomaly depicted in this image? A)Malignant cutaneous lymphoma., B)Benign cutaneous lymphoma., C)Metastatic cutaneous lymphoma., D)Psoriasis.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/860ce6a4951e059da943592a29882f4a.jpg",
+        "problem": "What is the specific classification of the anomaly depicted in this image? A)Malignant cutaneous lymphoma., B)Benign cutaneous lymphoma., C)Melanoma., D)Eczema.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Fitzpatrick 17k/0cbdf45e52b3137a785cc575e8b4bb53.jpg",
+        "problem": "What is the classification of the anomaly depicted in this image? A)Squamous cell carcinoma., B)Malignant cutaneous lymphoma., C)Dermatitis., D)Non-Hodgkin's lymphoma.",
+        "solution": "<answer> B </answer>"
+    }
+]

@@ -1,0 +1,947 @@
+[
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (1146).png",
+        "problem": "What imaging technique is employed to produce this image? A)MRI, B)Ultrasound, C)PET scan, D)CT",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (297).png",
+        "problem": "What type of imaging is utilized for capturing this picture? A)Ultrasound, B)CT, C)X-ray, D)Nuclear medicine scan",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (480).png",
+        "problem": "What area of the body is shown in the CT scan image? A)Pelvis, B)Abdomen, C)Chest, D)Extremities",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (372).png",
+        "problem": "What body part is captured in this CT scan image? A)Chest, B)Lower limbs, C)Pelvis, D)Upper limbs",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (1028).png",
+        "problem": "What specific part of the body is shown in this CT scan image? A)Extremities, B)Pelvis, C)Chest, D)Back",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (354).png",
+        "problem": "What part of the body is depicted in this CT scan image? A)Chest, B)Abdomen, C)Lower limbs, D)Groin",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (1138).png",
+        "problem": "What body area is being depicted in this CT scan image? A)Extremities, B)Spine, C)Chest, D)Abdomen",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (198).png",
+        "problem": "What part of the body does this CT scan image portray? A)Back, B)Head, C)Chest, D)Upper limbs",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (191).png",
+        "problem": "What area of the body does this CT scan image illustrate? A)Spine, B)Chest, C)Neck, D)Abdomen",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (1201).png",
+        "problem": "What body area does this CT scan image represent? A)Head, B)Extremities, C)Groin, D)Chest",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (184).png",
+        "problem": "What part of the body does the CT scan image portray? A)Pelvis, B)Groin, C)Lower limbs, D)Chest",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (806).png",
+        "problem": "In which part of the body is this CT scan image taken? A)Abdomen, B)Upper limbs, C)Chest, D)Groin",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (1146).png",
+        "problem": "What area of the body is visible in the CT scan image? A)Back, B)Lower limbs, C)Extremities, D)Chest",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (903).png",
+        "problem": "What part of the body is shown in this CT scan image? A)Chest, B)Neck, C)Spine, D)Abdomen",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (287).png",
+        "problem": "What body region does this CT scan image represent? A)Extremities, B)Head, C)Back, D)Chest",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (872).png",
+        "problem": "What part of the human anatomy is being depicted in this CT scan image? A)Upper limbs, B)Chest, C)Extremities, D)Lower limbs",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (103).png",
+        "problem": "What part of the body is shown in this CT scan image? A)Chest, B)Head, C)Spine, D)Lower limbs",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (546).png",
+        "problem": "What body part is being shown in this CT scan image? A)Chest, B)Pelvis, C)Groin, D)Upper limbs",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (589).png",
+        "problem": "What region of the body does this CT scan image represent? A)Chest, B)Extremities, C)Spine, D)Neck",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (1178).png",
+        "problem": "What area of the body is depicted in this CT scan image? A)Chest, B)Abdomen, C)Upper limbs, D)Extremities",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (86).png",
+        "problem": "What area of the body does this CT scan image reveal? A)Pelvis, B)Spine, C)Groin, D)Chest",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (607).png",
+        "problem": "What part of the body is the focus of this CT scan image? A)Chest, B)Pelvis, C)Spine, D)Lower limbs",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (804).png",
+        "problem": "What body part is being represented in this CT scan image? A)Groin, B)Chest, C)Pelvis, D)Spine",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (145).png",
+        "problem": "What region of the body does this CT scan image represent? A)Chest, B)Back, C)Neck, D)Extremities",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (897).png",
+        "problem": "What area of the human anatomy does this CT scan image represent? A)Chest, B)Abdomen, C)Lower limbs, D)Pelvis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (275).png",
+        "problem": "What area of the body does this CT scan image reveal? A)Chest, B)Extremities, C)Head, D)Upper limbs",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (5).png",
+        "problem": "What part of the body does this CT scan image represent? A)Abdomen, B)Chest, C)Pelvis, D)Spine",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (521).png",
+        "problem": "What area of the body does this CT scan image represent? A)Abdomen, B)Back, C)Upper limbs, D)Chest",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (484).png",
+        "problem": "What part of the body is being depicted in this CT scan image? A)Back, B)Extremities, C)Chest, D)Abdomen",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (588).png",
+        "problem": "What body part is being depicted in this CT scan image? A)Neck, B)Chest, C)Spine, D)Back",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (1070).png",
+        "problem": "What area of the body does this CT scan image represent? A)Back, B)Lower limbs, C)Chest, D)Spine",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (1149).png",
+        "problem": "In what area of the body is this CT scan image taken? A)Chest, B)Lower limbs, C)Abdomen, D)Upper limbs",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (1111).png",
+        "problem": "What part of the body is displayed in this CT scan image? A)Spine, B)Chest, C)Pelvis, D)Back",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (1118).png",
+        "problem": "What specific area of the body is represented in this CT scan? A)Upper limbs, B)Back, C)Neck, D)Chest",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (712).png",
+        "problem": "What body area does this CT scan image represent? A)Groin, B)Chest, C)Back, D)Head",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (372).png",
+        "problem": "Is COVID-19 indicated by the presence of symptoms in this CT scan image? A)Yes, B)No",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (1213).png",
+        "problem": "Is COVID-19 indicated by signs present in this CT scan image? A)No, B)Yes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (686).png",
+        "problem": "Is COVID-19 indicated by the signs visible in this CT scan image? A)Yes, B)No",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (135).png",
+        "problem": "Is there evidence of COVID-19 on this CT scan image? A)Yes, B)No",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (943).png",
+        "problem": "Is COVID-19 detected in this CT scan image? A)No, B)Yes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (455).png",
+        "problem": "Is COVID-19 evident in this CT scan image? A)No, B)Yes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (426).png",
+        "problem": "Is COVID-19 detectable in the CT scan image? A)Yes, B)No",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (254).png",
+        "problem": "Is COVID-19 indicated by the presence of signs in this CT scan image? A)No, B)Yes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (331).png",
+        "problem": "Is COVID-19 indicated by the findings in this CT scan image? A)No, B)Yes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (927).png",
+        "problem": "Can signs of COVID-19 be observed in this CT scan image? A)Yes, B)No",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (399).png",
+        "problem": "Is there evidence of COVID-19 seen in this CT scan image? A)No, B)Yes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (564).png",
+        "problem": "Is COVID-19 indicated by the presence of signs in this CT scan image? A)No, B)Yes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (35).png",
+        "problem": "Is it evident from this CT scan image that the patient has COVID-19? A)Yes, B)No",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (11).png",
+        "problem": "Is COVID-19 apparent in this CT scan image? A)No, B)Yes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (356).png",
+        "problem": "Is COVID-19 observable in this CT scan image? A)No, B)Yes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (901).png",
+        "problem": "Can signs of COVID-19 be identified in this CT scan image? A)No, B)Yes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (492).png",
+        "problem": "Is COVID-19 indicated by signs present in this CT scan image? A)No, B)Yes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (437).png",
+        "problem": "Is COVID-19 indicated by the features seen in this CT scan image? A)No, B)Yes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (1047).png",
+        "problem": "Is COVID-19 detectable in this CT scan image? A)No, B)Yes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (348).png",
+        "problem": "Is there evidence of COVID-19 in this CT scan image? A)No, B)Yes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (55).png",
+        "problem": "Is COVID-19 evident in the CT scan image? A)Yes, B)No",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (656).png",
+        "problem": "Can signs of COVID-19 be seen in this CT scan image? A)Yes, B)No",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (1151).png",
+        "problem": "Can COVID-19 be detected in this CT scan image? A)No, B)Yes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (986).png",
+        "problem": "Is there evidence of COVID-19 in this CT scan image? A)No, B)Yes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (661).png",
+        "problem": "Is COVID-19 indicated by the signs visible in this CT scan image? A)No, B)Yes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (214).png",
+        "problem": "Is there evidence of COVID-19 symptoms displayed in this CT scan image? A)No, B)Yes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (269).png",
+        "problem": "Is it evident from this CT scan image that COVID-19 is present? A)Yes, B)No",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (1105).png",
+        "problem": "Is COVID-19 indicated by signs present in this CT scan image? A)No, B)Yes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (1013).png",
+        "problem": "Can signs of COVID-19 be identified on this CT scan image? A)Yes, B)No",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (459).png",
+        "problem": "Is it evident from the CT scan image that the patient has COVID-19? A)No, B)Yes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (166).png",
+        "problem": "What is the specific condition displayed in this image? A)Tuberculosis, B)Influenza, C)SARS (Severe Acute Respiratory Syndrome), D)COVID-19 infection.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (1028).png",
+        "problem": "What specific abnormality is present in this image? A)Asthma exacerbation, B)Bronchitis, C)Pneumonia, D)COVID-19 infection.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (345).png",
+        "problem": "What specific abnormality is present in this image? A)Bronchitis, B)COVID-19 infection., C)Tuberculosis, D)Asthma exacerbation",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (283).png",
+        "problem": "What specific abnormality is present in this image? A)Bronchitis, B)SARS (Severe Acute Respiratory Syndrome), C)Tuberculosis, D)COVID-19 infection.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (741).png",
+        "problem": "What is the specific condition depicted in this image? A)Pulmonary embolism, B)Tuberculosis, C)Influenza, D)COVID-19 infection.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (245).png",
+        "problem": "What is the specific diagnosis for the abnormality seen in this image? A)COVID-19 infection., B)Sinusitis, C)SARS (Severe Acute Respiratory Syndrome), D)Asthma exacerbation",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (276).png",
+        "problem": "What condition is indicated by the abnormality visible in this image? A)COVID-19 infection., B)Influenza, C)Sinusitis, D)Common cold",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (1178).png",
+        "problem": "What specific abnormality is present in this image? A)Bronchitis, B)Common cold, C)COVID-19 infection., D)Tuberculosis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (612).png",
+        "problem": "What specific abnormality is present in this image? A)COVID-19 infection., B)SARS (Severe Acute Respiratory Syndrome), C)Lung cancer, D)Tuberculosis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (427).png",
+        "problem": "What specific abnormality is present in this image? A)SARS (Severe Acute Respiratory Syndrome), B)COVID-19 infection., C)Common cold, D)Lung cancer",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (607).png",
+        "problem": "What is the particular anomaly depicted in this image? A)COVID-19 infection., B)Bronchitis, C)Asthma exacerbation, D)Pneumonia",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (1202).png",
+        "problem": "What specific abnormality is present in this image? A)COVID-19 infection., B)Lung cancer, C)Tuberculosis, D)Influenza",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (149).png",
+        "problem": "What is the specific condition depicted in this image? A)Sinusitis, B)Common cold, C)COVID-19 infection., D)Pulmonary embolism",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (819).png",
+        "problem": "What specific abnormality is present in this image? A)Asthma exacerbation, B)Lung cancer, C)Influenza, D)COVID-19 infection.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (640).png",
+        "problem": "What is the specific condition represented by the abnormality seen in this image? A)Influenza, B)Asthma exacerbation, C)COVID-19 infection., D)Pneumonia",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (1116).png",
+        "problem": "What specific abnormality is present in this image? A)COVID-19 infection., B)Pneumonia, C)Influenza, D)Asthma exacerbation",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (11).png",
+        "problem": "What specific abnormality is present in this image? A)Tuberculosis, B)COVID-19 infection., C)Pulmonary embolism, D)Lung cancer",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (356).png",
+        "problem": "What is the identified condition in this image? A)Lung cancer, B)Influenza, C)Tuberculosis, D)COVID-19 infection.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (179).png",
+        "problem": "What is the specific condition represented in this image? A)Influenza, B)COVID-19 infection., C)Asthma exacerbation, D)Lung cancer",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (1047).png",
+        "problem": "What specific abnormality is present in this image? A)SARS (Severe Acute Respiratory Syndrome), B)COVID-19 infection., C)Pneumonia, D)Pulmonary embolism",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (329).png",
+        "problem": "What is the specific diagnosis for the abnormality seen in this image? A)COVID-19 infection., B)Influenza, C)Bronchitis, D)Sinusitis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (268).png",
+        "problem": "What is the diagnosis of the abnormality seen in this image? A)Common cold, B)COVID-19 infection., C)Lung cancer, D)SARS (Severe Acute Respiratory Syndrome)",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (55).png",
+        "problem": "What specific abnormality is present in this image? A)Bronchitis, B)SARS (Severe Acute Respiratory Syndrome), C)Influenza, D)COVID-19 infection.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (291).png",
+        "problem": "What is the specific condition depicted in this image? A)COVID-19 infection., B)Bronchitis, C)Pneumonia, D)Tuberculosis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (606).png",
+        "problem": "What specific abnormality is present in this image? A)Pulmonary embolism, B)Asthma exacerbation, C)Influenza, D)COVID-19 infection.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (1234).png",
+        "problem": "What specific abnormality is present in this image? A)COVID-19 infection., B)Pulmonary embolism, C)Sinusitis, D)Common cold",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (864).png",
+        "problem": "What specific abnormality is present in this image? A)Sinusitis, B)Influenza, C)Common cold, D)COVID-19 infection.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (123).png",
+        "problem": "What specific abnormality is present in this image? A)Common cold, B)COVID-19 infection., C)Influenza, D)Bronchitis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (661).png",
+        "problem": "What specific abnormality is present in this image? A)COVID-19 infection., B)Sinusitis, C)Pneumonia, D)Bronchitis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (214).png",
+        "problem": "What is the diagnosis of the abnormality seen in this image? A)COVID-19 infection., B)Sinusitis, C)Pneumonia, D)Pulmonary embolism",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (803).png",
+        "problem": "What specific abnormality is present in this image? A)Influenza, B)Tuberculosis, C)COVID-19 infection., D)Pulmonary embolism",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (246).png",
+        "problem": "In the CT scan image, what particular area of the chest is involved? A)Lungs., B)Liver, C)Heart, D)Bladder",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (375).png",
+        "problem": "Which area of the chest is afflicted in this CT scan image? A)Spleen, B)Kidneys, C)Liver, D)Lungs.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (166).png",
+        "problem": "Which area of the chest is impacted in this CT scan image? A)Lungs., B)Heart, C)Brain, D)Intestines",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (832).png",
+        "problem": "In this CT scan image, which particular area of the thorax shows signs of involvement? A)Heart, B)Stomach, C)Lungs., D)Pancreas",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (1015).png",
+        "problem": "What part of the chest is impacted in this CT scan image? A)Kidneys, B)Liver, C)Lungs., D)Bladder",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (1004).png",
+        "problem": "What area of the thorax is impacted in this CT scan image? A)Lungs., B)Intestines, C)Liver, D)Stomach",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (161).png",
+        "problem": "In which particular area of the thorax does the CT scan image show an impact? A)Lungs., B)Stomach, C)Heart, D)Spleen",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (245).png",
+        "problem": "In this CT scan image, what area of the chest is involved? A)Bladder, B)Lungs., C)Pancreas, D)Heart",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (1192).png",
+        "problem": "In this CT scan image, which particular area of the chest shows abnormalities? A)Bladder, B)Spine, C)Lungs., D)Kidneys",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (607).png",
+        "problem": "Which part of the chest is impacted in this CT scan image? A)Liver, B)Lungs., C)Spine, D)Kidneys",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (577).png",
+        "problem": "What particular area of the chest does this CT scan image show as being impacted? A)Lungs., B)Brain, C)Spine, D)Pancreas",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (330).png",
+        "problem": "In which part of the thorax does the observed abnormality in the computed tomography scan occur? A)Spine, B)Liver, C)Pancreas, D)Lungs.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (897).png",
+        "problem": "Which area of the chest is depicted as affected in this CT scan image? A)Stomach, B)Lungs., C)Liver, D)Kidneys",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (971).png",
+        "problem": "In which part of the chest is the anatomical structure affected in this CT scan image? A)Brain, B)Kidneys, C)Bladder, D)Lungs.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (11).png",
+        "problem": "Which area of the chest is involved in this CT scan image? A)Lungs., B)Intestines, C)Stomach, D)Kidneys",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (208).png",
+        "problem": "In this CT scan image, what part of the chest is impacted? A)Lungs., B)Spleen, C)Brain, D)Heart",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (477).png",
+        "problem": "In this CT scan image, what particular part of the chest shows signs of involvement? A)Spine, B)Lungs., C)Liver, D)Pancreas",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (913).png",
+        "problem": "What is the specific anatomical area involved in this CT scan image? A)Lungs., B)Spleen, C)Brain, D)Kidneys",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (348).png",
+        "problem": "In this CT scan image, what area of the chest is specifically impacted? A)Lungs., B)Spleen, C)Intestines, D)Spine",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (584).png",
+        "problem": "Which part of the chest is impacted in this CT scan image? A)Lungs., B)Kidneys, C)Stomach, D)Brain",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (173).png",
+        "problem": "Which anatomical structure is affected in this CT scan image of the chest? A)Brain, B)Lungs., C)Liver, D)Kidneys",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (904).png",
+        "problem": "In which part of the chest does this CT scan image show an involvement? A)Lungs., B)Spine, C)Brain, D)Liver",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (727).png",
+        "problem": "Which area of the chest is impacted in this CT scan image? A)Bladder, B)Stomach, C)Spleen, D)Lungs.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (588).png",
+        "problem": "In this CT scan image, what specific area of the chest is involved? A)Intestines, B)Brain, C)Lungs., D)Liver",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (1111).png",
+        "problem": "In this CT scan image, what particular area of the chest shows signs of involvement? A)Kidneys, B)Pancreas, C)Intestines, D)Lungs.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/COVID/Covid (509).png",
+        "problem": "Which area of the chest is this CT scan image showing the affected region? A)Bladder, B)Lungs., C)Pancreas, D)Kidneys",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (1009).png",
+        "problem": "Would this CT scan image suggest the presence of COVID-19? A)Yes, B)No",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (557).png",
+        "problem": "Does this CT scan image show signs of COVID-19? A)Yes, B)No",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (651).png",
+        "problem": "Does this computed tomography (CT) scan suggest the presence of the coronavirus disease (COVID-19)? A)No, B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (532).png",
+        "problem": "Does this CT scan image suggest that the patient has COVID-19? A)Yes, B)No",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (940).png",
+        "problem": "Is this CT scan image indicative of COVID-19? A)No, B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (659).png",
+        "problem": "Is this CT scan image indicative of COVID-19? A)No, B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (354).png",
+        "problem": "Does this CT scan image show evidence of COVID-19? A)Yes, B)No",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (1201).png",
+        "problem": "Is this CT scan image indicative of COVID-19? A)Yes, B)No",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (1023).png",
+        "problem": "Does this computed tomography (CT) scan suggest a diagnosis of COVID-19? A)Yes, B)No",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (841).png",
+        "problem": "Is this CT scan image indicative of COVID-19? A)No, B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (253).png",
+        "problem": "Does the CT scan image suggest the presence of COVID-19? A)Yes, B)No",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (1221).png",
+        "problem": "Does this CT scan image show signs of COVID-19 infection? A)Yes, B)No",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (597).png",
+        "problem": "Is it accurate to conclude that the CT scan image suggests the presence of COVID-19? A)No, B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (947).png",
+        "problem": "Is this CT scan image indicative of COVID-19? A)Yes, B)No",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (87).png",
+        "problem": "Is this CT scan image indicative of COVID-19? A)No, B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (1092).png",
+        "problem": "Does this CT scan image show signs of COVID-19 infection? A)No, B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (508).png",
+        "problem": "Can this CT scan image be considered as a sign of COVID-19? A)No, B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (275).png",
+        "problem": "Does this CT scan image show signs of COVID-19 infection? A)Yes, B)No",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (271).png",
+        "problem": "Is it accurate to say that this CT scan image suggests the presence of COVID-19? A)Yes, B)No",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (140).png",
+        "problem": "Does this computed tomography (CT) scan suggest a diagnosis of COVID-19? A)Yes, B)No",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (904).png",
+        "problem": "Is this CT scan image indicative of COVID-19? A)No, B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (1161).png",
+        "problem": "Does the CT scan image show signs of COVID-19? A)Yes, B)No",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (279).png",
+        "problem": "Does this CT scan image suggest that the patient has COVID-19? A)No, B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (729).png",
+        "problem": "Does this CT scan image suggest the presence of COVID-19? A)Yes, B)No",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (593).png",
+        "problem": "Does this computed tomography scan suggest the presence of the novel coronavirus? A)No, B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (45).png",
+        "problem": "Is this CT scan image indicative of COVID-19? A)No, B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (815).png",
+        "problem": "Does this computed tomography scan show signs of COVID-19? A)Yes, B)No",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (448).png",
+        "problem": "Is this CT scan image indicative of COVID-19? A)No, B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (545).png",
+        "problem": "Is this CT scan image indicative of COVID-19? A)Yes, B)No",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (1070).png",
+        "problem": "Does this computed tomography scan suggest the presence of the novel coronavirus? A)Yes, B)No",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (665).png",
+        "problem": "Does this CT scan image show signs of COVID-19? A)No, B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (1027).png",
+        "problem": "Is this CT scan image indicative of COVID-19? A)No, B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (313).png",
+        "problem": "Is this CT scan image indicative of COVID-19? A)No, B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (888).png",
+        "problem": "Is this CT scan image normal, with no abnormalities or diseases present? A)No., B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (651).png",
+        "problem": "Is the CT scan image in question free from any abnormalities or diseases? A)Yes, B)No.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (532).png",
+        "problem": "Is this CT scan image indicative of any abnormalities or diseases? A)No., B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (708).png",
+        "problem": "Is there any evidence of abnormalities or diseases on this CT scan image? A)Yes, B)No.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (129).png",
+        "problem": "Is the CT scan image normal or are there any abnormalities or diseases present? A)No., B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (866).png",
+        "problem": "Does this CT scan image show any abnormalities or diseases present? A)No., B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (953).png",
+        "problem": "Is there any evidence of abnormalities or diseases observed in this CT scan image? A)No., B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (780).png",
+        "problem": "Is there any evidence of abnormality or disease in this CT scan image? A)No., B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (508).png",
+        "problem": "Is this CT scan image normal, without any abnormalities or diseases? A)Yes, B)No.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (178).png",
+        "problem": "Is there any evidence of abnormality or disease in this CT scan image? A)No., B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (727).png",
+        "problem": "Is there any sign of abnormalities or diseases in this CT scan image? A)Yes, B)No.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (289).png",
+        "problem": "Is this CT scan image normal, with no abnormalities or diseases present? A)Yes, B)No.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (684).png",
+        "problem": "Is there no presence of any abnormalities or diseases in this CT scan image? A)No., B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (787).png",
+        "problem": "Is the CT scan image showing any abnormalities or diseases? A)No., B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (1104).png",
+        "problem": "Does this CT scan image indicate any abnormalities or diseases? A)Yes, B)No.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (635).png",
+        "problem": "Is there any presence of abnormalities or diseases observed in this CT scan image? A)Yes, B)No.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (961).png",
+        "problem": "Is this CT scan image normal, without any abnormalities or diseases? A)Yes, B)No.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (901).png",
+        "problem": "Is this CT scan image normal or are there any abnormalities or diseases present? A)No., B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (453).png",
+        "problem": "Is this CT scan image normal and free of any abnormalities or diseases? A)No., B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (547).png",
+        "problem": "Is there any presence of abnormalities or diseases observed in this CT scan image? A)Yes, B)No.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (332).png",
+        "problem": "Is there any evidence of anomalies or illnesses in this CT scan image? A)No., B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (341).png",
+        "problem": "Is there any presence of abnormalities or diseases evident in this CT scan image? A)No., B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (200).png",
+        "problem": "Is this CT scan image normal or are there any abnormalities or diseases present? A)Yes, B)No.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (1151).png",
+        "problem": "Is the CT scan image normal? A)Yes, B)No.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (636).png",
+        "problem": "Do the CT scan results reveal any abnormalities or diseases? A)Yes, B)No.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (523).png",
+        "problem": "Is the CT scan image free of any abnormalities or diseases? A)No., B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (1052).png",
+        "problem": "Is the CT scan image free of any abnormalities or diseases? A)Yes, B)No.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (193).png",
+        "problem": "Is this CT scan image devoid of any abnormalities or diseases? A)Yes, B)No.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (709).png",
+        "problem": "Is this CT scan image normal or free from any abnormalities or diseases? A)No., B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (326).png",
+        "problem": "Is there no evidence of any abnormalities or diseases in this CT scan image? A)No., B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (545).png",
+        "problem": "Does this CT scan image reveal any abnormalities or diseases? A)Yes, B)No.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (103).png",
+        "problem": "Does this CT scan image indicate any abnormalities or diseases? A)No., B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (665).png",
+        "problem": "Does this CT scan image indicate any abnormalities or diseases? A)No., B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/SARS-CoV-2 CT-scan/train/non-COVID/Non-Covid (796).png",
+        "problem": "Is there any evidence of abnormalities or diseases in the CT scan image? A)Yes, B)No.",
+        "solution": "<answer> B </answer>"
+    }
+]

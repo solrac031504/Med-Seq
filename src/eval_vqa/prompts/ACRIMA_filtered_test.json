@@ -1,0 +1,182 @@
+[
+    {
+        "image": "Images/ACRIMA/Im230_ACRIMA.png",
+        "problem": "What imaging technique was employed to acquire this image? A)Ultrasound, B)Electrocardiogram (ECG), C)Fundus imaging, D)PET scan",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ACRIMA/Im454_g_ACRIMA.png",
+        "problem": "What imaging technique was employed to capture this image? A)X-ray, B)CT scan, C)Fundus imaging, D)MRI",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ACRIMA/Im176_ACRIMA.png",
+        "problem": "What method was employed to obtain this picture? A)CT scan, B)Blood test, C)Fundus imaging, D)X-ray",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ACRIMA/Im603_g_ACRIMA.png",
+        "problem": "What modality was used to capture this image? A)Fundus imaging, B)Electroencephalogram (EEG), C)PET scan, D)Electrocardiogram (ECG)",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ACRIMA/Im248_ACRIMA.png",
+        "problem": "What modality was used to capture this image? A)Blood test, B)Fundus imaging, C)MRI, D)PET scan",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ACRIMA/Im477_g_ACRIMA.png",
+        "problem": "What imaging technique was employed to acquire this image? A)Fundus imaging, B)CT scan, C)Blood test, D)MRI",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ACRIMA/Im041_ACRIMA.png",
+        "problem": "Is there anything abnormal or evidence of glaucoma in the eyes in this image? A)Optic nerve damage noted, B)Conjunctivitis diagnosed, C)It's normal, glaucoma negative, D)Cataracts present",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ACRIMA/Im015_ACRIMA.png",
+        "problem": "What is the condition of the eyes in  this image? A)Myopia positive, B)Corneal ulcer identified, C)It's normal, glaucoma negative, D)Astigmatism detected",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ACRIMA/Im086_ACRIMA.png",
+        "problem": "What is the condition of the eyes in  this image? A)Retinal detachment confirmed, B)It's normal, glaucoma negative, C)Macular degeneration evident, D)Color blindness confirmed",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ACRIMA/Im080_ACRIMA.png",
+        "problem": "What is the condition of the eyes in  this image? A)Retinal detachment confirmed, B)Corneal ulcer identified, C)It's normal, glaucoma negative, D)Astigmatism detected",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ACRIMA/Im032_ACRIMA.png",
+        "problem": "What is the condition of the eyes in  this image? A)Astigmatism detected, B)Retinal detachment confirmed, C)It's normal, glaucoma negative, D)Cataracts present",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ACRIMA/Im212_ACRIMA.png",
+        "problem": "Is there any abnormality or presence of glaucoma in the eyes in this image? A)It's normal, glaucoma negative, B)Color blindness confirmed, C)Conjunctivitis diagnosed, D)Retinal detachment confirmed",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ACRIMA/Im269_ACRIMA.png",
+        "problem": "What is the condition of the eyes in  this image? A)Macular degeneration evident, B)It's normal, glaucoma negative, C)Age-related macular degeneration diagnosed, D)Cataracts present",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ACRIMA/Im241_ACRIMA.png",
+        "problem": "Is the condition of the eyes in this image normal or does it indicate glaucoma? A)Color blindness confirmed, B)Retinal detachment confirmed, C)Macular degeneration evident, D)It's normal, glaucoma negative",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ACRIMA/Im302_ACRIMA.png",
+        "problem": "What is the status of the eyes depicted in the image in terms of glaucoma? A)Myopia positive, B)It's normal, glaucoma negative, C)Corneal ulcer identified, D)Color blindness confirmed",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ACRIMA/Im203_ACRIMA.png",
+        "problem": "Is the condition of the eyes in this image normal or is it negative for glaucoma? A)Age-related macular degeneration diagnosed, B)Macular degeneration evident, C)It's normal, glaucoma negative, D)Corneal ulcer identified",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ACRIMA/Im011_ACRIMA.png",
+        "problem": "What is the condition of the eyes in  this image? A)It's normal, glaucoma negative, B)Conjunctivitis diagnosed, C)Myopia positive, D)Cataracts present",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ACRIMA/Im176_ACRIMA.png",
+        "problem": "What is the condition of the eyes in  this image? A)Macular degeneration evident, B)Conjunctivitis diagnosed, C)It's normal, glaucoma negative, D)Cataracts present",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ACRIMA/Im188_ACRIMA.png",
+        "problem": "Is there any abnormality in the eyes shown in this image? A)Corneal ulcer identified, B)It's normal, glaucoma negative, C)Age-related macular degeneration diagnosed, D)Cataracts present",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ACRIMA/Im256_ACRIMA.png",
+        "problem": "What is the condition of the eyes in  this image? A)Conjunctivitis diagnosed, B)Retinal detachment confirmed, C)Age-related macular degeneration diagnosed, D)It's normal, glaucoma negative",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ACRIMA/Im232_ACRIMA.png",
+        "problem": "Is the condition of the eyes in this image normal or is it negative for glaucoma? A)Age-related macular degeneration diagnosed, B)It's normal, glaucoma negative, C)Retinal detachment confirmed, D)Macular degeneration evident",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ACRIMA/Im614_g_ACRIMA.png",
+        "problem": "What is the condition of the eyes in  this image? A)Glaucoma positive., B)Macular degeneration negative., C)Retinal detachment negative., D)Astigmatism negative.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ACRIMA/Im598_g_ACRIMA.png",
+        "problem": "What is the condition of the eyes in  this image? A)Astigmatism negative., B)Glaucoma positive., C)Retinal detachment negative., D)Conjunctivitis positive.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ACRIMA/Im475_g_ACRIMA.png",
+        "problem": "What is the condition of the eyes in  this image? A)Retinal detachment negative., B)Glaucoma positive., C)Conjunctivitis positive., D)Macular degeneration negative.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ACRIMA/Im615_g_ACRIMA.png",
+        "problem": "Can you assess the eye health status depicted in this photograph, specifically regarding the presence of glaucoma? A)Cataracts negative., B)Retinal detachment negative., C)Glaucoma positive., D)Macular degeneration negative.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ACRIMA/Im644_g_ACRIMA.png",
+        "problem": "What is the condition of the eyes in  this image? A)Retinal detachment negative., B)Astigmatism negative., C)Macular degeneration negative., D)Glaucoma positive.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ACRIMA/Im391_g_ACRIMA.png",
+        "problem": "What is the condition of the eyes in  this image? A)Glaucoma positive., B)Conjunctivitis positive., C)Macular degeneration negative., D)Retinal detachment negative.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ACRIMA/Im352_g_ACRIMA.png",
+        "problem": "What is the condition of the eyes in  this image? A)Retinal detachment negative., B)Conjunctivitis positive., C)Glaucoma positive., D)Astigmatism negative.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ACRIMA/Im319_g_ACRIMA.png",
+        "problem": "What is the condition of the eyes in  this image? A)Cataracts negative., B)Glaucoma positive., C)Retinal detachment negative., D)Macular degeneration negative.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ACRIMA/Im608_g_ACRIMA.png",
+        "problem": "What is the condition of the eyes in  this image? A)Glaucoma positive., B)Astigmatism negative., C)Macular degeneration negative., D)Cataracts negative.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ACRIMA/Im680_g_ACRIMA.png",
+        "problem": "What does the ocular examination in the provided picture indicate regarding glaucoma presence? A)Conjunctivitis positive., B)Glaucoma positive., C)Cataracts negative., D)Astigmatism negative.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ACRIMA/Im480_g_ACRIMA.png",
+        "problem": "Is the individual in this image showing signs of glaucoma? A)Macular degeneration negative., B)Glaucoma positive., C)Cataracts negative., D)Retinal detachment negative.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ACRIMA/Im571_g_ACRIMA.png",
+        "problem": "What is the condition of the eyes in  this image? A)Cataracts negative., B)Astigmatism negative., C)Glaucoma positive., D)Conjunctivitis positive.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ACRIMA/Im313_g_ACRIMA.png",
+        "problem": "What is the condition of the eyes in  this image? A)Cataracts negative., B)Macular degeneration negative., C)Conjunctivitis positive., D)Glaucoma positive.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ACRIMA/Im648_g_ACRIMA.png",
+        "problem": "What is the condition of the eyes in  this image? A)Macular degeneration negative., B)Conjunctivitis positive., C)Retinal detachment negative., D)Glaucoma positive.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ACRIMA/Im472_g_ACRIMA.png",
+        "problem": "Is there any evidence of glaucoma in the eyes in this image? A)Macular degeneration negative., B)Conjunctivitis positive., C)Glaucoma positive., D)Cataracts negative.",
+        "solution": "<answer> C </answer>"
+    }
+]

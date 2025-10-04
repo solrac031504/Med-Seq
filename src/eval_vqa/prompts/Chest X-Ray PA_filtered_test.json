@@ -1,0 +1,822 @@
+[
+    {
+        "image": "Images/Chest X-Ray PA/normal/00000401_000.png",
+        "problem": "What imaging technique was utilized for capturing this image? A)MRI, B)X-ray, C)PET scan, D)Blood test",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/normal/00000520_000.png",
+        "problem": "What modality is used to take this image? A)Blood test, B)X-ray, C)MRI, D)PET scan",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person1342_virus_2315.jpeg",
+        "problem": "What imaging technique is utilized to capture this picture? A)X-ray, B)CT scan, C)PET scan, D)MRI",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person1219_virus_2067.jpeg",
+        "problem": "What method is utilized for capturing this image? A)X-ray, B)MRI, C)Ultrasound, D)EKG",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person471_bacteria_2006.jpeg",
+        "problem": "What imaging technique was utilized to acquire this image? A)Blood test, B)MRI, C)X-ray, D)Ultrasound",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person272_virus_559.jpeg",
+        "problem": "What imaging method was employed to capture this picture? A)Ultrasound, B)X-ray, C)MRI, D)PET scan",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID-19 (363).jpg",
+        "problem": "What imaging method was used to capture this picture? A)CT scan, B)PET scan, C)Ultrasound, D)X-ray",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID19(36).jpg",
+        "problem": "What type of imaging modality is employed to capture this picture? A)PET scan, B)X-ray, C)MRI, D)Ultrasound",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID-19 (834).jpg",
+        "problem": "What imaging technique was used to obtain this picture? A)X-ray, B)Ultrasound, C)MRI, D)EKG",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/normal/00000662_003.png",
+        "problem": "What content appears in this image? A)Lung, B)Kidney, C)Stomach, D)Bone",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/normal/00000359_003.png",
+        "problem": "What content appears in this image? A)Heart, B)Bladder, C)Lung, D)Stomach",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/normal/00000109_006.png",
+        "problem": "What content appears in this image? A)Bladder, B)Skin, C)Lung, D)Heart",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/normal/00000901_000.png",
+        "problem": "What content appears in this image? A)Muscle, B)Brain, C)Lung, D)Liver",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/normal/00000670_000.png",
+        "problem": "What content appears in this image? A)Lung, B)Skin, C)Liver, D)Heart",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/normal/00000764_002.png",
+        "problem": "What content appears in this image? A)Bone, B)Lung, C)Liver, D)Kidney",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/normal/00000288_001.png",
+        "problem": "What content appears in this image? A)Lung, B)Kidney, C)Muscle, D)Brain",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/normal/00000760_000.png",
+        "problem": "What content appears in this image? A)Skin, B)Intestine, C)Liver, D)Lung",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/normal/00000370_001.png",
+        "problem": "What content appears in this image? A)Bladder, B)Lung, C)Brain, D)Bone",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/normal/00000632_002.png",
+        "problem": "What content appears in this image? A)Lung, B)Kidney, C)Skin, D)Brain",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/normal/00000420_001.png",
+        "problem": "What content appears in this image? A)Brain, B)Stomach, C)Liver, D)Lung",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/normal/00000456_001.png",
+        "problem": "What is depicted in this visual representation? A)Lung, B)Skin, C)Bone, D)Intestine",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/normal/00000038_002.png",
+        "problem": "What content appears in this image? A)Bladder, B)Muscle, C)Lung, D)Intestine",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/normal/00000194_005.png",
+        "problem": "What content appears in this image? A)Skin, B)Lung, C)Bone, D)Bladder",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/normal/00000963_022.png",
+        "problem": "What content appears in this image? A)Lung, B)Stomach, C)Intestine, D)Brain",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/normal/00000765_002.png",
+        "problem": "What content appears in this image? A)Bone, B)Lung, C)Kidney, D)Stomach",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/normal/00000630_000.png",
+        "problem": "What is depicted in the image? A)Lung, B)Bone, C)Liver, D)Brain",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/normal/00000785_002.png",
+        "problem": "What content appears in this image? A)Lung, B)Heart, C)Skin, D)Liver",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person671_bacteria_2564.jpeg",
+        "problem": "What is visible in the depicted image? A)Skin, B)Stomach, C)Lung, D)Intestine",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person813_bacteria_2724.jpeg",
+        "problem": "What content appears in this image? A)Lung, B)Bone, C)Skin, D)Muscle",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/00006985_002.png",
+        "problem": "What content appears in this image? A)Liver, B)Lung, C)Stomach, D)Muscle",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person1926_bacteria_4835.jpeg",
+        "problem": "What content appears in this image? A)Intestine, B)Lung, C)Stomach, D)Muscle",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person1391_bacteria_3536.jpeg",
+        "problem": "What content appears in this image? A)Heart, B)Lung, C)Bladder, D)Muscle",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person1481_virus_2567.jpeg",
+        "problem": "What is the content depicted in the image? A)Lung, B)Bone, C)Kidney, D)Bladder",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person525_virus_1046.jpeg",
+        "problem": "What content appears in this image? A)Stomach, B)Skin, C)Bladder, D)Lung",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person636_bacteria_2527.jpeg",
+        "problem": "What content appears in this image? A)Intestine, B)Bladder, C)Lung, D)Skin",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person1138_bacteria_3080.jpeg",
+        "problem": "What content appears in this image? A)Stomach, B)Heart, C)Lung, D)Bone",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person25_bacteria_116.jpeg",
+        "problem": "What is the content depicted in the image? A)Lung, B)Stomach, C)Liver, D)Skin",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person471_bacteria_2006.jpeg",
+        "problem": "What is the subject matter displayed in this picture? A)Muscle, B)Brain, C)Lung, D)Liver",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person690_bacteria_2587.jpeg",
+        "problem": "What content appears in this image? A)Intestine, B)Stomach, C)Liver, D)Lung",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/00013779_000.png",
+        "problem": "What is depicted in this photograph? A)Lung, B)Liver, C)Intestine, D)Heart",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/00025776_000.png",
+        "problem": "What is the subject matter in this picture? A)Bone, B)Kidney, C)Stomach, D)Lung",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID19(114).jpg",
+        "problem": "What is shown in this image? A)Heart, B)Lung, C)Bladder, D)Intestine",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID-19 (261).jpg",
+        "problem": "What is being shown in this picture? A)Liver, B)Kidney, C)Stomach, D)Lung",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID19(210).jpg",
+        "problem": "What is depicted in the image? A)Muscle, B)Lung, C)Liver, D)Kidney",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID19(255).jpg",
+        "problem": "What is the subject matter displayed in this picture? A)Intestine, B)Brain, C)Lung, D)Skin",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID-19 (563).jpg",
+        "problem": "What content appears in this image? A)Muscle, B)Stomach, C)Lung, D)Bladder",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID-19 (608).jpg",
+        "problem": "What is the content depicted in this picture? A)Intestine, B)Liver, C)Bone, D)Lung",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID-19 (262).jpg",
+        "problem": "What content appears in this image? A)Lung, B)Liver, C)Heart, D)Skin",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID19(197).jpg",
+        "problem": "What is depicted in this image? A)Heart, B)Muscle, C)Lung, D)Liver",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID19(31).jpg",
+        "problem": "What does this picture depict? A)Lung, B)Kidney, C)Bladder, D)Bone",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID-19 (706).jpg",
+        "problem": "What is the visible content in the image? A)Liver, B)Lung, C)Bone, D)Stomach",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID19(465).jpg",
+        "problem": "What content appears in this image? A)Lung, B)Liver, C)Muscle, D)Heart",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID19(358).jpg",
+        "problem": "What content appears in this image? A)Skin, B)Heart, C)Kidney, D)Lung",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID-19 (132).jpg",
+        "problem": "What content appears in this image? A)Intestine, B)Heart, C)Lung, D)Kidney",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID-19 (447).jpg",
+        "problem": "What content appears in this image? A)Skin, B)Bone, C)Liver, D)Lung",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID-19 (484).jpg",
+        "problem": "What specific condition does this image of a lung indicate? A)Chronic obstructive pulmonary disease (COPD), B)Asthma, C)Lung cancer, D)COVID-19",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID19(268).jpg",
+        "problem": "What specific condition can be identified in this lung image? A)COVID-19, B)Acute respiratory distress syndrome (ARDS), C)Chronic obstructive pulmonary disease (COPD), D)Emphysema",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID-19 (795).jpg",
+        "problem": "What specific condition does this image of a lung depict? A)Tuberculosis, B)COVID-19, C)Lung cancer, D)Asthma",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID19(395).jpg",
+        "problem": "What specific medical condition is depicted in this image of a lung? A)Pulmonary embolism, B)COVID-19, C)Pneumonia, D)Asthma",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID19(331).jpg",
+        "problem": "What specific condition does this lung image suggest? A)Pulmonary embolism, B)Lung cancer, C)COVID-19, D)Pneumonia",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID19(148).jpg",
+        "problem": "What specific respiratory condition does this lung picture indicate? A)COVID-19, B)Tuberculosis, C)Pulmonary embolism, D)Pneumonia",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID-19 (32).jpg",
+        "problem": "What specific condition is indicated by this lung image? A)Pneumonia, B)Bronchitis, C)Pulmonary embolism, D)COVID-19",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID-19 (746).jpg",
+        "problem": "What is the specific condition depicted in this lung image? A)COVID-19, B)Tuberculosis, C)Pulmonary fibrosis, D)Acute respiratory distress syndrome (ARDS)",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID19(265).jpg",
+        "problem": "What specific condition is seen in this picture of a lung? A)Bronchitis, B)Lung cancer, C)COVID-19, D)Emphysema",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID-19 (93).jpg",
+        "problem": "What medical condition does this lung picture indicate? A)Chronic obstructive pulmonary disease (COPD), B)Pneumonia, C)Tuberculosis, D)COVID-19",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID-19 (855).jpg",
+        "problem": "What specific condition is apparent in this image of a lung? A)Pulmonary fibrosis, B)COVID-19, C)Chronic obstructive pulmonary disease (COPD), D)Bronchitis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID-19 (227).jpg",
+        "problem": "What specific condition can be observed in this picture of a lung? A)Chronic obstructive pulmonary disease (COPD), B)Bronchitis, C)Pulmonary embolism, D)COVID-19",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID19(139).jpg",
+        "problem": "What specific condition does this image of a lung show? A)Emphysema, B)COVID-19, C)Lung cancer, D)Acute respiratory distress syndrome (ARDS)",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID-19 (457).jpg",
+        "problem": "What medical condition does this lung picture indicate? A)Pulmonary fibrosis, B)Asthma, C)COVID-19, D)Pneumonia",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID-19 (873).jpg",
+        "problem": "What specific condition can be identified in this lung image? A)Pulmonary embolism, B)COVID-19, C)Asthma, D)Pulmonary fibrosis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID-19 (288).jpg",
+        "problem": "What specific condition is depicted in the image of this lung? A)COVID-19, B)Pulmonary embolism, C)Acute respiratory distress syndrome (ARDS), D)Chronic obstructive pulmonary disease (COPD)",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID19(493).jpg",
+        "problem": "What specific condition can be identified from this image of a lung? A)Bronchitis, B)Emphysema, C)COVID-19, D)Tuberculosis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID-19 (726).jpg",
+        "problem": "What specific condition is depicted in this lung picture? A)Chronic obstructive pulmonary disease (COPD), B)Pulmonary fibrosis, C)COVID-19, D)Asthma",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID-19 (362).jpg",
+        "problem": "What is the specific condition present in this image of a lung? A)Tuberculosis, B)Chronic obstructive pulmonary disease (COPD), C)COVID-19, D)Acute respiratory distress syndrome (ARDS)",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID19(543).jpg",
+        "problem": "What medical condition does this lung picture indicate? A)Pulmonary embolism, B)Tuberculosis, C)COVID-19, D)Bronchitis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID-19 (13).jpg",
+        "problem": "What specific condition is depicted in this image of a lung? A)Pneumonia, B)Chronic obstructive pulmonary disease (COPD), C)COVID-19, D)Pulmonary fibrosis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID-19 (794).jpg",
+        "problem": "What specific condition does this picture of a lung illustrate? A)COVID-19, B)Pulmonary embolism, C)Tuberculosis, D)Bronchitis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/23E99E2E-447C-46E5-8EB2-D35D12473C39-1068x801.png",
+        "problem": "What specific medical condition is depicted in this image of a lung? A)COVID-19, B)Tuberculosis, C)Pulmonary embolism, D)Bronchitis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID19(425).jpg",
+        "problem": "What specific condition does this lung image depict? A)Pneumonia, B)COVID-19, C)Asthma, D)Emphysema",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID19(273).jpg",
+        "problem": "What specific condition does the lung in the picture indicate? A)Chronic obstructive pulmonary disease (COPD), B)Pneumonia, C)Bronchitis, D)COVID-19",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID19(112).jpg",
+        "problem": "Can you identify the specific condition depicted in this lung image? A)Chronic obstructive pulmonary disease (COPD), B)Emphysema, C)COVID-19, D)Lung cancer",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID19(145).jpg",
+        "problem": "Which specific condition is depicted in this image of a lung? A)Pneumonia, B)Pulmonary fibrosis, C)Chronic obstructive pulmonary disease (COPD), D)COVID-19",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID-19 (461).jpg",
+        "problem": "What specific condition is depicted in this image of a lung? A)Emphysema, B)Acute respiratory distress syndrome (ARDS), C)COVID-19, D)Asthma",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID-19 (836).jpg",
+        "problem": "What respiratory ailment is depicted in this image of a lung? A)Acute respiratory distress syndrome (ARDS), B)Bronchitis, C)Emphysema, D)COVID-19",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID-19 (379).jpg",
+        "problem": "What specific condition is shown in this picture of a lung? A)COVID-19, B)Emphysema, C)Pulmonary embolism, D)Bronchitis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID-19 (418).jpg",
+        "problem": "What specific condition is shown in this lung image? A)COVID-19, B)Chronic obstructive pulmonary disease (COPD), C)Asthma, D)Tuberculosis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID-19 (714).jpg",
+        "problem": "What specific condition is depicted in the image of this lung? A)Pulmonary fibrosis, B)COVID-19, C)Lung cancer, D)Bronchitis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID19(172).jpg",
+        "problem": "What specific condition is depicted in this image of the lung? A)Bronchitis, B)Pneumonia, C)COVID-19, D)Acute respiratory distress syndrome (ARDS)",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID-19 (208).jpg",
+        "problem": "This is a picture of a lung. Can you tell me the specific condition present? A)Pulmonary embolism, B)COVID-19, C)Asthma, D)Chronic obstructive pulmonary disease (COPD)",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/covid/COVID-19 (822).jpg",
+        "problem": "What is the specific condition shown in this lung picture? A)Pulmonary embolism, B)COVID-19, C)Asthma, D)Pulmonary fibrosis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/normal/00000289_001.png",
+        "problem": "Is this image showing any signs of abnormality? A)Yes., B)No, It's normal",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/normal/00000621_012.png",
+        "problem": "Is there any anomaly or deviation from the norm in this image? A)No, It's normal, B)Yes.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/normal/00000204_003.png",
+        "problem": "Does this image show any abnormalities? A)No, It's normal, B)Yes.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/normal/00000152_000.png",
+        "problem": "Does the image show any abnormalities? A)No, It's normal, B)Yes.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/normal/00000201_000.png",
+        "problem": "Is there any indication of a deviation in this image? A)Yes., B)No, It's normal",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/normal/00000376_004.png",
+        "problem": "Is there any indication of abnormality in this image? A)Yes., B)No, It's normal",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/normal/00001048_001.png",
+        "problem": "Is there any anomaly seen in this image? A)Yes., B)No, It's normal",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/normal/00000246_000.png",
+        "problem": "Does this image show any sign of abnormality? A)Yes., B)No, It's normal",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/normal/00000172_005.png",
+        "problem": "Is the image showing any sign of abnormality? A)No, It's normal, B)Yes.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/normal/00000772_001.png",
+        "problem": "Is there any presence of abnormality detected in this image? A)No, It's normal, B)Yes.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/normal/00001045_000.png",
+        "problem": "Does this image show any sign of abnormality? A)Yes., B)No, It's normal",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/normal/00000229_000.png",
+        "problem": "Does this image contain any abnormalities? A)Yes., B)No, It's normal",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/normal/00000784_000.png",
+        "problem": "Does this image show any abnormalities? A)Yes., B)No, It's normal",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/normal/00000964_000.png",
+        "problem": "Does this image contain any abnormalities? A)No, It's normal, B)Yes.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/normal/00000177_001.png",
+        "problem": "Is the image showing any sign of abnormality? A)No, It's normal, B)Yes.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/normal/00000898_001.png",
+        "problem": "Does this image show any abnormalities? A)Yes., B)No, It's normal",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/normal/00000105_003.png",
+        "problem": "Is there any abnormality present in this image? A)No, It's normal, B)Yes.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/normal/00000005_004.png",
+        "problem": "Is there any anomaly detectable in this image? A)Yes., B)No, It's normal",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/normal/00000420_001.png",
+        "problem": "Is there any presence of abnormality detected in this image? A)No, It's normal, B)Yes.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/normal/00000824_001.png",
+        "problem": "Does this image show any indication of abnormality? A)No, It's normal, B)Yes.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/normal/00000543_000.png",
+        "problem": "Is everything in this image within the normal range? A)No, It's normal, B)Yes.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/normal/00000623_003.png",
+        "problem": "Is there any anomaly observed in this picture? A)No, It's normal, B)Yes.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/normal/00000996_000.png",
+        "problem": "Is there any indication of a medical abnormality in this image? A)No, It's normal, B)Yes.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/normal/00000317_002.png",
+        "problem": "Is everything in this image within normal limits? A)No, It's normal, B)Yes.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/normal/00000765_002.png",
+        "problem": "Does this image reveal any abnormalities? A)No, It's normal, B)Yes.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/normal/00000862_000.png",
+        "problem": "Is there any anomaly detected in this image? A)Yes., B)No, It's normal",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/normal/00000391_001.png",
+        "problem": "Is this image showing any signs of abnormality? A)No, It's normal, B)Yes.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/normal/00001023_000.png",
+        "problem": "Is the image showing any deviation from the normal? A)No, It's normal, B)Yes.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person1504_bacteria_3931.jpeg",
+        "problem": "What specific condition is represented in this image of a lung? A)Pneumonia, B)Asthma, C)Emphysema, D)Chronic obstructive pulmonary disease (COPD)",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person478_bacteria_2032.jpeg",
+        "problem": "What is the specific condition indicated in this picture of a lung? A)Chronic obstructive pulmonary disease (COPD), B)Pneumonia, C)Pulmonary embolism, D)Asthma",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person612_bacteria_2477.jpeg",
+        "problem": "What is the specific condition shown in this lung image? A)Asthma, B)Pulmonary embolism, C)Pneumonia, D)Bronchiolitis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person445_virus_912.jpeg",
+        "problem": "What is the specific condition indicated by this lung picture? A)Chronic obstructive pulmonary disease (COPD), B)Pulmonary embolism, C)Pneumonia, D)Sarcoidosis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person1429_virus_2443.jpeg",
+        "problem": "What specific condition is shown in this picture of the lung? A)Bronchiolitis, B)Pulmonary embolism, C)Pneumonia, D)Emphysema",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person969_bacteria_2894.jpeg",
+        "problem": "What specific condition is depicted in this image of a lung? A)Pneumonia, B)Chronic obstructive pulmonary disease (COPD), C)Bronchiolitis, D)Lung cancer",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/00027539_001.png",
+        "problem": "What is the specific condition seen in this image of a lung? A)Bronchiolitis, B)Bronchitis, C)Sarcoidosis, D)Pneumonia",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person57_bacteria_270.jpeg",
+        "problem": "What is the specific respiratory condition shown in this image of a lung? A)Pulmonary embolism, B)Pneumonia, C)Chronic obstructive pulmonary disease (COPD), D)Tuberculosis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person277_bacteria_1300.jpeg",
+        "problem": "What is the specific medical condition shown in this lung image? A)Chronic obstructive pulmonary disease (COPD), B)Pulmonary embolism, C)Pneumonia, D)Lung cancer",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person745_virus_1368.jpeg",
+        "problem": "What specific condition is represented in this image of a lung? A)Emphysema, B)Pulmonary embolism, C)Pneumonia, D)Pleurisy",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person1238_bacteria_3194.jpeg",
+        "problem": "What is the specific medical condition shown in this image of a lung? A)Asthma, B)Pulmonary embolism, C)Pneumonia, D)Tuberculosis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person527_bacteria_2225.jpeg",
+        "problem": "Which specific condition is present in this picture of a lung? A)Pneumonia, B)Sarcoidosis, C)Chronic obstructive pulmonary disease (COPD), D)Tuberculosis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person800_bacteria_2706.jpeg",
+        "problem": "What is the specific condition present in this picture of a lung? A)Asthma, B)Lung cancer, C)Pneumonia, D)Chronic obstructive pulmonary disease (COPD)",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person1363_bacteria_3484.jpeg",
+        "problem": "What condition is depicted in this image of a lung? A)Tuberculosis, B)Pulmonary embolism, C)Pneumonia, D)Asthma",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person525_virus_1046.jpeg",
+        "problem": "What specific condition do you observe in this image of a lung? A)Pneumonia, B)Chronic obstructive pulmonary disease (COPD), C)Pulmonary embolism, D)Pleurisy",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/00002572_006.png",
+        "problem": "What medical condition is depicted in this image of a lung? A)Asthma, B)Pneumonia, C)Pulmonary embolism, D)Emphysema",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person337_bacteria_1566.jpeg",
+        "problem": "What is the specific condition that can be observed in this lung image? A)Pneumonia, B)Pulmonary embolism, C)Lung cancer, D)Asthma",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person445_virus_915.jpeg",
+        "problem": "What is the specific condition that can be identified in this image of a lung? A)Pneumonia, B)Pleurisy, C)Emphysema, D)Bronchiolitis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person1320_bacteria_3340.jpeg",
+        "problem": "What specific condition is depicted in this photo of a lung? A)Pneumonia, B)Bronchiolitis, C)Sarcoidosis, D)Chronic obstructive pulmonary disease (COPD)",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person402_bacteria_1809.jpeg",
+        "problem": "What specific condition is shown in this picture of the lung? A)Pneumonia, B)Tuberculosis, C)Chronic obstructive pulmonary disease (COPD), D)Asthma",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person1649_bacteria_4378.jpeg",
+        "problem": "What is the specific condition seen in this image of a lung? A)Pneumonia, B)Chronic obstructive pulmonary disease (COPD), C)Tuberculosis, D)Bronchitis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person1044_bacteria_2978.jpeg",
+        "problem": "What specific condition does this picture of a lung indicate? A)Lung cancer, B)Asthma, C)Pneumonia, D)Tuberculosis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person1597_bacteria_4189.jpeg",
+        "problem": "What is the specific condition that is depicted in this image of a lung? A)Bronchitis, B)Pneumonia, C)Pleurisy, D)Lung cancer",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/00007699_003.png",
+        "problem": "What specific condition can be identified from this image of a lung? A)Pleurisy, B)Sarcoidosis, C)Pulmonary embolism, D)Pneumonia",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person463_virus_952.jpeg",
+        "problem": "What is the specific condition identified in this picture of a lung? A)Chronic obstructive pulmonary disease (COPD), B)Asthma, C)Pneumonia, D)Bronchitis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person1908_bacteria_4811.jpeg",
+        "problem": "What is the specific condition indicated by this image of a lung? A)Pneumonia, B)Pleurisy, C)Tuberculosis, D)Asthma",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person1067_bacteria_3001.jpeg",
+        "problem": "What is the specific medical condition shown in this lung image? A)Sarcoidosis, B)Lung cancer, C)Pleurisy, D)Pneumonia",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person388_virus_775.jpeg",
+        "problem": "What condition is depicted in this image of a lung? A)Pneumonia, B)Lung cancer, C)Emphysema, D)Sarcoidosis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person1399_virus_2402.jpeg",
+        "problem": "What condition is depicted in this lung image? A)Bronchiolitis, B)Pneumonia, C)Lung cancer, D)Chronic obstructive pulmonary disease (COPD)",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person1219_virus_2067.jpeg",
+        "problem": "What is the specific condition depicted in this picture of a lung? A)Lung cancer, B)Tuberculosis, C)Pneumonia, D)Pleurisy",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person1077_virus_1787.jpeg",
+        "problem": "What is the specific condition depicted in this image of a lung? A)Sarcoidosis, B)Pulmonary embolism, C)Pneumonia, D)Emphysema",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person1449_bacteria_3746.jpeg",
+        "problem": "What specific condition is seen in this lung image? A)Bronchiolitis, B)Lung cancer, C)Pneumonia, D)Sarcoidosis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person1205_bacteria_3157.jpeg",
+        "problem": "What is the specific condition that can be observed in this picture of a lung? A)Asthma, B)Pneumonia, C)Pulmonary embolism, D)Emphysema",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/00025624_000.png",
+        "problem": "What specific condition is depicted in this photo of a lung? A)Pleurisy, B)Pneumonia, C)Emphysema, D)Lung cancer",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person134_virus_268.jpeg",
+        "problem": "What is the specific condition displayed in this image of a lung? A)Pleurisy, B)Sarcoidosis, C)Bronchiolitis, D)Pneumonia",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person583_bacteria_2406.jpeg",
+        "problem": "What is the specific condition indicated in this picture of a lung? A)Bronchiolitis, B)Pneumonia, C)Bronchitis, D)Asthma",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/00011973_015.png",
+        "problem": "What is the specific respiratory condition depicted in this image? A)Asthma, B)Bronchiolitis, C)Pneumonia, D)Pleurisy",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person292_virus_600.jpeg",
+        "problem": "What is the specific condition represented in this image of a lung? A)Sarcoidosis, B)Bronchitis, C)Chronic obstructive pulmonary disease (COPD), D)Pneumonia",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/00015977_002.png",
+        "problem": "What is the specific condition present in this image of a lung? A)Bronchitis, B)Pneumonia, C)Tuberculosis, D)Pleurisy",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person1428_virus_2442.jpeg",
+        "problem": "What specific condition can be identified in this image of a lung? A)Tuberculosis, B)Pulmonary embolism, C)Pneumonia, D)Chronic obstructive pulmonary disease (COPD)",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person536_bacteria_2260.jpeg",
+        "problem": "What is the specific condition portrayed in this lung image? A)Pneumonia, B)Chronic obstructive pulmonary disease (COPD), C)Emphysema, D)Pleurisy",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person1168_bacteria_3114.jpeg",
+        "problem": "What specific respiratory condition is depicted in this image of a lung? A)Pulmonary embolism, B)Lung cancer, C)Sarcoidosis, D)Pneumonia",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person739_bacteria_2642.jpeg",
+        "problem": "What is the specific condition depicted in this lung image? A)Tuberculosis, B)Pulmonary embolism, C)Chronic obstructive pulmonary disease (COPD), D)Pneumonia",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person475_bacteria_2025.jpeg",
+        "problem": "What is the specific condition seen in this image of a lung? A)Pneumonia, B)Tuberculosis, C)Lung cancer, D)Bronchiolitis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person299_bacteria_1419.jpeg",
+        "problem": "What specific condition is shown in this picture of the lung? A)Asthma, B)Pleurisy, C)Sarcoidosis, D)Pneumonia",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest X-Ray PA/pneumonia/person33_bacteria_175.jpeg",
+        "problem": "What specific condition does this lung picture indicate? A)Pleurisy, B)Pneumonia, C)Bronchiolitis, D)Chronic obstructive pulmonary disease (COPD)",
+        "solution": "<answer> B </answer>"
+    }
+]

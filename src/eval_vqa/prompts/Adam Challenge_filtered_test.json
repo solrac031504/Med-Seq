@@ -1,0 +1,77 @@
+[
+    {
+        "image": "Images/Adam Challenge/AMD/A0017.jpg",
+        "problem": "What imaging technique is employed to acquire this fundus image? A)X-ray imaging, B)Fundus photography, C)Ultrasound imaging, D)Magnetic resonance imaging (MRI)",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Adam Challenge/Non-AMD/N0019.jpg",
+        "problem": "What technique is employed to capture this image of the fundus? A)Fundus photography, B)Ultrasound imaging, C)Magnetic resonance imaging (MRI), D)Blood pressure monitoring",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Adam Challenge/AMD/A0010.jpg",
+        "problem": "What is the specific type of abnormality shown in this image? A)Uveitis, B)Age-related Macular degeneration (AMD)., C)Retinitis pigmentosa, D)Color blindness",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Adam Challenge/AMD/A0042.jpg",
+        "problem": "What is the specific type of abnormality shown in this image? A)Glaucoma, B)Age-related Macular degeneration (AMD)., C)Diabetic retinopathy, D)Cataracts",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Adam Challenge/AMD/A0039.jpg",
+        "problem": "What is the name of the condition depicted in this image? A)Optic neuritis, B)Color blindness, C)Age-related Macular degeneration (AMD)., D)Cataracts",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Adam Challenge/Non-AMD/N0042.jpg",
+        "problem": "What is the specific type of abnormality shown in this image? A)The abnormality shown in this image is a fracture., B)The abnormality shown in this image is a congenital anomaly., C)There are no specific abnormalities observed in this image., D)The abnormality shown in this image is a cyst.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Adam Challenge/Non-AMD/N0203.jpg",
+        "problem": "What is the specific type of abnormality shown in this image? A)There are no specific abnormalities observed in this image., B)The abnormality shown in this image is a hernia., C)The abnormality shown in this image is a tumor., D)The abnormality shown in this image is a fracture.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Adam Challenge/Non-AMD/N0163.jpg",
+        "problem": "What does the image in question reveal about any specific abnormalities? A)There are no specific abnormalities observed in this image., B)The abnormality shown in this image is a blockage in the blood vessels., C)The abnormality shown in this image is an infection., D)The abnormality shown in this image is a hernia.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Adam Challenge/Non-AMD/N0289.jpg",
+        "problem": "What is the specific type of abnormality shown in this image? A)The abnormality shown in this image is an enlarged organ., B)There are no specific abnormalities observed in this image., C)The abnormality shown in this image is a congenital anomaly., D)The abnormality shown in this image is an infection.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Adam Challenge/Non-AMD/N0229.jpg",
+        "problem": "What is the specific type of abnormality shown in this image? A)The abnormality shown in this image is an inflammation., B)There are no specific abnormalities observed in this image., C)The abnormality shown in this image is a blockage in the blood vessels., D)The abnormality shown in this image is a fracture.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Adam Challenge/Non-AMD/N0003.jpg",
+        "problem": "What is the specific type of abnormality shown in this image? A)The abnormality shown in this image is an infection., B)The abnormality shown in this image is a cyst., C)There are no specific abnormalities observed in this image., D)The abnormality shown in this image is a congenital anomaly.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Adam Challenge/Non-AMD/N0264.jpg",
+        "problem": "What is the specific type of abnormality shown in this image? A)The abnormality shown in this image is an inflammation., B)There are no specific abnormalities observed in this image., C)The abnormality shown in this image is a congenital anomaly., D)The abnormality shown in this image is a hernia.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Adam Challenge/Non-AMD/N0257.jpg",
+        "problem": "What is the specific type of abnormality shown in this image? A)The abnormality shown in this image is an enlarged organ., B)The abnormality shown in this image is a cyst., C)There are no specific abnormalities observed in this image., D)The abnormality shown in this image is an inflammation.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Adam Challenge/Non-AMD/N0033.jpg",
+        "problem": "What is the specific type of abnormality shown in this image? A)The abnormality shown in this image is a congenital anomaly., B)There are no specific abnormalities observed in this image., C)The abnormality shown in this image is a hernia., D)The abnormality shown in this image is a blockage in the blood vessels.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Adam Challenge/Non-AMD/N0048.jpg",
+        "problem": "What is the specific type of abnormality shown in this image? A)The abnormality shown in this image is a blockage in the blood vessels., B)The abnormality shown in this image is a hernia., C)The abnormality shown in this image is an enlarged organ., D)There are no specific abnormalities observed in this image.",
+        "solution": "<answer> D </answer>"
+    }
+]

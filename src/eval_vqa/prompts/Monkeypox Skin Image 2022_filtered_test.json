@@ -1,0 +1,182 @@
+[
+    {
+        "image": "Images/Monkeypox Skin Image 2022/healthy/he_0010.jpg",
+        "problem": "What is the imaging modality employed to acquire this image? A)Dermoscopy., B)Mammogram, C)Computed tomography (CT) scan, D)X-ray",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Monkeypox Skin Image 2022/chickenpox/ch_0169.jpg",
+        "problem": "Which modality was employed to capture this image? A)Endoscopy, B)Electrocardiogram (ECG), C)Dermoscopy., D)Mammogram",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Monkeypox Skin Image 2022/monkeypox/mo_0010.jpg",
+        "problem": "What diagnostic technique was employed to obtain this visual representation? A)Mammogram, B)Ultrasound, C)Dermoscopy., D)Endoscopy",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Monkeypox Skin Image 2022/chickenpox/ch_0016.jpg",
+        "problem": "What is the specific condition displayed in this image? A)Chickenpox, B)Dengue fever, C)Measles, D)Smallpox",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Monkeypox Skin Image 2022/chickenpox/ch_0143.jpg",
+        "problem": "What is the specific condition depicted in this image? A)Chickenpox, B)Rubella, C)Hand, foot, and mouth disease, D)German measles",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Monkeypox Skin Image 2022/chickenpox/ch_0031.jpg",
+        "problem": "What specific abnormality is present in this image? A)German measles, B)Chickenpox, C)Fifth disease, D)Mumps",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Monkeypox Skin Image 2022/chickenpox/ch_0029.jpg",
+        "problem": "What specific abnormality is present in this image? A)Hand, foot, and mouth disease, B)Smallpox, C)Scarlet fever, D)Chickenpox",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Monkeypox Skin Image 2022/chickenpox/ch_0083.jpg",
+        "problem": "What specific abnormality is present in this image? A)German measles, B)Chickenpox, C)Dengue fever, D)Mumps",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Monkeypox Skin Image 2022/chickenpox/ch_0144.jpg",
+        "problem": "What specific abnormality is present in this image? A)Chickenpox, B)German measles, C)Smallpox, D)Dengue fever",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Monkeypox Skin Image 2022/chickenpox/ch_0159.jpg",
+        "problem": "What is the specific condition being depicted in this image? A)Hand, foot, and mouth disease, B)Smallpox, C)Rubella, D)Chickenpox",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Monkeypox Skin Image 2022/chickenpox/ch_0117.jpg",
+        "problem": "What is the particular condition depicted in this image? A)Influenza, B)German measles, C)Dengue fever, D)Chickenpox",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Monkeypox Skin Image 2022/chickenpox/ch_0113.jpg",
+        "problem": "What is the identified condition in this image? A)Measles, B)German measles, C)Chickenpox, D)Influenza",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Monkeypox Skin Image 2022/chickenpox/ch_0044.jpg",
+        "problem": "What is the specific condition indicated by the anomaly shown in this image? A)Dengue fever, B)Fifth disease, C)Chickenpox, D)Smallpox",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Monkeypox Skin Image 2022/healthy/he_0019.jpg",
+        "problem": "Is there any abnormality present in this image? A)Yes, B)No",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Monkeypox Skin Image 2022/healthy/he_0036.jpg",
+        "problem": "Is there any anomaly present in this image? A)Yes, B)No",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Monkeypox Skin Image 2022/measles/me_0035.jpg",
+        "problem": "What is the specific condition displayed in this image? A)Rubella, B)Hepatitis, C)Mumps, D)Measles",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Monkeypox Skin Image 2022/monkeypox/mo_0064.jpg",
+        "problem": "What disease is depicted in this image, and can you describe the key features of this specific condition? A)Influenza, B)Chickenpox, C)Monkeypox, D)Tuberculosis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Monkeypox Skin Image 2022/monkeypox/mo_0096.jpg",
+        "problem": "What disease is depicted in this image, and can you provide a summary of its key features? A)Pertussis, B)Monkeypox, C)Chickenpox, D)Lyme disease",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Monkeypox Skin Image 2022/monkeypox/mo_0040.jpg",
+        "problem": "What disease is represented by the specific abnormality in this image, and can you describe the key features of this disorder? A)Rubella, B)Pertussis, C)Monkeypox, D)Lyme disease",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Monkeypox Skin Image 2022/monkeypox/mo_0008.jpg",
+        "problem": "What disease is characterized by specific abnormalities seen in this image, and can you provide a summary of its main features? A)Mumps, B)Monkeypox, C)Tuberculosis, D)Influenza",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Monkeypox Skin Image 2022/monkeypox/mo_0012.jpg",
+        "problem": "What disease is depicted in this image, and can you provide a summary of the key features of this condition? A)Measles, B)Mumps, C)Chickenpox, D)Monkeypox",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Monkeypox Skin Image 2022/monkeypox/mo_0011.jpg",
+        "problem": "What disease is depicted in this image, and can you provide a brief description of its primary features? A)Monkeypox, B)Measles, C)Rubella, D)Mumps",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Monkeypox Skin Image 2022/smallpox/sm_0352.jpg",
+        "problem": "What disease is diagnosed by identifying the unique features in this photograph, and could you summarize the condition? A)Measles, B)Tuberculosis, C)Smallpox, D)Polio",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Monkeypox Skin Image 2022/smallpox/sm_0039.jpg",
+        "problem": "What disease is depicted in this image? Can you give a brief description of the particular anomaly shown? A)Smallpox, B)Tuberculosis, C)Chickenpox, D)Meningitis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Monkeypox Skin Image 2022/smallpox/sm_0331.jpg",
+        "problem": "What is the name of the disease depicted in this image? A)Smallpox, B)Chickenpox, C)Meningitis, D)Polio",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Monkeypox Skin Image 2022/smallpox/sm_0259.jpg",
+        "problem": "What is the disease shown in this image and can you give a brief summary of its characteristics? A)Tuberculosis, B)Smallpox, C)Meningitis, D)Polio",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Monkeypox Skin Image 2022/smallpox/sm_0034.jpg",
+        "problem": "What specific abnormality is present in this image? Can you provide a brief overview of this disease? A)Tuberculosis, B)Chickenpox, C)Polio, D)Smallpox",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Monkeypox Skin Image 2022/smallpox/sm_0236.jpg",
+        "problem": "What is the specific disease depicted in this image? Can you give a concise summary of this condition? A)Meningitis, B)Smallpox, C)Chickenpox, D)Tuberculosis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Monkeypox Skin Image 2022/smallpox/sm_0237.jpg",
+        "problem": "What is the disease depicted in this image, and can you provide a brief summary of its characteristics? A)Chickenpox, B)Meningitis, C)Measles, D)Smallpox",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Monkeypox Skin Image 2022/smallpox/sm_0299.jpg",
+        "problem": "What disease is depicted in this image? Can you provide a concise description of the characteristic abnormality associated with this disease? A)Chickenpox, B)Measles, C)Smallpox, D)Tuberculosis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Monkeypox Skin Image 2022/smallpox/sm_0335.jpg",
+        "problem": "Identify the disease depicted in this photograph. Could you also summarize the characteristics and implications of this condition? A)Meningitis, B)Smallpox, C)Chickenpox, D)Polio",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Monkeypox Skin Image 2022/smallpox/sm_0064.jpg",
+        "problem": "What is the disease depicted in this image? Could you give a brief summary of the anomaly? A)Chickenpox, B)Measles, C)Tuberculosis, D)Smallpox",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Monkeypox Skin Image 2022/smallpox/sm_0015.jpg",
+        "problem": "What specific abnormality is present in this image? Can you provide a brief overview of this disease? A)Measles, B)Tuberculosis, C)Smallpox, D)Chickenpox",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Monkeypox Skin Image 2022/smallpox/sm_0159.jpg",
+        "problem": "What specific abnormality is present in this image? Can you provide a brief overview of this disease? A)Polio, B)Meningitis, C)Smallpox, D)Chickenpox",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Monkeypox Skin Image 2022/smallpox/sm_0317.jpg",
+        "problem": "What specific abnormality is present in this image? Can you provide a brief overview of this disease? A)Smallpox, B)Meningitis, C)Chickenpox, D)Measles",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Monkeypox Skin Image 2022/smallpox/sm_0342.jpg",
+        "problem": "What specific abnormality is present in this image? Can you provide a brief overview of this disease? A)Meningitis, B)Measles, C)Polio, D)Smallpox",
+        "solution": "<answer> D </answer>"
+    }
+]

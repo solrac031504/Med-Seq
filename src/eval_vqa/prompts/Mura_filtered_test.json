@@ -1,0 +1,1482 @@
+[
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11190/study1_positive/image1.png",
+        "problem": "What imaging technique was used to obtain this picture? A)Biopsy, B)Electrocardiogram (ECG), C)X-ray, D)Colonoscopy",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11199/study1_positive/image1.png",
+        "problem": "What imaging modality was employed to produce this picture? A)CT scan, B)X-ray, C)Mammogram, D)Electrocardiogram (ECG)",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11213/study1_positive/image3.png",
+        "problem": "What type of imaging technology was utilized to obtain this picture? A)MRI, B)Ultrasound, C)CT scan, D)X-ray",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11227/study1_positive/image1.png",
+        "problem": "Which imaging technique was employed to obtain this picture? A)X-ray, B)Blood test, C)Ultrasound, D)Electrocardiogram (ECG)",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11230/study1_positive/image2.png",
+        "problem": "What imaging modality was employed for this image? A)X-ray, B)Endoscopy, C)Colonoscopy, D)Blood test",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11241/study1_positive/image2.png",
+        "problem": "What modality was used to capture this image? A)MRI, B)Endoscopy, C)Colonoscopy, D)X-ray",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11244/study1_positive/image3.png",
+        "problem": "What imaging technique was used to acquire this picture? A)Ultrasound, B)Colonoscopy, C)Electrocardiogram (ECG), D)X-ray",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11312/study1_negative/image3.png",
+        "problem": "What modality was used to capture this image? A)PET scan, B)Biopsy, C)X-ray, D)CT scan",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11315/study1_negative/image2.png",
+        "problem": "What kind of imaging technique was employed to obtain this picture? A)MRI, B)PET scan, C)X-ray, D)CT scan",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11335/study1_negative/image3.png",
+        "problem": "What imaging method was utilized to acquire this picture? A)CT scan, B)X-ray, C)Endoscopy, D)PET scan",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11375/study1_negative/image2.png",
+        "problem": "What imaging modality was employed for this image? A)CT scan, B)Biopsy, C)Mammogram, D)X-ray",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FOREARM/patient11424/study1_positive/image2.png",
+        "problem": "Which imaging technique was utilized to obtain this picture? A)Colonoscopy, B)X-ray, C)Blood test, D)CT scan",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FOREARM/patient11441/study1_positive/image1.png",
+        "problem": "What was the imaging technique employed to create this picture? A)Mammogram, B)Electrocardiogram (ECG), C)X-ray, D)MRI",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FOREARM/patient11459/study1_negative/image2.png",
+        "problem": "What type of imaging was used to obtain this picture? A)Electrocardiogram (ECG), B)MRI, C)CT scan, D)X-ray",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FOREARM/patient11464/study1_negative/image1.png",
+        "problem": "What kind of imaging technique was utilized to obtain this picture? A)Colonoscopy, B)X-ray, C)Blood test, D)Endoscopy",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HAND/patient11539/study1_positive/image3.png",
+        "problem": "What imaging modality was utilized for this image? A)Endoscopy, B)MRI, C)CT scan, D)X-ray",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HAND/patient11269/study1_positive/image2.png",
+        "problem": "What imaging technique was utilized to capture this picture? A)Blood test, B)PET scan, C)X-ray, D)Biopsy",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HAND/patient11545/study1_positive/image3.png",
+        "problem": "What imaging method was employed to acquire this picture? A)X-ray, B)CT scan, C)Ultrasound, D)Mammogram",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HAND/patient11553/study1_negative/image1.png",
+        "problem": "What method was utilized to obtain this visual representation? A)Biopsy, B)PET scan, C)Colonoscopy, D)X-ray",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HAND/patient11561/study1_negative/image2.png",
+        "problem": "What kind of imaging technique was utilized to obtain this picture? A)PET scan, B)CT scan, C)Electrocardiogram (ECG), D)X-ray",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HAND/patient11570/study1_negative/image1.png",
+        "problem": "What imaging technique was employed to acquire this image? A)Colonoscopy, B)Mammogram, C)Ultrasound, D)X-ray",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HAND/patient11218/study3_negative/image3.png",
+        "problem": "What imaging technique was employed to produce this picture? A)Endoscopy, B)CT scan, C)X-ray, D)Colonoscopy",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HAND/patient11240/study1_negative/image3.png",
+        "problem": "What was the imaging method employed to capture this picture? A)Electrocardiogram (ECG), B)Mammogram, C)X-ray, D)Ultrasound",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HUMERUS/patient11621/study1_positive/image1.png",
+        "problem": "What type of imaging technique was employed to capture this picture? A)PET scan, B)CT scan, C)X-ray, D)Biopsy",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HUMERUS/patient11657/study1_positive/image1.png",
+        "problem": "What modality was used to capture this image? A)Blood test, B)X-ray, C)CT scan, D)Colonoscopy",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HUMERUS/patient11584/study1_negative/image1.png",
+        "problem": "What modality was used to capture this image? A)MRI, B)Mammogram, C)Blood test, D)X-ray",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HUMERUS/patient11695/study1_negative/image1.png",
+        "problem": "What method was employed to acquire this image? A)Endoscopy, B)X-ray, C)CT scan, D)PET scan",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HUMERUS/patient11696/study1_negative/image1.png",
+        "problem": "What imaging technique was utilized to generate this picture? A)Blood test, B)Mammogram, C)X-ray, D)Biopsy",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HUMERUS/patient11699/study1_negative/image1.png",
+        "problem": "What was the imaging technique utilized to obtain this picture? A)X-ray, B)Ultrasound, C)Blood test, D)Biopsy",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_SHOULDER/patient11549/study1_positive/image4.png",
+        "problem": "In obtaining this image, what imaging technique was utilized? A)X-ray, B)Ultrasound, C)Biopsy, D)MRI",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_SHOULDER/patient11313/study1_positive/image2.png",
+        "problem": "What imaging technique was used to capture this picture? A)X-ray, B)Ultrasound, C)Mammogram, D)CT scan",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_SHOULDER/patient11738/study1_positive/image3.png",
+        "problem": "What was the method utilized to acquire this image? A)PET scan, B)X-ray, C)Biopsy, D)CT scan",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_SHOULDER/patient11757/study1_negative/image2.png",
+        "problem": "What imaging technique was employed to obtain this image? A)Biopsy, B)PET scan, C)Colonoscopy, D)X-ray",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_SHOULDER/patient11773/study1_negative/image3.png",
+        "problem": "What kind of imaging technique was employed to obtain this picture? A)CT scan, B)X-ray, C)Colonoscopy, D)Electrocardiogram (ECG)",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_SHOULDER/patient11787/study1_negative/image3.png",
+        "problem": "What modality was used to capture this image? A)Endoscopy, B)PET scan, C)X-ray, D)Biopsy",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_SHOULDER/patient11795/study1_negative/image1.png",
+        "problem": "What method was employed for the acquisition of this image? A)MRI, B)Blood test, C)Ultrasound, D)X-ray",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_SHOULDER/patient11542/study1_negative/image1.png",
+        "problem": "What modality was utilized to obtain this image? A)Ultrasound, B)PET scan, C)X-ray, D)CT scan",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_SHOULDER/patient11542/study1_negative/image2.png",
+        "problem": "What type of imaging technique was employed to capture this picture? A)Mammogram, B)Ultrasound, C)X-ray, D)MRI",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11808/study1_positive/image2.png",
+        "problem": "What imaging technique was employed to produce this picture? A)Biopsy, B)Endoscopy, C)Electrocardiogram (ECG), D)X-ray",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11189/study1_positive/image2.png",
+        "problem": "What modality was utilized to obtain this image? A)Biopsy, B)X-ray, C)Blood test, D)Ultrasound",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11845/study1_negative/image1.png",
+        "problem": "What modality was used to capture this image? A)Colonoscopy, B)PET scan, C)Mammogram, D)X-ray",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11773/study1_negative/image1.png",
+        "problem": "What was the imaging modality utilized to acquire this picture? A)MRI, B)Electrocardiogram (ECG), C)Colonoscopy, D)X-ray",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11247/study1_negative/image2.png",
+        "problem": "What imaging technique was utilized to acquire this image? A)CT scan, B)Mammogram, C)Colonoscopy, D)X-ray",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FINGER/patient11886/study1_positive/image1.png",
+        "problem": "What method was used to obtain this picture? A)CT scan, B)X-ray, C)Blood test, D)Biopsy",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FINGER/patient11369/study1_positive/image1.png",
+        "problem": "What was the modality utilized to generate this image? A)MRI, B)X-ray, C)PET scan, D)Colonoscopy",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FINGER/patient11904/study1_positive/image2.png",
+        "problem": "What imaging technique was utilized to create this picture? A)MRI, B)X-ray, C)CT scan, D)PET scan",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FINGER/patient11213/study1_positive/image2.png",
+        "problem": "What modality was used to capture this image? A)Mammogram, B)CT scan, C)X-ray, D)PET scan",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FINGER/patient11912/study1_positive/image2.png",
+        "problem": "What modality was used to capture this image? A)Endoscopy, B)Ultrasound, C)CT scan, D)X-ray",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FINGER/patient11916/study1_positive/image1.png",
+        "problem": "What imaging modality was employed for this image? A)Ultrasound, B)X-ray, C)PET scan, D)Electrocardiogram (ECG)",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FINGER/patient11397/study1_positive/image2.png",
+        "problem": "What was the modality used to produce this image? A)Colonoscopy, B)Mammogram, C)X-ray, D)Ultrasound",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FINGER/patient11276/study1_positive/image1.png",
+        "problem": "What method was employed in acquiring this image? A)Endoscopy, B)X-ray, C)Blood test, D)Biopsy",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FINGER/patient11578/study1_positive/image1.png",
+        "problem": "What imaging technique was employed to generate this picture? A)Endoscopy, B)Blood test, C)X-ray, D)Mammogram",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FINGER/patient11948/study1_negative/image2.png",
+        "problem": "What was the imaging technique used to acquire this picture? A)MRI, B)X-ray, C)Ultrasound, D)CT scan",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FINGER/patient11966/study1_negative/image3.png",
+        "problem": "What imaging technique was employed to obtain this visual representation? A)MRI, B)Mammogram, C)Colonoscopy, D)X-ray",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11220/study1_positive/image1.png",
+        "problem": "What part of the body is shown in this picture? A)Musculoskeletal system, B)Endocrine system, C)Urinary system, D)Respiratory system",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11230/study1_positive/image2.png",
+        "problem": "Which region of the body is depicted in this image? A)Integumentary system, B)Immune system, C)Nervous system, D)Musculoskeletal system",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11233/study2_negative/image2.png",
+        "problem": "Which part of the body is represented in the provided image? A)Respiratory system, B)Digestive system, C)Endocrine system, D)Musculoskeletal system",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11246/study1_positive/image2.png",
+        "problem": "Which region of the body is depicted in this image? A)Musculoskeletal system, B)Integumentary system, C)Endocrine system, D)Respiratory system",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11250/study1_positive/image2.png",
+        "problem": "What is the area of the body that is shown in the provided image? A)Musculoskeletal system, B)Nervous system, C)Respiratory system, D)Urinary system",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11255/study1_positive/image1.png",
+        "problem": "Which region of the body is depicted in this image? A)Urinary system, B)Lymphatic system, C)Musculoskeletal system, D)Reproductive system",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11260/study1_positive/image4.png",
+        "problem": "Which region of the body is depicted in this image? A)Immune system, B)Musculoskeletal system, C)Reproductive system, D)Respiratory system",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11283/study1_negative/image2.png",
+        "problem": "Which region of the body is depicted in this image? A)Urinary system, B)Respiratory system, C)Musculoskeletal system, D)Endocrine system",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11303/study1_negative/image1.png",
+        "problem": "Which region of the body is depicted in this image? A)Nervous system, B)Immune system, C)Musculoskeletal system, D)Digestive system",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11310/study1_negative/image1.png",
+        "problem": "Which region of the body is depicted in this image? A)Urinary system, B)Cardiovascular system, C)Musculoskeletal system, D)Lymphatic system",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11314/study2_negative/image3.png",
+        "problem": "Which region of the body is depicted in this image? A)Urinary system, B)Immune system, C)Cardiovascular system, D)Musculoskeletal system",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11333/study1_negative/image2.png",
+        "problem": "What specific area of the anatomy is illustrated in this picture? A)Reproductive system, B)Digestive system, C)Nervous system, D)Musculoskeletal system",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11336/study1_negative/image1.png",
+        "problem": "What anatomical region is represented in the provided image? A)Nervous system, B)Reproductive system, C)Endocrine system, D)Musculoskeletal system",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11351/study1_negative/image1.png",
+        "problem": "Which region of the body is depicted in this image? A)Musculoskeletal system, B)Endocrine system, C)Reproductive system, D)Lymphatic system",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11369/study1_negative/image3.png",
+        "problem": "What specific part of the body is being shown in this picture? A)Musculoskeletal system, B)Digestive system, C)Integumentary system, D)Urinary system",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11371/study1_negative/image3.png",
+        "problem": "What area of the body is shown in this picture? A)Urinary system, B)Integumentary system, C)Musculoskeletal system, D)Digestive system",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11384/study1_negative/image1.png",
+        "problem": "Which region of the body is depicted in this image? A)Integumentary system, B)Lymphatic system, C)Cardiovascular system, D)Musculoskeletal system",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FOREARM/patient11408/study1_positive/image2.png",
+        "problem": "What part of the body is portrayed in the provided image? A)Lymphatic system, B)Urinary system, C)Musculoskeletal system, D)Respiratory system",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FOREARM/patient11308/study1_positive/image1.png",
+        "problem": "Which region of the body is depicted in this image? A)Urinary system, B)Endocrine system, C)Musculoskeletal system, D)Lymphatic system",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FOREARM/patient11438/study1_positive/image2.png",
+        "problem": "What region of the body is being shown in this picture? A)Cardiovascular system, B)Urinary system, C)Immune system, D)Musculoskeletal system",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FOREARM/patient11440/study1_positive/image2.png",
+        "problem": "Which region of the body is depicted in this image? A)Digestive system, B)Cardiovascular system, C)Urinary system, D)Musculoskeletal system",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FOREARM/patient11445/study1_negative/image2.png",
+        "problem": "Which region of the body is depicted in this image? A)Nervous system, B)Reproductive system, C)Musculoskeletal system, D)Lymphatic system",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FOREARM/patient11450/study1_negative/image1.png",
+        "problem": "What specific part of the anatomy is represented in this picture? A)Musculoskeletal system, B)Cardiovascular system, C)Reproductive system, D)Lymphatic system",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FOREARM/patient11467/study1_negative/image2.png",
+        "problem": "Which region of the body is depicted in this image? A)Reproductive system, B)Musculoskeletal system, C)Urinary system, D)Respiratory system",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HAND/patient11507/study1_positive/image2.png",
+        "problem": "What part of the body is shown in the image? A)Respiratory system, B)Endocrine system, C)Musculoskeletal system, D)Reproductive system",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HAND/patient11514/study1_positive/image2.png",
+        "problem": "What is the specific area of the body illustrated in this image? A)Lymphatic system, B)Musculoskeletal system, C)Nervous system, D)Immune system",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HAND/patient11514/study1_positive/image3.png",
+        "problem": "Which region of the body is depicted in this image? A)Musculoskeletal system, B)Endocrine system, C)Lymphatic system, D)Respiratory system",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HAND/patient11515/study1_positive/image2.png",
+        "problem": "What part of the body is represented in this visual? A)Musculoskeletal system, B)Digestive system, C)Cardiovascular system, D)Integumentary system",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HAND/patient11527/study1_positive/image2.png",
+        "problem": "Which region of the body is depicted in this image? A)Lymphatic system, B)Cardiovascular system, C)Digestive system, D)Musculoskeletal system",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HAND/patient11304/study1_positive/image3.png",
+        "problem": "Which region of the body is depicted in this image? A)Endocrine system, B)Cardiovascular system, C)Nervous system, D)Musculoskeletal system",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HAND/patient11535/study1_positive/image3.png",
+        "problem": "Which region of the body is depicted in this image? A)Nervous system, B)Respiratory system, C)Musculoskeletal system, D)Lymphatic system",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HAND/patient11540/study1_positive/image3.png",
+        "problem": "What is the area of the body that is illustrated in this picture? A)Respiratory system, B)Reproductive system, C)Cardiovascular system, D)Musculoskeletal system",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HAND/patient11571/study1_negative/image2.png",
+        "problem": "What part of the anatomy is highlighted in this picture? A)Musculoskeletal system, B)Reproductive system, C)Respiratory system, D)Lymphatic system",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HAND/patient11235/study1_negative/image2.png",
+        "problem": "Which region of the body is depicted in this image? A)Cardiovascular system, B)Nervous system, C)Musculoskeletal system, D)Respiratory system",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HAND/patient11581/study1_negative/image2.png",
+        "problem": "What part of the body is shown in the provided picture? A)Digestive system, B)Musculoskeletal system, C)Urinary system, D)Nervous system",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HAND/patient11588/study1_negative/image1.png",
+        "problem": "What part of the body is depicted in the provided image? A)Urinary system, B)Integumentary system, C)Musculoskeletal system, D)Reproductive system",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HAND/patient11302/study1_negative/image1.png",
+        "problem": "What specific part of the anatomy is shown in this picture? A)Respiratory system, B)Nervous system, C)Musculoskeletal system, D)Digestive system",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HAND/patient11283/study1_negative/image1.png",
+        "problem": "Which region of the body is depicted in this image? A)Musculoskeletal system, B)Integumentary system, C)Digestive system, D)Urinary system",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HAND/patient11604/study1_negative/image1.png",
+        "problem": "What part of the body is shown in this picture? A)Respiratory system, B)Musculoskeletal system, C)Immune system, D)Lymphatic system",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HUMERUS/patient11617/study1_positive/image2.png",
+        "problem": "What region of the body is being shown in this picture? A)Musculoskeletal system, B)Integumentary system, C)Reproductive system, D)Urinary system",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HUMERUS/patient11646/study1_positive/image2.png",
+        "problem": "What part of the body does this image represent? A)Cardiovascular system, B)Digestive system, C)Reproductive system, D)Musculoskeletal system",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HUMERUS/patient11227/study1_positive/image1.png",
+        "problem": "Which region of the body is depicted in this image? A)Urinary system, B)Integumentary system, C)Musculoskeletal system, D)Reproductive system",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HUMERUS/patient11650/study1_positive/image1.png",
+        "problem": "What part of the body is illustrated in this picture? A)Cardiovascular system, B)Digestive system, C)Musculoskeletal system, D)Integumentary system",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HUMERUS/patient11651/study1_positive/image1.png",
+        "problem": "What area of the body is being shown in this picture? A)Nervous system, B)Musculoskeletal system, C)Reproductive system, D)Cardiovascular system",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HUMERUS/patient11681/study1_negative/image1.png",
+        "problem": "Which region of the body is depicted in this image? A)Nervous system, B)Respiratory system, C)Immune system, D)Musculoskeletal system",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HUMERUS/patient11685/study1_negative/image2.png",
+        "problem": "Which region of the body is depicted in this image? A)Digestive system, B)Nervous system, C)Musculoskeletal system, D)Reproductive system",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HUMERUS/patient11688/study1_negative/image2.png",
+        "problem": "Which region of the body is depicted in this image? A)Musculoskeletal system, B)Nervous system, C)Respiratory system, D)Endocrine system",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HUMERUS/patient11225/study1_negative/image1.png",
+        "problem": "Which region of the body is depicted in this image? A)Musculoskeletal system, B)Digestive system, C)Respiratory system, D)Endocrine system",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HUMERUS/patient11701/study1_negative/image1.png",
+        "problem": "Which region of the body is depicted in this image? A)Musculoskeletal system, B)Cardiovascular system, C)Respiratory system, D)Urinary system",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_SHOULDER/patient11718/study1_positive/image2.png",
+        "problem": "Which region of the body is depicted in this image? A)Cardiovascular system, B)Respiratory system, C)Integumentary system, D)Musculoskeletal system",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_SHOULDER/patient11549/study1_positive/image2.png",
+        "problem": "What specific area of the human anatomy is shown in the provided image? A)Lymphatic system, B)Urinary system, C)Digestive system, D)Musculoskeletal system",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_SHOULDER/patient11292/study2_negative/image4.png",
+        "problem": "What area of the body is illustrated in this image? A)Nervous system, B)Musculoskeletal system, C)Urinary system, D)Cardiovascular system",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_SHOULDER/patient11386/study1_positive/image2.png",
+        "problem": "Which region of the body is depicted in this image? A)Respiratory system, B)Lymphatic system, C)Musculoskeletal system, D)Nervous system",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_SHOULDER/patient11747/study1_positive/image1.png",
+        "problem": "Which region of the body is depicted in this image? A)Integumentary system, B)Musculoskeletal system, C)Respiratory system, D)Cardiovascular system",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_SHOULDER/patient11326/study1_positive/image1.png",
+        "problem": "Which region of the body is depicted in this image? A)Lymphatic system, B)Immune system, C)Musculoskeletal system, D)Nervous system",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_SHOULDER/patient11753/study1_negative/image2.png",
+        "problem": "Which part of the body is shown in this picture? A)Urinary system, B)Musculoskeletal system, C)Digestive system, D)Lymphatic system",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_SHOULDER/patient11759/study1_negative/image3.png",
+        "problem": "What section of the body does this picture represent? A)Cardiovascular system, B)Respiratory system, C)Integumentary system, D)Musculoskeletal system",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_SHOULDER/patient11762/study1_negative/image1.png",
+        "problem": "What area of the body is illustrated in this image? A)Immune system, B)Musculoskeletal system, C)Endocrine system, D)Cardiovascular system",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_SHOULDER/patient11786/study1_negative/image3.png",
+        "problem": "Which region of the body is depicted in this image? A)Urinary system, B)Nervous system, C)Reproductive system, D)Musculoskeletal system",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_SHOULDER/patient11791/study1_negative/image3.png",
+        "problem": "What part of the body is shown in the displayed image? A)Musculoskeletal system, B)Respiratory system, C)Nervous system, D)Digestive system",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_SHOULDER/patient11649/study1_negative/image1.png",
+        "problem": "Which region of the body is depicted in this image? A)Musculoskeletal system, B)Digestive system, C)Urinary system, D)Lymphatic system",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_SHOULDER/patient11793/study1_negative/image1.png",
+        "problem": "Which region of the body is depicted in this image? A)Digestive system, B)Nervous system, C)Endocrine system, D)Musculoskeletal system",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11802/study1_positive/image3.png",
+        "problem": "What part of the body does this image represent? A)Endocrine system, B)Musculoskeletal system, C)Nervous system, D)Reproductive system",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11803/study1_positive/image4.png",
+        "problem": "What part of the body does this image illustrate? A)Immune system, B)Nervous system, C)Musculoskeletal system, D)Lymphatic system",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11805/study1_positive/image2.png",
+        "problem": "What part of the body is represented in the provided image? A)Lymphatic system, B)Nervous system, C)Integumentary system, D)Musculoskeletal system",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11817/study1_positive/image5.png",
+        "problem": "Which region of the body is depicted in this image? A)Musculoskeletal system, B)Respiratory system, C)Urinary system, D)Reproductive system",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11430/study1_positive/image5.png",
+        "problem": "Which region of the body is depicted in this image? A)Nervous system, B)Musculoskeletal system, C)Immune system, D)Respiratory system",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11756/study1_positive/image2.png",
+        "problem": "What part of the body is illustrated in the image? A)Respiratory system, B)Integumentary system, C)Lymphatic system, D)Musculoskeletal system",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11836/study1_positive/image5.png",
+        "problem": "What area of the body is portrayed in this picture? A)Nervous system, B)Integumentary system, C)Musculoskeletal system, D)Immune system",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11841/study1_positive/image1.png",
+        "problem": "Which region of the body is depicted in this image? A)Musculoskeletal system, B)Endocrine system, C)Respiratory system, D)Nervous system",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11842/study1_positive/image3.png",
+        "problem": "Which region of the body is depicted in this image? A)Integumentary system, B)Musculoskeletal system, C)Nervous system, D)Lymphatic system",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11243/study1_negative/image2.png",
+        "problem": "Which region of the body is depicted in this image? A)Immune system, B)Endocrine system, C)Lymphatic system, D)Musculoskeletal system",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11349/study1_negative/image1.png",
+        "problem": "Which region of the body is depicted in this image? A)Musculoskeletal system, B)Digestive system, C)Immune system, D)Integumentary system",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11287/study1_negative/image1.png",
+        "problem": "Which region of the body is depicted in this image? A)Musculoskeletal system, B)Urinary system, C)Cardiovascular system, D)Nervous system",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11287/study1_negative/image2.png",
+        "problem": "What body part is represented in this picture? A)Nervous system, B)Respiratory system, C)Musculoskeletal system, D)Immune system",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11711/study1_negative/image3.png",
+        "problem": "Which region of the body is depicted in this image? A)Reproductive system, B)Immune system, C)Respiratory system, D)Musculoskeletal system",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11282/study1_negative/image1.png",
+        "problem": "Which region of the body is depicted in this image? A)Integumentary system, B)Musculoskeletal system, C)Reproductive system, D)Cardiovascular system",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11402/study1_negative/image1.png",
+        "problem": "What bodily area is illustrated in this picture? A)Endocrine system, B)Musculoskeletal system, C)Digestive system, D)Nervous system",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11338/study2_negative/image1.png",
+        "problem": "What is the area of the body portrayed in this picture? A)Urinary system, B)Reproductive system, C)Musculoskeletal system, D)Endocrine system",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11338/study2_negative/image2.png",
+        "problem": "Which part of the body does this image represent? A)Musculoskeletal system, B)Integumentary system, C)Respiratory system, D)Nervous system",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11865/study1_negative/image3.png",
+        "problem": "Which region of the body is depicted in this image? A)Musculoskeletal system, B)Digestive system, C)Integumentary system, D)Endocrine system",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11775/study1_negative/image2.png",
+        "problem": "Which region of the body is depicted in this image? A)Immune system, B)Musculoskeletal system, C)Lymphatic system, D)Endocrine system",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11775/study1_negative/image4.png",
+        "problem": "Which region of the body is depicted in this image? A)Integumentary system, B)Lymphatic system, C)Musculoskeletal system, D)Endocrine system",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11408/study1_negative/image2.png",
+        "problem": "What area of the body does this image illustrate? A)Urinary system, B)Integumentary system, C)Musculoskeletal system, D)Immune system",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FINGER/patient11900/study1_positive/image2.png",
+        "problem": "Which region of the body is depicted in this image? A)Musculoskeletal system, B)Endocrine system, C)Reproductive system, D)Immune system",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FINGER/patient11880/study1_positive/image1.png",
+        "problem": "Which region of the body is depicted in this image? A)Cardiovascular system, B)Urinary system, C)Musculoskeletal system, D)Integumentary system",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FINGER/patient11754/study1_positive/image1.png",
+        "problem": "What part of the body is represented in this picture? A)Nervous system, B)Endocrine system, C)Lymphatic system, D)Musculoskeletal system",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FINGER/patient11213/study1_positive/image1.png",
+        "problem": "What area of the body is shown in the provided image? A)Immune system, B)Urinary system, C)Musculoskeletal system, D)Integumentary system",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FINGER/patient11906/study1_positive/image1.png",
+        "problem": "What part of the body is presented in this picture? A)Endocrine system, B)Nervous system, C)Respiratory system, D)Musculoskeletal system",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FINGER/patient11619/study1_positive/image2.png",
+        "problem": "Which region of the body is depicted in this image? A)Integumentary system, B)Immune system, C)Musculoskeletal system, D)Endocrine system",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FINGER/patient11347/study1_positive/image1.png",
+        "problem": "Which region of the body is depicted in this image? A)Musculoskeletal system, B)Urinary system, C)Integumentary system, D)Nervous system",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FINGER/patient11347/study1_positive/image2.png",
+        "problem": "Which region of the body is depicted in this image? A)Cardiovascular system, B)Musculoskeletal system, C)Respiratory system, D)Digestive system",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FINGER/patient11397/study1_positive/image1.png",
+        "problem": "Which region of the body is depicted in this image? A)Immune system, B)Lymphatic system, C)Reproductive system, D)Musculoskeletal system",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FINGER/patient11923/study1_negative/image1.png",
+        "problem": "Which region of the body is depicted in this image? A)Lymphatic system, B)Immune system, C)Integumentary system, D)Musculoskeletal system",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FINGER/patient11928/study1_negative/image2.png",
+        "problem": "Which region of the body is depicted in this image? A)Musculoskeletal system, B)Endocrine system, C)Integumentary system, D)Digestive system",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FINGER/patient11576/study1_negative/image2.png",
+        "problem": "Which region of the body is depicted in this image? A)Musculoskeletal system, B)Integumentary system, C)Respiratory system, D)Digestive system",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FINGER/patient11954/study1_negative/image2.png",
+        "problem": "Which region of the body is depicted in this image? A)Urinary system, B)Endocrine system, C)Immune system, D)Musculoskeletal system",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FINGER/patient11847/study1_negative/image1.png",
+        "problem": "Which region of the body is depicted in this image? A)Cardiovascular system, B)Musculoskeletal system, C)Integumentary system, D)Digestive system",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FINGER/patient11964/study1_negative/image1.png",
+        "problem": "Which region of the body is depicted in this image? A)Musculoskeletal system, B)Endocrine system, C)Nervous system, D)Integumentary system",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FINGER/patient11967/study1_negative/image4.png",
+        "problem": "What part of the body is shown in the picture? A)Integumentary system, B)Cardiovascular system, C)Respiratory system, D)Musculoskeletal system",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11213/study2_negative/image2.png",
+        "problem": "What abnormality can be observed in this image? A)Congested blood vessels, B)No abnormality detected, C)Tumor growth, D)Abnormal growth of cells",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11213/study2_negative/image3.png",
+        "problem": "What abnormality can be observed in this image? A)Abnormal growth of cells, B)Swollen joints, C)Inflammation in the lungs, D)No abnormality detected",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11280/study1_negative/image4.png",
+        "problem": "What abnormality can be observed in this image? A)Fractured bone, B)No abnormality detected, C)Bacterial infection, D)Enlarged lymph nodes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11290/study1_negative/image2.png",
+        "problem": "What can be concluded about the image in terms of abnormalities? A)Swollen joints, B)No abnormality detected, C)Blocked artery, D)Tumor growth",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11293/study1_negative/image2.png",
+        "problem": "What abnormality can be observed in this image? A)Tumor growth, B)Swollen joints, C)Enlarged lymph nodes, D)No abnormality detected",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11295/study1_negative/image2.png",
+        "problem": "Is there any anomaly observable in this image? A)Bacterial infection, B)Swollen joints, C)No abnormality detected, D)Fractured bone",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11302/study1_negative/image1.png",
+        "problem": "What abnormality can be observed in this image? A)Decreased lung capacity, B)Fractured bone, C)Enlarged lymph nodes, D)No abnormality detected",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11309/study1_negative/image2.png",
+        "problem": "What is the observation in this image regarding any abnormalities? A)Bacterial infection, B)Fractured bone, C)Abnormal growth of cells, D)No abnormality detected",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11322/study1_negative/image2.png",
+        "problem": "What abnormality can be observed in this image? A)Swollen joints, B)Bacterial infection, C)Congested blood vessels, D)No abnormality detected",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11331/study1_negative/image3.png",
+        "problem": "What abnormality can be observed in this image? A)No abnormality detected, B)Fractured bone, C)Blocked artery, D)Congested blood vessels",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11338/study1_negative/image1.png",
+        "problem": "What abnormality can be observed in this image? A)Enlarged lymph nodes, B)No abnormality detected, C)Congested blood vessels, D)Blocked artery",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11340/study1_negative/image1.png",
+        "problem": "What abnormality can be observed in this image? A)Abnormal growth of cells, B)Swollen joints, C)No abnormality detected, D)Fractured bone",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11347/study1_negative/image1.png",
+        "problem": "What is the observation that can be made from this image? A)Inflammation in the lungs, B)Tumor growth, C)No abnormality detected, D)Enlarged lymph nodes",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11351/study1_negative/image1.png",
+        "problem": "In this image, is there any abnormality that can be observed? A)Abnormal growth of cells, B)Blocked artery, C)No abnormality detected, D)Decreased lung capacity",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11354/study1_negative/image3.png",
+        "problem": "What abnormality can be observed in this image? A)Congested blood vessels, B)No abnormality detected, C)Inflammation in the lungs, D)Fractured bone",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11361/study1_negative/image3.png",
+        "problem": "What abnormality can be observed in this image? A)Fractured bone, B)Swollen joints, C)Inflammation in the lungs, D)No abnormality detected",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11363/study1_negative/image1.png",
+        "problem": "Is there any abnormality evident in the image? A)Congested blood vessels, B)No abnormality detected, C)Tumor growth, D)Fractured bone",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11366/study1_negative/image3.png",
+        "problem": "What abnormality can be observed in this image? A)Bacterial infection, B)Tumor growth, C)No abnormality detected, D)Blocked artery",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11385/study1_negative/image3.png",
+        "problem": "Is there any abnormality discernible in this image? A)Decreased lung capacity, B)No abnormality detected, C)Tumor growth, D)Abnormal growth of cells",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11388/study1_negative/image2.png",
+        "problem": "What can be observed in this image, indicating the absence of abnormality? A)No abnormality detected, B)Tumor growth, C)Bacterial infection, D)Fractured bone",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FOREARM/patient11399/study2_negative/image2.png",
+        "problem": "What abnormality can be observed in this image? A)Bacterial infection, B)No abnormality detected, C)Tumor growth, D)Enlarged lymph nodes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FOREARM/patient11418/study3_negative/image2.png",
+        "problem": "What abnormality can be observed in this image? A)Tumor growth, B)Enlarged lymph nodes, C)No abnormality detected, D)Abnormal growth of cells",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FOREARM/patient11451/study1_negative/image2.png",
+        "problem": "What abnormality can be observed in this image? A)Fractured bone, B)Congested blood vessels, C)Abnormal growth of cells, D)No abnormality detected",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FOREARM/patient11188/study1_negative/image2.png",
+        "problem": "What abnormality can be observed in this image? A)Fractured bone, B)Congested blood vessels, C)Decreased lung capacity, D)No abnormality detected",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FOREARM/patient11460/study1_negative/image1.png",
+        "problem": "What abnormality can be observed in this image? A)Bacterial infection, B)No abnormality detected, C)Congested blood vessels, D)Decreased lung capacity",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FOREARM/patient11477/study1_negative/image3.png",
+        "problem": "What abnormality can be observed in this image? A)Congested blood vessels, B)No abnormality detected, C)Enlarged lymph nodes, D)Tumor growth",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FOREARM/patient11485/study1_negative/image2.png",
+        "problem": "What abnormality can be observed in this image? A)Decreased lung capacity, B)Congested blood vessels, C)Inflammation in the lungs, D)No abnormality detected",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FOREARM/patient11495/study1_negative/image2.png",
+        "problem": "Is an abnormality evident in this image? A)Swollen joints, B)Bacterial infection, C)Blocked artery, D)No abnormality detected",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HAND/patient11554/study1_negative/image3.png",
+        "problem": "What irregularities are present in this picture? A)Abnormal growth of cells, B)No abnormality detected, C)Inflammation in the lungs, D)Enlarged lymph nodes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HAND/patient11566/study1_negative/image1.png",
+        "problem": "Is there an abnormality visible in this image? A)No abnormality detected, B)Decreased lung capacity, C)Bacterial infection, D)Congested blood vessels",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HAND/patient11583/study1_negative/image3.png",
+        "problem": "What abnormality can be observed in this image? A)No abnormality detected, B)Blocked artery, C)Swollen joints, D)Inflammation in the lungs",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HAND/patient11588/study1_negative/image1.png",
+        "problem": "What abnormality can be observed in this image? A)Tumor growth, B)No abnormality detected, C)Blocked artery, D)Inflammation in the lungs",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HAND/patient11267/study1_negative/image1.png",
+        "problem": "Is there any abnormality present in the image? A)Enlarged lymph nodes, B)Bacterial infection, C)Swollen joints, D)No abnormality detected",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HUMERUS/patient11665/study1_negative/image2.png",
+        "problem": "What abnormality can be observed in this image? A)Fractured bone, B)Congested blood vessels, C)No abnormality detected, D)Tumor growth",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HUMERUS/patient11684/study1_negative/image2.png",
+        "problem": "What abnormality can be observed in this image? A)Decreased lung capacity, B)Congested blood vessels, C)Enlarged lymph nodes, D)No abnormality detected",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HUMERUS/patient11685/study1_negative/image2.png",
+        "problem": "What abnormality can be observed in this image? A)Enlarged lymph nodes, B)No abnormality detected, C)Blocked artery, D)Abnormal growth of cells",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HUMERUS/patient11393/study1_negative/image2.png",
+        "problem": "Can any anomaly be observed in this image? A)Decreased lung capacity, B)Blocked artery, C)Bacterial infection, D)No abnormality detected",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HUMERUS/patient11702/study1_negative/image2.png",
+        "problem": "What abnormality can be observed in this image? A)Tumor growth, B)No abnormality detected, C)Abnormal growth of cells, D)Blocked artery",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_SHOULDER/patient11601/study2_negative/image4.png",
+        "problem": "Can any abnormality be seen in this image? A)No abnormality detected, B)Tumor growth, C)Blocked artery, D)Fractured bone",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_SHOULDER/patient11707/study3_negative/image3.png",
+        "problem": "What abnormality can be observed in this image? A)Inflammation in the lungs, B)No abnormality detected, C)Bacterial infection, D)Swollen joints",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_SHOULDER/patient11662/study1_negative/image1.png",
+        "problem": "Is there any visible abnormality in this image? A)Swollen joints, B)Blocked artery, C)No abnormality detected, D)Abnormal growth of cells",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_SHOULDER/patient11774/study1_negative/image1.png",
+        "problem": "What abnormality can be observed in this image? A)Abnormal growth of cells, B)No abnormality detected, C)Tumor growth, D)Enlarged lymph nodes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_SHOULDER/patient11774/study1_negative/image2.png",
+        "problem": "What abnormality can be observed in this image? A)Enlarged lymph nodes, B)Congested blood vessels, C)No abnormality detected, D)Tumor growth",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_SHOULDER/patient11787/study1_negative/image3.png",
+        "problem": "What abnormality can be observed in this image? A)No abnormality detected, B)Congested blood vessels, C)Decreased lung capacity, D)Abnormal growth of cells",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_SHOULDER/patient11788/study1_negative/image2.png",
+        "problem": "What abnormality can be observed in this image? A)No abnormality detected, B)Abnormal growth of cells, C)Bacterial infection, D)Swollen joints",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_SHOULDER/patient11794/study1_negative/image2.png",
+        "problem": "What abnormality can be observed in this image? A)Swollen joints, B)Tumor growth, C)Blocked artery, D)No abnormality detected",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_SHOULDER/patient11801/study1_negative/image3.png",
+        "problem": "In this image, is there any abnormality that can be identified? A)Congested blood vessels, B)Blocked artery, C)No abnormality detected, D)Bacterial infection",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11534/study1_negative/image4.png",
+        "problem": "What is the observation made about the image in terms of abnormalities? A)Bacterial infection, B)Blocked artery, C)Enlarged lymph nodes, D)No abnormality detected",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11238/study1_negative/image2.png",
+        "problem": "What abnormality can be observed in this image? A)No abnormality detected, B)Tumor growth, C)Inflammation in the lungs, D)Bacterial infection",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11855/study1_negative/image1.png",
+        "problem": "What abnormality can be observed in this image? A)Swollen joints, B)Tumor growth, C)No abnormality detected, D)Blocked artery",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11375/study1_negative/image2.png",
+        "problem": "What abnormality can be observed in this image? A)Inflammation in the lungs, B)Bacterial infection, C)Congested blood vessels, D)No abnormality detected",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11466/study1_negative/image1.png",
+        "problem": "What abnormality can be observed in this image? A)No abnormality detected, B)Enlarged lymph nodes, C)Congested blood vessels, D)Tumor growth",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11858/study1_negative/image2.png",
+        "problem": "What abnormality can be observed in this image? A)Congested blood vessels, B)Enlarged lymph nodes, C)No abnormality detected, D)Fractured bone",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11338/study2_negative/image1.png",
+        "problem": "What abnormality can be observed in this image? A)Bacterial infection, B)Fractured bone, C)No abnormality detected, D)Blocked artery",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11283/study1_negative/image2.png",
+        "problem": "Is there any abnormality visible in the image? A)Tumor growth, B)Blocked artery, C)No abnormality detected, D)Abnormal growth of cells",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11408/study1_negative/image3.png",
+        "problem": "What abnormality can be observed in this image? A)Decreased lung capacity, B)Blocked artery, C)No abnormality detected, D)Abnormal growth of cells",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11372/study1_negative/image1.png",
+        "problem": "What abnormality can be observed in this image? A)No abnormality detected, B)Bacterial infection, C)Decreased lung capacity, D)Inflammation in the lungs",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11523/study1_negative/image2.png",
+        "problem": "Is there any abnormality evident in this image? A)No abnormality detected, B)Decreased lung capacity, C)Bacterial infection, D)Blocked artery",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11877/study1_negative/image1.png",
+        "problem": "What abnormality can be observed in this image? A)No abnormality detected, B)Inflammation in the lungs, C)Bacterial infection, D)Swollen joints",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11877/study1_negative/image3.png",
+        "problem": "What abnormality can be observed in this image? A)Congested blood vessels, B)No abnormality detected, C)Swollen joints, D)Enlarged lymph nodes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11879/study1_negative/image1.png",
+        "problem": "What abnormality can be observed in this image? A)Swollen joints, B)Bacterial infection, C)Congested blood vessels, D)No abnormality detected",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11217/study1_negative/image1.png",
+        "problem": "What abnormality can be observed in this image? A)Enlarged lymph nodes, B)No abnormality detected, C)Swollen joints, D)Fractured bone",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FINGER/patient11213/study2_negative/image3.png",
+        "problem": "What abnormality can be observed in this image? A)No abnormality detected, B)Bacterial infection, C)Swollen joints, D)Inflammation in the lungs",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FINGER/patient11532/study1_negative/image2.png",
+        "problem": "What abnormality can be observed in this image? A)Decreased lung capacity, B)Blocked artery, C)Inflammation in the lungs, D)No abnormality detected",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FINGER/patient11942/study1_negative/image1.png",
+        "problem": "What abnormality can be observed in this image? A)Swollen joints, B)Tumor growth, C)No abnormality detected, D)Congested blood vessels",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FINGER/patient11942/study1_negative/image3.png",
+        "problem": "What abnormality can be observed in this image? A)Blocked artery, B)No abnormality detected, C)Bacterial infection, D)Enlarged lymph nodes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FINGER/patient11955/study1_negative/image1.png",
+        "problem": "What abnormality can be observed in this image? A)No abnormality detected, B)Inflammation in the lungs, C)Abnormal growth of cells, D)Enlarged lymph nodes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FINGER/patient11354/study1_negative/image1.png",
+        "problem": "Is there any abnormality apparent in this image? A)No abnormality detected, B)Abnormal growth of cells, C)Bacterial infection, D)Tumor growth",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FINGER/patient11738/study1_negative/image3.png",
+        "problem": "What is the observation of the image in terms of any abnormality? A)Enlarged lymph nodes, B)No abnormality detected, C)Fractured bone, D)Blocked artery",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11195/study1_positive/image2.png",
+        "problem": "What can be seen in the image that is not normal? A)Conformity evident, B)Uniformity lacking, C)Abnormality present, D)Aberration missing",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11214/study1_positive/image3.png",
+        "problem": "What abnormality can be observed in this image? A)Standardity present, B)Anomaly nonexistent, C)Abnormality present, D)Regularity visible",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11228/study1_positive/image3.png",
+        "problem": "What abnormality can be observed in this image? A)Anomaly nonexistent, B)Regularity visible, C)Normality absent, D)Abnormality present",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11233/study1_positive/image1.png",
+        "problem": "What abnormality can be observed in this image? A)Regularity visible, B)Deviation not found, C)Uniformity lacking, D)Abnormality present",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11234/study1_positive/image3.png",
+        "problem": "What abnormality can be observed in this image? A)Conformity evident, B)Uniformity lacking, C)Abnormality present, D)Deviation not found",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11235/study1_positive/image3.png",
+        "problem": "What can be noted in this image in terms of abnormality? A)Abnormality imperceptible, B)Abnormality present, C)Normality absent, D)Conformity evident",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11237/study1_positive/image1.png",
+        "problem": "What can be observed in this image that deviates from the normal condition? A)Conformity evident, B)Normality absent, C)Abnormality present, D)Regularity visible",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11240/study1_positive/image2.png",
+        "problem": "What abnormality can be observed in this image? A)Abnormality present, B)Uniformity lacking, C)Normality absent, D)Abnormality imperceptible",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11242/study1_positive/image2.png",
+        "problem": "What deviations from the norm can be identified in the provided image? A)Abnormality present, B)Uniformity lacking, C)Anomaly nonexistent, D)Aberration missing",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11245/study1_positive/image1.png",
+        "problem": "What abnormality can be observed in this image? A)Conformity evident, B)Regularity visible, C)Anomaly nonexistent, D)Abnormality present",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11249/study1_positive/image4.png",
+        "problem": "What abnormality can be observed in this image? A)Conformity evident, B)Abnormality present, C)Uniformity lacking, D)Standardity present",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11266/study1_positive/image2.png",
+        "problem": "What abnormality can be observed in this image? A)Abnormality present, B)Uniformity lacking, C)Standardity present, D)Normality absent",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11267/study1_positive/image2.png",
+        "problem": "What is visible in this image that deviates from normalcy? A)Standardity present, B)Aberration missing, C)Deviation not found, D)Abnormality present",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11273/study1_positive/image1.png",
+        "problem": "What abnormality can be observed in this image? A)Regularity visible, B)Deviation not found, C)Anomaly nonexistent, D)Abnormality present",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_WRIST/patient11277/study1_positive/image2.png",
+        "problem": "What abnormality can be observed in this image? A)Abnormality imperceptible, B)Regularity visible, C)Abnormality present, D)Anomaly nonexistent",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FOREARM/patient11392/study1_positive/image1.png",
+        "problem": "What abnormality can be observed in this image? A)Anomaly nonexistent, B)Abnormality present, C)Regularity visible, D)Aberration missing",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FOREARM/patient11413/study1_positive/image1.png",
+        "problem": "What abnormality can be observed in this image? A)Deviation not found, B)Conformity evident, C)Aberration missing, D)Abnormality present",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FOREARM/patient11418/study2_positive/image2.png",
+        "problem": "What abnormality can be observed in this image? A)Abnormality present, B)Aberration missing, C)Standardity present, D)Conformity evident",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FOREARM/patient11427/study1_positive/image1.png",
+        "problem": "What abnormality can be observed in this image? A)Aberration missing, B)Uniformity lacking, C)Conformity evident, D)Abnormality present",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FOREARM/patient11427/study1_positive/image2.png",
+        "problem": "What abnormality can be observed in this image? A)Abnormality present, B)Uniformity lacking, C)Anomaly nonexistent, D)Abnormality imperceptible",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FOREARM/patient11438/study1_positive/image10.png",
+        "problem": "What abnormality can be observed in this image? A)Deviation not found, B)Regularity visible, C)Abnormality present, D)Aberration missing",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HAND/patient11508/study1_positive/image1.png",
+        "problem": "What can be detected in the image that deviates from the normal? A)Abnormality present, B)Irregularity undetectable, C)Standardity present, D)Conformity evident",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HAND/patient11275/study1_positive/image3.png",
+        "problem": "What abnormality can be observed in this image? A)Abnormality present, B)Conformity evident, C)Uniformity lacking, D)Regularity visible",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HAND/patient11336/study1_positive/image1.png",
+        "problem": "Is there any anomaly visible in this image? A)Aberration missing, B)Standardity present, C)Conformity evident, D)Abnormality present",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HAND/patient11521/study1_positive/image2.png",
+        "problem": "What abnormality can be observed in this image? A)Abnormality present, B)Aberration missing, C)Standardity present, D)Deviation not found",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HAND/patient11216/study1_positive/image2.png",
+        "problem": "What abnormality can be observed in this image? A)Aberration missing, B)Standardity present, C)Abnormality present, D)Deviation not found",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HAND/patient11541/study1_positive/image3.png",
+        "problem": "What abnormality can be observed in this image? A)Abnormality imperceptible, B)Aberration missing, C)Abnormality present, D)Anomaly nonexistent",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HUMERUS/patient11616/study1_positive/image2.png",
+        "problem": "What abnormality can be observed in this image? A)Conformity evident, B)Aberration missing, C)Normality absent, D)Abnormality present",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HUMERUS/patient11621/study1_positive/image2.png",
+        "problem": "What abnormality can be observed in this image? A)Uniformity lacking, B)Abnormality present, C)Normality absent, D)Standardity present",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HUMERUS/patient11630/study1_positive/image2.png",
+        "problem": "What abnormality can be observed in this image? A)Conformity evident, B)Abnormality imperceptible, C)Abnormality present, D)Regularity visible",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HUMERUS/patient11632/study1_positive/image2.png",
+        "problem": "What abnormality can be observed in this image? A)Deviation not found, B)Abnormality imperceptible, C)Uniformity lacking, D)Abnormality present",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HUMERUS/patient11633/study1_positive/image1.png",
+        "problem": "What abnormality can be observed in this image? A)Anomaly nonexistent, B)Aberration missing, C)Abnormality present, D)Uniformity lacking",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HUMERUS/patient11653/study1_positive/image1.png",
+        "problem": "What abnormality can be observed in this image? A)Conformity evident, B)Standardity present, C)Abnormality present, D)Anomaly nonexistent",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_HUMERUS/patient11657/study1_positive/image2.png",
+        "problem": "What abnormality can be observed in this image? A)Deviation not found, B)Uniformity lacking, C)Abnormality present, D)Normality absent",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_SHOULDER/patient11333/study1_positive/image2.png",
+        "problem": "What abnormality can be observed in this image? A)Regularity visible, B)Abnormality present, C)Anomaly nonexistent, D)Normality absent",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_SHOULDER/patient11707/study2_positive/image2.png",
+        "problem": "What abnormality can be observed in this image? A)Regularity visible, B)Abnormality present, C)Standardity present, D)Normality absent",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_SHOULDER/patient11263/study1_positive/image2.png",
+        "problem": "What can be seen in this image that deviates from normalcy? A)Deviation not found, B)Abnormality present, C)Conformity evident, D)Standardity present",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_SHOULDER/patient11325/study1_positive/image2.png",
+        "problem": "What irregularity is visible in this picture? A)Uniformity lacking, B)Abnormality present, C)Anomaly nonexistent, D)Deviation not found",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_SHOULDER/patient11380/study1_positive/image2.png",
+        "problem": "Is there any abnormality present in this image? A)Regularity visible, B)Abnormality imperceptible, C)Abnormality present, D)Uniformity lacking",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_SHOULDER/patient11715/study1_positive/image2.png",
+        "problem": "What abnormality can be observed in this image? A)Conformity evident, B)Irregularity undetectable, C)Standardity present, D)Abnormality present",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_SHOULDER/patient11716/study1_positive/image4.png",
+        "problem": "What abnormality can be observed in this image? A)Abnormality present, B)Irregularity undetectable, C)Regularity visible, D)Anomaly nonexistent",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_SHOULDER/patient11720/study1_positive/image2.png",
+        "problem": "What abnormality can be observed in this image? A)Standardity present, B)Abnormality present, C)Uniformity lacking, D)Aberration missing",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_SHOULDER/patient11300/study1_positive/image1.png",
+        "problem": "What abnormality can be observed in this image? A)Conformity evident, B)Abnormality present, C)Anomaly nonexistent, D)Normality absent",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_SHOULDER/patient11300/study1_positive/image4.png",
+        "problem": "What abnormality can be observed in this image? A)Abnormality imperceptible, B)Normality absent, C)Deviation not found, D)Abnormality present",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_SHOULDER/patient11300/study2_positive/image3.png",
+        "problem": "What abnormality can be observed in this image? A)Normality absent, B)Abnormality present, C)Uniformity lacking, D)Abnormality imperceptible",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_SHOULDER/patient11549/study1_positive/image4.png",
+        "problem": "Is there any anomaly that can be detected in this image? A)Abnormality present, B)Uniformity lacking, C)Irregularity undetectable, D)Abnormality imperceptible",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_SHOULDER/patient11313/study1_positive/image1.png",
+        "problem": "What abnormality can be observed in this image? A)Abnormality present, B)Deviation not found, C)Anomaly nonexistent, D)Aberration missing",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_SHOULDER/patient11290/study1_positive/image1.png",
+        "problem": "In this image, what can be observed that deviates from normalcy? A)Abnormality present, B)Anomaly nonexistent, C)Deviation not found, D)Irregularity undetectable",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_SHOULDER/patient11737/study1_positive/image3.png",
+        "problem": "What abnormality can be observed in this image? A)Irregularity undetectable, B)Regularity visible, C)Abnormality present, D)Normality absent",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_SHOULDER/patient11563/study1_positive/image1.png",
+        "problem": "What abnormality can be observed in this image? A)Abnormality present, B)Normality absent, C)Aberration missing, D)Conformity evident",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_SHOULDER/patient11386/study1_positive/image3.png",
+        "problem": "What abnormality can be observed in this image? A)Uniformity lacking, B)Standardity present, C)Irregularity undetectable, D)Abnormality present",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_SHOULDER/patient11324/study1_positive/image3.png",
+        "problem": "Is there any abnormality that can be seen in this image? A)Normality absent, B)Aberration missing, C)Abnormality present, D)Anomaly nonexistent",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11802/study1_positive/image2.png",
+        "problem": "What abnormality can be observed in this image? A)Anomaly nonexistent, B)Conformity evident, C)Standardity present, D)Abnormality present",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11417/study1_positive/image2.png",
+        "problem": "What deviations from the norm can be identified in the provided image? A)Aberration missing, B)Abnormality present, C)Regularity visible, D)Standardity present",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11586/study1_positive/image1.png",
+        "problem": "What abnormality can be observed in this image? A)Abnormality imperceptible, B)Normality absent, C)Deviation not found, D)Abnormality present",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11342/study1_positive/image1.png",
+        "problem": "What abnormality can be observed in this image? A)Abnormality imperceptible, B)Anomaly nonexistent, C)Abnormality present, D)Conformity evident",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11813/study1_positive/image3.png",
+        "problem": "What abnormality can be observed in this image? A)Abnormality present, B)Aberration missing, C)Anomaly nonexistent, D)Conformity evident",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11472/study1_positive/image1.png",
+        "problem": "What can be seen in this image that differs from normal? A)Irregularity undetectable, B)Deviation not found, C)Standardity present, D)Abnormality present",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11818/study1_positive/image3.png",
+        "problem": "What abnormality can be observed in this image? A)Regularity visible, B)Irregularity undetectable, C)Abnormality present, D)Conformity evident",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11421/study1_positive/image4.png",
+        "problem": "Is there any abnormality visible in this image? A)Abnormality present, B)Regularity visible, C)Anomaly nonexistent, D)Deviation not found",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_ELBOW/patient11839/study1_positive/image3.png",
+        "problem": "What abnormality can be observed in this image? A)Abnormality present, B)Normality absent, C)Irregularity undetectable, D)Regularity visible",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FINGER/patient11887/study1_positive/image3.png",
+        "problem": "What abnormality can be observed in this image? A)Uniformity lacking, B)Anomaly nonexistent, C)Abnormality present, D)Deviation not found",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FINGER/patient11849/study1_positive/image2.png",
+        "problem": "What can be observed in this image that indicates a deviation from normality? A)Standardity present, B)Deviation not found, C)Abnormality present, D)Aberration missing",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FINGER/patient11721/study1_positive/image1.png",
+        "problem": "What abnormality can be observed in this image? A)Abnormality imperceptible, B)Standardity present, C)Abnormality present, D)Regularity visible",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FINGER/patient11898/study1_positive/image1.png",
+        "problem": "What abnormality can be observed in this image? A)Anomaly nonexistent, B)Deviation not found, C)Abnormality present, D)Aberration missing",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FINGER/patient11898/study1_positive/image3.png",
+        "problem": "What abnormality can be observed in this image? A)Conformity evident, B)Abnormality present, C)Irregularity undetectable, D)Regularity visible",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FINGER/patient11410/study1_positive/image2.png",
+        "problem": "What irregularity is present in the provided image? A)Abnormality imperceptible, B)Regularity visible, C)Abnormality present, D)Normality absent",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FINGER/patient11347/study1_positive/image1.png",
+        "problem": "What abnormality can be observed in this image? A)Conformity evident, B)Abnormality present, C)Normality absent, D)Anomaly nonexistent",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FINGER/patient11383/study1_positive/image2.png",
+        "problem": "What deviations from the norm can be identified in the provided image? A)Abnormality present, B)Regularity visible, C)Deviation not found, D)Conformity evident",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FINGER/patient11466/study1_positive/image2.png",
+        "problem": "What abnormality can be observed in this image? A)Standardity present, B)Uniformity lacking, C)Abnormality present, D)Abnormality imperceptible",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FINGER/patient11397/study1_positive/image1.png",
+        "problem": "What can be seen in this image that deviates from normality? A)Uniformity lacking, B)Normality absent, C)Abnormality imperceptible, D)Abnormality present",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FINGER/patient11276/study1_positive/image1.png",
+        "problem": "What abnormality can be observed in this image? A)Regularity visible, B)Conformity evident, C)Abnormality present, D)Aberration missing",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Mura/MURA-v1.1/valid/XR_FINGER/patient11921/study1_positive/image4.png",
+        "problem": "What abnormality can be observed in this image? A)Abnormality present, B)Regularity visible, C)Anomaly nonexistent, D)Conformity evident",
+        "solution": "<answer> A </answer>"
+    }
+]

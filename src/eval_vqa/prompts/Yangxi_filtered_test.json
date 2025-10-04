@@ -1,0 +1,1482 @@
+[
+    {
+        "image": "Images/Yangxi/test_1068.png",
+        "problem": "What imaging technique was employed for capturing this image? A)Color fundus photography, B)Computed Tomography (CT) scan, C)Fluoroscopy, D)X-ray imaging",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_110.png",
+        "problem": "What type of imaging was utilized to capture this image? A)Computed Tomography (CT) scan, B)Color fundus photography, C)Positron Emission Tomography (PET) scan, D)Electroencephalography (EEG)",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1177.png",
+        "problem": "What type of imaging was employed to capture this picture? A)X-ray imaging, B)Angiography, C)Color fundus photography, D)Fluoroscopy",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1213.png",
+        "problem": "Which imaging modality was employed to acquire this image? A)Magnetic Resonance Imaging (MRI), B)Color fundus photography, C)Ultrasound imaging, D)Fluoroscopy",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1221.png",
+        "problem": "Which imaging technique was utilized for obtaining this image? A)Electroencephalography (EEG), B)Color fundus photography, C)Positron Emission Tomography (PET) scan, D)Electrocardiography (ECG)",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1224.png",
+        "problem": "What imaging modality was used to capture this image? A)X-ray imaging, B)Color fundus photography, C)Electrocardiography (ECG), D)Magnetic Resonance Imaging (MRI)",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1229.png",
+        "problem": "What was the imaging modality utilized to acquire this picture? A)Color fundus photography, B)Fluoroscopy, C)Electroencephalography (EEG), D)Electrocardiography (ECG)",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1258.png",
+        "problem": "Which imaging technique was utilized to obtain this picture? A)Electrocardiography (ECG), B)Color fundus photography, C)Electroencephalography (EEG), D)X-ray imaging",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1284.png",
+        "problem": "What imaging technique was employed for obtaining this image? A)Positron Emission Tomography (PET) scan, B)X-ray imaging, C)Color fundus photography, D)Ultrasound imaging",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1286.png",
+        "problem": "What modality was utilized to obtain this image? A)Color fundus photography, B)Electrocardiography (ECG), C)Computed Tomography (CT) scan, D)Electroencephalography (EEG)",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1315.png",
+        "problem": "What modality of imaging was employed to obtain this image? A)Color fundus photography, B)X-ray imaging, C)Positron Emission Tomography (PET) scan, D)Computed Tomography (CT) scan",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1345.png",
+        "problem": "What type of imaging technique was utilized to document this image? A)Endoscopy, B)Color fundus photography, C)Electrocardiography (ECG), D)Ultrasound imaging",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1445.png",
+        "problem": "Which method was used to obtain this image? A)Color fundus photography, B)Fluoroscopy, C)Magnetic Resonance Imaging (MRI), D)Positron Emission Tomography (PET) scan",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1472.png",
+        "problem": "What type of medical imaging was utilized to capture this image? A)Fluoroscopy, B)Endoscopy, C)Ultrasound imaging, D)Color fundus photography",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1500.png",
+        "problem": "Which imaging technique was employed to obtain this photograph? A)Computed Tomography (CT) scan, B)Color fundus photography, C)Endoscopy, D)Magnetic Resonance Imaging (MRI)",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1599.png",
+        "problem": "Through which imaging technique was this picture obtained? A)Computed Tomography (CT) scan, B)Color fundus photography, C)Ultrasound imaging, D)X-ray imaging",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1634.png",
+        "problem": "What imaging method was utilized to obtain this image? A)X-ray imaging, B)Positron Emission Tomography (PET) scan, C)Color fundus photography, D)Endoscopy",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1792.png",
+        "problem": "What imaging modality was used to capture this image? A)Color fundus photography, B)Positron Emission Tomography (PET) scan, C)X-ray imaging, D)Angiography",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1838.png",
+        "problem": "What imaging technique was utilized for capturing this image? A)Color fundus photography, B)Magnetic Resonance Imaging (MRI), C)Ultrasound imaging, D)Computed Tomography (CT) scan",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1900.png",
+        "problem": "What type of imaging technique was utilized to obtain this picture? A)Magnetic Resonance Imaging (MRI), B)Endoscopy, C)Color fundus photography, D)Fluoroscopy",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_225.png",
+        "problem": "Which imaging technique was employed to capture this picture? A)Electroencephalography (EEG), B)Positron Emission Tomography (PET) scan, C)Fluoroscopy, D)Color fundus photography",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_289.png",
+        "problem": "What type of imaging modality was employed to obtain this picture? A)Magnetic Resonance Imaging (MRI), B)X-ray imaging, C)Color fundus photography, D)Fluoroscopy",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_333.png",
+        "problem": "What type of imaging technique produced this picture? A)Magnetic Resonance Imaging (MRI), B)Electrocardiography (ECG), C)Computed Tomography (CT) scan, D)Color fundus photography",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_334.png",
+        "problem": "Through which imaging technique was this picture obtained? A)Color fundus photography, B)Fluoroscopy, C)Electroencephalography (EEG), D)Endoscopy",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_424.png",
+        "problem": "What imaging modality was used to capture this image? A)X-ray imaging, B)Color fundus photography, C)Computed Tomography (CT) scan, D)Ultrasound imaging",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_565.png",
+        "problem": "What type of imaging technique was utilized to obtain this picture? A)Magnetic Resonance Imaging (MRI), B)Color fundus photography, C)Endoscopy, D)X-ray imaging",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_635.png",
+        "problem": "What kind of imaging technique was employed to obtain this image? A)Color fundus photography, B)Electroencephalography (EEG), C)Endoscopy, D)Ultrasound imaging",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_68.png",
+        "problem": "What type of medical imaging was utilized to obtain this picture? A)Angiography, B)Ultrasound imaging, C)Endoscopy, D)Color fundus photography",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_727.png",
+        "problem": "What imaging modality was used to capture this image? A)Ultrasound imaging, B)Color fundus photography, C)Computed Tomography (CT) scan, D)Magnetic Resonance Imaging (MRI)",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_730.png",
+        "problem": "Which imaging modality was employed to obtain this image? A)Fluoroscopy, B)Magnetic Resonance Imaging (MRI), C)Color fundus photography, D)X-ray imaging",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_882.png",
+        "problem": "Which imaging technique was employed to capture this picture? A)Positron Emission Tomography (PET) scan, B)Computed Tomography (CT) scan, C)Color fundus photography, D)Endoscopy",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_2835.png",
+        "problem": "Which diagnostic technique produced this picture? A)Color fundus photography, B)Magnetic Resonance Imaging (MRI), C)Electrocardiography (ECG), D)Fluoroscopy",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_18113.png",
+        "problem": "What type of imaging technique was employed to obtain this image? A)Color fundus photography, B)Angiography, C)Magnetic Resonance Imaging (MRI), D)Electroencephalography (EEG)",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_5206.png",
+        "problem": "What type of image capture was used to obtain this specific image? A)Endoscopy, B)Electroencephalography (EEG), C)X-ray imaging, D)Color fundus photography",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_723.png",
+        "problem": "What imaging modality was used to capture this image? A)X-ray imaging, B)Ultrasound imaging, C)Electroencephalography (EEG), D)Color fundus photography",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_12634.png",
+        "problem": "What method of imaging was utilized to obtain this image? A)Color fundus photography, B)Electroencephalography (EEG), C)Positron Emission Tomography (PET) scan, D)Fluoroscopy",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_17663.png",
+        "problem": "What imaging modality was used to capture this image? A)Computed Tomography (CT) scan, B)Fluoroscopy, C)Color fundus photography, D)Positron Emission Tomography (PET) scan",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_12658.png",
+        "problem": "What type of imaging method was utilized to capture this image? A)Color fundus photography, B)Electrocardiography (ECG), C)X-ray imaging, D)Ultrasound imaging",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_3619.png",
+        "problem": "What type of diagnostic imaging technique produced this picture? A)Fluoroscopy, B)Electroencephalography (EEG), C)Endoscopy, D)Color fundus photography",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_16075.png",
+        "problem": "Which imaging technique was employed to obtain this photograph? A)Color fundus photography, B)X-ray imaging, C)Computed Tomography (CT) scan, D)Endoscopy",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_833.png",
+        "problem": "Which type of imaging was employed to obtain this image? A)Angiography, B)Endoscopy, C)Fluoroscopy, D)Color fundus photography",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_9927.png",
+        "problem": "What modality of imaging was utilized to obtain this image? A)Angiography, B)Color fundus photography, C)Fluoroscopy, D)Electroencephalography (EEG)",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_2790.png",
+        "problem": "What imaging modality was used to capture this image? A)Color fundus photography, B)X-ray imaging, C)Computed Tomography (CT) scan, D)Electroencephalography (EEG)",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_4715.png",
+        "problem": "What imaging technique was employed to capture this picture? A)Color fundus photography, B)X-ray imaging, C)Electrocardiography (ECG), D)Positron Emission Tomography (PET) scan",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_4706.png",
+        "problem": "What imaging modality was used to capture this image? A)Color fundus photography, B)Fluoroscopy, C)Angiography, D)Endoscopy",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_14545.png",
+        "problem": "What type of imaging was utilized to capture this image? A)X-ray imaging, B)Color fundus photography, C)Fluoroscopy, D)Electroencephalography (EEG)",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_11749.png",
+        "problem": "What method of imaging was employed to capture this picture? A)Positron Emission Tomography (PET) scan, B)Angiography, C)Color fundus photography, D)Endoscopy",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_8956.png",
+        "problem": "What type of imaging technique was utilized for capturing this image? A)Endoscopy, B)Fluoroscopy, C)Color fundus photography, D)Positron Emission Tomography (PET) scan",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_14575.png",
+        "problem": "Which diagnostic technique produced this picture? A)X-ray imaging, B)Endoscopy, C)Color fundus photography, D)Computed Tomography (CT) scan",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_6689.png",
+        "problem": "What imaging modality was used to capture this image? A)Color fundus photography, B)Ultrasound imaging, C)Electroencephalography (EEG), D)Computed Tomography (CT) scan",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_17461.png",
+        "problem": "What was the imaging technique employed to acquire this image? A)Positron Emission Tomography (PET) scan, B)Color fundus photography, C)Electrocardiography (ECG), D)Ultrasound imaging",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_7998.png",
+        "problem": "Through which diagnostic technique was this picture obtained? A)Color fundus photography, B)X-ray imaging, C)Computed Tomography (CT) scan, D)Fluoroscopy",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_10442.png",
+        "problem": "What imaging modality was used to capture this image? A)X-ray imaging, B)Electrocardiography (ECG), C)Positron Emission Tomography (PET) scan, D)Color fundus photography",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_11012.png",
+        "problem": "What modality was utilized to capture this image? A)Ultrasound imaging, B)Fluoroscopy, C)Color fundus photography, D)Electrocardiography (ECG)",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_12309.png",
+        "problem": "What type of diagnostic imaging technique produced this picture? A)Electrocardiography (ECG), B)Angiography, C)Color fundus photography, D)X-ray imaging",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_563.png",
+        "problem": "What modality was employed to acquire this image? A)Electroencephalography (EEG), B)Color fundus photography, C)Fluoroscopy, D)Angiography",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_1200.png",
+        "problem": "Which type of imaging technique was employed to obtain this image? A)Color fundus photography, B)Magnetic Resonance Imaging (MRI), C)Positron Emission Tomography (PET) scan, D)Electroencephalography (EEG)",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_4923.png",
+        "problem": "What type of imaging technique was utilized to obtain this picture? A)Ultrasound imaging, B)Positron Emission Tomography (PET) scan, C)Color fundus photography, D)Electroencephalography (EEG)",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_8040.png",
+        "problem": "Which type of imaging was employed to obtain this image? A)Color fundus photography, B)Computed Tomography (CT) scan, C)Ultrasound imaging, D)Magnetic Resonance Imaging (MRI)",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_15171.png",
+        "problem": "Which diagnostic technique produced this picture? A)Positron Emission Tomography (PET) scan, B)Electrocardiography (ECG), C)Electroencephalography (EEG), D)Color fundus photography",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_9513.png",
+        "problem": "What type of image capture modality was utilized to obtain this picture? A)Color fundus photography, B)Electroencephalography (EEG), C)X-ray imaging, D)Endoscopy",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_2095.png",
+        "problem": "Which imaging modality was employed to obtain this image? A)Computed Tomography (CT) scan, B)Fluoroscopy, C)Color fundus photography, D)Endoscopy",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_959.png",
+        "problem": "Which diagnostic technique produced this picture? A)Computed Tomography (CT) scan, B)Angiography, C)Electrocardiography (ECG), D)Color fundus photography",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_16997.png",
+        "problem": "Which diagnostic technique produced this picture? A)Angiography, B)Fluoroscopy, C)Electrocardiography (ECG), D)Color fundus photography",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_13727.png",
+        "problem": "What imaging technique was utilized to capture this image? A)Electroencephalography (EEG), B)Color fundus photography, C)Magnetic Resonance Imaging (MRI), D)X-ray imaging",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_15571.png",
+        "problem": "What imaging modality was used to capture this image? A)Electroencephalography (EEG), B)Angiography, C)Ultrasound imaging, D)Color fundus photography",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_13021.png",
+        "problem": "Which diagnostic technique produced this picture? A)Color fundus photography, B)Computed Tomography (CT) scan, C)Magnetic Resonance Imaging (MRI), D)Endoscopy",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_15738.png",
+        "problem": "What imaging modality was used to capture this image? A)Color fundus photography, B)Electroencephalography (EEG), C)Computed Tomography (CT) scan, D)Positron Emission Tomography (PET) scan",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_11198.png",
+        "problem": "What modality was employed to capture this image? A)X-ray imaging, B)Color fundus photography, C)Electroencephalography (EEG), D)Fluoroscopy",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_8403.png",
+        "problem": "What imaging modality was used to capture this image? A)Electroencephalography (EEG), B)Fluoroscopy, C)Color fundus photography, D)X-ray imaging",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_4368.png",
+        "problem": "What imaging modality was used to capture this image? A)Computed Tomography (CT) scan, B)X-ray imaging, C)Fluoroscopy, D)Color fundus photography",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_7319.png",
+        "problem": "What type of imaging was used to obtain this image? A)Color fundus photography, B)Ultrasound imaging, C)Endoscopy, D)Electrocardiography (ECG)",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_17634.png",
+        "problem": "Which imaging technique was utilized to capture this photograph? A)Color fundus photography, B)X-ray imaging, C)Electroencephalography (EEG), D)Electrocardiography (ECG)",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_8882.png",
+        "problem": "Which diagnostic technique produced this picture? A)Positron Emission Tomography (PET) scan, B)Color fundus photography, C)Endoscopy, D)Ultrasound imaging",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_6106.png",
+        "problem": "What imaging modality was used to capture this image? A)Magnetic Resonance Imaging (MRI), B)Electrocardiography (ECG), C)Color fundus photography, D)Computed Tomography (CT) scan",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_11140.png",
+        "problem": "What was the imaging modality employed to obtain this image? A)Ultrasound imaging, B)Electrocardiography (ECG), C)X-ray imaging, D)Color fundus photography",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_4081.png",
+        "problem": "What imaging modality was used to capture this image? A)Magnetic Resonance Imaging (MRI), B)Color fundus photography, C)Positron Emission Tomography (PET) scan, D)X-ray imaging",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_8024.png",
+        "problem": "What imaging modality was used to capture this image? A)Computed Tomography (CT) scan, B)Endoscopy, C)Color fundus photography, D)Magnetic Resonance Imaging (MRI)",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_13823.png",
+        "problem": "What method was employed to take this image? A)Color fundus photography, B)Positron Emission Tomography (PET) scan, C)Angiography, D)Computed Tomography (CT) scan",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_17589.png",
+        "problem": "Which diagnostic technique produced this picture? A)Color fundus photography, B)Magnetic Resonance Imaging (MRI), C)Computed Tomography (CT) scan, D)X-ray imaging",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_18236.png",
+        "problem": "What imaging modality was used to capture this image? A)Color fundus photography, B)Electroencephalography (EEG), C)Magnetic Resonance Imaging (MRI), D)Angiography",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_3042.png",
+        "problem": "Which imaging technique was utilized to capture this image? A)Color fundus photography, B)Electroencephalography (EEG), C)Ultrasound imaging, D)X-ray imaging",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_10230.png",
+        "problem": "What imaging modality was used to capture this image? A)Computed Tomography (CT) scan, B)Color fundus photography, C)Magnetic Resonance Imaging (MRI), D)Positron Emission Tomography (PET) scan",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_8390.png",
+        "problem": "Through which diagnostic technique was this picture obtained? A)Magnetic Resonance Imaging (MRI), B)Electrocardiography (ECG), C)Angiography, D)Color fundus photography",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_104.png",
+        "problem": "What is the orientation of the eye axis in this image, horizontal or vertical? A)Transverse eye axis, B)Curved eye axis, C)Diagonal eye axis, D)Tilted eye axis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1205.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Transverse eye axis, B)Diagonal eye axis, C)Crooked eye axis, D)Inclined eye axis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_132.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Transverse eye axis, B)Oblique eye axis, C)Diagonal eye axis, D)Sagittal eye axis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1328.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Transverse eye axis, B)Inclined eye axis, C)Angled eye axis, D)Sagittal eye axis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1337.png",
+        "problem": "Is the eye axis in this image positioned horizontally or vertically? A)Longitudinal eye axis, B)Sagittal eye axis, C)Tilted eye axis, D)Transverse eye axis",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1349.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Tilted eye axis, B)Inclined eye axis, C)Diagonal eye axis, D)Transverse eye axis",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1400.png",
+        "problem": "Is the eye axis shown in the photograph transverse or longitudinal? A)Angled eye axis, B)Diagonal eye axis, C)Tilted eye axis, D)Transverse eye axis",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1432.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Transverse eye axis, B)Longitudinal eye axis, C)Sagittal eye axis, D)Bent eye axis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1435.png",
+        "problem": "In which orientation is the eye axis positioned in the given image? A)Diagonal eye axis, B)Inclined eye axis, C)Oblique eye axis, D)Transverse eye axis",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1505.png",
+        "problem": "In what orientation is the eye axis in this image positioned - horizontal or vertical? A)Crooked eye axis, B)Transverse eye axis, C)Longitudinal eye axis, D)Tilted eye axis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1513.png",
+        "problem": "Is the axis of the eye in this image horizontal or vertical? A)Transverse eye axis, B)Sagittal eye axis, C)Angled eye axis, D)Inclined eye axis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1591.png",
+        "problem": "Is the eye axis in this image horizontally oriented or vertically oriented? A)Oblique eye axis, B)Diagonal eye axis, C)Bent eye axis, D)Transverse eye axis",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1594.png",
+        "problem": "What type of eye axis does the image display: horizontal or vertical? A)Diagonal eye axis, B)Oblique eye axis, C)Transverse eye axis, D)Curved eye axis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1674.png",
+        "problem": "Is the eye axis in this image oriented vertically or horizontally? A)Transverse eye axis, B)Oblique eye axis, C)Bent eye axis, D)Angled eye axis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1695.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Crooked eye axis, B)Angled eye axis, C)Transverse eye axis, D)Inclined eye axis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1801.png",
+        "problem": "In the provided image, is the axis of the eye aligned horizontally or vertically? A)Longitudinal eye axis, B)Sagittal eye axis, C)Transverse eye axis, D)Angled eye axis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_181.png",
+        "problem": "Is the eye axis in this image horizontally oriented or vertically oriented? A)Oblique eye axis, B)Sagittal eye axis, C)Inclined eye axis, D)Transverse eye axis",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1886.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Tilted eye axis, B)Bent eye axis, C)Transverse eye axis, D)Diagonal eye axis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1987.png",
+        "problem": "Is the eye axis in the given image oriented horizontally or vertically? A)Longitudinal eye axis, B)Inclined eye axis, C)Transverse eye axis, D)Crooked eye axis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1989.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Curved eye axis, B)Oblique eye axis, C)Transverse eye axis, D)Inclined eye axis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_249.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Sagittal eye axis, B)Transverse eye axis, C)Inclined eye axis, D)Longitudinal eye axis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_291.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Crooked eye axis, B)Bent eye axis, C)Transverse eye axis, D)Tilted eye axis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_30.png",
+        "problem": "In what orientation is the eye axis depicted in this image? A)Transverse eye axis, B)Sagittal eye axis, C)Crooked eye axis, D)Tilted eye axis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_318.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Longitudinal eye axis, B)Tilted eye axis, C)Transverse eye axis, D)Oblique eye axis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_357.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Transverse eye axis, B)Tilted eye axis, C)Bent eye axis, D)Crooked eye axis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_363.png",
+        "problem": "Is the eye axis in this image horizontal or vertical? A)Crooked eye axis, B)Transverse eye axis, C)Bent eye axis, D)Inclined eye axis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_437.png",
+        "problem": "Identify the orientation of the eye axis depicted in the photograph as either along the horizontal or vertical plane. A)Crooked eye axis, B)Oblique eye axis, C)Transverse eye axis, D)Curved eye axis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_440.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Angled eye axis, B)Crooked eye axis, C)Transverse eye axis, D)Tilted eye axis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_460.png",
+        "problem": "What is the orientation of the eye axis in the image? A)Oblique eye axis, B)Inclined eye axis, C)Transverse eye axis, D)Tilted eye axis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_522.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Longitudinal eye axis, B)Transverse eye axis, C)Bent eye axis, D)Angled eye axis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_541.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Angled eye axis, B)Curved eye axis, C)Transverse eye axis, D)Oblique eye axis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_623.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Diagonal eye axis, B)Oblique eye axis, C)Angled eye axis, D)Transverse eye axis",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_638.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Angled eye axis, B)Bent eye axis, C)Transverse eye axis, D)Crooked eye axis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_77.png",
+        "problem": "Is the eye axis in this image horizontal or vertical? A)Transverse eye axis, B)Diagonal eye axis, C)Longitudinal eye axis, D)Crooked eye axis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_787.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Inclined eye axis, B)Angled eye axis, C)Sagittal eye axis, D)Transverse eye axis",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_825.png",
+        "problem": "Is the eye axis in this image transverse, indicating a horizontal or vertical orientation? A)Curved eye axis, B)Tilted eye axis, C)Bent eye axis, D)Transverse eye axis",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_861.png",
+        "problem": "In this image, is the eye axis oriented horizontally or vertically? A)Longitudinal eye axis, B)Transverse eye axis, C)Sagittal eye axis, D)Angled eye axis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_887.png",
+        "problem": "Is the orientation of the eye axis shown in the picture transverse or longitudinal? A)Bent eye axis, B)Tilted eye axis, C)Transverse eye axis, D)Crooked eye axis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_973.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Transverse eye axis, B)Oblique eye axis, C)Angled eye axis, D)Curved eye axis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_979.png",
+        "problem": "Is the eye axis in this image positioned horizontally or vertically? A)Tilted eye axis, B)Oblique eye axis, C)Transverse eye axis, D)Sagittal eye axis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_99.png",
+        "problem": "Is the eye axis in this image horizontally aligned or vertically aligned? A)Curved eye axis, B)Diagonal eye axis, C)Transverse eye axis, D)Oblique eye axis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_16675.png",
+        "problem": "Is the eye axis in this image orientated horizontally or vertically? A)Transverse eye axis, B)Crooked eye axis, C)Inclined eye axis, D)Longitudinal eye axis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_10854.png",
+        "problem": "Is the eye axis shown in the photograph transverse or longitudinal? A)Tilted eye axis, B)Inclined eye axis, C)Bent eye axis, D)Transverse eye axis",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_7183.png",
+        "problem": "Is the eye axis in this image transverse or aligned horizontally or vertically? A)Tilted eye axis, B)Curved eye axis, C)Diagonal eye axis, D)Transverse eye axis",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_14653.png",
+        "problem": "What is the orientation of the eye axis in this image - horizontal or vertical? A)Angled eye axis, B)Transverse eye axis, C)Bent eye axis, D)Diagonal eye axis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_15917.png",
+        "problem": "In this image, what is the orientation of the eye axis - horizontal or vertical? A)Transverse eye axis, B)Angled eye axis, C)Longitudinal eye axis, D)Curved eye axis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_10010.png",
+        "problem": "What type of eye axis does this image have, horizontal or vertical? A)Oblique eye axis, B)Transverse eye axis, C)Inclined eye axis, D)Bent eye axis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_10949.png",
+        "problem": "Is the eye axis depicted in this illustration aligned along a horizontal or vertical orientation? A)Curved eye axis, B)Oblique eye axis, C)Transverse eye axis, D)Diagonal eye axis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_6705.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Diagonal eye axis, B)Longitudinal eye axis, C)Transverse eye axis, D)Bent eye axis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_16185.png",
+        "problem": "Is the eye axis in the image horizontally or vertically oriented? A)Diagonal eye axis, B)Transverse eye axis, C)Tilted eye axis, D)Curved eye axis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_8003.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Bent eye axis, B)Curved eye axis, C)Transverse eye axis, D)Crooked eye axis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_16537.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Transverse eye axis, B)Tilted eye axis, C)Curved eye axis, D)Crooked eye axis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_15075.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Longitudinal eye axis, B)Transverse eye axis, C)Tilted eye axis, D)Bent eye axis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_4816.png",
+        "problem": "What is the orientation of the eye axis depicted in this image? A)Inclined eye axis, B)Curved eye axis, C)Longitudinal eye axis, D)Transverse eye axis",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_14212.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Transverse eye axis, B)Crooked eye axis, C)Diagonal eye axis, D)Longitudinal eye axis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_17157.png",
+        "problem": "Is the eye axis in this image oriented in a horizontal or vertical direction? A)Inclined eye axis, B)Diagonal eye axis, C)Angled eye axis, D)Transverse eye axis",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_1795.png",
+        "problem": "Is the eye axis in the image horizontal or vertical in direction? A)Angled eye axis, B)Longitudinal eye axis, C)Crooked eye axis, D)Transverse eye axis",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_13608.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Diagonal eye axis, B)Curved eye axis, C)Oblique eye axis, D)Transverse eye axis",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_18154.png",
+        "problem": "Does the eye axis in this image run horizontally or vertically? A)Transverse eye axis, B)Longitudinal eye axis, C)Oblique eye axis, D)Curved eye axis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_7821.png",
+        "problem": "Assess if the orientation of the eye axis in the provided image is along a horizontal or vertical plane? A)Tilted eye axis, B)Transverse eye axis, C)Sagittal eye axis, D)Inclined eye axis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_15757.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Tilted eye axis, B)Transverse eye axis, C)Diagonal eye axis, D)Bent eye axis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_10166.png",
+        "problem": "Is the eye axis in this image aligned horizontally or vertically? A)Inclined eye axis, B)Crooked eye axis, C)Diagonal eye axis, D)Transverse eye axis",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_1009.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Sagittal eye axis, B)Diagonal eye axis, C)Transverse eye axis, D)Oblique eye axis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_13492.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Crooked eye axis, B)Inclined eye axis, C)Longitudinal eye axis, D)Transverse eye axis",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_7137.png",
+        "problem": "Is the eye axis depicted in the photograph aligned along a horizontal or vertical orientation? A)Diagonal eye axis, B)Bent eye axis, C)Inclined eye axis, D)Transverse eye axis",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_11533.png",
+        "problem": "In this image, what is the orientation of the axis of the eye? A)Transverse eye axis, B)Oblique eye axis, C)Curved eye axis, D)Crooked eye axis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_15885.png",
+        "problem": "What is the orientation of the eye axis depicted in the image? A)Transverse eye axis, B)Tilted eye axis, C)Inclined eye axis, D)Diagonal eye axis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_1136.png",
+        "problem": "Is the orientation of the eye axis shown in the picture transverse or longitudinal? A)Oblique eye axis, B)Transverse eye axis, C)Curved eye axis, D)Tilted eye axis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_14659.png",
+        "problem": "Is the eye axis in this image in a horizontal or vertical position? A)Bent eye axis, B)Transverse eye axis, C)Sagittal eye axis, D)Inclined eye axis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_1470.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Diagonal eye axis, B)Longitudinal eye axis, C)Transverse eye axis, D)Oblique eye axis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_15660.png",
+        "problem": "What type of eye axis does this image exhibit, horizontal or vertical? A)Tilted eye axis, B)Transverse eye axis, C)Oblique eye axis, D)Inclined eye axis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_6281.png",
+        "problem": "Is the eye axis in this image in a horizontal or vertical position? A)Curved eye axis, B)Transverse eye axis, C)Angled eye axis, D)Tilted eye axis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_13713.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Tilted eye axis, B)Transverse eye axis, C)Bent eye axis, D)Sagittal eye axis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_559.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Transverse eye axis, B)Tilted eye axis, C)Oblique eye axis, D)Angled eye axis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_9003.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Transverse eye axis, B)Crooked eye axis, C)Diagonal eye axis, D)Bent eye axis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_13123.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Inclined eye axis, B)Angled eye axis, C)Longitudinal eye axis, D)Transverse eye axis",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_6508.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Inclined eye axis, B)Transverse eye axis, C)Tilted eye axis, D)Bent eye axis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_11816.png",
+        "problem": "Is the eye axis in this image aligned horizontally or vertically? A)Transverse eye axis, B)Angled eye axis, C)Inclined eye axis, D)Curved eye axis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_17537.png",
+        "problem": "Is the eye axis in this image vertical or horizontal? A)Curved eye axis, B)Longitudinal eye axis, C)Transverse eye axis, D)Angled eye axis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_17781.png",
+        "problem": "Is the eye axis in this image horizontally oriented or vertically oriented? A)Inclined eye axis, B)Tilted eye axis, C)Transverse eye axis, D)Diagonal eye axis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_15774.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Diagonal eye axis, B)Inclined eye axis, C)Sagittal eye axis, D)Transverse eye axis",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_18264.png",
+        "problem": "What type of eye axis does this image have, horizontal or vertical? A)Transverse eye axis, B)Angled eye axis, C)Oblique eye axis, D)Sagittal eye axis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_7087.png",
+        "problem": "In this image, what is the orientation of the eye axis - horizontal or vertical? A)Angled eye axis, B)Longitudinal eye axis, C)Transverse eye axis, D)Sagittal eye axis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_16927.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Sagittal eye axis, B)Crooked eye axis, C)Transverse eye axis, D)Oblique eye axis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_5363.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Transverse eye axis, B)Tilted eye axis, C)Bent eye axis, D)Longitudinal eye axis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_8385.png",
+        "problem": "What type of eye axis does this image exhibit? A)Sagittal eye axis, B)Transverse eye axis, C)Inclined eye axis, D)Crooked eye axis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_4104.png",
+        "problem": "Is the eye axis in this image oriented horizontally or vertically? A)Inclined eye axis, B)Transverse eye axis, C)Tilted eye axis, D)Angled eye axis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_16764.png",
+        "problem": "What is the orientation of the eye axis in the provided image? A)Sagittal eye axis, B)Transverse eye axis, C)Angled eye axis, D)Diagonal eye axis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_5022.png",
+        "problem": "What type of eye axis is present in this image: horizontal or vertical? A)Transverse eye axis, B)Angled eye axis, C)Oblique eye axis, D)Crooked eye axis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_10276.png",
+        "problem": "Identify the orientation of the eye axis depicted in the photograph as either along the horizontal or vertical plane. A)Angled eye axis, B)Oblique eye axis, C)Transverse eye axis, D)Inclined eye axis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_1735.png",
+        "problem": "Is the eye axis in this image transverse, indicating a horizontal or vertical orientation? A)Transverse eye axis, B)Inclined eye axis, C)Curved eye axis, D)Longitudinal eye axis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_14201.png",
+        "problem": "What type of eye axis does this image exhibit, horizontal or vertical? A)Angled eye axis, B)Curved eye axis, C)Transverse eye axis, D)Diagonal eye axis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_10716.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Crooked eye axis, B)Inclined eye axis, C)Tilted eye axis, D)Transverse eye axis",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_17769.png",
+        "problem": "Is the eye axis in the image horizontally or vertically oriented? A)Sagittal eye axis, B)Transverse eye axis, C)Angled eye axis, D)Tilted eye axis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_7362.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Angled eye axis, B)Transverse eye axis, C)Longitudinal eye axis, D)Crooked eye axis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_11368.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Sagittal eye axis, B)Angled eye axis, C)Diagonal eye axis, D)Transverse eye axis",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_10576.png",
+        "problem": "Is the eye axis in this image transverse, indicating a horizontal or vertical orientation? A)Crooked eye axis, B)Inclined eye axis, C)Transverse eye axis, D)Oblique eye axis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_17711.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Diagonal eye axis, B)Curved eye axis, C)Transverse eye axis, D)Tilted eye axis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_8199.png",
+        "problem": "In what orientation is the eye axis depicted in this image? A)Transverse eye axis, B)Angled eye axis, C)Tilted eye axis, D)Bent eye axis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_7359.png",
+        "problem": "Is the axis of the eye in the image horizontal or vertical? A)Inclined eye axis, B)Oblique eye axis, C)Transverse eye axis, D)Sagittal eye axis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_12980.png",
+        "problem": "Is the eye axis in this image located horizontally or vertically? A)Bent eye axis, B)Inclined eye axis, C)Transverse eye axis, D)Sagittal eye axis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_16234.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Transverse eye axis, B)Crooked eye axis, C)Diagonal eye axis, D)Angled eye axis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_9199.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Longitudinal eye axis, B)Transverse eye axis, C)Angled eye axis, D)Oblique eye axis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1114.png",
+        "problem": "What orientation is the eye axis in this image: horizontal or vertical? A)Wavy eye axis., B)Lateral eye axis., C)Vertical eye axis., D)Curved eye axis.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1296.png",
+        "problem": "Is the eye axis in this image aligned vertically or horizontally? A)Vertical eye axis., B)Lateral eye axis., C)Diagonal eye axis., D)Curved eye axis.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1301.png",
+        "problem": "Which orientation does the eye axis have in this image, horizontal or vertical? A)Tilted eye axis., B)Diagonal eye axis., C)Slanted eye axis., D)Vertical eye axis.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_133.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Tilted eye axis., B)Vertical eye axis., C)Wavy eye axis., D)Inverted eye axis.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1332.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Inverted eye axis., B)Angled eye axis., C)Vertical eye axis., D)Diagonal eye axis.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1392.png",
+        "problem": "Is the eye axis in this image aligned vertically or horizontally? A)Tilted eye axis., B)Vertical eye axis., C)Diagonal eye axis., D)Crooked eye axis.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1421.png",
+        "problem": "Does the eye axis in this image run horizontally or vertically? A)Curved eye axis., B)Vertical eye axis., C)Inverted eye axis., D)Tilted eye axis.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1444.png",
+        "problem": "Does the eye axis in this image run horizontally or vertically? A)Angled eye axis., B)Curved eye axis., C)Vertical eye axis., D)Inverted eye axis.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1472.png",
+        "problem": "Is the axis of the eye in this image vertical or horizontal? A)Tilted eye axis., B)Lateral eye axis., C)Vertical eye axis., D)Zigzag eye axis.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1507.png",
+        "problem": "Is the eye axis in this image oriented vertically or horizontally? A)Slanted eye axis., B)Curved eye axis., C)Vertical eye axis., D)Crooked eye axis.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1574.png",
+        "problem": "Is the eye axis in this image in a vertical or horizontal orientation? A)Vertical eye axis., B)Wavy eye axis., C)Inverted eye axis., D)Angled eye axis.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1590.png",
+        "problem": "Is the eye axis in this image orientated horizontally or vertically? A)Tilted eye axis., B)Wavy eye axis., C)Angled eye axis., D)Vertical eye axis.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1620.png",
+        "problem": "Is the axis of the eye in this image vertical or horizontal? A)Diagonal eye axis., B)Vertical eye axis., C)Curved eye axis., D)Wavy eye axis.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1637.png",
+        "problem": "Is the eye axis in this image horizontally oriented or vertically oriented? A)Vertical eye axis., B)Tilted eye axis., C)Lateral eye axis., D)Wavy eye axis.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1702.png",
+        "problem": "Is the eye axis in this image horizontally aligned or vertically aligned? A)Crooked eye axis., B)Tilted eye axis., C)Lateral eye axis., D)Vertical eye axis.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1860.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Inverted eye axis., B)Zigzag eye axis., C)Tilted eye axis., D)Vertical eye axis.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1907.png",
+        "problem": "In which orientation is the eye axis depicted in this image? A)Vertical eye axis., B)Angled eye axis., C)Wavy eye axis., D)Inverted eye axis.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_1985.png",
+        "problem": "What is the orientation of the eye axis in this image - vertical or horizontal? A)Angled eye axis., B)Zigzag eye axis., C)Inverted eye axis., D)Vertical eye axis.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_210.png",
+        "problem": "What is the orientation of the eye axis in this image - vertical or horizontal? A)Tilted eye axis., B)Vertical eye axis., C)Wavy eye axis., D)Inverted eye axis.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_274.png",
+        "problem": "Is the eye axis in this image in a vertical or horizontal orientation? A)Slanted eye axis., B)Wavy eye axis., C)Vertical eye axis., D)Inverted eye axis.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_276.png",
+        "problem": "Is the eye axis of this image horizontal or vertical? A)Tilted eye axis., B)Vertical eye axis., C)Lateral eye axis., D)Diagonal eye axis.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_293.png",
+        "problem": "Is the eye axis in this image horizontally oriented or vertically oriented? A)Vertical eye axis., B)Tilted eye axis., C)Inverted eye axis., D)Wavy eye axis.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_304.png",
+        "problem": "What is the orientation of the eye axis in this image, vertically or horizontally? A)Vertical eye axis., B)Diagonal eye axis., C)Inverted eye axis., D)Lateral eye axis.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_317.png",
+        "problem": "Is the eye axis in this image horizontal or vertical in orientation? A)Zigzag eye axis., B)Crooked eye axis., C)Wavy eye axis., D)Vertical eye axis.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_38.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Slanted eye axis., B)Vertical eye axis., C)Angled eye axis., D)Zigzag eye axis.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_454.png",
+        "problem": "What orientation is the eye axis in this image: horizontal or vertical? A)Curved eye axis., B)Vertical eye axis., C)Angled eye axis., D)Zigzag eye axis.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_47.png",
+        "problem": "Is the eye axis in the image horizontal or vertical? A)Crooked eye axis., B)Curved eye axis., C)Slanted eye axis., D)Vertical eye axis.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_48.png",
+        "problem": "Is the eye axis in this image horizontally or vertically aligned? A)Vertical eye axis., B)Lateral eye axis., C)Angled eye axis., D)Curved eye axis.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_481.png",
+        "problem": "What orientation is the eye axis in this image - horizontal or vertical? A)Crooked eye axis., B)Wavy eye axis., C)Tilted eye axis., D)Vertical eye axis.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_580.png",
+        "problem": "Is the eye axis in this image horizontally or vertically aligned? A)Lateral eye axis., B)Angled eye axis., C)Vertical eye axis., D)Crooked eye axis.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_615.png",
+        "problem": "Is the eye axis in this image oriented horizontally or vertically? A)Diagonal eye axis., B)Zigzag eye axis., C)Vertical eye axis., D)Crooked eye axis.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_62.png",
+        "problem": "What is the orientation of the eye axis in this image, horizontal or vertical? A)Vertical eye axis., B)Inverted eye axis., C)Crooked eye axis., D)Curved eye axis.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_637.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Crooked eye axis., B)Slanted eye axis., C)Vertical eye axis., D)Lateral eye axis.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_684.png",
+        "problem": "Is the orientation of the eye axis in the provided image along the vertical or horizontal plane? A)Curved eye axis., B)Tilted eye axis., C)Lateral eye axis., D)Vertical eye axis.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_689.png",
+        "problem": "Is the eye axis in this image horizontally or vertically aligned? A)Vertical eye axis., B)Diagonal eye axis., C)Lateral eye axis., D)Inverted eye axis.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_706.png",
+        "problem": "Is the eye axis in this image aligned horizontally or vertically? A)Angled eye axis., B)Vertical eye axis., C)Curved eye axis., D)Wavy eye axis.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_778.png",
+        "problem": "Is the eye axis in this image vertically oriented or horizontally oriented? A)Wavy eye axis., B)Tilted eye axis., C)Diagonal eye axis., D)Vertical eye axis.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_780.png",
+        "problem": "In this image, what is the orientation of the axis of the eye? A)Tilted eye axis., B)Zigzag eye axis., C)Vertical eye axis., D)Inverted eye axis.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_942.png",
+        "problem": "What is the orientation of the eye axis in this image, horizontal or vertical? A)Curved eye axis., B)Lateral eye axis., C)Slanted eye axis., D)Vertical eye axis.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/test_998.png",
+        "problem": "What is the orientation of the eye axis in this image - vertical or horizontal? A)Zigzag eye axis., B)Inverted eye axis., C)Tilted eye axis., D)Vertical eye axis.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_18267.png",
+        "problem": "What is the orientation of the eye axis in this image, vertically or horizontally? A)Curved eye axis., B)Slanted eye axis., C)Vertical eye axis., D)Tilted eye axis.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_17806.png",
+        "problem": "Is the eye axis in this image horizontally or vertically oriented? A)Crooked eye axis., B)Angled eye axis., C)Wavy eye axis., D)Vertical eye axis.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_13934.png",
+        "problem": "Does the eye axis in this image run vertically or horizontally? A)Vertical eye axis., B)Tilted eye axis., C)Wavy eye axis., D)Curved eye axis.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_4790.png",
+        "problem": "Is the eye axis in this image orientated horizontally or vertically? A)Inverted eye axis., B)Vertical eye axis., C)Slanted eye axis., D)Angled eye axis.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_15944.png",
+        "problem": "Is the eye axis of this image horizontal or vertical? A)Zigzag eye axis., B)Diagonal eye axis., C)Wavy eye axis., D)Vertical eye axis.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_11876.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Wavy eye axis., B)Zigzag eye axis., C)Vertical eye axis., D)Slanted eye axis.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_7466.png",
+        "problem": "In this image, what is the orientation of the axis of the eye? A)Slanted eye axis., B)Inverted eye axis., C)Vertical eye axis., D)Crooked eye axis.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_8225.png",
+        "problem": "Is the eye axis in this image horizontal or vertical? A)Lateral eye axis., B)Angled eye axis., C)Vertical eye axis., D)Crooked eye axis.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_8346.png",
+        "problem": "Is the axis of the eye in the provided picture transverse or longitudinal? A)Vertical eye axis., B)Tilted eye axis., C)Lateral eye axis., D)Wavy eye axis.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_381.png",
+        "problem": "In which orientation is the eye axis depicted in this image? A)Inverted eye axis., B)Slanted eye axis., C)Angled eye axis., D)Vertical eye axis.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_15016.png",
+        "problem": "Is the eye axis in this image positioned vertically or horizontally? A)Vertical eye axis., B)Curved eye axis., C)Angled eye axis., D)Wavy eye axis.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_5267.png",
+        "problem": "Does the eye axis in this image align vertically or horizontally? A)Slanted eye axis., B)Wavy eye axis., C)Vertical eye axis., D)Lateral eye axis.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_11603.png",
+        "problem": "What is the orientation of the eye axis in this image - vertical or horizontal? A)Diagonal eye axis., B)Vertical eye axis., C)Angled eye axis., D)Tilted eye axis.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_1371.png",
+        "problem": "What is the orientation of the eye axis in this image, vertical or horizontal? A)Vertical eye axis., B)Wavy eye axis., C)Slanted eye axis., D)Angled eye axis.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_11643.png",
+        "problem": "Is the eye axis in this image vertically oriented or horizontally oriented? A)Lateral eye axis., B)Zigzag eye axis., C)Crooked eye axis., D)Vertical eye axis.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_15268.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Diagonal eye axis., B)Inverted eye axis., C)Vertical eye axis., D)Lateral eye axis.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_14886.png",
+        "problem": "Is the axis of the eye in the provided picture transverse or longitudinal? A)Wavy eye axis., B)Lateral eye axis., C)Inverted eye axis., D)Vertical eye axis.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_10586.png",
+        "problem": "In this image, what is the orientation of the axis of the eye? A)Zigzag eye axis., B)Curved eye axis., C)Vertical eye axis., D)Lateral eye axis.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_7931.png",
+        "problem": "Is the eye axis in this image vertical or horizontal? A)Wavy eye axis., B)Slanted eye axis., C)Curved eye axis., D)Vertical eye axis.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_7275.png",
+        "problem": "Is the eye axis in this image horizontally oriented or vertically oriented? A)Zigzag eye axis., B)Angled eye axis., C)Vertical eye axis., D)Diagonal eye axis.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_4779.png",
+        "problem": "What is the orientation of the eye axis in the given image? A)Angled eye axis., B)Vertical eye axis., C)Wavy eye axis., D)Crooked eye axis.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_11115.png",
+        "problem": "Is the eye axis in this image oriented vertically or horizontally? A)Slanted eye axis., B)Diagonal eye axis., C)Crooked eye axis., D)Vertical eye axis.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_15978.png",
+        "problem": "Does the eye axis in this image run vertically or horizontally? A)Zigzag eye axis., B)Wavy eye axis., C)Vertical eye axis., D)Crooked eye axis.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_13550.png",
+        "problem": "Which orientation does the eye axis have in this image, horizontal or vertical? A)Zigzag eye axis., B)Inverted eye axis., C)Slanted eye axis., D)Vertical eye axis.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_9786.png",
+        "problem": "What is the orientation of the eye axis in this image - horizontal or vertical? A)Inverted eye axis., B)Tilted eye axis., C)Vertical eye axis., D)Zigzag eye axis.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_9953.png",
+        "problem": "Is the orientation of the eye axis in the provided image along the vertical or horizontal plane? A)Curved eye axis., B)Angled eye axis., C)Lateral eye axis., D)Vertical eye axis.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_15927.png",
+        "problem": "Is the eye axis in this image aligned horizontally or vertically? A)Vertical eye axis., B)Angled eye axis., C)Slanted eye axis., D)Curved eye axis.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_10076.png",
+        "problem": "Which orientation is the eye axis in this image, vertical or horizontal? A)Diagonal eye axis., B)Vertical eye axis., C)Tilted eye axis., D)Zigzag eye axis.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_8528.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Tilted eye axis., B)Vertical eye axis., C)Wavy eye axis., D)Curved eye axis.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_16661.png",
+        "problem": "In this picture, is the axis of the eye aligned horizontally or vertically? A)Crooked eye axis., B)Wavy eye axis., C)Lateral eye axis., D)Vertical eye axis.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_8874.png",
+        "problem": "Does the eye axis in this image run vertically or horizontally? A)Inverted eye axis., B)Zigzag eye axis., C)Lateral eye axis., D)Vertical eye axis.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_5518.png",
+        "problem": "Is the eye axis in this image vertically oriented or horizontally oriented? A)Diagonal eye axis., B)Inverted eye axis., C)Vertical eye axis., D)Crooked eye axis.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_5088.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Diagonal eye axis., B)Crooked eye axis., C)Vertical eye axis., D)Slanted eye axis.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_1390.png",
+        "problem": "Is the eye axis in this image oriented horizontally or vertically? A)Inverted eye axis., B)Vertical eye axis., C)Wavy eye axis., D)Slanted eye axis.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_16709.png",
+        "problem": "Is the eye axis in this image oriented horizontally or vertically? A)Vertical eye axis., B)Angled eye axis., C)Wavy eye axis., D)Crooked eye axis.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_13609.png",
+        "problem": "Is the eye axis in this image orientated horizontally or vertically? A)Vertical eye axis., B)Diagonal eye axis., C)Wavy eye axis., D)Crooked eye axis.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_14752.png",
+        "problem": "Is the axis of the eye in the provided picture transverse or longitudinal? A)Curved eye axis., B)Tilted eye axis., C)Diagonal eye axis., D)Vertical eye axis.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_4019.png",
+        "problem": "Is the eye axis in this image positioned horizontally or vertically? A)Curved eye axis., B)Vertical eye axis., C)Inverted eye axis., D)Angled eye axis.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_1593.png",
+        "problem": "Is the eye axis in the image horizontal or vertical? A)Angled eye axis., B)Vertical eye axis., C)Zigzag eye axis., D)Slanted eye axis.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_5063.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Vertical eye axis., B)Crooked eye axis., C)Slanted eye axis., D)Tilted eye axis.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_6161.png",
+        "problem": "In this image, is the eye axis horizontal or vertical? A)Vertical eye axis., B)Diagonal eye axis., C)Tilted eye axis., D)Wavy eye axis.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_13817.png",
+        "problem": "Is the eye axis in this image horizontally oriented or vertically oriented? A)Inverted eye axis., B)Vertical eye axis., C)Angled eye axis., D)Curved eye axis.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_2248.png",
+        "problem": "Is the eye axis in this image horizontal or vertical in orientation? A)Zigzag eye axis., B)Crooked eye axis., C)Vertical eye axis., D)Wavy eye axis.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_7899.png",
+        "problem": "In this image, what is the orientation of the axis of the eye? A)Slanted eye axis., B)Inverted eye axis., C)Vertical eye axis., D)Crooked eye axis.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_271.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Angled eye axis., B)Vertical eye axis., C)Curved eye axis., D)Inverted eye axis.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_5834.png",
+        "problem": "Is the eye axis in this image positioned vertically or horizontally? A)Vertical eye axis., B)Wavy eye axis., C)Curved eye axis., D)Angled eye axis.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_334.png",
+        "problem": "What is the orientation of the eye axis in this image - vertical or horizontal? A)Crooked eye axis., B)Angled eye axis., C)Vertical eye axis., D)Lateral eye axis.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_17755.png",
+        "problem": "Is the axis of the eye in this image horizontal or vertical? A)Vertical eye axis., B)Angled eye axis., C)Slanted eye axis., D)Zigzag eye axis.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_3522.png",
+        "problem": "Which orientation is the eye axis in this image, vertical or horizontal? A)Crooked eye axis., B)Vertical eye axis., C)Diagonal eye axis., D)Curved eye axis.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_11331.png",
+        "problem": "Is the axis of the eye in the provided picture transverse or longitudinal? A)Crooked eye axis., B)Zigzag eye axis., C)Inverted eye axis., D)Vertical eye axis.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_17686.png",
+        "problem": "Is the eye axis in this image in a vertical or horizontal orientation? A)Tilted eye axis., B)Lateral eye axis., C)Vertical eye axis., D)Zigzag eye axis.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_16930.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Vertical eye axis., B)Tilted eye axis., C)Lateral eye axis., D)Inverted eye axis.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_7160.png",
+        "problem": "What is the orientation of the eye axis in this image, vertical or horizontal? A)Vertical eye axis., B)Diagonal eye axis., C)Slanted eye axis., D)Curved eye axis.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_11638.png",
+        "problem": "Which orientation is the eye axis in this image, vertical or horizontal? A)Inverted eye axis., B)Lateral eye axis., C)Curved eye axis., D)Vertical eye axis.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_10979.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Crooked eye axis., B)Vertical eye axis., C)Slanted eye axis., D)Lateral eye axis.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_7959.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Zigzag eye axis., B)Vertical eye axis., C)Diagonal eye axis., D)Angled eye axis.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_12663.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Diagonal eye axis., B)Vertical eye axis., C)Crooked eye axis., D)Curved eye axis.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_7839.png",
+        "problem": "What is the orientation of the eye axis in this image, horizontal or vertical? A)Vertical eye axis., B)Angled eye axis., C)Tilted eye axis., D)Inverted eye axis.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_4374.png",
+        "problem": "Does the eye axis in this image run horizontally or vertically? A)Slanted eye axis., B)Vertical eye axis., C)Diagonal eye axis., D)Crooked eye axis.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_511.png",
+        "problem": "Which orientation is the eye axis in this image, vertical or horizontal? A)Vertical eye axis., B)Wavy eye axis., C)Diagonal eye axis., D)Lateral eye axis.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_16635.png",
+        "problem": "In this image, is the eye axis horizontal or vertical? A)Diagonal eye axis., B)Tilted eye axis., C)Angled eye axis., D)Vertical eye axis.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_6884.png",
+        "problem": "Is the eye axis of this image horizontal or vertical? A)Tilted eye axis., B)Diagonal eye axis., C)Vertical eye axis., D)Slanted eye axis.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_11896.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Slanted eye axis., B)Zigzag eye axis., C)Vertical eye axis., D)Diagonal eye axis.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_2773.png",
+        "problem": "In this picture, is the axis of the eye aligned horizontally or vertically? A)Crooked eye axis., B)Vertical eye axis., C)Angled eye axis., D)Zigzag eye axis.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_5995.png",
+        "problem": "In this picture, is the axis of the eye aligned horizontally or vertically? A)Crooked eye axis., B)Tilted eye axis., C)Curved eye axis., D)Vertical eye axis.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_374.png",
+        "problem": "In this picture, is the axis of the eye aligned horizontally or vertically? A)Tilted eye axis., B)Vertical eye axis., C)Angled eye axis., D)Wavy eye axis.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_16914.png",
+        "problem": "What orientation is the eye axis in this image: horizontal or vertical? A)Wavy eye axis., B)Angled eye axis., C)Vertical eye axis., D)Inverted eye axis.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_12931.png",
+        "problem": "What is the orientation of the eye axis in this image, vertically or horizontally? A)Curved eye axis., B)Angled eye axis., C)Vertical eye axis., D)Zigzag eye axis.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Yangxi/train_6708.png",
+        "problem": "Determine whether the eye axis in this image is horizontal or vertical? A)Slanted eye axis., B)Curved eye axis., C)Lateral eye axis., D)Vertical eye axis.",
+        "solution": "<answer> D </answer>"
+    }
+]

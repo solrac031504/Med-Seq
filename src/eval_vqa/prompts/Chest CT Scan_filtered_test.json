@@ -1,0 +1,912 @@
+[
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000139 (9).png",
+        "problem": "What imaging technique is employed for obtaining this image? A)Mammogram, B)Positron emission tomography (PET), C)CT, D)Fluoroscopy",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000177.png",
+        "problem": "What stage and type of cancer is identified in the image? A)Neuroendocrine tumor of the left upper lobe, T3 N0 M1, Stage III, B)Small cell lung carcinoma of the right middle lobe, T1 N0 M0, Stage Ia, C)Mesothelioma of the left lower lobe, T2 N0 M0, Stage Ib, D)Adenocarcinoma of the left lower lobe, T2 N0 M0, Stage Ib",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000122.png",
+        "problem": "What is the specific type and stage of cancer found in the image? A)Small cell lung carcinoma of the right middle lobe, T1 N0 M0, Stage Ia, B)Neuroendocrine tumor of the left upper lobe, T3 N0 M1, Stage III, C)Adenocarcinoma of the left lower lobe, T2 N0 M0, Stage Ib, D)Squamous cell carcinoma of the right upper lobe, T3 N1 M1, Stage IV",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000123 (4).png",
+        "problem": "What type of cancer is present in this image? A)Adenocarcinoma of the left lower lobe, T2 N0 M0, Stage Ib, B)Squamous cell carcinoma of the right upper lobe, T3 N1 M1, Stage IV, C)Non-Hodgkin lymphoma of the right lower lobe, T2 N1 M0, Stage II, D)Neuroendocrine tumor of the left upper lobe, T3 N0 M1, Stage III",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000166 (4).png",
+        "problem": "What is the specific diagnosis for the cancer depicted in this image? A)Mesothelioma of the left lower lobe, T2 N0 M0, Stage Ib, B)Adenocarcinoma of the left lower lobe, T2 N0 M0, Stage Ib, C)Non-Hodgkin lymphoma of the right lower lobe, T2 N1 M0, Stage II, D)Squamous cell carcinoma of the right upper lobe, T3 N1 M1, Stage IV",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000149 (7).png",
+        "problem": "What is the specific diagnosis for the cancer seen in this image? A)Neuroendocrine tumor of the left upper lobe, T3 N0 M1, Stage III, B)Squamous cell carcinoma of the right upper lobe, T3 N1 M1, Stage IV, C)Non-Hodgkin lymphoma of the right lower lobe, T2 N1 M0, Stage II, D)Adenocarcinoma of the left lower lobe, T2 N0 M0, Stage Ib",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000114 (5).png",
+        "problem": "What type of cancer is present in this image? A)Small cell lung carcinoma of the right middle lobe, T1 N0 M0, Stage Ia, B)Non-Hodgkin lymphoma of the right lower lobe, T2 N1 M0, Stage II, C)Squamous cell carcinoma of the right upper lobe, T3 N1 M1, Stage IV, D)Adenocarcinoma of the left lower lobe, T2 N0 M0, Stage Ib",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000125 (2).png",
+        "problem": "What type of cancer is present in this image? A)Adenocarcinoma of the left lower lobe, T2 N0 M0, Stage Ib, B)Mesothelioma of the left lower lobe, T2 N0 M0, Stage Ib, C)Non-Hodgkin lymphoma of the right lower lobe, T2 N1 M0, Stage II, D)Squamous cell carcinoma of the right upper lobe, T3 N1 M1, Stage IV",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000123 (9).png",
+        "problem": "What is the specific type and stage of cancer found in the image? A)Squamous cell carcinoma of the right upper lobe, T3 N1 M1, Stage IV, B)Non-Hodgkin lymphoma of the right lower lobe, T2 N1 M0, Stage II, C)Neuroendocrine tumor of the left upper lobe, T3 N0 M1, Stage III, D)Adenocarcinoma of the left lower lobe, T2 N0 M0, Stage Ib",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000117 (8).png",
+        "problem": "What type of cancer is present in this image? A)Adenocarcinoma of the left lower lobe, T2 N0 M0, Stage Ib, B)Squamous cell carcinoma of the right upper lobe, T3 N1 M1, Stage IV, C)Mesothelioma of the left lower lobe, T2 N0 M0, Stage Ib, D)Small cell lung carcinoma of the right middle lobe, T1 N0 M0, Stage Ia",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000139 (6).png",
+        "problem": "What is the diagnosis for the cancer shown in this image? A)Non-Hodgkin lymphoma of the right lower lobe, T2 N1 M0, Stage II, B)Adenocarcinoma of the left lower lobe, T2 N0 M0, Stage Ib, C)Squamous cell carcinoma of the right upper lobe, T3 N1 M1, Stage IV, D)Mesothelioma of the left lower lobe, T2 N0 M0, Stage Ib",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000135 (5).png",
+        "problem": "What is the specific cancer diagnosis for the tumor in the image? A)Adenocarcinoma of the left lower lobe, T2 N0 M0, Stage Ib, B)Non-Hodgkin lymphoma of the right lower lobe, T2 N1 M0, Stage II, C)Mesothelioma of the left lower lobe, T2 N0 M0, Stage Ib, D)Small cell lung carcinoma of the right middle lobe, T1 N0 M0, Stage Ia",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000151 (5).png",
+        "problem": "What is the specific diagnosis of cancer depicted in this image? A)Mesothelioma of the left lower lobe, T2 N0 M0, Stage Ib, B)Non-Hodgkin lymphoma of the right lower lobe, T2 N1 M0, Stage II, C)Adenocarcinoma of the left lower lobe, T2 N0 M0, Stage Ib, D)Squamous cell carcinoma of the right upper lobe, T3 N1 M1, Stage IV",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000166 (3).png",
+        "problem": "What is the specific diagnosis for the cancer observed in the image? A)Adenocarcinoma of the left lower lobe, T2 N0 M0, Stage Ib, B)Non-Hodgkin lymphoma of the right lower lobe, T2 N1 M0, Stage II, C)Squamous cell carcinoma of the right upper lobe, T3 N1 M1, Stage IV, D)Mesothelioma of the left lower lobe, T2 N0 M0, Stage Ib",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000117 (4).png",
+        "problem": "What is the specific stage and type of cancer found in the image? A)Mesothelioma of the left lower lobe, T2 N0 M0, Stage Ib, B)Neuroendocrine tumor of the left upper lobe, T3 N0 M1, Stage III, C)Non-Hodgkin lymphoma of the right lower lobe, T2 N1 M0, Stage II, D)Adenocarcinoma of the left lower lobe, T2 N0 M0, Stage Ib",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000116 (9).png",
+        "problem": "What type of cancer is present in this image? A)Squamous cell carcinoma of the right upper lobe, T3 N1 M1, Stage IV, B)Mesothelioma of the left lower lobe, T2 N0 M0, Stage Ib, C)Neuroendocrine tumor of the left upper lobe, T3 N0 M1, Stage III, D)Adenocarcinoma of the left lower lobe, T2 N0 M0, Stage Ib",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000147.png",
+        "problem": "What is the specific diagnosis of the cancer shown in this image? A)Non-Hodgkin lymphoma of the right lower lobe, T2 N1 M0, Stage II, B)Small cell lung carcinoma of the right middle lobe, T1 N0 M0, Stage Ia, C)Adenocarcinoma of the left lower lobe, T2 N0 M0, Stage Ib, D)Neuroendocrine tumor of the left upper lobe, T3 N0 M1, Stage III",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000116 (7).png",
+        "problem": "What is the specific diagnosis of the cancer seen in this image? A)Neuroendocrine tumor of the left upper lobe, T3 N0 M1, Stage III, B)Adenocarcinoma of the left lower lobe, T2 N0 M0, Stage Ib, C)Non-Hodgkin lymphoma of the right lower lobe, T2 N1 M0, Stage II, D)Squamous cell carcinoma of the right upper lobe, T3 N1 M1, Stage IV",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000155 (4).png",
+        "problem": "What kind of malignancy does the picture depict, specifically located in the left lung's lower section, and how is it classified in terms of tumor size, nodal involvement, and metastasis? A)Adenocarcinoma of the left lower lobe, T2 N0 M0, Stage Ib, B)Small cell lung carcinoma of the right middle lobe, T1 N0 M0, Stage Ia, C)Non-Hodgkin lymphoma of the right lower lobe, T2 N1 M0, Stage II, D)Squamous cell carcinoma of the right upper lobe, T3 N1 M1, Stage IV",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/val/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000115.png",
+        "problem": "What is the specific cancer diagnosis for the image? A)Mesothelioma of the left lower lobe, T2 N0 M0, Stage Ib, B)Adenocarcinoma of the left lower lobe, T2 N0 M0, Stage Ib, C)Small cell lung carcinoma of the right middle lobe, T1 N0 M0, Stage Ia, D)Non-Hodgkin lymphoma of the right lower lobe, T2 N1 M0, Stage II",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/val/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000114.png",
+        "problem": "What is the specific type and stage of cancer seen in this image? A)Neuroendocrine tumor of the left upper lobe, T3 N0 M1, Stage III, B)Small cell lung carcinoma of the right middle lobe, T1 N0 M0, Stage Ia, C)Adenocarcinoma of the left lower lobe, T2 N0 M0, Stage Ib, D)Non-Hodgkin lymphoma of the right lower lobe, T2 N1 M0, Stage II",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/val/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000114 (10).png",
+        "problem": "What is the specific diagnosis of the cancer depicted in this image? A)Squamous cell carcinoma of the right upper lobe, T3 N1 M1, Stage IV, B)Neuroendocrine tumor of the left upper lobe, T3 N0 M1, Stage III, C)Adenocarcinoma of the left lower lobe, T2 N0 M0, Stage Ib, D)Mesothelioma of the left lower lobe, T2 N0 M0, Stage Ib",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/val/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000116 (3).png",
+        "problem": "What type of cancer is present in this image? A)Neuroendocrine tumor of the left upper lobe, T3 N0 M1, Stage III, B)Adenocarcinoma of the left lower lobe, T2 N0 M0, Stage Ib, C)Small cell lung carcinoma of the right middle lobe, T1 N0 M0, Stage Ia, D)Non-Hodgkin lymphoma of the right lower lobe, T2 N1 M0, Stage II",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000174 (4).png",
+        "problem": "What is the stage of the cancer depicted in the provided image? A)Stage 0, B)Stage Ib, C)Stage IIc, D)Stage IIb",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000125 (5).png",
+        "problem": "What is the specific stage of cancer seen in the image? A)Stage IIIb, B)Stage IIIa, C)Stage Ib, D)Stage IV",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000161 (4).png",
+        "problem": "What stage does the cancer in the image correspond to? A)Stage IV, B)Stage IIa, C)Stage IIc, D)Stage Ib",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000133 (2).png",
+        "problem": "What is the specific stage of the cancer shown in the image? A)Stage Ib, B)Stage IIa, C)Stage Ic, D)Stage IIc",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000158 (6).png",
+        "problem": "What is the assigned stage of the cancer depicted in this image? A)Stage IIIc, B)Stage Ic, C)Stage Ib, D)Stage IIIa",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000132 (2).png",
+        "problem": "In what stage is the cancer depicted in the provided image? A)Stage IIc, B)Stage Ib, C)Stage Ia, D)Stage Ic",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000119 (6).png",
+        "problem": "What is the cancer stage depicted in this image? A)Stage IV, B)Stage IIb, C)Stage Ib, D)Stage IIa",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000129 (5).png",
+        "problem": "What is the specific stage indicated by the cancer in this image? A)Stage Ib, B)Stage Ia, C)Stage IIb, D)Stage IIa",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000109 (5).png",
+        "problem": "At what stage is the cancer depicted in the image? A)Stage IIIa, B)Stage Ia, C)Stage IIc, D)Stage Ib",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000127 (5).png",
+        "problem": "What is the specific stage assigned to the cancer depicted in the image? A)Stage IIb, B)Stage IIIb, C)Stage IV, D)Stage Ib",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000133 (4).png",
+        "problem": "What stage is depicted in this image of cancer? A)Stage Ib, B)Stage Ia, C)Stage IV, D)Stage IIIc",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000119 (4).png",
+        "problem": "What is the specific stage of the cancer depicted in this image? A)Stage 0, B)Stage Ic, C)Stage Ia, D)Stage Ib",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000149 (7).png",
+        "problem": "What is the level of cancer progression depicted in this image? A)Stage IIb, B)Stage Ib, C)Stage IIc, D)Stage IIIc",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000125 (4).png",
+        "problem": "What stage is depicted in the image of this cancer? A)Stage IIIa, B)Stage Ib, C)Stage IIc, D)Stage IIIc",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000160 (6).png",
+        "problem": "What is the specific stage of cancer depicted in the image? A)Stage Ib, B)Stage 0, C)Stage IIb, D)Stage Ic",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000139 (5).png",
+        "problem": "What stage does this image of cancer indicate? A)Stage IIIb, B)Stage Ib, C)Stage IIa, D)Stage IIc",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000156 (4).png",
+        "problem": "What is the specific stage of the cancer depicted in the image? A)Stage IIIc, B)Stage Ib, C)Stage IIc, D)Stage IIa",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000144 (2).png",
+        "problem": "What is the specific stage of the cancer depicted in the image? A)Stage IV, B)Stage IIa, C)Stage IIIc, D)Stage Ib",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000132 (7).png",
+        "problem": "What is the specific stage of the cancer depicted in the image? A)Stage 0, B)Stage IIc, C)Stage IIIa, D)Stage Ib",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000132 (8).png",
+        "problem": "What stage is the cancer depicted in the image? A)Stage Ia, B)Stage Ib, C)Stage IIIa, D)Stage IIc",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/val/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000113.png",
+        "problem": "What stage of cancer is depicted in this image? A)Stage IV, B)Stage Ib, C)Stage Ic, D)Stage IIc",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/val/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000113 (3).png",
+        "problem": "What stage does the cancer depicted in this photograph correspond to? A)Stage Ic, B)Stage Ib, C)Stage 0, D)Stage Ia",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/val/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000112 (9).png",
+        "problem": "What is the specific stage classification of the cancer depicted in this image? A)Stage IIc, B)Stage Ib, C)Stage IIIc, D)Stage 0",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/val/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000112 (2).png",
+        "problem": "What is the level of cancer progression depicted in this image? A)Stage IIb, B)Stage Ib, C)Stage IV, D)Stage 0",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/val/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000114.png",
+        "problem": "What is the specific stage assigned to the cancer depicted in the image? A)Stage IIb, B)Stage IIIa, C)Stage Ib, D)Stage Ia",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000139.png",
+        "problem": "What is the diagnosis for the cancer seen in this image? A)Adenocarcinoma of the left lower lobe, B)Squamous cell carcinoma of the left lower lobe, C)Mesothelioma of the pleura, D)Metastatic carcinoma of the liver",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000161 (4).png",
+        "problem": "What specific attributes can be observed in the cancer depicted in this image? A)Benign lung nodule of the left lower lobe, B)Adenocarcinoma of the right upper lobe, C)Carcinoid tumor of the right lower lobe, D)Adenocarcinoma of the left lower lobe",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000158.png",
+        "problem": "What is the specific type of cancer observed in the image? A)Small cell carcinoma of the left upper lobe, B)Lymphoma of the mediastinum, C)Adenocarcinoma of the left lower lobe, D)Non-small cell carcinoma of the left lower lobe",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000158 (3).png",
+        "problem": "What is the specific diagnosis of the cancer observed in this image? A)Adenocarcinoma of the left lower lobe, B)Mesothelioma of the pleura, C)Non-small cell carcinoma of the left lower lobe, D)Small cell carcinoma of the left upper lobe",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000171.png",
+        "problem": "What type of cancer is present in the image and where is it located? A)Lymphoma of the mediastinum, B)Adenocarcinoma of the left lower lobe, C)Adenocarcinoma of the right upper lobe, D)Squamous cell carcinoma of the left lower lobe",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000132 (2).png",
+        "problem": "What is the specific type of cancer observed in the image? A)Small cell carcinoma of the left upper lobe, B)Lymphoma of the mediastinum, C)Squamous cell carcinoma of the left lower lobe, D)Adenocarcinoma of the left lower lobe",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000129 (5).png",
+        "problem": "What are the particular characteristics of the cancer depicted in this image? A)Carcinoid tumor of the right lower lobe, B)Non-small cell carcinoma of the left lower lobe, C)Adenocarcinoma of the left lower lobe, D)Squamous cell carcinoma of the left lower lobe",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000149 (7).png",
+        "problem": "What are the distinctive characteristics of the cancer depicted in this image? A)Pulmonary embolism in the left lower lobe, B)Squamous cell carcinoma of the left lower lobe, C)Carcinoid tumor of the right lower lobe, D)Adenocarcinoma of the left lower lobe",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000137 (8).png",
+        "problem": "What can you tell me about the cancer seen in this image? A)Non-small cell carcinoma of the left lower lobe, B)Adenocarcinoma of the left lower lobe, C)Metastatic carcinoma of the liver, D)Benign lung nodule of the left lower lobe",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000116 (5).png",
+        "problem": "What specific attributes can you identify in the cancer shown in this image? A)Metastatic carcinoma of the liver, B)Adenocarcinoma of the left lower lobe, C)Benign lung nodule of the left lower lobe, D)Small cell carcinoma of the left upper lobe",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000119 (5).png",
+        "problem": "What can you tell me about the characteristics of the cancer seen in this image? A)Benign lung nodule of the left lower lobe, B)Adenocarcinoma of the right upper lobe, C)Adenocarcinoma of the left lower lobe, D)Mesothelioma of the pleura",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000157 (6).png",
+        "problem": "What are the characteristic features of the cancer observed in this image? A)Metastatic carcinoma of the liver, B)Pulmonary embolism in the left lower lobe, C)Lymphoma of the mediastinum, D)Adenocarcinoma of the left lower lobe",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000135 (5).png",
+        "problem": "What are the characteristics of the cancer observed in the image? A)Pulmonary embolism in the left lower lobe, B)Adenocarcinoma of the left lower lobe, C)Mesothelioma of the pleura, D)Benign lung nodule of the left lower lobe",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000130 (6).png",
+        "problem": "What is the specific type of cancer seen in this image? A)Adenocarcinoma of the right upper lobe, B)Adenocarcinoma of the left lower lobe, C)Non-small cell carcinoma of the left lower lobe, D)Pulmonary embolism in the left lower lobe",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000144 (5).png",
+        "problem": "What is the specific diagnosis for the cancer shown in this image? A)Benign lung nodule of the left lower lobe, B)Squamous cell carcinoma of the left lower lobe, C)Metastatic carcinoma of the liver, D)Adenocarcinoma of the left lower lobe",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000167 (8).png",
+        "problem": "Can you describe any specific attributes of the cancer in this image? A)Pulmonary embolism in the left lower lobe, B)Adenocarcinoma of the left lower lobe, C)Mesothelioma of the pleura, D)Benign lung nodule of the left lower lobe",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000118 (5).png",
+        "problem": "What are the characteristic features of the cancer seen in this image? A)Metastatic carcinoma of the liver, B)Squamous cell carcinoma of the left lower lobe, C)Adenocarcinoma of the left lower lobe, D)Pulmonary embolism in the left lower lobe",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000138 (9).png",
+        "problem": "What is the specific type of cancer seen in the image? A)Adenocarcinoma of the right upper lobe, B)Adenocarcinoma of the left lower lobe, C)Benign lung nodule of the left lower lobe, D)Mesothelioma of the pleura",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000144 (2).png",
+        "problem": "What are the distinct characteristics of the cancer shown in this image? A)Adenocarcinoma of the right upper lobe, B)Lymphoma of the mediastinum, C)Adenocarcinoma of the left lower lobe, D)Benign lung nodule of the left lower lobe",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000114.png",
+        "problem": "What specific attributes can you identify in the cancer seen in this image? A)Lymphoma of the mediastinum, B)Adenocarcinoma of the left lower lobe, C)Metastatic carcinoma of the liver, D)Adenocarcinoma of the right upper lobe",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000148 (6).png",
+        "problem": "What are the defining characteristics of the cancer depicted in this image? A)Adenocarcinoma of the left lower lobe, B)Carcinoid tumor of the right lower lobe, C)Benign lung nodule of the left lower lobe, D)Mesothelioma of the pleura",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/val/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000115 (2).png",
+        "problem": "What specific characteristics can be observed in the cancer present in this image? A)Adenocarcinoma of the left lower lobe, B)Mesothelioma of the pleura, C)Metastatic carcinoma of the liver, D)Small cell carcinoma of the left upper lobe",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/val/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000109 (3).png",
+        "problem": "What is the specific diagnosis for the cancer shown in this image? A)Metastatic carcinoma of the liver, B)Mesothelioma of the pleura, C)Adenocarcinoma of the right upper lobe, D)Adenocarcinoma of the left lower lobe",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000132 (2).png",
+        "problem": "What is the specific diagnosis for the disease shown in this image? A)Large cell carcinoma of the left hilum, T2 N2 M0, Stage IIIa, B)Small cell carcinoma of the right hilum, T1 N0 M1, Stage IV, C)Melanoma of the lung, T3 N0 M0, Stage IIb, D)Mesothelioma of the right hilum, T2 N1 M0, Stage IIb",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000111.png",
+        "problem": "What is the specific diagnosis for the cancer shown in this image? A)Melanoma of the lung, T3 N0 M0, Stage IIb, B)Squamous cell carcinoma of the left hilum, T2 N2 M0, Stage IIIa, C)Metastatic carcinoma of the liver, T0 N0 M1, Stage IV, D)Large cell carcinoma of the left hilum, T2 N2 M0, Stage IIIa",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000130.png",
+        "problem": "What is the specific diagnosis of the cancer shown in this image? A)Large cell carcinoma of the left hilum, T2 N2 M0, Stage IIIa, B)Lymphoma of the left hilum, T2 N2 M0, Stage IIIa, C)Adenocarcinoma of the right hilum, T3 N1 M0, Stage IIb, D)Carcinoid tumor of the left hilum, T2 N2 M0, Stage IIIa",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000120.png",
+        "problem": "Identify the cancer type shown in this picture, including its location, size, lymph node involvement, metastasis presence, and stage. A)Lymphoma of the left hilum, T2 N2 M0, Stage IIIa, B)Large cell carcinoma of the left hilum, T2 N2 M0, Stage IIIa, C)Metastatic carcinoma of the liver, T0 N0 M1, Stage IV, D)Small cell carcinoma of the right hilum, T1 N0 M1, Stage IV",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000147 (2).png",
+        "problem": "Identify the cancer type and stage shown in the provided image of the left lower lobe. A)Small cell carcinoma of the right hilum, T1 N0 M1, Stage IV, B)Lymphoma of the left hilum, T2 N2 M0, Stage IIIa, C)Mesothelioma of the right hilum, T2 N1 M0, Stage IIb, D)Large cell carcinoma of the left hilum, T2 N2 M0, Stage IIIa",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000128 (2).png",
+        "problem": "What is the diagnosis for the cancer depicted in this image? A)Adenocarcinoma of the right hilum, T3 N1 M0, Stage IIb, B)Melanoma of the lung, T3 N0 M0, Stage IIb, C)Carcinoid tumor of the left hilum, T2 N2 M0, Stage IIIa, D)Large cell carcinoma of the left hilum, T2 N2 M0, Stage IIIa",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000154 (2).png",
+        "problem": "What is the diagnosis of the cancer seen in the image? A)Non-small cell carcinoma of the left hilum, T2 N0 M0, Stage I, B)Carcinoid tumor of the left hilum, T2 N2 M0, Stage IIIa, C)Squamous cell carcinoma of the left hilum, T2 N2 M0, Stage IIIa, D)Large cell carcinoma of the left hilum, T2 N2 M0, Stage IIIa",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000124 (2).png",
+        "problem": "Identify the specific cancer type depicted in the provided image, including its location, TNM classification, and stage. A)Melanoma of the lung, T3 N0 M0, Stage IIb, B)Small cell carcinoma of the right hilum, T1 N0 M1, Stage IV, C)Metastatic carcinoma of the liver, T0 N0 M1, Stage IV, D)Large cell carcinoma of the left hilum, T2 N2 M0, Stage IIIa",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000115 (2).png",
+        "problem": "What is the specific diagnosis for the cancer depicted in this image? A)Large cell carcinoma of the left hilum, T2 N2 M0, Stage IIIa, B)Carcinoid tumor of the left hilum, T2 N2 M0, Stage IIIa, C)Adenocarcinoma of the right hilum, T3 N1 M0, Stage IIb, D)Small cell carcinoma of the right hilum, T1 N0 M1, Stage IV",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000150.png",
+        "problem": "What is the specific diagnosis of the cancer shown in this image? A)Large cell carcinoma of the left hilum, T2 N2 M0, Stage IIIa, B)Sarcoma of the right hilum, T2 N1 M0, Stage IIb, C)Metastatic carcinoma of the liver, T0 N0 M1, Stage IV, D)Non-small cell carcinoma of the left hilum, T2 N0 M0, Stage I",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/val/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000131.png",
+        "problem": "Identify the cancer classification depicted in this photograph. A)Large cell carcinoma of the left hilum, T2 N2 M0, Stage IIIa, B)Squamous cell carcinoma of the left hilum, T2 N2 M0, Stage IIIa, C)Non-small cell carcinoma of the left hilum, T2 N0 M0, Stage I, D)Sarcoma of the right hilum, T2 N1 M0, Stage IIb",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/val/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000113.png",
+        "problem": "What stage and type of cancer is depicted in this image? A)Large cell carcinoma of the left hilum, T2 N2 M0, Stage IIIa, B)Sarcoma of the right hilum, T2 N1 M0, Stage IIb, C)Mesothelioma of the right hilum, T2 N1 M0, Stage IIb, D)Melanoma of the lung, T3 N0 M0, Stage IIb",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/val/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000111.png",
+        "problem": "What is the specific diagnosis for the cancer depicted in this image? A)Large cell carcinoma of the left hilum, T2 N2 M0, Stage IIIa, B)Melanoma of the lung, T3 N0 M0, Stage IIb, C)Small cell carcinoma of the right hilum, T1 N0 M1, Stage IV, D)Adenocarcinoma of the right hilum, T3 N1 M0, Stage IIb",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000173 (2).png",
+        "problem": "At what stage is the cancer depicted in this image? A)Stage IIId, B)Stage IIIa, C)Stage Ic, D)Stage IIIc",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000132 (2).png",
+        "problem": "What stage is depicted in this image of cancer? A)Stage IIb, B)Stage IVb, C)Stage IIIa, D)Stage IVa",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000163.png",
+        "problem": "What stage is the cancer depicted in this image? A)Stage IVc, B)Stage Ib, C)Stage IIId, D)Stage IIIa",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000122.png",
+        "problem": "What is the stage of the displayed cancer? A)Stage IIIa, B)Stage IIId, C)Stage IIIc, D)Stage IVc",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000143.png",
+        "problem": "What stage is the cancer depicted in the image? A)Stage IVb, B)Stage IVd, C)Stage IVc, D)Stage IIIa",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000133 (2).png",
+        "problem": "What stage is indicated in the image of this cancer? A)Stage Ic, B)Stage IIIa, C)Stage IIId, D)Stage IIb",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000110.png",
+        "problem": "What stage is depicted in this image of cancer? A)Stage IIId, B)Stage IIIa, C)Stage IIIc, D)Stage IVa",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000172 (2).png",
+        "problem": "What stage does the cancer in this image correspond to? A)Stage IIIa, B)Stage IIIc, C)Stage IVa, D)Stage Ic",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000149.png",
+        "problem": "What stage of cancer does this image depict? A)Stage IVb, B)Stage IIId, C)Stage IIb, D)Stage IIIa",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000162.png",
+        "problem": "What stage does this image of cancer indicate? A)Stage IIIa, B)Stage IIId, C)Stage IIId, D)Stage IVb",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/val/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000108.png",
+        "problem": "Identify the cancer stage depicted in this photograph. A)Stage IVa, B)Stage IIIa, C)Stage IVc, D)Stage Ib",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/val/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000118 (2).png",
+        "problem": "What stage is the cancer depicted in the image? A)Stage Ib, B)Stage IVc, C)Stage IIIa, D)Stage IVa",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/val/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000111.png",
+        "problem": "What stage of cancer is depicted in this picture? A)Stage IIb, B)Stage IIId, C)Stage IIIa, D)Stage IVb",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000111.png",
+        "problem": "What are the specific attributes that can be observed in the cancer shown in this image? A)Squamous cell carcinoma of the right hilum, B)Adenocarcinoma of the right hilum, C)Small cell carcinoma of the left hilum, D)Large cell carcinoma of the left hilum",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000160.png",
+        "problem": "What specific characteristics can be observed in the cancer depicted in the image? A)Squamous cell carcinoma of the right hilum, B)Large cell carcinoma of the left hilum, C)Adenocarcinoma of the right hilum, D)Small cell carcinoma of the left hilum",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000128 (2).png",
+        "problem": "What are the characteristics of the cancer observed in this image? A)Large cell carcinoma of the left hilum, B)Squamous cell carcinoma of the right hilum, C)Metastatic lung cancer of the left hilum, D)Non-cancerous mass of the left hilum",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000158.png",
+        "problem": "What are the specific attributes of the cancer observed in this image? A)Small cell carcinoma of the left hilum, B)Non-cancerous mass of the left hilum, C)Metastatic lung cancer of the left hilum, D)Large cell carcinoma of the left hilum",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000111 (2).png",
+        "problem": "What type of cancer is depicted in this image, specifically noting its location? A)Large cell carcinoma of the left hilum, B)Squamous cell carcinoma of the right hilum, C)Non-cancerous mass of the left hilum, D)Adenocarcinoma of the right hilum",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000138 (2).png",
+        "problem": "What specific characteristics can be observed in the cancer depicted in this image? A)Small cell carcinoma of the left hilum, B)Metastatic lung cancer of the left hilum, C)Large cell carcinoma of the left hilum, D)Squamous cell carcinoma of the right hilum",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/val/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000108.png",
+        "problem": "What are the characteristics of the cancer depicted in this image? A)Squamous cell carcinoma of the right hilum, B)Metastatic lung cancer of the left hilum, C)Non-cancerous mass of the left hilum, D)Large cell carcinoma of the left hilum",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/val/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000126.png",
+        "problem": "What are the specific attributes of the cancer visible in this image? A)Metastatic lung cancer of the left hilum, B)Large cell carcinoma of the left hilum, C)Small cell carcinoma of the left hilum, D)Non-cancerous mass of the left hilum",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/val/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000115.png",
+        "problem": "What are the characteristics of the cancer observed in this image? A)Small cell carcinoma of the left hilum, B)Non-cancerous mass of the left hilum, C)Metastatic lung cancer of the left hilum, D)Large cell carcinoma of the left hilum",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/val/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000118 (2).png",
+        "problem": "What are the distinctive characteristics of the cancer shown in this image? A)Large cell carcinoma of the left hilum, B)Non-cancerous mass of the left hilum, C)Metastatic lung cancer of the left hilum, D)Small cell carcinoma of the left hilum",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/normal/6.png",
+        "problem": "Does the CT scan suggest the presence of cancer in the patient? A)Yes., B)No",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/normal/10 - Copy (2) - Copy.png",
+        "problem": "Is the presence of cancer indicated in this CT image of the patient? A)Yes., B)No",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/normal/7.png",
+        "problem": "Could this CT image suggest the presence of cancer in the patient? A)No, B)Yes.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/normal/6 - Copy (3).png",
+        "problem": "Does this CT image suggest that the patient is suffering from cancer? A)Yes., B)No",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/normal/7 - Copy - Copy.png",
+        "problem": "Could this CT image suggest that the patient has cancer? A)Yes., B)No",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/normal/25.png",
+        "problem": "Is this CT image indicative of a patient being infected by cancer? A)No, B)Yes.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/normal/8 - Copy - Copy.png",
+        "problem": "Is this CT image indicative of a patient being infected by cancer? A)No, B)Yes.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/normal/11 - Copy (3).png",
+        "problem": "Does this CT scan suggest the patient has a cancerous condition? A)Yes., B)No",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/normal/11 - Copy (2).png",
+        "problem": "Is this CT image indicative of a patient being infected by cancer? A)No, B)Yes.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/normal/8 (2) - Copy.png",
+        "problem": "Does this CT image suggest that the patient is afflicted with cancer? A)No, B)Yes.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/val/normal/004007_01_01_519.png",
+        "problem": "Does this CT image suggest that the patient has cancer? A)No, B)Yes.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/val/normal/4 - Copy (2).png",
+        "problem": "Does this CT image provide evidence of cancer in the patient? A)Yes., B)No",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/val/normal/004162_01_01_150.png",
+        "problem": "Is this CT image indicative of a patient being infected by cancer? A)No, B)Yes.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/val/normal/5.png",
+        "problem": "Is this CT image indicative of a patient being infected by cancer? A)No, B)Yes.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/val/normal/7 - Copy (3).png",
+        "problem": "Is this CT image indicative of a patient being infected by cancer? A)Yes., B)No",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000129 (6).png",
+        "problem": "What is the diagnosis for the cancer shown in the image? A)Renal cell carcinoma of the left hilum, T2 N1 M0, Stage II, B)Non-Hodgkin lymphoma of the right hilum, T1 N0 M1, Stage IV, C)Squamous cell carcinoma of the left hilum, T1 N2 M0, Stage IIIa, D)Basal cell carcinoma of the left hilum, T0 N2 M0, Stage IIb",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000110 (2).png",
+        "problem": "What is the diagnosis of the cancer in this image? A)Mesothelioma of the right hilum, T3 N1 M0, Stage IIIb, B)Squamous cell carcinoma of the left hilum, T1 N2 M0, Stage IIIa, C)Adenocarcinoma of the right hilum, T1 N1 M1, Stage IV, D)Metastatic breast cancer to the left hilum, T0 N3 M0, Stage IIIc",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000127 (2).png",
+        "problem": "What is the diagnosis for the cancer seen in this image? A)Mesothelioma of the right hilum, T3 N1 M0, Stage IIIb, B)Melanoma of the right hilum, T3 N2 M1, Stage IV, C)Squamous cell carcinoma of the left hilum, T1 N2 M0, Stage IIIa, D)Gastrointestinal stromal tumor (GIST) of the left hilum, T1 N0 M0, Stage I",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000136 (6).png",
+        "problem": "What is the specific diagnosis for the malignancy seen in this image? A)Metastatic breast cancer to the left hilum, T0 N3 M0, Stage IIIc, B)Squamous cell carcinoma of the left hilum, T1 N2 M0, Stage IIIa, C)Melanoma of the right hilum, T3 N2 M1, Stage IV, D)Mesothelioma of the right hilum, T3 N1 M0, Stage IIIb",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000142 (6).png",
+        "problem": "What is the specific diagnosis of the cancer seen in this image? A)Small cell lung cancer of the left hilum, T2 N0 M0, Stage I, B)Non-Hodgkin lymphoma of the right hilum, T1 N0 M1, Stage IV, C)Gastrointestinal stromal tumor (GIST) of the left hilum, T1 N0 M0, Stage I, D)Squamous cell carcinoma of the left hilum, T1 N2 M0, Stage IIIa",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000135 (4).png",
+        "problem": "What is the specific diagnosis of the cancer shown in this image? A)Melanoma of the right hilum, T3 N2 M1, Stage IV, B)Non-Hodgkin lymphoma of the right hilum, T1 N0 M1, Stage IV, C)Adenocarcinoma of the right hilum, T1 N1 M1, Stage IV, D)Squamous cell carcinoma of the left hilum, T1 N2 M0, Stage IIIa",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000155 (3).png",
+        "problem": "What is the diagnosis for the cancer depicted in this image? A)Non-Hodgkin lymphoma of the right hilum, T1 N0 M1, Stage IV, B)Squamous cell carcinoma of the left hilum, T1 N2 M0, Stage IIIa, C)Adenocarcinoma of the right hilum, T1 N1 M1, Stage IV, D)Basal cell carcinoma of the left hilum, T0 N2 M0, Stage IIb",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000124 (4).png",
+        "problem": "Identify the cancer type depicted in the photograph, along with its location, TNM staging, and overall stage. A)Mesothelioma of the right hilum, T3 N1 M0, Stage IIIb, B)Squamous cell carcinoma of the left hilum, T1 N2 M0, Stage IIIa, C)Neuroendocrine tumor of the left hilum, T2 N2 M0, Stage IIIa, D)Non-Hodgkin lymphoma of the right hilum, T1 N0 M1, Stage IV",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000153 (4).png",
+        "problem": "What is the specific diagnosis of the cancer seen in this image? A)Squamous cell carcinoma of the left hilum, T1 N2 M0, Stage IIIa, B)Gastrointestinal stromal tumor (GIST) of the left hilum, T1 N0 M0, Stage I, C)Adenocarcinoma of the right hilum, T1 N1 M1, Stage IV, D)Metastatic breast cancer to the left hilum, T0 N3 M0, Stage IIIc",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000168 (2).png",
+        "problem": "What is the specific type of cancer and its stage that is depicted in the image? A)Neuroendocrine tumor of the left hilum, T2 N2 M0, Stage IIIa, B)Renal cell carcinoma of the left hilum, T2 N1 M0, Stage II, C)Squamous cell carcinoma of the left hilum, T1 N2 M0, Stage IIIa, D)Metastatic breast cancer to the left hilum, T0 N3 M0, Stage IIIc",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000117 (5).png",
+        "problem": "What is the diagnosis of the cancer observed in this image? A)Squamous cell carcinoma of the left hilum, T1 N2 M0, Stage IIIa, B)Gastrointestinal stromal tumor (GIST) of the left hilum, T1 N0 M0, Stage I, C)Neuroendocrine tumor of the left hilum, T2 N2 M0, Stage IIIa, D)Adenocarcinoma of the right hilum, T1 N1 M1, Stage IV",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000125 (2).png",
+        "problem": "What is the specific diagnosis of the cancer shown in this image? A)Neuroendocrine tumor of the left hilum, T2 N2 M0, Stage IIIa, B)Melanoma of the right hilum, T3 N2 M1, Stage IV, C)Basal cell carcinoma of the left hilum, T0 N2 M0, Stage IIb, D)Squamous cell carcinoma of the left hilum, T1 N2 M0, Stage IIIa",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000112.png",
+        "problem": "Identify the cancer type depicted in the photograph, along with its location, TNM staging, and overall stage. A)Mesothelioma of the right hilum, T3 N1 M0, Stage IIIb, B)Neuroendocrine tumor of the left hilum, T2 N2 M0, Stage IIIa, C)Small cell lung cancer of the left hilum, T2 N0 M0, Stage I, D)Squamous cell carcinoma of the left hilum, T1 N2 M0, Stage IIIa",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000158 (4).png",
+        "problem": "Identify the specific cancer type depicted in this photograph, including its location, size, node involvement, metastasis status, and stage. A)Metastatic breast cancer to the left hilum, T0 N3 M0, Stage IIIc, B)Mesothelioma of the right hilum, T3 N1 M0, Stage IIIb, C)Renal cell carcinoma of the left hilum, T2 N1 M0, Stage II, D)Squamous cell carcinoma of the left hilum, T1 N2 M0, Stage IIIa",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000124.png",
+        "problem": "What is the diagnosis for the cancer shown in this image? A)Adenocarcinoma of the right hilum, T1 N1 M1, Stage IV, B)Squamous cell carcinoma of the left hilum, T1 N2 M0, Stage IIIa, C)Gastrointestinal stromal tumor (GIST) of the left hilum, T1 N0 M0, Stage I, D)Small cell lung cancer of the left hilum, T2 N0 M0, Stage I",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000167 (2).png",
+        "problem": "What is the specific diagnosis and staging of the cancer observed in this image? A)Squamous cell carcinoma of the left hilum, T1 N2 M0, Stage IIIa, B)Neuroendocrine tumor of the left hilum, T2 N2 M0, Stage IIIa, C)Gastrointestinal stromal tumor (GIST) of the left hilum, T1 N0 M0, Stage I, D)Non-Hodgkin lymphoma of the right hilum, T1 N0 M1, Stage IV",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000157 (6).png",
+        "problem": "What is the stage of the cancer in this image? A)Stage IVa of Small cell carcinoma of the left lung., B)Stage IIIc of Small cell carcinoma of the right lung., C)Stage IIIa of Squamous cell carcinoma of the left hilum., D)Stage IIIb of Adenocarcinoma of the left lung.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000164 (5).png",
+        "problem": "What stage is the cancer depicted in this photograph classified as? A)Stage IVc of Adenocarcinoma of the right lung., B)Stage IIIa of Squamous cell carcinoma of the left hilum., C)Stage Ib of Small cell carcinoma of the right hilum., D)Stage IVa of Small cell carcinoma of the left lung.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000141 (2).png",
+        "problem": "Identify the cancer stage depicted in this photograph. A)Stage IIIa of Squamous cell carcinoma of the left hilum., B)Stage IIa of Adenocarcinoma of the right bronchus., C)Stage Ia of Squamous cell carcinoma of the right hilum., D)Stage IIb of Adenocarcinoma of the right hilum.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000120 (2).png",
+        "problem": "What stage does the cancer depicted in this photograph correspond to? A)Stage Ic of Squamous cell carcinoma of the left bronchus., B)Stage IIIa of Squamous cell carcinoma of the left hilum., C)Stage IIIc of Small cell carcinoma of the right lung., D)Stage Ia of Squamous cell carcinoma of the right hilum.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000170 (2).png",
+        "problem": "What stage is this image depicting the cancer at? A)Stage IIIc of Small cell carcinoma of the right lung., B)Stage Ib of Small cell carcinoma of the right hilum., C)Stage IIIa of Squamous cell carcinoma of the left hilum., D)Stage IIb of Adenocarcinoma of the right hilum.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000125 (6).png",
+        "problem": "What is the cancer stage depicted in this image? A)Stage IIIa of Squamous cell carcinoma of the left hilum., B)Stage Ia of Squamous cell carcinoma of the right hilum., C)Stage IIIb of Adenocarcinoma of the left lung., D)Stage IIIc of Small cell carcinoma of the right lung.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000154 (4).png",
+        "problem": "Identify the cancer stage depicted in the photograph. A)Stage IIa of Adenocarcinoma of the right bronchus., B)Stage IIIc of Small cell carcinoma of the right lung., C)Stage Ib of Small cell carcinoma of the right hilum., D)Stage IIIa of Squamous cell carcinoma of the left hilum.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000177 (3).png",
+        "problem": "What is the stage of the cancer in this image? A)Stage Ia of Squamous cell carcinoma of the right hilum., B)Stage IIb of Adenocarcinoma of the right hilum., C)Stage IVa of Small cell carcinoma of the left lung., D)Stage IIIa of Squamous cell carcinoma of the left hilum.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000166 (4).png",
+        "problem": "Based on this image, what stage can the cancer be classified as? A)Stage IIa of Adenocarcinoma of the right bronchus., B)Stage Ic of Squamous cell carcinoma of the left bronchus., C)Stage IIIa of Squamous cell carcinoma of the left hilum., D)Stage IVc of Adenocarcinoma of the right lung.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000153 (3).png",
+        "problem": "What is the stage of the cancer in this image? A)Stage IIa of Adenocarcinoma of the right bronchus., B)Stage Ib of Small cell carcinoma of the right hilum., C)Stage IIb of Adenocarcinoma of the right hilum., D)Stage IIIa of Squamous cell carcinoma of the left hilum.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000163 (6).png",
+        "problem": "What is the stage of the cancer in this image? A)Stage IVa of Small cell carcinoma of the left lung., B)Stage IIIa of Squamous cell carcinoma of the left hilum., C)Stage IVb of Squamous cell carcinoma of the left lung., D)Stage Ib of Small cell carcinoma of the right hilum.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000136 (4).png",
+        "problem": "What level of progression does the cancer depicted in this picture represent? A)Stage IIa of Adenocarcinoma of the right bronchus., B)Stage IIIa of Squamous cell carcinoma of the left hilum., C)Stage Ib of Small cell carcinoma of the right hilum., D)Stage IVc of Adenocarcinoma of the right lung.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000139 (5).png",
+        "problem": "What is the stage of the cancer in this image? A)Stage IIIb of Adenocarcinoma of the left lung., B)Stage IVc of Adenocarcinoma of the right lung., C)Stage IVa of Small cell carcinoma of the left lung., D)Stage IIIa of Squamous cell carcinoma of the left hilum.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000153 (4).png",
+        "problem": "What is the stage of the cancer in this image? A)Stage Ia of Squamous cell carcinoma of the right hilum., B)Stage Ib of Small cell carcinoma of the right hilum., C)Stage IIIb of Adenocarcinoma of the left lung., D)Stage IIIa of Squamous cell carcinoma of the left hilum.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000125.png",
+        "problem": "What is the stage of the cancer in this image? A)Stage IIIc of Small cell carcinoma of the right lung., B)Stage IIIa of Squamous cell carcinoma of the left hilum., C)Stage IVb of Squamous cell carcinoma of the left lung., D)Stage Ia of Squamous cell carcinoma of the right hilum.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000162 (2).png",
+        "problem": "Identify the cancer stage depicted in the photograph. A)Stage IIIa of Squamous cell carcinoma of the left hilum., B)Stage IIb of Adenocarcinoma of the right hilum., C)Stage Ia of Squamous cell carcinoma of the right hilum., D)Stage IVb of Squamous cell carcinoma of the left lung.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000122.png",
+        "problem": "What is the stage of the cancer in this image? A)Stage IVa of Small cell carcinoma of the left lung., B)Stage IIIc of Small cell carcinoma of the right lung., C)Stage IIa of Adenocarcinoma of the right bronchus., D)Stage IIIa of Squamous cell carcinoma of the left hilum.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000124.png",
+        "problem": "What stage is depicted in this image of Squamous cell carcinoma of the left hilum? A)Stage Ic of Squamous cell carcinoma of the left bronchus., B)Stage Ia of Squamous cell carcinoma of the right hilum., C)Stage IIIa of Squamous cell carcinoma of the left hilum., D)Stage IIa of Adenocarcinoma of the right bronchus.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/val/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000119 (5).png",
+        "problem": "Can you identify the cancer stage depicted in this picture? A)Stage IIa of Adenocarcinoma of the right bronchus., B)Stage IIIa of Squamous cell carcinoma of the left hilum., C)Stage IVc of Adenocarcinoma of the right lung., D)Stage Ia of Squamous cell carcinoma of the right hilum.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/val/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000115 (2).png",
+        "problem": "How would you classify the cancer's progression shown in this photograph according to the staging system? A)Stage IIIa of Squamous cell carcinoma of the left hilum., B)Stage IVb of Squamous cell carcinoma of the left lung., C)Stage Ic of Squamous cell carcinoma of the left bronchus., D)Stage Ib of Small cell carcinoma of the right hilum.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/val/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000108 (3).png",
+        "problem": "What stage does the cancer depicted in this photograph correspond to? A)Stage IIIa of Squamous cell carcinoma of the left hilum., B)Stage Ib of Small cell carcinoma of the right hilum., C)Stage Ic of Squamous cell carcinoma of the left bronchus., D)Stage IIIc of Small cell carcinoma of the right lung.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/val/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000119.png",
+        "problem": "What stage is the cancer depicted in this photograph classified as? A)Stage IIIb of Adenocarcinoma of the left lung., B)Stage Ib of Small cell carcinoma of the right hilum., C)Stage IIa of Adenocarcinoma of the right bronchus., D)Stage IIIa of Squamous cell carcinoma of the left hilum.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/val/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000115 (5).png",
+        "problem": "Can you identify the cancer stage depicted in this picture? A)Stage IIIc of Small cell carcinoma of the right lung., B)Stage IVb of Squamous cell carcinoma of the left lung., C)Stage IIa of Adenocarcinoma of the right bronchus., D)Stage IIIa of Squamous cell carcinoma of the left hilum.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000136 (6).png",
+        "problem": "What are some specific characteristics of the cancer depicted in this image? A)Squamous cell carcinoma of the left hilum, B)Adenocarcinoma of the left hilum, C)Squamous cell carcinoma of the right hilum, D)Lymphoma of the left hilum",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000133 (3).png",
+        "problem": "What specific characteristics can be observed in the cancer shown in this image? A)Small cell carcinoma of the left hilum, B)Squamous cell carcinoma of the left hilum, C)Non-small cell carcinoma of the left hilum, D)Benign tumor of the left hilum",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000164 (5).png",
+        "problem": "What are the specific attributes of the cancer observed in the image? A)Small cell carcinoma of the left hilum, B)Adenocarcinoma of the left hilum, C)Non-small cell carcinoma of the left hilum, D)Squamous cell carcinoma of the left hilum",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000114 (3).png",
+        "problem": "What are the specific attributes of the cancer present in this image? A)Benign tumor of the left hilum, B)Squamous cell carcinoma of the left hilum, C)Sarcoma of the left hilum, D)Metastatic carcinoma of the left hilum",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000170 (2).png",
+        "problem": "What is the specific diagnosis for the cancer seen in this image? A)Non-small cell carcinoma of the left hilum, B)Metastatic carcinoma of the left hilum, C)Squamous cell carcinoma of the left hilum, D)Adenocarcinoma of the left hilum",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000156 (2).png",
+        "problem": "What can you say about the attributes of the cancer seen in this image? A)Metastatic carcinoma of the left hilum, B)Basal cell carcinoma of the left hilum, C)Adenocarcinoma of the left hilum, D)Squamous cell carcinoma of the left hilum",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000166 (4).png",
+        "problem": "What are the specific attributes of the cancer depicted in this image? A)Adenocarcinoma of the left hilum, B)Squamous cell carcinoma of the left hilum, C)Lymphoma of the left hilum, D)Sarcoma of the left hilum",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000155 (3).png",
+        "problem": "What specific attributes can you identify in the image of the cancer? A)Adenocarcinoma of the left hilum, B)Squamous cell carcinoma of the left hilum, C)Lymphoma of the left hilum, D)Sarcoma of the left hilum",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000155.png",
+        "problem": "What specific features can be observed in the cancer present in this image? A)Sarcoma of the left hilum, B)Neuroendocrine carcinoma of the left hilum, C)Lymphoma of the left hilum, D)Squamous cell carcinoma of the left hilum",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000144 (5).png",
+        "problem": "What specific characteristics can you identify in the cancer shown in this image? A)Adenocarcinoma of the left hilum, B)Neuroendocrine carcinoma of the left hilum, C)Squamous cell carcinoma of the left hilum, D)Lymphoma of the left hilum",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000153 (4).png",
+        "problem": "What are the specific characteristics of the cancer observed in the image? A)Small cell carcinoma of the left hilum, B)Sarcoma of the left hilum, C)Adenocarcinoma of the left hilum, D)Squamous cell carcinoma of the left hilum",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000168 (2).png",
+        "problem": "What are the specific attributes of the cancer seen in this image? A)Squamous cell carcinoma of the left hilum, B)Neuroendocrine carcinoma of the left hilum, C)Non-small cell carcinoma of the left hilum, D)Lymphoma of the left hilum",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000117 (5).png",
+        "problem": "What are the characteristics of the cancer observed in this image? A)Small cell carcinoma of the left hilum, B)Benign tumor of the left hilum, C)Basal cell carcinoma of the left hilum, D)Squamous cell carcinoma of the left hilum",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000137.png",
+        "problem": "What specific attributes can you identify in the cancer seen in this image? A)Lymphoma of the left hilum, B)Adenocarcinoma of the left hilum, C)Squamous cell carcinoma of the left hilum, D)Small cell carcinoma of the left hilum",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000153.png",
+        "problem": "What are the particular characteristics of the cancer observed in this image? A)Adenocarcinoma of the left hilum, B)Squamous cell carcinoma of the left hilum, C)Basal cell carcinoma of the left hilum, D)Sarcoma of the left hilum",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000137 (3).png",
+        "problem": "What are the specific attributes of the cancer shown in this image? A)Squamous cell carcinoma of the left hilum, B)Squamous cell carcinoma of the right hilum, C)Non-small cell carcinoma of the left hilum, D)Basal cell carcinoma of the left hilum",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000118 (4).png",
+        "problem": "What are the distinctive characteristics of the cancer observed in the image? A)Squamous cell carcinoma of the left hilum, B)Metastatic carcinoma of the left hilum, C)Small cell carcinoma of the left hilum, D)Non-small cell carcinoma of the left hilum",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000124 (5).png",
+        "problem": "What is the specific type of cancer seen in the image? A)Squamous cell carcinoma of the left hilum, B)Non-small cell carcinoma of the left hilum, C)Squamous cell carcinoma of the right hilum, D)Benign tumor of the left hilum",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/test/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000167 (2).png",
+        "problem": "What can you tell me about the characteristics of the cancer seen in this image? A)Lymphoma of the left hilum, B)Neuroendocrine carcinoma of the left hilum, C)Squamous cell carcinoma of the left hilum, D)Non-small cell carcinoma of the left hilum",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/val/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000119 (5).png",
+        "problem": "What are the specific attributes of the cancer shown in this image? A)Basal cell carcinoma of the left hilum, B)Lymphoma of the left hilum, C)Squamous cell carcinoma of the left hilum, D)Small cell carcinoma of the left hilum",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Chest CT Scan/val/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000115 (2).png",
+        "problem": "What are the specific attributes of the cancer seen in this image? A)Squamous cell carcinoma of the left hilum, B)Lymphoma of the left hilum, C)Sarcoma of the left hilum, D)Adenocarcinoma of the left hilum",
+        "solution": "<answer> A </answer>"
+    }
+]

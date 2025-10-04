@@ -1,0 +1,552 @@
+[
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_3/PAT_2088_4524_465.png",
+        "problem": "Which technique was employed to obtain the image? A)Ultrasound., B)Dermoscopy., C)Positron emission tomography (PET)., D)X-ray.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_3/PAT_1926_3871_371.png",
+        "problem": "What was the imaging technique employed to capture the picture? A)X-ray., B)Dermoscopy., C)MRI., D)Ultrasound.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_2/PAT_645_1300_463.png",
+        "problem": "Which imaging technique was employed to obtain the picture? A)Positron emission tomography (PET)., B)CT scan., C)Dermoscopy., D)MRI.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_2/PAT_693_1313_304.png",
+        "problem": "What medical technique was employed to obtain the image? A)Dermoscopy., B)Ultrasound., C)MRI., D)CT scan.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_3/PAT_1584_2610_223.png",
+        "problem": "What method of imaging was utilized to acquire the image? A)Dermoscopy., B)Ultrasound., C)CT scan., D)Positron emission tomography (PET).",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_1/PAT_166_3672_759.png",
+        "problem": "Which imaging technique was employed to obtain the picture? A)Dermoscopy., B)X-ray., C)Positron emission tomography (PET)., D)CT scan.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_1/PAT_472_910_453.png",
+        "problem": "What imaging modality was used to capture the image? A)X-ray., B)Dermoscopy., C)Ultrasound., D)CT scan.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_1/PAT_112_171_863.png",
+        "problem": "What specific imaging technique was employed to obtain the picture? A)Ultrasound., B)X-ray., C)MRI., D)Dermoscopy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_3/PAT_1406_1396_511.png",
+        "problem": "What type of imaging technique was employed for image capture? A)MRI., B)X-ray., C)Dermoscopy., D)Ultrasound.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_3/PAT_1641_2886_284.png",
+        "problem": "What specific method of imaging was employed to obtain the image? A)X-ray., B)Ultrasound., C)Positron emission tomography (PET)., D)Dermoscopy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_3/PAT_2162_4820_913.png",
+        "problem": "What specific method of imaging was utilized to obtain the picture? A)Dermoscopy., B)Ultrasound., C)Positron emission tomography (PET)., D)X-ray.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_1/PAT_461_895_72.png",
+        "problem": "Which technique was utilized to obtain the skin image? A)Dermoscopy., B)CT scan., C)MRI., D)X-ray.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_1/PAT_541_3303_228.png",
+        "problem": "What imaging technique was utilized to obtain the picture? A)Positron emission tomography (PET)., B)CT scan., C)X-ray., D)Dermoscopy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_1/PAT_337_1697_721.png",
+        "problem": "Which imaging technique was utilized to obtain the image? A)Ultrasound., B)Dermoscopy., C)CT scan., D)X-ray.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_1/PAT_190_291_366.png",
+        "problem": "What imaging technique was employed to obtain the image? A)Positron emission tomography (PET)., B)MRI., C)X-ray., D)Dermoscopy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_2/PAT_755_1430_681.png",
+        "problem": "What imaging modality was used to capture the image? A)Dermoscopy., B)MRI., C)X-ray., D)Positron emission tomography (PET).",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_1/PAT_204_310_975.png",
+        "problem": "What technique was employed to obtain the image? A)Positron emission tomography (PET)., B)Dermoscopy., C)MRI., D)CT scan.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_3/PAT_1554_2393_541.png",
+        "problem": "Which imaging technique was employed to obtain the picture? A)Ultrasound., B)CT scan., C)X-ray., D)Dermoscopy.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_2/PAT_988_1858_944.png",
+        "problem": "Which modality was employed to obtain the image? A)MRI., B)Dermoscopy., C)Ultrasound., D)X-ray.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_2/PAT_756_1496_480.png",
+        "problem": "What type of abnormality is depicted in this image? A)Nevus, B)Tumor, C)Hemorrhage, D)Cyst",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_3/PAT_1801_3459_857.png",
+        "problem": "What is the particular type of anomaly depicted in this image? A)Nevus, B)Tumor, C)Fracture, D)Infection",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_3/PAT_1364_1246_238.png",
+        "problem": "What is the term used to describe the particular abnormality seen in this image? A)Tumor, B)Nevus, C)Hemorrhage, D)Infection",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_3/PAT_1754_3306_816.png",
+        "problem": "What is the particular anomaly observed in this image? A)Cyst, B)Tumor, C)Fracture, D)Nevus",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_3/PAT_1591_2648_855.png",
+        "problem": "What is the term used to describe the specific type of abnormality seen in this image? A)Hemorrhage, B)Nevus, C)Tumor, D)Cyst",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_3/PAT_1597_2666_130.png",
+        "problem": "What is the term used to refer to the specific type of abnormality observed in this image? A)Hemorrhage, B)Cyst, C)Tumor, D)Nevus",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_3/PAT_1587_2625_226.png",
+        "problem": "What is the name of the specific abnormality depicted in this image? A)Fracture, B)Nevus, C)Tumor, D)Hemorrhage",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_1/PAT_345_719_815.png",
+        "problem": "What is the term used to describe the specific abnormality observed in this image? A)Fracture, B)Tumor, C)Nevus, D)Infection",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_1/PAT_198_853_778.png",
+        "problem": "What term can be used to describe the specific type of abnormality seen in this image? A)Fracture, B)Tumor, C)Nevus, D)Cyst",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_1/PAT_201_306_781.png",
+        "problem": "What is the particular term used to describe the anomaly depicted in this image? A)Nevus, B)Infection, C)Cyst, D)Tumor",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_3/PAT_1934_3890_306.png",
+        "problem": "What is the medical term for the abnormality seen in this image? A)Tumor, B)Infection, C)Hemorrhage, D)Nevus",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_3/PAT_2099_4562_100.png",
+        "problem": "What is the particular anomaly depicted in this image? A)Hemorrhage, B)Infection, C)Tumor, D)Nevus",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_1/PAT_514_969_187.png",
+        "problem": "What is the identified condition depicted in this image? A)Eczema., B)Melanoma., C)Basal Cell Carcinoma., D)Squamous Cell Carcinoma.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_2/PAT_806_1520_708.png",
+        "problem": "What pathology is depicted in this image? A)Basal Cell Carcinoma., B)Eczema., C)Psoriasis., D)Melanoma.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_1/PAT_337_706_254.png",
+        "problem": "What specific abnormality is depicted in this image? A)Actinic keratosis., B)Melanoma., C)Basal Cell Carcinoma., D)Eczema.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_1/PAT_368_1652_525.png",
+        "problem": "What is the identified condition displayed in this image? A)Basal Cell Carcinoma., B)Squamous Cell Carcinoma., C)Melanoma., D)Psoriasis.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_1/PAT_134_201_587.png",
+        "problem": "What is the specific diagnosis for the abnormality observed in this image? A)Squamous Cell Carcinoma., B)Basal Cell Carcinoma., C)Melanoma., D)Actinic keratosis.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_1/PAT_106_158_270.png",
+        "problem": "What is the particular abnormality depicted in this image? A)Melanoma., B)Eczema., C)Psoriasis., D)Basal Cell Carcinoma.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_2/PAT_959_1813_1000.png",
+        "problem": "What is the specific type of abnormality present in this picture? A)Actinic keratosis., B)Squamous Cell Carcinoma., C)Basal Cell Carcinoma., D)Eczema.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_2/PAT_722_1377_120.png",
+        "problem": "What specific abnormality is depicted in this image? A)Psoriasis., B)Melanoma., C)Actinic keratosis., D)Basal Cell Carcinoma.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_2/PAT_645_1300_463.png",
+        "problem": "What is the precise diagnosis for the abnormality shown in this image? A)Basal Cell Carcinoma., B)Squamous Cell Carcinoma., C)Actinic keratosis., D)Eczema.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_2/PAT_776_1466_241.png",
+        "problem": "What is the precise pathology depicted in this image? A)Basal Cell Carcinoma., B)Eczema., C)Psoriasis., D)Squamous Cell Carcinoma.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_1/PAT_191_294_419.png",
+        "problem": "What specific pathology is depicted in this image? A)Eczema., B)Psoriasis., C)Basal Cell Carcinoma., D)Squamous Cell Carcinoma.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_2/PAT_729_1382_390.png",
+        "problem": "What is the diagnosis for the abnormality shown in this picture? A)Squamous Cell Carcinoma., B)Basal Cell Carcinoma., C)Melanoma., D)Psoriasis.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_1/PAT_279_1393_118.png",
+        "problem": "What is the particular form of anomaly depicted in this image? A)Squamous Cell Carcinoma., B)Melanoma., C)Basal Cell Carcinoma., D)Psoriasis.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_2/PAT_761_1435_561.png",
+        "problem": "What is the specific diagnosis for this picture? A)Squamous Cell Carcinoma., B)Actinic keratosis., C)Psoriasis., D)Basal Cell Carcinoma.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_1/PAT_467_904_535.png",
+        "problem": "What is the name of the particular abnormality displayed in this image? A)Melanoma., B)Squamous Cell Carcinoma., C)Eczema., D)Basal Cell Carcinoma.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_1/PAT_252_383_31.png",
+        "problem": "What type of abnormality is depicted in this image? A)Melanoma., B)Squamous Cell Carcinoma., C)Psoriasis., D)Basal Cell Carcinoma.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_1/PAT_314_672_909.png",
+        "problem": "What is the term for the specific abnormality shown in this picture? A)Squamous Cell Carcinoma., B)Actinic keratosis., C)Psoriasis., D)Basal Cell Carcinoma.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_1/PAT_180_279_746.png",
+        "problem": "What is the term used to describe the specific abnormality observed in this image? A)Basal Cell Carcinoma., B)Eczema., C)Squamous Cell Carcinoma., D)Psoriasis.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_1/PAT_463_897_440.png",
+        "problem": "What is the name of the abnormality depicted in this image? A)Melanoma., B)Eczema., C)Basal Cell Carcinoma., D)Actinic keratosis.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_2/PAT_593_1127_823.png",
+        "problem": "What is the particular irregularity depicted in this image? A)Psoriasis., B)Basal Cell Carcinoma., C)Actinic keratosis., D)Squamous Cell Carcinoma.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_1/PAT_115_177_622.png",
+        "problem": "What specific type of abnormality is depicted in this image? A)Melanoma., B)Actinic keratosis., C)Basal Cell Carcinoma., D)Eczema.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_2/PAT_867_1650_825.png",
+        "problem": "What is the diagnosis of the abnormality shown in this picture? A)Actinic keratosis., B)Basal Cell Carcinoma., C)Melanoma., D)Eczema.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_1/PAT_204_310_975.png",
+        "problem": "What is the term for the specific abnormality shown in this picture? A)Actinic keratosis., B)Basal Cell Carcinoma., C)Squamous Cell Carcinoma., D)Psoriasis.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_1/PAT_152_230_707.png",
+        "problem": "What is the precise name for the anomaly displayed in this image? A)Basal Cell Carcinoma., B)Eczema., C)Psoriasis., D)Squamous Cell Carcinoma.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_2/PAT_711_1334_480.png",
+        "problem": "What type of abnormality is depicted in this image? A)Psoriasis., B)Basal Cell Carcinoma., C)Eczema., D)Melanoma.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_2/PAT_730_1383_535.png",
+        "problem": "What is the precise diagnosis represented by the anomaly depicted in this image? A)Squamous Cell Carcinoma., B)Basal Cell Carcinoma., C)Psoriasis., D)Actinic keratosis.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_2/PAT_815_1533_460.png",
+        "problem": "What is the specific diagnosis for the abnormality depicted in this image? A)Psoriasis., B)Basal Cell Carcinoma., C)Melanoma., D)Actinic keratosis.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_3/PAT_1449_1554_932.png",
+        "problem": "What is the name of the particular abnormality visible in this image? A)Rosacea, B)Impetigo, C)Actinic Keratosis., D)Melanoma",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_1/PAT_238_364_387.png",
+        "problem": "What is the particular abnormality depicted in this image? A)Vitiligo, B)Melanoma, C)Squamous Cell Carcinoma, D)Actinic Keratosis.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_3/PAT_2050_4350_36.png",
+        "problem": "What is the medical term for the lesion depicted in this photograph? A)Actinic Keratosis., B)Melanoma, C)Eczema, D)Basal Cell Carcinoma",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_2/PAT_1051_220_356.png",
+        "problem": "Identify the particular skin lesion depicted in the photograph. A)Psoriasis, B)Actinic Keratosis., C)Vitiligo, D)Impetigo",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_1/PAT_57_90_910.png",
+        "problem": "What is the term used to describe the specific anomaly depicted in this image? A)Eczema, B)Basal Cell Carcinoma, C)Actinic Keratosis., D)Seborrheic Keratosis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_1/PAT_38_1003_226.png",
+        "problem": "What is the name of the specific type of abnormality observed in this image? A)Actinic Keratosis., B)Seborrheic Keratosis, C)Squamous Cell Carcinoma, D)Eczema",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_3/PAT_2126_4654_644.png",
+        "problem": "What is the name given to the specific type of abnormality seen in this image? A)Vitiligo, B)Melanoma, C)Actinic Keratosis., D)Psoriasis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_3/PAT_1689_3075_38.png",
+        "problem": "What is the particular form of anomaly depicted in this image? A)Impetigo, B)Actinic Keratosis., C)Seborrheic Keratosis, D)Basal Cell Carcinoma",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_1/PAT_306_1646_971.png",
+        "problem": "What is the specific name of the anomaly depicted in this image? A)Melanoma, B)Basal Cell Carcinoma, C)Vitiligo, D)Actinic Keratosis.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_2/PAT_809_1528_118.png",
+        "problem": "What is the term used to describe the abnormality shown in this image? A)Psoriasis, B)Seborrheic Keratosis, C)Eczema, D)Actinic Keratosis.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_1/PAT_108_424_944.png",
+        "problem": "What is the specific medical condition depicted in this image? A)Seborrheic Keratosis, B)Squamous Cell Carcinoma, C)Vitiligo, D)Actinic Keratosis.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_3/PAT_2024_4224_141.png",
+        "problem": "What is the particular anomaly identified in this image? A)Rosacea, B)Vitiligo, C)Actinic Keratosis., D)Melanoma",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_1/PAT_386_785_536.png",
+        "problem": "What is the term used to describe the specific type of abnormality seen in this image? A)Actinic Keratosis., B)Rosacea, C)Basal Cell Carcinoma, D)Seborrheic Keratosis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_1/PAT_91_356_456.png",
+        "problem": "What is the specific type of abnormality present in this image? A)Impetigo, B)Basal Cell Carcinoma, C)Actinic Keratosis., D)Squamous Cell Carcinoma",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_1/PAT_409_2614_805.png",
+        "problem": "What is the specific term used to describe the anomaly depicted in this image? A)Basal Cell Carcinoma, B)Squamous Cell Carcinoma, C)Melanoma, D)Actinic Keratosis.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_3/PAT_1726_3228_674.png",
+        "problem": "What is the term used to describe the particular abnormality seen in this image? A)Impetigo, B)Melanoma, C)Squamous Cell Carcinoma, D)Actinic Keratosis.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_3/PAT_1209_737_590.png",
+        "problem": "What is the specific type of abnormality present in this image? A)Squamous Cell Carcinoma, B)Seborrheic Keratosis, C)Melanoma, D)Actinic Keratosis.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_2/PAT_755_1430_681.png",
+        "problem": "What is the particular abnormality identified in this image? A)Vitiligo, B)Actinic Keratosis., C)Rosacea, D)Melanoma",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_2/PAT_1035_165_800.png",
+        "problem": "What is the name of the specific type of abnormality observed in this image? A)Vitiligo, B)Actinic Keratosis., C)Eczema, D)Melanoma",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_3/PAT_1818_3568_132.png",
+        "problem": "What is the specific type of abnormality present in this image? A)Melanoma, B)Actinic Keratosis., C)Basal Cell Carcinoma, D)Vitiligo",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_3/PAT_1931_3879_727.png",
+        "problem": "What is the specific type of abnormality present in this image? A)Squamous Cell Carcinoma, B)Eczema, C)Vitiligo, D)Actinic Keratosis.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_3/PAT_1469_1627_109.png",
+        "problem": "What is the term used to describe the specific abnormality shown in this image? A)Rosacea, B)Actinic Keratosis., C)Basal Cell Carcinoma, D)Squamous Cell Carcinoma",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_3/PAT_1278_965_701.png",
+        "problem": "What is the specific designation for the anomaly depicted in this image? A)Vitiligo, B)Actinic Keratosis., C)Eczema, D)Basal Cell Carcinoma",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_2/PAT_1013_82_876.png",
+        "problem": "What is the medical term for the particular irregularity seen in this image? A)Psoriasis, B)Squamous Cell Carcinoma, C)Melanoma, D)Actinic Keratosis.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_1/PAT_579_1099_837.png",
+        "problem": "What is the name given to this particular anomaly seen in the image? A)Squamous Cell Carcinoma, B)Seborrheic Keratosis, C)Vitiligo, D)Actinic Keratosis.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_3/PAT_1278_966_295.png",
+        "problem": "What is the specific type of abnormality present in this image? A)Actinic Keratosis., B)Eczema, C)Malignant Melanoma, D)Squamous Cell Carcinoma",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_2/PAT_961_1818_992.png",
+        "problem": "What is the specific type of abnormality present in this image? A)Malignant Melanoma, B)Squamous Cell Carcinoma, C)Seborrheic Keratosis, D)Actinic Keratosis.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_3/PAT_1294_1031_466.png",
+        "problem": "What is the particular form of abnormality visible in this image? A)Squamous Cell Carcinoma, B)Malignant Melanoma, C)Eczema, D)Actinic Keratosis.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_1/PAT_420_834_450.png",
+        "problem": "What is the term used to identify the particular abnormality shown in this image? A)Actinic Keratosis., B)Melanoma, C)Seborrheic Keratosis, D)Malignant Melanoma",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_3/PAT_1765_3337_365.png",
+        "problem": "What is the particular dermatological condition depicted in this dermoscopy image? A)Rosacea, B)Basal Cell Carcinoma, C)Seborrheic Keratosis., D)Psoriasis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_3/PAT_1783_3414_120.png",
+        "problem": "What is the particular dermatologic condition depicted in this dermoscopy image? A)Vitiligo, B)Actinic Keratosis, C)Acne Vulgaris, D)Seborrheic Keratosis.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_3/PAT_2155_4784_483.png",
+        "problem": "What specific dermatological condition is depicted in this dermoscopy image? A)Acne Vulgaris, B)Basal Cell Carcinoma, C)Seborrheic Keratosis., D)Vitiligo",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_1/PAT_166_3672_759.png",
+        "problem": "What is the specific diagnosis for the abnormality seen in this dermoscopy image? A)Eczema, B)Melanoma, C)Seborrheic Keratosis., D)Basal Cell Carcinoma",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_1/PAT_354_1817_500.png",
+        "problem": "What is the identified condition shown in this dermoscopy image? A)Acne Vulgaris, B)Seborrheic Keratosis., C)Dermatitis, D)Melanoma",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_2/PAT_1071_312_841.png",
+        "problem": "What is the specific diagnosis for the abnormality shown in this dermoscopy image? A)Melanoma, B)Seborrheic Keratosis., C)Vitiligo, D)Basal Cell Carcinoma",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_3/PAT_1220_765_464.png",
+        "problem": "What is the specific diagnosis for the abnormality detected in this dermoscopy image? A)Acne Vulgaris, B)Eczema, C)Seborrheic Keratosis., D)Actinic Keratosis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_1/PAT_181_832_158.png",
+        "problem": "What is the particular skin condition observed in this dermoscopy image? A)Vitiligo, B)Melanoma, C)Basal Cell Carcinoma, D)Seborrheic Keratosis.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_3/PAT_1286_1000_276.png",
+        "problem": "What is the specific dermatological condition depicted in this dermoscopy image? A)Psoriasis, B)Seborrheic Keratosis., C)Eczema, D)Rosacea",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_1/PAT_549_1043_36.png",
+        "problem": "What type of abnormality is observed in the dermoscopy image? A)Squamous Cell Carcinoma., B)Psoriasis, C)Vitiligo, D)Rosacea",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_2/PAT_940_1774_962.png",
+        "problem": "What type of abnormality is seen on the dermoscopy image? A)Seborrheic Keratosis, B)Squamous Cell Carcinoma., C)Actinic Keratosis, D)Basal Cell Carcinoma",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_1/PAT_56_86_802.png",
+        "problem": "What specific abnormality is depicted in the dermoscopy image? A)Squamous Cell Carcinoma., B)Actinic Keratosis, C)Atopic Dermatitis, D)Basal Cell Carcinoma",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_2/PAT_637_1217_274.png",
+        "problem": "What is the particular anomaly identified in the dermoscopy image? A)Squamous Cell Carcinoma., B)Basal Cell Carcinoma, C)Actinic Keratosis, D)Atopic Dermatitis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_1/PAT_365_751_709.png",
+        "problem": "What is the precise classification of the abnormality observed in the dermoscopy image? A)Seborrheic Keratosis, B)Basal Cell Carcinoma, C)Eczema, D)Squamous Cell Carcinoma.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_1/PAT_338_709_306.png",
+        "problem": "What is the particular abnormality identified in the dermoscopy image? A)Seborrheic Keratosis, B)Squamous Cell Carcinoma., C)Psoriasis, D)Malignant Melanoma",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_1/PAT_271_418_92.png",
+        "problem": "What is the specific type of abnormality present in the dermoscopy image? A)Squamous Cell Carcinoma., B)Eczema, C)Basal Cell Carcinoma, D)Malignant Melanoma",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_1/PAT_43_61_210.png",
+        "problem": "What is the specific type of abnormality present in the dermoscopy image? A)Seborrheic Keratosis, B)Actinic Keratosis, C)Squamous Cell Carcinoma., D)Eczema",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_2/PAT_990_1860_478.png",
+        "problem": "What type of abnormality is depicted in the dermoscopy image? A)Squamous Cell Carcinoma., B)Acne, C)Vitiligo, D)Eczema",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_1/PAT_387_786_213.png",
+        "problem": "What specific abnormality is indicated by the dermoscopy image? A)Acne, B)Seborrheic Keratosis, C)Vitiligo, D)Squamous Cell Carcinoma.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_2/PAT_689_1307_354.png",
+        "problem": "What particular anomaly is observed in the dermoscopy image? A)Basal Cell Carcinoma, B)Squamous Cell Carcinoma., C)Seborrheic Keratosis, D)Psoriasis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_1/PAT_164_255_119.png",
+        "problem": "What is the specific type of abnormality present in the dermoscopy image? A)Basal Cell Carcinoma, B)Seborrheic Keratosis, C)Vitiligo, D)Squamous Cell Carcinoma.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_1/PAT_495_941_26.png",
+        "problem": "What specific condition is indicated by the abnormality seen in the dermoscopy image? A)Dermatitis, B)Eczema, C)Melanoma., D)Acne",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/PAD-UFES-20/uncompresses_data/imgs_part_1/PAT_115_1138_870.png",
+        "problem": "What type of abnormality is identified in the dermoscopy image? A)Acne, B)Seborrheic keratosis, C)Psoriasis, D)Melanoma.",
+        "solution": "<answer> D </answer>"
+    }
+]

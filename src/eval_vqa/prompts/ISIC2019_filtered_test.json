@@ -1,0 +1,2007 @@
+[
+    {
+        "image": "Images/ISIC2019/train/ISIC_0065320.jpg",
+        "problem": "What type of imaging modality is utilized to capture this image? A)Computed tomography (CT) scan, B)Dermoscopic imaging, C)Nuclear medicine imaging, D)Positron emission tomography (PET) scan",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0065321.jpg",
+        "problem": "What imaging modality is used to obtain this picture? A)Dermoscopic imaging, B)Positron emission tomography (PET) scan, C)Magnetic resonance imaging (MRI), D)Nuclear medicine imaging",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0065374.jpg",
+        "problem": "What imaging technique is employed for this picture? A)Magnetic resonance imaging (MRI), B)Dermoscopic imaging, C)Electrocardiogram (ECG) imaging, D)Positron emission tomography (PET) scan",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0065502.jpg",
+        "problem": "What modality is used to capture this image? A)X-ray imaging, B)Ultrasound imaging, C)Endoscopy imaging, D)Dermoscopic imaging",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0065654.jpg",
+        "problem": "What modality is used to capture this image? A)Electrocardiogram (ECG) imaging, B)Dermoscopic imaging, C)X-ray imaging, D)Positron emission tomography (PET) scan",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0065740.jpg",
+        "problem": "What is the imaging modality utilized to acquire this picture? A)Electroencephalogram (EEG) imaging, B)Computed tomography (CT) scan, C)Dermoscopic imaging, D)Ultrasound imaging",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0066336.jpg",
+        "problem": "What is the technique employed to obtain this image? A)Electroencephalogram (EEG) imaging, B)Mammography imaging, C)Positron emission tomography (PET) scan, D)Dermoscopic imaging",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0066380.jpg",
+        "problem": "What technique is employed to obtain this type of diagnostic image? A)Magnetic resonance imaging (MRI), B)Mammography imaging, C)Positron emission tomography (PET) scan, D)Dermoscopic imaging",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0066440.jpg",
+        "problem": "What is the imaging modality utilized to acquire this picture? A)Nuclear medicine imaging, B)Electrocardiogram (ECG) imaging, C)Mammography imaging, D)Dermoscopic imaging",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0066483.jpg",
+        "problem": "What is the name of the imaging technique used to capture this picture? A)Dermoscopic imaging, B)Mammography imaging, C)Computed tomography (CT) scan, D)Magnetic resonance imaging (MRI)",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0066969.jpg",
+        "problem": "What imaging modality is employed for the capture of this picture? A)Computed tomography (CT) scan, B)Endoscopy imaging, C)Dermoscopic imaging, D)Positron emission tomography (PET) scan",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067037.jpg",
+        "problem": "Which method is employed to obtain this image? A)Electrocardiogram (ECG) imaging, B)Dermoscopic imaging, C)Ultrasound imaging, D)Magnetic resonance imaging (MRI)",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067067.jpg",
+        "problem": "What type of imaging is used to capture this picture? A)Dermoscopic imaging, B)Mammography imaging, C)X-ray imaging, D)Endoscopy imaging",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067102.jpg",
+        "problem": "What modality is used to capture this image? A)Dermoscopic imaging, B)Ultrasound imaging, C)Electroencephalogram (EEG) imaging, D)Mammography imaging",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067355.jpg",
+        "problem": "What imaging modality is utilized for this picture capture? A)Electrocardiogram (ECG) imaging, B)X-ray imaging, C)Endoscopy imaging, D)Dermoscopic imaging",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067377.jpg",
+        "problem": "Which imaging technique is utilized to capture this image? A)Computed tomography (CT) scan, B)Nuclear medicine imaging, C)Magnetic resonance imaging (MRI), D)Dermoscopic imaging",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067431.jpg",
+        "problem": "What type of imaging is used to obtain this picture? A)Ultrasound imaging, B)Nuclear medicine imaging, C)Dermoscopic imaging, D)Magnetic resonance imaging (MRI)",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067483.jpg",
+        "problem": "What is the modality employed for capturing this image? A)Magnetic resonance imaging (MRI), B)Computed tomography (CT) scan, C)Dermoscopic imaging, D)X-ray imaging",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067544.jpg",
+        "problem": "What imaging technique is utilized for obtaining this picture? A)Magnetic resonance imaging (MRI), B)Ultrasound imaging, C)Computed tomography (CT) scan, D)Dermoscopic imaging",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067577.jpg",
+        "problem": "What imaging method is utilized to obtain this picture? A)Endoscopy imaging, B)Magnetic resonance imaging (MRI), C)Dermoscopic imaging, D)Positron emission tomography (PET) scan",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067580.jpg",
+        "problem": "What modality is used to capture this image? A)Electroencephalogram (EEG) imaging, B)Positron emission tomography (PET) scan, C)Ultrasound imaging, D)Dermoscopic imaging",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067693.jpg",
+        "problem": "What imaging technique is used to acquire this picture? A)Electrocardiogram (ECG) imaging, B)Positron emission tomography (PET) scan, C)Magnetic resonance imaging (MRI), D)Dermoscopic imaging",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067756.jpg",
+        "problem": "What imaging modality is employed for this capture? A)Dermoscopic imaging, B)Electrocardiogram (ECG) imaging, C)Computed tomography (CT) scan, D)Mammography imaging",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067815.jpg",
+        "problem": "What technique is employed to obtain this picture? A)Electroencephalogram (EEG) imaging, B)Computed tomography (CT) scan, C)Nuclear medicine imaging, D)Dermoscopic imaging",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067821.jpg",
+        "problem": "What modality is used to capture this image? A)Dermoscopic imaging, B)X-ray imaging, C)Computed tomography (CT) scan, D)Ultrasound imaging",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067967.jpg",
+        "problem": "What is the term for the imaging method used to capture this image? A)Endoscopy imaging, B)Dermoscopic imaging, C)Magnetic resonance imaging (MRI), D)Ultrasound imaging",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068173.jpg",
+        "problem": "What imaging technique is utilized to obtain this picture? A)X-ray imaging, B)Electroencephalogram (EEG) imaging, C)Magnetic resonance imaging (MRI), D)Dermoscopic imaging",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068264.jpg",
+        "problem": "What modality is used to capture this image? A)Dermoscopic imaging, B)X-ray imaging, C)Computed tomography (CT) scan, D)Endoscopy imaging",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068414.jpg",
+        "problem": "What is the imaging modality utilized for this image? A)Endoscopy imaging, B)X-ray imaging, C)Electroencephalogram (EEG) imaging, D)Dermoscopic imaging",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068626.jpg",
+        "problem": "What imaging modality is used to obtain this picture? A)Endoscopy imaging, B)Nuclear medicine imaging, C)X-ray imaging, D)Dermoscopic imaging",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068765.jpg",
+        "problem": "What imaging modality is employed for capturing this image? A)Nuclear medicine imaging, B)Electrocardiogram (ECG) imaging, C)Dermoscopic imaging, D)Magnetic resonance imaging (MRI)",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068779.jpg",
+        "problem": "What is the technique used to obtain this picture? A)Dermoscopic imaging, B)Electroencephalogram (EEG) imaging, C)Computed tomography (CT) scan, D)Ultrasound imaging",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068925.jpg",
+        "problem": "What imaging modality is used for this capture? A)Ultrasound imaging, B)Dermoscopic imaging, C)Mammography imaging, D)Computed tomography (CT) scan",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0069088.jpg",
+        "problem": "What imaging method is employed to obtain this picture? A)Dermoscopic imaging, B)Computed tomography (CT) scan, C)Positron emission tomography (PET) scan, D)Nuclear medicine imaging",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0069137.jpg",
+        "problem": "What imaging modality is utilized for this picture? A)Positron emission tomography (PET) scan, B)Magnetic resonance imaging (MRI), C)Electrocardiogram (ECG) imaging, D)Dermoscopic imaging",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0069263.jpg",
+        "problem": "What is the imaging modality utilized to capture this picture? A)Dermoscopic imaging, B)Mammography imaging, C)Ultrasound imaging, D)Electroencephalogram (EEG) imaging",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0069569.jpg",
+        "problem": "What is the term for the imaging method used to capture this image? A)X-ray imaging, B)Nuclear medicine imaging, C)Mammography imaging, D)Dermoscopic imaging",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0069767.jpg",
+        "problem": "What is the term for the imaging method used to capture this image? A)Mammography imaging, B)Dermoscopic imaging, C)Positron emission tomography (PET) scan, D)Electrocardiogram (ECG) imaging",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0069812.jpg",
+        "problem": "What modality is used to capture this image? A)Dermoscopic imaging, B)Electrocardiogram (ECG) imaging, C)Positron emission tomography (PET) scan, D)Magnetic resonance imaging (MRI)",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0069903.jpg",
+        "problem": "What modality is used to capture this image? A)Nuclear medicine imaging, B)Positron emission tomography (PET) scan, C)Electroencephalogram (EEG) imaging, D)Dermoscopic imaging",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0070034.jpg",
+        "problem": "What modality is used to capture this image? A)Dermoscopic imaging, B)Endoscopy imaging, C)Computed tomography (CT) scan, D)Ultrasound imaging",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0070229.jpg",
+        "problem": "What is the name of the imaging technique used to capture this picture? A)Mammography imaging, B)Positron emission tomography (PET) scan, C)Dermoscopic imaging, D)X-ray imaging",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0070309.jpg",
+        "problem": "What type of imaging is used to capture this picture? A)X-ray imaging, B)Endoscopy imaging, C)Dermoscopic imaging, D)Computed tomography (CT) scan",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0070312.jpg",
+        "problem": "What is the method utilized to acquire this picture? A)Mammography imaging, B)Dermoscopic imaging, C)Electroencephalogram (EEG) imaging, D)Magnetic resonance imaging (MRI)",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0070472.jpg",
+        "problem": "What imaging method is employed to capture this picture? A)Positron emission tomography (PET) scan, B)Dermoscopic imaging, C)Ultrasound imaging, D)Magnetic resonance imaging (MRI)",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0070722.jpg",
+        "problem": "Which imaging modality is utilized to obtain this image? A)Nuclear medicine imaging, B)Magnetic resonance imaging (MRI), C)Dermoscopic imaging, D)Electroencephalogram (EEG) imaging",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071032.jpg",
+        "problem": "What modality is used to capture this image? A)Dermoscopic imaging, B)Electrocardiogram (ECG) imaging, C)Magnetic resonance imaging (MRI), D)X-ray imaging",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071096.jpg",
+        "problem": "What modality is used to capture this image? A)Ultrasound imaging, B)Dermoscopic imaging, C)Electrocardiogram (ECG) imaging, D)Nuclear medicine imaging",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071151.jpg",
+        "problem": "What imaging technique is utilized to capture this picture? A)Nuclear medicine imaging, B)Computed tomography (CT) scan, C)Dermoscopic imaging, D)Mammography imaging",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071170.jpg",
+        "problem": "What modality is used to capture this image? A)Mammography imaging, B)Dermoscopic imaging, C)Endoscopy imaging, D)Ultrasound imaging",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071197.jpg",
+        "problem": "What modality is used to capture this image? A)Positron emission tomography (PET) scan, B)Electroencephalogram (EEG) imaging, C)Dermoscopic imaging, D)Magnetic resonance imaging (MRI)",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071261.jpg",
+        "problem": "What modality is used to capture this image? A)Magnetic resonance imaging (MRI), B)Positron emission tomography (PET) scan, C)Dermoscopic imaging, D)X-ray imaging",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071516.jpg",
+        "problem": "What is the imaging technique utilized to capture this picture? A)Magnetic resonance imaging (MRI), B)Mammography imaging, C)Computed tomography (CT) scan, D)Dermoscopic imaging",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071549.jpg",
+        "problem": "What imaging technique is utilized to obtain this picture? A)Dermoscopic imaging, B)Computed tomography (CT) scan, C)Electrocardiogram (ECG) imaging, D)X-ray imaging",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071594.jpg",
+        "problem": "What is the imaging modality employed to capture this picture? A)Nuclear medicine imaging, B)Dermoscopic imaging, C)Electrocardiogram (ECG) imaging, D)Magnetic resonance imaging (MRI)",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071776.jpg",
+        "problem": "What is the name of the imaging technique used to capture this picture? A)Electroencephalogram (EEG) imaging, B)Positron emission tomography (PET) scan, C)Dermoscopic imaging, D)Nuclear medicine imaging",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071830.jpg",
+        "problem": "What is the imaging modality used to obtain this picture? A)X-ray imaging, B)Dermoscopic imaging, C)Mammography imaging, D)Magnetic resonance imaging (MRI)",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071895.jpg",
+        "problem": "What is the name of the imaging modality used to capture this image? A)Electrocardiogram (ECG) imaging, B)X-ray imaging, C)Magnetic resonance imaging (MRI), D)Dermoscopic imaging",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071997.jpg",
+        "problem": "What is the imaging technique employed to obtain this image? A)Positron emission tomography (PET) scan, B)Dermoscopic imaging, C)Magnetic resonance imaging (MRI), D)Nuclear medicine imaging",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0072030.jpg",
+        "problem": "What method is employed to acquire this image? A)Computed tomography (CT) scan, B)Endoscopy imaging, C)Dermoscopic imaging, D)Magnetic resonance imaging (MRI)",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0072094.jpg",
+        "problem": "What imaging technique is used to acquire this picture? A)Computed tomography (CT) scan, B)Nuclear medicine imaging, C)Electrocardiogram (ECG) imaging, D)Dermoscopic imaging",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0072436.jpg",
+        "problem": "What imaging modality is utilized to acquire this image? A)Endoscopy imaging, B)Dermoscopic imaging, C)Nuclear medicine imaging, D)Electrocardiogram (ECG) imaging",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0072471.jpg",
+        "problem": "What modality is used to capture this image? A)Positron emission tomography (PET) scan, B)Dermoscopic imaging, C)Ultrasound imaging, D)Nuclear medicine imaging",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0072623.jpg",
+        "problem": "What is the imaging modality utilized to obtain this picture? A)Dermoscopic imaging, B)Ultrasound imaging, C)Nuclear medicine imaging, D)Electroencephalogram (EEG) imaging",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0072742.jpg",
+        "problem": "What modality is utilized for capturing this picture? A)Nuclear medicine imaging, B)Computed tomography (CT) scan, C)Dermoscopic imaging, D)Positron emission tomography (PET) scan",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0072768.jpg",
+        "problem": "What imaging technique was utilized to obtain this picture? A)Ultrasound imaging, B)X-ray imaging, C)Dermoscopic imaging, D)Computed tomography (CT) scan",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0073012.jpg",
+        "problem": "What is the method utilized to acquire this picture? A)Ultrasound imaging, B)X-ray imaging, C)Nuclear medicine imaging, D)Dermoscopic imaging",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0073202.jpg",
+        "problem": "What imaging technique was utilized to obtain this picture? A)Nuclear medicine imaging, B)Mammography imaging, C)Electrocardiogram (ECG) imaging, D)Dermoscopic imaging",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0073231.jpg",
+        "problem": "What imaging technique is utilized for capturing this image? A)Electroencephalogram (EEG) imaging, B)Dermoscopic imaging, C)X-ray imaging, D)Mammography imaging",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0065324.jpg",
+        "problem": "What type of skin abnormality is present in this image? A)Rosacea, B)Ringworm, C)Melanoma, D)Eczema",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0065338.jpg",
+        "problem": "What is the term for the skin abnormality detected in this image? A)Eczema, B)Melanoma, C)Psoriasis, D)Cellulitis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0065448.jpg",
+        "problem": "What specific skin ailment is visible in the provided image? A)Melanoma, B)Ringworm, C)Cellulitis, D)Shingles",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0065463.jpg",
+        "problem": "What is the specific condition shown in this image of the skin? A)Cellulitis, B)Melanoma, C)Rosacea, D)Vitiligo",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0065918.jpg",
+        "problem": "What is the specific dermatological condition depicted in this image? A)Vitiligo, B)Melanoma, C)Hives, D)Dermatitis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0066001.jpg",
+        "problem": "What type of skin abnormality is present in this image? A)Melanoma, B)Cellulitis, C)Acne, D)Rosacea",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0066102.jpg",
+        "problem": "What is the skin abnormality seen in this picture? A)Dermatitis, B)Rosacea, C)Melanoma, D)Eczema",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0066209.jpg",
+        "problem": "What type of skin abnormality is present in this image? A)Melanoma, B)Hives, C)Cellulitis, D)Psoriasis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0066217.jpg",
+        "problem": "What is the skin condition displayed in this image? A)Hives, B)Shingles, C)Eczema, D)Melanoma",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0066358.jpg",
+        "problem": "What is the diagnosis of the skin abnormality in the image? A)Hives, B)Vitiligo, C)Melanoma, D)Rosacea",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0066564.jpg",
+        "problem": "What is the name of the skin abnormality visible in the image? A)Shingles, B)Dermatitis, C)Melanoma, D)Psoriasis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0066666.jpg",
+        "problem": "What is the diagnosis of the skin abnormality in this image? A)Cellulitis, B)Dermatitis, C)Melanoma, D)Ringworm",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0066678.jpg",
+        "problem": "What is the name of the skin condition depicted in this image? A)Hives, B)Dermatitis, C)Melanoma, D)Psoriasis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067006.jpg",
+        "problem": "What is the name of the skin abnormality seen in this image? A)Dermatitis, B)Eczema, C)Vitiligo, D)Melanoma",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067274.jpg",
+        "problem": "What is the diagnosis of the skin abnormality seen in this image? A)Melanoma, B)Acne, C)Ringworm, D)Shingles",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067284.jpg",
+        "problem": "What is the skin abnormality depicted in this image? A)Shingles, B)Ringworm, C)Melanoma, D)Dermatitis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067317.jpg",
+        "problem": "What is the skin condition displayed in the image? A)Melanoma, B)Dermatitis, C)Shingles, D)Eczema",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067333.jpg",
+        "problem": "What is the diagnosis of the skin abnormality in the image? A)Psoriasis, B)Melanoma, C)Dermatitis, D)Rosacea",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067576.jpg",
+        "problem": "What is the name of the skin condition depicted in the image? A)Psoriasis, B)Melanoma, C)Vitiligo, D)Shingles",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067808.jpg",
+        "problem": "What type of skin abnormality is present in this image? A)Vitiligo, B)Shingles, C)Melanoma, D)Rosacea",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068012.jpg",
+        "problem": "What is the name of the skin abnormality visible in the image? A)Eczema, B)Melanoma, C)Shingles, D)Cellulitis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068106.jpg",
+        "problem": "What is the specific skin condition shown in the provided image? A)Hives, B)Rosacea, C)Dermatitis, D)Melanoma",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068164.jpg",
+        "problem": "What is the diagnosis for the skin abnormality depicted in the image? A)Dermatitis, B)Ringworm, C)Vitiligo, D)Melanoma",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068495.jpg",
+        "problem": "What is the skin condition depicted in this image? A)Cellulitis, B)Melanoma, C)Vitiligo, D)Acne",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068580.jpg",
+        "problem": "What is the specific name of the skin condition depicted in this image? A)Rosacea, B)Eczema, C)Psoriasis, D)Melanoma",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068586.jpg",
+        "problem": "In this image, what specific skin condition can be identified? A)Rosacea, B)Melanoma, C)Cellulitis, D)Ringworm",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068763.jpg",
+        "problem": "What is the name of the skin abnormality exhibited in this image? A)Rosacea, B)Dermatitis, C)Melanoma, D)Acne",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068798.jpg",
+        "problem": "What is the name of the skin abnormality seen in the provided image? A)Melanoma, B)Eczema, C)Acne, D)Psoriasis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068817.jpg",
+        "problem": "What is the skin abnormality shown in the image? A)Melanoma, B)Cellulitis, C)Rosacea, D)Vitiligo",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068882.jpg",
+        "problem": "What specific skin condition can be identified in this image? A)Shingles, B)Vitiligo, C)Melanoma, D)Psoriasis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068897.jpg",
+        "problem": "What is the medical term for the skin abnormality depicted in this image? A)Psoriasis, B)Eczema, C)Melanoma, D)Hives",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0069277.jpg",
+        "problem": "What is the skin abnormality in the image depicting? A)Melanoma, B)Hives, C)Psoriasis, D)Vitiligo",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0069370.jpg",
+        "problem": "What kind of skin issue is depicted in the image? A)Melanoma, B)Hives, C)Dermatitis, D)Shingles",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0069667.jpg",
+        "problem": "What is the specific name of the skin condition depicted in this image? A)Melanoma, B)Cellulitis, C)Psoriasis, D)Dermatitis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0069891.jpg",
+        "problem": "What specific skin condition can be identified in this picture? A)Eczema, B)Melanoma, C)Hives, D)Dermatitis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0069929.jpg",
+        "problem": "What is the identification of the skin abnormality depicted in this image? A)Dermatitis, B)Rosacea, C)Melanoma, D)Cellulitis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0070068.jpg",
+        "problem": "What is the specific name of the skin condition depicted in this image? A)Melanoma, B)Rosacea, C)Cellulitis, D)Hives",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0070163.jpg",
+        "problem": "What is the skin condition displayed in the image? A)Ringworm, B)Shingles, C)Eczema, D)Melanoma",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0070248.jpg",
+        "problem": "What is the skin condition shown in this image? A)Hives, B)Psoriasis, C)Melanoma, D)Eczema",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0070285.jpg",
+        "problem": "What is the skin abnormality shown in this image? A)Dermatitis, B)Vitiligo, C)Shingles, D)Melanoma",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0070432.jpg",
+        "problem": "What is the specific skin condition depicted in the image? A)Hives, B)Rosacea, C)Eczema, D)Melanoma",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0070816.jpg",
+        "problem": "What type of skin abnormality is present in this image? A)Eczema, B)Cellulitis, C)Vitiligo, D)Melanoma",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0070830.jpg",
+        "problem": "What is the specific skin condition shown in the image? A)Acne, B)Eczema, C)Melanoma, D)Psoriasis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0070940.jpg",
+        "problem": "What is the specific skin condition apparent in this image? A)Eczema, B)Acne, C)Cellulitis, D)Melanoma",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0070998.jpg",
+        "problem": "What kind of skin abnormality is depicted in this picture? A)Ringworm, B)Psoriasis, C)Eczema, D)Melanoma",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071095.jpg",
+        "problem": "What is the diagnosis for the skin condition depicted in the photograph? A)Melanoma, B)Psoriasis, C)Eczema, D)Rosacea",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071111.jpg",
+        "problem": "What is the name of this skin abnormality shown in the image? A)Dermatitis, B)Hives, C)Cellulitis, D)Melanoma",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071193.jpg",
+        "problem": "What is the term for the skin abnormality depicted in this image? A)Vitiligo, B)Melanoma, C)Acne, D)Dermatitis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071196.jpg",
+        "problem": "What is the specific skin condition portrayed in this image? A)Psoriasis, B)Melanoma, C)Cellulitis, D)Vitiligo",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071767.jpg",
+        "problem": "What is the specific skin condition depicted in the given image? A)Vitiligo, B)Rosacea, C)Melanoma, D)Eczema",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071910.jpg",
+        "problem": "What is the name of the skin abnormality featured in this image? A)Cellulitis, B)Melanoma, C)Ringworm, D)Rosacea",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071957.jpg",
+        "problem": "What is the specific skin condition depicted in this image? A)Dermatitis, B)Shingles, C)Melanoma, D)Acne",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071959.jpg",
+        "problem": "What is the specific dermatological condition shown in this image? A)Melanoma, B)Eczema, C)Rosacea, D)Ringworm",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0072157.jpg",
+        "problem": "What is the name of the skin condition depicted in this image? A)Melanoma, B)Eczema, C)Acne, D)Vitiligo",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0072195.jpg",
+        "problem": "What type of skin abnormality is present in this image? A)Ringworm, B)Eczema, C)Melanoma, D)Dermatitis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0072383.jpg",
+        "problem": "What is the diagnosis of the skin condition depicted in this image? A)Ringworm, B)Rosacea, C)Melanoma, D)Hives",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0072473.jpg",
+        "problem": "What is the specific type of skin abnormality depicted in the image? A)Hives, B)Melanoma, C)Acne, D)Shingles",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0072569.jpg",
+        "problem": "What is the specific type of skin abnormality depicted in the image? A)Hives, B)Melanoma, C)Dermatitis, D)Vitiligo",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0073143.jpg",
+        "problem": "What is the diagnosis for the skin condition depicted in the photograph? A)Ringworm, B)Vitiligo, C)Psoriasis, D)Melanoma",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0065275.jpg",
+        "problem": "What is the specific skin irregularity depicted in this picture? A)Acne, B)Rosacea, C)Eczema, D)Melanocytic nevus",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0065320.jpg",
+        "problem": "What is the specific skin condition shown in this image? A)Melanocytic nevus, B)Psoriasis, C)Squamous cell carcinoma, D)Actinic keratosis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0065505.jpg",
+        "problem": "What is the specific skin abnormality depicted in the image? A)Melanocytic nevus, B)Dermatitis, C)Vitiligo, D)Basal cell carcinoma",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0065558.jpg",
+        "problem": "What is the term used to describe the skin abnormality depicted in the image? A)Rosacea, B)Eczema, C)Melanocytic nevus, D)Vitiligo",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0065586.jpg",
+        "problem": "What is the specific skin anomaly depicted in the provided image? A)Basal cell carcinoma, B)Melanocytic nevus, C)Dermatitis, D)Actinic keratosis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0065587.jpg",
+        "problem": "What is the specific skin abnormality depicted in this image? A)Melanocytic nevus, B)Basal cell carcinoma, C)Hives, D)Acne",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0065847.jpg",
+        "problem": "What is the specific type of skin abnormality observed in this image? A)Eczema, B)Squamous cell carcinoma, C)Melanocytic nevus, D)Acne",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0065898.jpg",
+        "problem": "Which skin abnormality can be observed in this image? A)Acne, B)Melanocytic nevus, C)Rosacea, D)Basal cell carcinoma",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0066000.jpg",
+        "problem": "What is the name given to the skin abnormality observed in this image? A)Vitiligo, B)Melanocytic nevus, C)Hives, D)Dermatitis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0066060.jpg",
+        "problem": "What is the specific name for the skin abnormality seen in this image? A)Rosacea, B)Actinic keratosis, C)Melanocytic nevus, D)Hives",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0066078.jpg",
+        "problem": "Which type of skin abnormality is visible in the provided image? A)Dermatitis, B)Hives, C)Basal cell carcinoma, D)Melanocytic nevus",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0066153.jpg",
+        "problem": "Which skin abnormality is depicted in the image? A)Rosacea, B)Actinic keratosis, C)Acne, D)Melanocytic nevus",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0066279.jpg",
+        "problem": "What term would you use to describe the skin abnormality shown in this image? A)Melanocytic nevus, B)Rosacea, C)Vitiligo, D)Dermatitis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0066294.jpg",
+        "problem": "What is the specific skin anomaly visible in this picture? A)Eczema, B)Melanocytic nevus, C)Acne, D)Basal cell carcinoma",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0066415.jpg",
+        "problem": "What is the specific skin condition visible in the image? A)Melanocytic nevus, B)Psoriasis, C)Vitiligo, D)Rosacea",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0066462.jpg",
+        "problem": "What kind of skin irregularity is visible in this picture? A)Rosacea, B)Melanocytic nevus, C)Squamous cell carcinoma, D)Vitiligo",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0066574.jpg",
+        "problem": "What is the specific skin irregularity that can be observed in the provided image? A)Basal cell carcinoma, B)Melanocytic nevus, C)Eczema, D)Psoriasis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0066998.jpg",
+        "problem": "What is the specific skin irregularity shown in this image? A)Hives, B)Actinic keratosis, C)Melanocytic nevus, D)Squamous cell carcinoma",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067011.jpg",
+        "problem": "What is the name of the skin abnormality in this image? A)Vitiligo, B)Melanocytic nevus, C)Hives, D)Rosacea",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067058.jpg",
+        "problem": "What is the medical term for the skin abnormality observed in this image? A)Hives, B)Melanocytic nevus, C)Dermatitis, D)Actinic keratosis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067094.jpg",
+        "problem": "What is the diagnosis for the skin condition depicted in the photograph? A)Rosacea, B)Acne, C)Psoriasis, D)Melanocytic nevus",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067161.jpg",
+        "problem": "What is the specific skin abnormality seen in the image? A)Melanocytic nevus, B)Basal cell carcinoma, C)Vitiligo, D)Hives",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067269.jpg",
+        "problem": "What is the skin abnormality depicted in the image? A)Melanocytic nevus, B)Hives, C)Basal cell carcinoma, D)Acne",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067288.jpg",
+        "problem": "What is the term to describe the skin abnormality depicted in the image? A)Melanocytic nevus, B)Dermatitis, C)Vitiligo, D)Rosacea",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067420.jpg",
+        "problem": "What specific skin condition can be identified in this picture? A)Dermatitis, B)Vitiligo, C)Melanocytic nevus, D)Actinic keratosis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067609.jpg",
+        "problem": "What is the specific skin condition visible in this image? A)Dermatitis, B)Basal cell carcinoma, C)Melanocytic nevus, D)Squamous cell carcinoma",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067649.jpg",
+        "problem": "What is the diagnosis for the skin condition shown in the picture? A)Melanocytic nevus, B)Vitiligo, C)Actinic keratosis, D)Rosacea",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067703.jpg",
+        "problem": "What is the specific name for this skin abnormality shown in the image? A)Melanocytic nevus, B)Basal cell carcinoma, C)Hives, D)Psoriasis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067745.jpg",
+        "problem": "What type of skin abnormality is present in this image? A)Psoriasis, B)Dermatitis, C)Melanocytic nevus, D)Acne",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067835.jpg",
+        "problem": "What is the specific skin abnormality exhibited in the image? A)Hives, B)Squamous cell carcinoma, C)Basal cell carcinoma, D)Melanocytic nevus",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067899.jpg",
+        "problem": "What is the term used to describe the skin abnormality present in this image? A)Rosacea, B)Hives, C)Acne, D)Melanocytic nevus",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068010.jpg",
+        "problem": "What is the specific skin abnormality observed in the provided image? A)Actinic keratosis, B)Rosacea, C)Squamous cell carcinoma, D)Melanocytic nevus",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068061.jpg",
+        "problem": "What is the specific skin abnormality featured in this image? A)Psoriasis, B)Eczema, C)Melanocytic nevus, D)Dermatitis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068126.jpg",
+        "problem": "What is the name of the skin abnormality present in this image? A)Psoriasis, B)Vitiligo, C)Acne, D)Melanocytic nevus",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068217.jpg",
+        "problem": "What is the clinical diagnosis for the skin abnormality shown in this image? A)Hives, B)Vitiligo, C)Psoriasis, D)Melanocytic nevus",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068248.jpg",
+        "problem": "What type of skin condition is depicted in this picture? A)Squamous cell carcinoma, B)Melanocytic nevus, C)Psoriasis, D)Rosacea",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068256.jpg",
+        "problem": "What type of skin abnormality is present in this image? A)Psoriasis, B)Acne, C)Dermatitis, D)Melanocytic nevus",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068305.jpg",
+        "problem": "What term would be used to describe the skin abnormality shown in this image? A)Rosacea, B)Psoriasis, C)Melanocytic nevus, D)Hives",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068329.jpg",
+        "problem": "What kind of skin irregularity is depicted in this picture? A)Melanocytic nevus, B)Eczema, C)Hives, D)Basal cell carcinoma",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068344.jpg",
+        "problem": "What is the skin abnormality shown in this image? A)Vitiligo, B)Acne, C)Rosacea, D)Melanocytic nevus",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068487.jpg",
+        "problem": "What is the specific skin anomaly depicted in the image? A)Melanocytic nevus, B)Actinic keratosis, C)Rosacea, D)Vitiligo",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068544.jpg",
+        "problem": "What is the specific skin abnormality that is depicted in this image? A)Acne, B)Melanocytic nevus, C)Squamous cell carcinoma, D)Eczema",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068573.jpg",
+        "problem": "What is the specific skin abnormality seen in this image? A)Melanocytic nevus, B)Vitiligo, C)Squamous cell carcinoma, D)Actinic keratosis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068652.jpg",
+        "problem": "What is the specific dermatological condition depicted in this picture? A)Eczema, B)Psoriasis, C)Acne, D)Melanocytic nevus",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068820.jpg",
+        "problem": "What is the skin abnormality that can be observed in this image? A)Eczema, B)Melanocytic nevus, C)Dermatitis, D)Vitiligo",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068967.jpg",
+        "problem": "What is the term for the specific skin abnormality depicted in this image? A)Rosacea, B)Melanocytic nevus, C)Dermatitis, D)Eczema",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0069039.jpg",
+        "problem": "What is the name of the skin abnormality shown in the provided image? A)Dermatitis, B)Eczema, C)Acne, D)Melanocytic nevus",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0069051.jpg",
+        "problem": "What is the specific skin abnormality that is depicted in this image? A)Squamous cell carcinoma, B)Melanocytic nevus, C)Vitiligo, D)Dermatitis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0069160.jpg",
+        "problem": "What is the name of this skin abnormality in the image? A)Psoriasis, B)Basal cell carcinoma, C)Actinic keratosis, D)Melanocytic nevus",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0069226.jpg",
+        "problem": "What is the skin abnormality shown in this picture? A)Melanocytic nevus, B)Hives, C)Acne, D)Rosacea",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0069331.jpg",
+        "problem": "What is the specific skin abnormality observed in the image? A)Psoriasis, B)Vitiligo, C)Melanocytic nevus, D)Squamous cell carcinoma",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0069371.jpg",
+        "problem": "What is the term for the skin abnormality visualized in this image? A)Melanocytic nevus, B)Rosacea, C)Eczema, D)Hives",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0069396.jpg",
+        "problem": "What is the specific skin condition shown in the provided image? A)Eczema, B)Vitiligo, C)Acne, D)Melanocytic nevus",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0069403.jpg",
+        "problem": "What specific skin condition is depicted in the image? A)Eczema, B)Dermatitis, C)Melanocytic nevus, D)Psoriasis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0069603.jpg",
+        "problem": "What is the name for the skin abnormality visible in this image? A)Rosacea, B)Melanocytic nevus, C)Squamous cell carcinoma, D)Acne",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0069728.jpg",
+        "problem": "What is the specific dermatological condition depicted in this photograph? A)Actinic keratosis, B)Dermatitis, C)Basal cell carcinoma, D)Melanocytic nevus",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0070077.jpg",
+        "problem": "What is the name of the skin anomaly visible in this picture? A)Acne, B)Melanocytic nevus, C)Eczema, D)Actinic keratosis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0070203.jpg",
+        "problem": "What kind of dermal irregularity is depicted in this picture? A)Melanocytic nevus, B)Psoriasis, C)Rosacea, D)Vitiligo",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0070399.jpg",
+        "problem": "What is the specific skin issue depicted in this image? A)Melanocytic nevus, B)Rosacea, C)Psoriasis, D)Squamous cell carcinoma",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0070519.jpg",
+        "problem": "What is the name of the skin abnormality found in this image? A)Squamous cell carcinoma, B)Rosacea, C)Acne, D)Melanocytic nevus",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0070538.jpg",
+        "problem": "What term is used to describe the skin abnormality seen in this image? A)Melanocytic nevus, B)Psoriasis, C)Basal cell carcinoma, D)Hives",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0070548.jpg",
+        "problem": "What is the term used to describe the skin abnormality seen in the provided image? A)Actinic keratosis, B)Melanocytic nevus, C)Basal cell carcinoma, D)Psoriasis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0070637.jpg",
+        "problem": "What kind of skin irregularity is depicted in this image? A)Rosacea, B)Hives, C)Dermatitis, D)Melanocytic nevus",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0070722.jpg",
+        "problem": "What is the specific skin anomaly depicted in this picture? A)Vitiligo, B)Acne, C)Psoriasis, D)Melanocytic nevus",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0070736.jpg",
+        "problem": "What skin abnormality is depicted in this picture? A)Eczema, B)Basal cell carcinoma, C)Dermatitis, D)Melanocytic nevus",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0070860.jpg",
+        "problem": "What is the name of the skin condition depicted in this image? A)Melanocytic nevus, B)Hives, C)Psoriasis, D)Acne",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0070962.jpg",
+        "problem": "What is the dermatological term for the skin abnormality depicted in this image? A)Dermatitis, B)Basal cell carcinoma, C)Melanocytic nevus, D)Vitiligo",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071091.jpg",
+        "problem": "What is the skin abnormality shown in this image called? A)Eczema, B)Rosacea, C)Melanocytic nevus, D)Acne",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071149.jpg",
+        "problem": "What condition is depicted in this image of the skin? A)Melanocytic nevus, B)Psoriasis, C)Vitiligo, D)Rosacea",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071286.jpg",
+        "problem": "What is the specific name for the skin abnormality shown in the image? A)Squamous cell carcinoma, B)Melanocytic nevus, C)Rosacea, D)Eczema",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071389.jpg",
+        "problem": "What is the skin abnormality that can be identified in this picture? A)Melanocytic nevus, B)Rosacea, C)Squamous cell carcinoma, D)Acne",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071497.jpg",
+        "problem": "What type of skin abnormality is present in this image? A)Squamous cell carcinoma, B)Psoriasis, C)Acne, D)Melanocytic nevus",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071506.jpg",
+        "problem": "What is the specific skin abnormality shown in the provided image? A)Rosacea, B)Melanocytic nevus, C)Psoriasis, D)Vitiligo",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071647.jpg",
+        "problem": "What is the specific type of skin abnormality exhibited in this image? A)Melanocytic nevus, B)Dermatitis, C)Rosacea, D)Vitiligo",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071664.jpg",
+        "problem": "What kind of skin anomaly can be observed in this picture? A)Melanocytic nevus, B)Hives, C)Eczema, D)Psoriasis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071735.jpg",
+        "problem": "What is the name for the skin abnormality seen in this image? A)Melanocytic nevus, B)Squamous cell carcinoma, C)Actinic keratosis, D)Hives",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071752.jpg",
+        "problem": "What is the term for the skin abnormality depicted in this image? A)Melanocytic nevus, B)Psoriasis, C)Vitiligo, D)Hives",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071759.jpg",
+        "problem": "What is the specific skin irregularity visible in this image? A)Eczema, B)Squamous cell carcinoma, C)Melanocytic nevus, D)Acne",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071823.jpg",
+        "problem": "What is the specific skin abnormality seen in this image? A)Vitiligo, B)Basal cell carcinoma, C)Rosacea, D)Melanocytic nevus",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0072016.jpg",
+        "problem": "What is the specific skin abnormality featured in this image? A)Hives, B)Vitiligo, C)Melanocytic nevus, D)Acne",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0072196.jpg",
+        "problem": "What is the identification of the skin abnormality visible in this image? A)Dermatitis, B)Melanocytic nevus, C)Squamous cell carcinoma, D)Basal cell carcinoma",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0072282.jpg",
+        "problem": "What is the specific term used to describe the skin abnormality featured in this image? A)Squamous cell carcinoma, B)Melanocytic nevus, C)Rosacea, D)Basal cell carcinoma",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0072313.jpg",
+        "problem": "What is the specific skin condition captured in this image? A)Eczema, B)Melanocytic nevus, C)Actinic keratosis, D)Rosacea",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0072346.jpg",
+        "problem": "What is the specific skin condition displayed in this image? A)Dermatitis, B)Melanocytic nevus, C)Psoriasis, D)Actinic keratosis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0072530.jpg",
+        "problem": "What is the specific name for the skin abnormality seen in the image? A)Hives, B)Melanocytic nevus, C)Psoriasis, D)Vitiligo",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0072552.jpg",
+        "problem": "What is the specific skin condition shown in the provided image? A)Dermatitis, B)Melanocytic nevus, C)Acne, D)Squamous cell carcinoma",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0072723.jpg",
+        "problem": "What is the name given to this skin abnormality in the image? A)Psoriasis, B)Melanocytic nevus, C)Actinic keratosis, D)Squamous cell carcinoma",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0072957.jpg",
+        "problem": "What is the skin abnormality that can be observed in the image? A)Basal cell carcinoma, B)Rosacea, C)Melanocytic nevus, D)Actinic keratosis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0073175.jpg",
+        "problem": "What is the specific name for the skin abnormality depicted in the image? A)Psoriasis, B)Melanocytic nevus, C)Hives, D)Acne",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0065637.jpg",
+        "problem": "What is the specific dermatological condition depicted in this image? A)Hives, B)Basal cell carcinoma, C)Squamous cell carcinoma, D)Rosacea",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0065790.jpg",
+        "problem": "What is the skin condition shown in this image? A)Basal cell carcinoma, B)Eczema, C)Dermatitis, D)Melanoma",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0065922.jpg",
+        "problem": "Which specific skin condition is depicted in this image? A)Squamous cell carcinoma, B)Dermatitis, C)Basal cell carcinoma, D)Psoriasis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0066014.jpg",
+        "problem": "What is the specific diagnosis of the skin abnormality seen in this image? A)Rosacea, B)Melanoma, C)Basal cell carcinoma, D)Seborrheic keratosis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0066044.jpg",
+        "problem": "What type of skin abnormality is present in this image? A)Hives, B)Psoriasis, C)Basal cell carcinoma, D)Squamous cell carcinoma",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0066103.jpg",
+        "problem": "What is the name of the skin abnormality observed in this image? A)Acne, B)Rosacea, C)Eczema, D)Basal cell carcinoma",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0066301.jpg",
+        "problem": "What kind of skin condition is depicted in this image? A)Acne, B)Seborrheic keratosis, C)Basal cell carcinoma, D)Vitiligo",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0066380.jpg",
+        "problem": "What is the specific dermatological condition depicted in this image? A)Acne, B)Squamous cell carcinoma, C)Eczema, D)Basal cell carcinoma",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0066473.jpg",
+        "problem": "What is the name of the skin abnormality that is observed in the provided image? A)Rosacea, B)Psoriasis, C)Basal cell carcinoma, D)Seborrheic keratosis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0066540.jpg",
+        "problem": "What is the specific skin abnormality shown in the image? A)Acne, B)Melanoma, C)Hives, D)Basal cell carcinoma",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0066620.jpg",
+        "problem": "What is the specific skin condition visible in the provided image? A)Seborrheic keratosis, B)Rosacea, C)Basal cell carcinoma, D)Dermatitis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0066676.jpg",
+        "problem": "What is the specific skin condition shown in the image? A)Melanoma, B)Basal cell carcinoma, C)Hives, D)Eczema",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0066747.jpg",
+        "problem": "What is the name of the skin abnormality portrayed in this image? A)Seborrheic keratosis, B)Basal cell carcinoma, C)Dermatitis, D)Acne",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0066881.jpg",
+        "problem": "What is the name of the skin abnormality depicted in this picture? A)Melanoma, B)Dermatitis, C)Squamous cell carcinoma, D)Basal cell carcinoma",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0066901.jpg",
+        "problem": "What specific skin condition is depicted in this image? A)Acne, B)Rosacea, C)Basal cell carcinoma, D)Melanoma",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067110.jpg",
+        "problem": "What is the skin condition depicted in this image? A)Squamous cell carcinoma, B)Vitiligo, C)Hives, D)Basal cell carcinoma",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067221.jpg",
+        "problem": "What is the skin condition depicted in this image? A)Squamous cell carcinoma, B)Seborrheic keratosis, C)Vitiligo, D)Basal cell carcinoma",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067286.jpg",
+        "problem": "What is the diagnosis of the skin abnormality depicted in this image? A)Psoriasis, B)Eczema, C)Basal cell carcinoma, D)Acne",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067291.jpg",
+        "problem": "What is the specific skin condition observed in this image? A)Eczema, B)Basal cell carcinoma, C)Squamous cell carcinoma, D)Psoriasis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067376.jpg",
+        "problem": "What is the specific skin condition visible in the image? A)Psoriasis, B)Eczema, C)Basal cell carcinoma, D)Hives",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067409.jpg",
+        "problem": "What is the name of the skin abnormality seen in this image? A)Rosacea, B)Acne, C)Hives, D)Basal cell carcinoma",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067532.jpg",
+        "problem": "What is the specific skin condition depicted in this image? A)Basal cell carcinoma, B)Melanoma, C)Hives, D)Squamous cell carcinoma",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067554.jpg",
+        "problem": "What is the specific skin condition featured in this image? A)Seborrheic keratosis, B)Melanoma, C)Rosacea, D)Basal cell carcinoma",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067707.jpg",
+        "problem": "What is the name of the skin abnormality featured in this image? A)Basal cell carcinoma, B)Squamous cell carcinoma, C)Hives, D)Dermatitis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067766.jpg",
+        "problem": "What is the diagnosis for the skin abnormality shown in this image? A)Basal cell carcinoma, B)Hives, C)Melanoma, D)Rosacea",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068083.jpg",
+        "problem": "What is the specific skin condition depicted in the image? A)Acne, B)Basal cell carcinoma, C)Seborrheic keratosis, D)Melanoma",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068674.jpg",
+        "problem": "What is the term for the skin abnormality depicted in this image? A)Psoriasis, B)Basal cell carcinoma, C)Squamous cell carcinoma, D)Acne",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0069023.jpg",
+        "problem": "What type of skin abnormality is present in this image? A)Seborrheic keratosis, B)Basal cell carcinoma, C)Rosacea, D)Melanoma",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0069092.jpg",
+        "problem": "What type of skin abnormality is present in this image? A)Basal cell carcinoma, B)Vitiligo, C)Squamous cell carcinoma, D)Dermatitis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0069311.jpg",
+        "problem": "What is the specific skin condition depicted in the image? A)Squamous cell carcinoma, B)Basal cell carcinoma, C)Vitiligo, D)Hives",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0069421.jpg",
+        "problem": "What is the name of the skin abnormality observed in this image? A)Melanoma, B)Squamous cell carcinoma, C)Psoriasis, D)Basal cell carcinoma",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0069696.jpg",
+        "problem": "What does this image depict in terms of skin abnormalities? A)Acne, B)Basal cell carcinoma, C)Seborrheic keratosis, D)Vitiligo",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0069744.jpg",
+        "problem": "What is the specific skin condition depicted in this image? A)Hives, B)Eczema, C)Basal cell carcinoma, D)Psoriasis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0069836.jpg",
+        "problem": "What is the skin abnormality present in the image? A)Rosacea, B)Seborrheic keratosis, C)Psoriasis, D)Basal cell carcinoma",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0069856.jpg",
+        "problem": "What specific skin condition is depicted in this image? A)Rosacea, B)Melanoma, C)Seborrheic keratosis, D)Basal cell carcinoma",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0070345.jpg",
+        "problem": "What is the diagnosis for the skin condition shown in the photograph? A)Melanoma, B)Vitiligo, C)Basal cell carcinoma, D)Rosacea",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0070376.jpg",
+        "problem": "What is the specific skin condition depicted in this image? A)Dermatitis, B)Melanoma, C)Basal cell carcinoma, D)Rosacea",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0070466.jpg",
+        "problem": "What is the specific diagnosis for the skin abnormality depicted in the image? A)Hives, B)Dermatitis, C)Basal cell carcinoma, D)Rosacea",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0070568.jpg",
+        "problem": "What is the skin abnormality depicted in the provided image? A)Melanoma, B)Acne, C)Basal cell carcinoma, D)Vitiligo",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0070620.jpg",
+        "problem": "What is the specific skin condition exhibited in the provided image? A)Melanoma, B)Hives, C)Basal cell carcinoma, D)Squamous cell carcinoma",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0070672.jpg",
+        "problem": "What specific type of skin lesion is depicted in this picture? A)Rosacea, B)Basal cell carcinoma, C)Squamous cell carcinoma, D)Hives",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0070684.jpg",
+        "problem": "What is the term for the skin abnormality depicted in this image? A)Basal cell carcinoma, B)Seborrheic keratosis, C)Vitiligo, D)Dermatitis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0070700.jpg",
+        "problem": "What is the skin abnormality observed in this image? A)Eczema, B)Hives, C)Basal cell carcinoma, D)Seborrheic keratosis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0070833.jpg",
+        "problem": "What is the specific skin condition exhibited in the provided image? A)Basal cell carcinoma, B)Hives, C)Vitiligo, D)Psoriasis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0070894.jpg",
+        "problem": "What kind of skin condition is depicted in this image? A)Dermatitis, B)Basal cell carcinoma, C)Melanoma, D)Psoriasis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0070994.jpg",
+        "problem": "What is the diagnosis for the skin abnormality depicted in the image? A)Hives, B)Acne, C)Vitiligo, D)Basal cell carcinoma",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071030.jpg",
+        "problem": "What is the specific skin condition depicted in the provided image? A)Squamous cell carcinoma, B)Psoriasis, C)Basal cell carcinoma, D)Hives",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071150.jpg",
+        "problem": "What is the specific skin condition depicted in this image? A)Psoriasis, B)Hives, C)Squamous cell carcinoma, D)Basal cell carcinoma",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071255.jpg",
+        "problem": "What is the name of the skin condition shown in this image? A)Dermatitis, B)Psoriasis, C)Basal cell carcinoma, D)Seborrheic keratosis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071294.jpg",
+        "problem": "What is the specific skin abnormality depicted in this picture? A)Eczema, B)Dermatitis, C)Psoriasis, D)Basal cell carcinoma",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071397.jpg",
+        "problem": "What is the specific abnormality identified in the image of the skin? A)Dermatitis, B)Hives, C)Vitiligo, D)Basal cell carcinoma",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071607.jpg",
+        "problem": "What is the skin abnormality depicted in the provided image? A)Rosacea, B)Hives, C)Basal cell carcinoma, D)Melanoma",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071649.jpg",
+        "problem": "Which skin condition is depicted in this image? A)Basal cell carcinoma, B)Psoriasis, C)Vitiligo, D)Melanoma",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071676.jpg",
+        "problem": "What is the term for the skin abnormality depicted in this image? A)Acne, B)Vitiligo, C)Basal cell carcinoma, D)Hives",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071709.jpg",
+        "problem": "What is the medical term for the skin abnormality shown in this image? A)Hives, B)Basal cell carcinoma, C)Psoriasis, D)Dermatitis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071843.jpg",
+        "problem": "What is the specific condition manifested in the skin in this image? A)Eczema, B)Hives, C)Basal cell carcinoma, D)Dermatitis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071873.jpg",
+        "problem": "What specific type of skin lesion is depicted in this picture? A)Hives, B)Vitiligo, C)Basal cell carcinoma, D)Eczema",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071968.jpg",
+        "problem": "What is the specific condition depicted in this image of the skin? A)Psoriasis, B)Acne, C)Basal cell carcinoma, D)Vitiligo",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0072028.jpg",
+        "problem": "What skin condition is depicted in this photograph? A)Seborrheic keratosis, B)Basal cell carcinoma, C)Melanoma, D)Dermatitis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0072117.jpg",
+        "problem": "What is the diagnosis for the skin abnormality seen in this image? A)Basal cell carcinoma, B)Psoriasis, C)Acne, D)Rosacea",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0072670.jpg",
+        "problem": "What is the specific skin condition depicted in the given image? A)Basal cell carcinoma, B)Melanoma, C)Eczema, D)Psoriasis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0072914.jpg",
+        "problem": "What is the specific skin condition diagnosed in this image? A)Basal cell carcinoma, B)Vitiligo, C)Acne, D)Dermatitis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0073002.jpg",
+        "problem": "What type of skin abnormality is present in this image? A)Vitiligo, B)Melanoma, C)Rosacea, D)Basal cell carcinoma",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0073137.jpg",
+        "problem": "What is the name of the skin abnormality seen in this image? A)Melanoma, B)Squamous cell carcinoma, C)Psoriasis, D)Basal cell carcinoma",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0073247.jpg",
+        "problem": "What is the skin condition depicted in this image? A)Squamous cell carcinoma, B)Eczema, C)Basal cell carcinoma, D)Hives",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0065304.jpg",
+        "problem": "What is the name of the skin condition seen in this image? A)Impetigo, B)Seborrheic dermatitis, C)Actinic keratosis, D)Hives",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0065312.jpg",
+        "problem": "What is the specific skin condition depicted in this image? A)Rosacea, B)Vitiligo, C)Eczema, D)Actinic keratosis",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0065952.jpg",
+        "problem": "What is the identified skin condition in this image? A)Psoriasis, B)Actinic keratosis, C)Hives, D)Vitiligo",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0066056.jpg",
+        "problem": "What is the dermatological condition depicted in this image? A)Psoriasis, B)Eczema, C)Actinic keratosis, D)Impetigo",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0066296.jpg",
+        "problem": "What is the name of the skin abnormality featured in this image? A)Shingles, B)Seborrheic dermatitis, C)Eczema, D)Actinic keratosis",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0066509.jpg",
+        "problem": "What is the skin abnormality identified in this image? A)Vitiligo, B)Cellulitis, C)Shingles, D)Actinic keratosis",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0066684.jpg",
+        "problem": "What is the name of the skin abnormality shown in this image? A)Hives, B)Actinic keratosis, C)Cellulitis, D)Seborrheic dermatitis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0066762.jpg",
+        "problem": "What type of skin abnormality is present in this image? A)Cellulitis, B)Shingles, C)Melanoma, D)Actinic keratosis",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0066990.jpg",
+        "problem": "What is the specific skin condition depicted in this image? A)Melanoma, B)Impetigo, C)Hives, D)Actinic keratosis",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067100.jpg",
+        "problem": "What is the name of the skin abnormality depicted in the image? A)Cellulitis, B)Rosacea, C)Actinic keratosis, D)Psoriasis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067180.jpg",
+        "problem": "What is the skin abnormality seen in this image? A)Eczema, B)Melanoma, C)Cellulitis, D)Actinic keratosis",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067432.jpg",
+        "problem": "What is the skin condition observed in this image? A)Seborrheic dermatitis, B)Eczema, C)Actinic keratosis, D)Cellulitis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067490.jpg",
+        "problem": "What is the name of the skin lesion in this image? A)Hives, B)Actinic keratosis, C)Cellulitis, D)Impetigo",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067592.jpg",
+        "problem": "What is the name of the skin abnormality seen in the provided image? A)Actinic keratosis, B)Cellulitis, C)Rosacea, D)Hives",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067945.jpg",
+        "problem": "What is the name of the skin abnormality in the image? A)Melanoma, B)Actinic keratosis, C)Seborrheic dermatitis, D)Eczema",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068072.jpg",
+        "problem": "What is the skin condition depicted in this image? A)Impetigo, B)Hives, C)Actinic keratosis, D)Seborrheic dermatitis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068086.jpg",
+        "problem": "What type of skin abnormality is present in this image? A)Hives, B)Actinic keratosis, C)Seborrheic dermatitis, D)Rosacea",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068653.jpg",
+        "problem": "What is the diagnosis for the skin abnormality seen in this image? A)Shingles, B)Actinic keratosis, C)Seborrheic dermatitis, D)Hives",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068722.jpg",
+        "problem": "What is the name of the skin abnormality shown in this image? A)Shingles, B)Melanoma, C)Cellulitis, D)Actinic keratosis",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0069043.jpg",
+        "problem": "What is the name of the skin abnormality in the image? A)Impetigo, B)Actinic keratosis, C)Psoriasis, D)Rosacea",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0069195.jpg",
+        "problem": "What is the name of the skin condition shown in this image? A)Seborrheic dermatitis, B)Hives, C)Actinic keratosis, D)Cellulitis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0070164.jpg",
+        "problem": "What is the skin abnormality featured in this image? A)Actinic keratosis, B)Hives, C)Impetigo, D)Vitiligo",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0070499.jpg",
+        "problem": "What is the name of the skin abnormality visible in the image? A)Cellulitis, B)Actinic keratosis, C)Melanoma, D)Impetigo",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0070507.jpg",
+        "problem": "What specific skin condition is depicted in this image? A)Rosacea, B)Vitiligo, C)Actinic keratosis, D)Hives",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0070922.jpg",
+        "problem": "What is the specific skin condition depicted in this picture? A)Hives, B)Rosacea, C)Vitiligo, D)Actinic keratosis",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0070999.jpg",
+        "problem": "What is the term for the skin abnormality depicted in this image? A)Shingles, B)Hives, C)Vitiligo, D)Actinic keratosis",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071020.jpg",
+        "problem": "What is the skin abnormality depicted in this picture? A)Actinic keratosis, B)Shingles, C)Rosacea, D)Psoriasis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071982.jpg",
+        "problem": "What is the name of the skin condition observed in this picture? A)Actinic keratosis, B)Impetigo, C)Eczema, D)Rosacea",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0072265.jpg",
+        "problem": "What is the specific skin condition visible in this image? A)Seborrheic dermatitis, B)Eczema, C)Psoriasis, D)Actinic keratosis",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0072754.jpg",
+        "problem": "What is the specific skin condition depicted in this image? A)Melanoma, B)Rosacea, C)Cellulitis, D)Actinic keratosis",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0073153.jpg",
+        "problem": "What is the specific skin condition depicted in the image? A)Eczema, B)Actinic keratosis, C)Hives, D)Melanoma",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0073198.jpg",
+        "problem": "What is the name of the skin abnormality shown in this picture? A)Impetigo, B)Rosacea, C)Hives, D)Actinic keratosis",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0065355.jpg",
+        "problem": "What is the term used to describe the skin abnormality shown in this image? A)Benign keratosis, B)Malignant keratosis, C)Acne, D)Dermatitis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0065399.jpg",
+        "problem": "What is the specific skin condition shown in the image? A)Cellulitis, B)Rosacea, C)Eczema, D)Benign keratosis",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0065631.jpg",
+        "problem": "What is the specific skin condition captured in this image? A)Hives, B)Benign keratosis, C)Eczema, D)Melanoma",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0065657.jpg",
+        "problem": "What is the specific type of skin abnormality displayed in this image? A)Hives, B)Melanoma, C)Benign keratosis, D)Rosacea",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0065764.jpg",
+        "problem": "What is the specific skin abnormality in the image? A)Dermatitis, B)Acne, C)Benign keratosis, D)Malignant keratosis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0065810.jpg",
+        "problem": "What is the specific skin condition seen in the image? A)Psoriasis, B)Acne, C)Benign keratosis, D)Melanoma",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0066450.jpg",
+        "problem": "What is the skin abnormality portrayed in this image? A)Hives, B)Benign keratosis, C)Malignant keratosis, D)Acne",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0066680.jpg",
+        "problem": "What is the term used to describe the skin abnormality shown in the image? A)Acne, B)Melanoma, C)Hives, D)Benign keratosis",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0066872.jpg",
+        "problem": "What is the specific skin irregularity observed in the provided image? A)Malignant keratosis, B)Dermatitis, C)Benign keratosis, D)Rosacea",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067692.jpg",
+        "problem": "What is the skin abnormality exhibited in this image? A)Dermatitis, B)Acne, C)Benign keratosis, D)Psoriasis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067992.jpg",
+        "problem": "What type of skin abnormality is present in this image? A)Hives, B)Psoriasis, C)Rosacea, D)Benign keratosis",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068214.jpg",
+        "problem": "What is the skin abnormality present in the image? A)Malignant keratosis, B)Vitiligo, C)Benign keratosis, D)Hives",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068249.jpg",
+        "problem": "What is the skin abnormality present in the image? A)Dermatitis, B)Psoriasis, C)Eczema, D)Benign keratosis",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068312.jpg",
+        "problem": "What is the specific type of skin abnormality observed in this image? A)Benign keratosis, B)Rosacea, C)Eczema, D)Psoriasis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068366.jpg",
+        "problem": "What is the specific skin abnormality visible in this image? A)Benign keratosis, B)Psoriasis, C)Dermatitis, D)Cellulitis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068422.jpg",
+        "problem": "What is the specific skin abnormality seen in this image? A)Melanoma, B)Dermatitis, C)Vitiligo, D)Benign keratosis",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068859.jpg",
+        "problem": "What is the specific skin condition depicted in this image? A)Melanoma, B)Cellulitis, C)Hives, D)Benign keratosis",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068978.jpg",
+        "problem": "What is the specific term for the skin abnormality observed in the image? A)Cellulitis, B)Dermatitis, C)Benign keratosis, D)Malignant keratosis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0069057.jpg",
+        "problem": "What kind of skin condition is visible in this image? A)Psoriasis, B)Dermatitis, C)Benign keratosis, D)Hives",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0069129.jpg",
+        "problem": "What is the specific dermatological condition in this image? A)Cellulitis, B)Psoriasis, C)Malignant keratosis, D)Benign keratosis",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0069145.jpg",
+        "problem": "What is the name for the skin abnormality shown in this image? A)Acne, B)Benign keratosis, C)Malignant keratosis, D)Melanoma",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0069327.jpg",
+        "problem": "What is the skin abnormality in this image classified as? A)Dermatitis, B)Malignant keratosis, C)Benign keratosis, D)Vitiligo",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0069389.jpg",
+        "problem": "What is the skin abnormality depicted in this picture? A)Acne, B)Cellulitis, C)Dermatitis, D)Benign keratosis",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0069588.jpg",
+        "problem": "What is the specific skin condition portrayed in this image? A)Dermatitis, B)Rosacea, C)Benign keratosis, D)Malignant keratosis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0069790.jpg",
+        "problem": "What is the specific skin condition visible in this image? A)Cellulitis, B)Psoriasis, C)Eczema, D)Benign keratosis",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0069826.jpg",
+        "problem": "In this image, what is the specific skin abnormality that can be observed? A)Psoriasis, B)Dermatitis, C)Vitiligo, D)Benign keratosis",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0070618.jpg",
+        "problem": "What is the skin condition displayed in the image? A)Benign keratosis, B)Cellulitis, C)Dermatitis, D)Malignant keratosis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071212.jpg",
+        "problem": "What is the specific skin condition shown in this picture? A)Vitiligo, B)Acne, C)Benign keratosis, D)Hives",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071629.jpg",
+        "problem": "What is the medical term for the skin abnormality shown in this image? A)Cellulitis, B)Benign keratosis, C)Acne, D)Vitiligo",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0072149.jpg",
+        "problem": "What term describes the skin abnormality seen in this image? A)Dermatitis, B)Vitiligo, C)Benign keratosis, D)Eczema",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0072343.jpg",
+        "problem": "What kind of skin irregularity is visible in this picture? A)Benign keratosis, B)Malignant keratosis, C)Dermatitis, D)Hives",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0072421.jpg",
+        "problem": "What is the specific type of skin abnormality displayed in this image? A)Melanoma, B)Dermatitis, C)Hives, D)Benign keratosis",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0072895.jpg",
+        "problem": "What is the specific skin condition shown in this picture? A)Melanoma, B)Malignant keratosis, C)Benign keratosis, D)Vitiligo",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0072928.jpg",
+        "problem": "What is the specific skin condition depicted in this photograph? A)Melanoma, B)Acne, C)Benign keratosis, D)Dermatitis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0073060.jpg",
+        "problem": "What is the skin abnormality displayed in this image? A)Malignant keratosis, B)Benign keratosis, C)Melanoma, D)Dermatitis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0066413.jpg",
+        "problem": "What is the name of the skin abnormality showcased in this image? A)Melanoma, B)Eczema, C)Dermatofibroma, D)Hives",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0066917.jpg",
+        "problem": "What is the skin abnormality depicted in this image? A)Acne, B)Dermatofibroma, C)Eczema, D)Cellulitis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067025.jpg",
+        "problem": "What is the specific skin condition displayed in this image? A)Cellulitis, B)Hives, C)Melanoma, D)Dermatofibroma",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067060.jpg",
+        "problem": "What is the specific skin abnormality depicted in the provided image? A)Dermatofibroma, B)Cellulitis, C)Acne, D)Eczema",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067199.jpg",
+        "problem": "What is the skin abnormality seen in this image? A)Cellulitis, B)Dermatofibroma, C)Eczema, D)Psoriasis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067217.jpg",
+        "problem": "What is the skin abnormality shown in this image? A)Dermatofibroma, B)Psoriasis, C)Vitiligo, D)Acne",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0070546.jpg",
+        "problem": "What is the skin abnormality shown in this image? A)Impetigo, B)Dermatofibroma, C)Acne, D)Rosacea",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0072033.jpg",
+        "problem": "What is the specific skin condition depicted in this picture? A)Seborrheic keratosis, B)Hives, C)Cellulitis, D)Dermatofibroma",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0073141.jpg",
+        "problem": "What is the skin abnormality observed in this image? A)Dermatofibroma, B)Hives, C)Eczema, D)Acne",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0073189.jpg",
+        "problem": "What is the name of the skin abnormality seen in the provided image? A)Cellulitis, B)Dermatofibroma, C)Eczema, D)Hives",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0065784.jpg",
+        "problem": "What is the specific skin condition depicted in this image? A)Pigmentation disorder, B)Vascular lesion, C)Allergic reaction, D)Inflammatory lesion",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0066446.jpg",
+        "problem": "What is the specific skin abnormality depicted in this image? A)Pigmentation disorder, B)Benign tumor, C)Genetic mutation, D)Vascular lesion",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068484.jpg",
+        "problem": "What is the nature of the skin abnormality depicted in this image? A)Malignant growth, B)Genetic mutation, C)Vascular lesion, D)Inflammatory lesion",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0070356.jpg",
+        "problem": "What is the specific skin abnormality depicted in the provided image? A)Fungal infection, B)Genetic mutation, C)Inflammatory lesion, D)Vascular lesion",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071298.jpg",
+        "problem": "What is the specific skin abnormality depicted in the image? A)Vascular lesion, B)Benign tumor, C)Dermatosis, D)Inflammatory lesion",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0073110.jpg",
+        "problem": "What kind of skin anomaly is visible in this picture? A)Genetic mutation, B)Allergic reaction, C)Autoimmune condition, D)Vascular lesion",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0065472.jpg",
+        "problem": "What is the name of the skin abnormality in this image? A)Eczema, B)Rosacea, C)Squamous cell carcinoma, D)Acne",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0065604.jpg",
+        "problem": "What is the skin abnormality diagnosis for the image provided? A)Eczema, B)Melanoma, C)Squamous cell carcinoma, D)Malignant melanoma",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0065692.jpg",
+        "problem": "What is the dermatological condition depicted in this image? A)Basal cell carcinoma, B)Squamous cell carcinoma, C)Psoriasis, D)Melanoma",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0066656.jpg",
+        "problem": "What is the term for the skin abnormality shown in this image? A)Malignant melanoma, B)Squamous cell carcinoma, C)Psoriasis, D)Acne",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0066801.jpg",
+        "problem": "What is the skin abnormality depicted in the image? A)Melanoma, B)Rosacea, C)Squamous cell carcinoma, D)Acne",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067075.jpg",
+        "problem": "What is the diagnosis of the skin abnormality in this image? A)Squamous cell carcinoma, B)Acne, C)Eczema, D)Psoriasis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067122.jpg",
+        "problem": "What is the specific name of the skin abnormality shown in this image? A)Squamous cell carcinoma, B)Basal cell carcinoma, C)Acne, D)Rosacea",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067212.jpg",
+        "problem": "What is the specific skin condition depicted in this picture? A)Rosacea, B)Acne, C)Squamous cell carcinoma, D)Malignant melanoma",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067868.jpg",
+        "problem": "What is the name of the skin abnormality visible in this image? A)Basal cell carcinoma, B)Squamous cell carcinoma, C)Malignant melanoma, D)Rosacea",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067944.jpg",
+        "problem": "What is the specific skin condition depicted in this image? A)Eczema, B)Rosacea, C)Squamous cell carcinoma, D)Melanoma",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0067948.jpg",
+        "problem": "What is the diagnosis of the skin abnormality shown in this image? A)Squamous cell carcinoma, B)Malignant melanoma, C)Rosacea, D)Acne",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068229.jpg",
+        "problem": "What type of skin abnormality is present in this image? A)Acne, B)Psoriasis, C)Malignant melanoma, D)Squamous cell carcinoma",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068334.jpg",
+        "problem": "What is the specific skin disorder depicted in this image? A)Squamous cell carcinoma, B)Malignant melanoma, C)Acne, D)Melanoma",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068369.jpg",
+        "problem": "What is the name of the skin abnormality shown in the image? A)Rosacea, B)Squamous cell carcinoma, C)Malignant melanoma, D)Eczema",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068482.jpg",
+        "problem": "What is the name of the skin abnormality in this image? A)Eczema, B)Rosacea, C)Psoriasis, D)Squamous cell carcinoma",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068496.jpg",
+        "problem": "What is the specific skin condition depicted in this image? A)Malignant melanoma, B)Squamous cell carcinoma, C)Rosacea, D)Melanoma",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0068779.jpg",
+        "problem": "What is the skin condition shown in this image? A)Basal cell carcinoma, B)Eczema, C)Malignant melanoma, D)Squamous cell carcinoma",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0069201.jpg",
+        "problem": "What is the specific skin abnormality depicted in this image? A)Rosacea, B)Squamous cell carcinoma, C)Basal cell carcinoma, D)Acne",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0069388.jpg",
+        "problem": "What skin abnormality can be observed in this picture? A)Eczema, B)Psoriasis, C)Squamous cell carcinoma, D)Melanoma",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0069428.jpg",
+        "problem": "What is the skin abnormality depicted in this image? A)Rosacea, B)Squamous cell carcinoma, C)Melanoma, D)Basal cell carcinoma",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0069695.jpg",
+        "problem": "What is the diagnosis of the skin abnormality depicted in this image? A)Psoriasis, B)Acne, C)Eczema, D)Squamous cell carcinoma",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0069943.jpg",
+        "problem": "What specific condition is depicted in this image of the skin? A)Acne, B)Basal cell carcinoma, C)Squamous cell carcinoma, D)Melanoma",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0069949.jpg",
+        "problem": "What specific skin condition is depicted in this image? A)Eczema, B)Squamous cell carcinoma, C)Basal cell carcinoma, D)Melanoma",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0070445.jpg",
+        "problem": "What is the name of the skin abnormality shown in this image? A)Psoriasis, B)Melanoma, C)Squamous cell carcinoma, D)Acne",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071023.jpg",
+        "problem": "What is the specific skin abnormality depicted in this image? A)Rosacea, B)Melanoma, C)Squamous cell carcinoma, D)Malignant melanoma",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071058.jpg",
+        "problem": "What is the specific diagnosis of the skin abnormality depicted in the image? A)Squamous cell carcinoma, B)Psoriasis, C)Rosacea, D)Basal cell carcinoma",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071322.jpg",
+        "problem": "What is the skin abnormality depicted in this image? A)Melanoma, B)Squamous cell carcinoma, C)Basal cell carcinoma, D)Rosacea",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071786.jpg",
+        "problem": "What is the skin abnormality diagnosis for the image provided? A)Malignant melanoma, B)Eczema, C)Squamous cell carcinoma, D)Psoriasis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071795.jpg",
+        "problem": "What is the specific skin condition featured in this image? A)Squamous cell carcinoma, B)Malignant melanoma, C)Melanoma, D)Acne",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071887.jpg",
+        "problem": "What is the specific skin abnormality displayed in this image? A)Eczema, B)Malignant melanoma, C)Psoriasis, D)Squamous cell carcinoma",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071948.jpg",
+        "problem": "What is the specific skin condition featured in this image? A)Acne, B)Squamous cell carcinoma, C)Malignant melanoma, D)Rosacea",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0071976.jpg",
+        "problem": "What is the diagnosis of the skin abnormality visible in this image? A)Basal cell carcinoma, B)Malignant melanoma, C)Melanoma, D)Squamous cell carcinoma",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0072347.jpg",
+        "problem": "What is the specific skin abnormality depicted in the provided image? A)Squamous cell carcinoma, B)Acne, C)Psoriasis, D)Basal cell carcinoma",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0072869.jpg",
+        "problem": "What is the specific diagnosis of the skin abnormality depicted in the image? A)Rosacea, B)Eczema, C)Squamous cell carcinoma, D)Psoriasis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0072911.jpg",
+        "problem": "What is the specific skin disorder depicted in this image? A)Basal cell carcinoma, B)Psoriasis, C)Malignant melanoma, D)Squamous cell carcinoma",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2019/train/ISIC_0072933.jpg",
+        "problem": "What is the skin condition shown in this image? A)Eczema, B)Basal cell carcinoma, C)Malignant melanoma, D)Squamous cell carcinoma",
+        "solution": "<answer> D </answer>"
+    }
+]

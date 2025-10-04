@@ -1,0 +1,457 @@
+[
+    {
+        "image": "Images/BioMediTech/train/1_00004_010_4_1.tif",
+        "problem": "What imaging modality was used to capture this image? A)Positron Emission Tomography (PET) scan, B)Phase-contrast microscopy, C)Computed Tomography (CT) scan, D)Ultrasound imaging",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/2_00024_016_2_1.tif",
+        "problem": "What imaging technique was utilized to acquire this picture? A)Confocal microscopy, B)Computed Tomography (CT) scan, C)Infrared imaging, D)Phase-contrast microscopy",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/3_00060_007_3_1.tif",
+        "problem": "What type of diagnostic imaging technique produced this picture? A)Phase-contrast microscopy, B)Fluorescence microscopy, C)Ultrasound imaging, D)Optical coherence tomography (OCT)",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/3_00029_015_3_1.tif",
+        "problem": "What method of imaging was utilized to acquire this image? A)Confocal microscopy, B)Computed Tomography (CT) scan, C)Fluorescence microscopy, D)Phase-contrast microscopy",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/3_00061_010_3_1.tif",
+        "problem": "Which diagnostic technique generated this picture? A)Optical coherence tomography (OCT), B)Magnetic Resonance Imaging (MRI), C)Confocal microscopy, D)Phase-contrast microscopy",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/2_00045_002_2_1.tif",
+        "problem": "What imaging modality was used to capture this image? A)Phase-contrast microscopy, B)Confocal microscopy, C)Computed Tomography (CT) scan, D)Ultrasound imaging",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/3_00027_012_3_1.tif",
+        "problem": "What type of diagnostic tool produced this picture? A)Phase-contrast microscopy, B)X-ray imaging, C)Confocal microscopy, D)Positron Emission Tomography (PET) scan",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/2_00014_002_2_1.tif",
+        "problem": "What imaging technique was utilized to capture this picture? A)Ultrasound imaging, B)Infrared imaging, C)X-ray imaging, D)Phase-contrast microscopy",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/2_00010_011_2_1.tif",
+        "problem": "What imaging modality was used to capture this image? A)Phase-contrast microscopy, B)X-ray imaging, C)Confocal microscopy, D)Infrared imaging",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/3_00046_005_3_1.tif",
+        "problem": "Which diagnostic tool was employed to obtain this visualization? A)Electron microscopy, B)Ultrasound imaging, C)Phase-contrast microscopy, D)Positron Emission Tomography (PET) scan",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/2_00033_011_2_1.tif",
+        "problem": "What method of imaging was employed to acquire this image? A)Phase-contrast microscopy, B)Positron Emission Tomography (PET) scan, C)Magnetic Resonance Imaging (MRI), D)Electron microscopy",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/2_00008_012_2_1.tif",
+        "problem": "What imaging modality was used to capture this image? A)Infrared imaging, B)Magnetic Resonance Imaging (MRI), C)Phase-contrast microscopy, D)Confocal microscopy",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/3_00058_012_3_1.tif",
+        "problem": "Which diagnostic tool was employed to obtain this visualization? A)Phase-contrast microscopy, B)Infrared imaging, C)Confocal microscopy, D)Fluorescence microscopy",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/1_00016_015_4_1.tif",
+        "problem": "What is depicted in this image? A)Sclera, B)Cornea, C)Macula, D)Retinal pigmented epithelium (RPE)",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/4_00040_010_2_1.tif",
+        "problem": "What is depicted in this image? A)Cornea, B)Retinal pigmented epithelium (RPE), C)Ciliary body, D)Iris",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/2_00040_013_2_1.tif",
+        "problem": "What is depicted in this image? A)Rod cells, B)Retinal pigmented epithelium (RPE), C)Choroid, D)Optic nerve",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/3_00006_010_3_1.tif",
+        "problem": "What is depicted in this image? A)Vitreous humor, B)Choroid, C)Cornea, D)Retinal pigmented epithelium (RPE)",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/3_00017_011_3_1.tif",
+        "problem": "What is depicted in this image? A)Retinal pigmented epithelium (RPE), B)Sclera, C)Rod cells, D)Vitreous humor",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/3_00012_007_3_1.tif",
+        "problem": "What is depicted in this image? A)Sclera, B)Retinal pigmented epithelium (RPE), C)Lens, D)Cornea",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/3_00004_015_3_1.tif",
+        "problem": "What is depicted in this image? A)Sclera, B)Retinal pigmented epithelium (RPE), C)Lens, D)Cornea",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/3_00017_014_3_1.tif",
+        "problem": "What is depicted in this image? A)Optic nerve, B)Retinal pigmented epithelium (RPE), C)Sclera, D)Lens",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/2_00051_012_2_1.tif",
+        "problem": "What is depicted in this image? A)Lens, B)Vitreous humor, C)Cornea, D)Retinal pigmented epithelium (RPE)",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/3_00020_010_3_1.tif",
+        "problem": "What is depicted in this image? A)Macula, B)Rod cells, C)Cornea, D)Retinal pigmented epithelium (RPE)",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/3_00020_006_3_1.tif",
+        "problem": "What is shown in the visual representation? A)Vitreous humor, B)Cornea, C)Retinal pigmented epithelium (RPE), D)Lens",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/2_00046_008_2_1.tif",
+        "problem": "What is depicted in this image? A)Retinal pigmented epithelium (RPE), B)Choroid, C)Vitreous humor, D)Iris",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/2_00041_002_2_1.tif",
+        "problem": "What is depicted in this image? A)Iris, B)Retinal pigmented epithelium (RPE), C)Optic nerve, D)Lens",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/3_00030_004_3_1.tif",
+        "problem": "What is depicted in this image? A)Choroid, B)Iris, C)Retinal pigmented epithelium (RPE), D)Optic nerve",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/2_00041_008_2_1.tif",
+        "problem": "What is depicted in this image? A)Sclera, B)Macula, C)Cornea, D)Retinal pigmented epithelium (RPE)",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/3_00023_007_3_1.tif",
+        "problem": "What does this image show? A)Choroid, B)Retinal pigmented epithelium (RPE), C)Rod cells, D)Optic nerve",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/3_00015_011_3_1.tif",
+        "problem": "What is depicted in this image? A)Choroid, B)Rod cells, C)Retinal pigmented epithelium (RPE), D)Vitreous humor",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/2_00005_007_2_1.tif",
+        "problem": "What is depicted in this image? A)Retinal pigmented epithelium (RPE), B)Ciliary body, C)Rod cells, D)Optic nerve",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/3_00011_013_3_1.tif",
+        "problem": "What is depicted in this image? A)Ciliary body, B)Rod cells, C)Lens, D)Retinal pigmented epithelium (RPE)",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/4_00024_003_4_1.tif",
+        "problem": "What is depicted in this image? A)Iris, B)Ciliary body, C)Retinal pigmented epithelium (RPE), D)Macula",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/2_00048_002_2_1.tif",
+        "problem": "What is depicted in this image? A)Vitreous humor, B)Lens, C)Retinal pigmented epithelium (RPE), D)Choroid",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/4_00043_013_1_1.tif",
+        "problem": "What is depicted in this image? A)Iris, B)Retinal pigmented epithelium (RPE), C)Choroid, D)Optic nerve",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/3_00030_003_3_1.tif",
+        "problem": "What is depicted in this image? A)Optic nerve, B)Retinal pigmented epithelium (RPE), C)Ciliary body, D)Iris",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/3_00024_008_3_1.tif",
+        "problem": "What is depicted in this image? A)Sclera, B)Ciliary body, C)Rod cells, D)Retinal pigmented epithelium (RPE)",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/3_00055_007_3_1.tif",
+        "problem": "What is depicted in this image? A)Retinal pigmented epithelium (RPE), B)Optic nerve, C)Sclera, D)Macula",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/3_00025_010_3_1.tif",
+        "problem": "What is depicted in this image? A)Ciliary body, B)Iris, C)Vitreous humor, D)Retinal pigmented epithelium (RPE)",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/1_00026_013_1_1.tif",
+        "problem": "What is the shape of cells in this image? A)Dendritic cells, B)Discoid cells, C)Fusiform cells., D)Conical cells",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/1_00008_003_1_1.tif",
+        "problem": "What is the shape of cells in this image? A)Fusiform cells., B)Cuboidal cells, C)Rectangular cells, D)Octahedral cells",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/1_00005_003_1_1.tif",
+        "problem": "What is the morphology observed in the cells depicted in this image? A)Discoid cells, B)Fusiform cells., C)Tetrahedral cells, D)Rectangular cells",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/4_00036_001_1_1.tif",
+        "problem": "What is the morphology of the cells depicted in this picture? A)Fusiform cells., B)Rectangular cells, C)Tetrahedral cells, D)Discoid cells",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/1_00004_009_1_1.tif",
+        "problem": "What is the morphology of the cells depicted in the provided image? A)Fusiform cells., B)Cuboidal cells, C)Octahedral cells, D)Rectangular cells",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/2_00016_007_2_1.tif",
+        "problem": "What is the morphology of the cells depicted in the photograph? A)Fusiform cells, B)Epithelioid cells, C)Columnar cells, D)Ovoid cells",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/2_00050_013_2_1.tif",
+        "problem": "What is the morphology of the cells depicted in the photograph? A)Spherical cells, B)Lymphoid cells, C)Epithelioid cells, D)Squamous cells",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/4_00004_001_2_1.tif",
+        "problem": "What is the morphology of the cells depicted in the picture? A)Epithelioid cells, B)Cuboidal cells, C)Lymphoid cells, D)Neoplastic cells",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/2_00028_014_2_1.tif",
+        "problem": "What is the shape of cells in this image? A)Neoplastic cells, B)Epithelioid cells, C)Fibroblast cells, D)Spherical cells",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/2_00048_005_2_1.tif",
+        "problem": "What is the morphology of the cells depicted in the provided picture? A)Cuboidal cells, B)Neoplastic cells, C)Epithelioid cells, D)Stellate cells",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/2_00005_005_2_1.tif",
+        "problem": "What is the morphology of the cells depicted in the photograph? A)Ovoid cells, B)Lymphoid cells, C)Epithelioid cells, D)Cuboidal cells",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/2_00033_001_2_1.tif",
+        "problem": "What is the morphology of the cells depicted in the photograph? A)Epithelioid cells, B)Ovoid cells, C)Spherical cells, D)Columnar cells",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/2_00041_002_2_1.tif",
+        "problem": "What is the morphology of the cells depicted in the provided image? A)Squamous cells, B)Fusiform cells, C)Neoplastic cells, D)Epithelioid cells",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/2_00029_004_2_1.tif",
+        "problem": "What is the morphology of the cells depicted in the photograph? A)Stellate cells, B)Neoplastic cells, C)Epithelioid cells, D)Squamous cells",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/2_00047_015_2_1.tif",
+        "problem": "What is the morphology of the cells depicted in the photograph? A)Lymphoid cells, B)Epithelioid cells, C)Fibroblast cells, D)Fusiform cells",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/2_00005_016_2_1.tif",
+        "problem": "What is the shape of cells in this image? A)Spherical cells, B)Squamous cells, C)Cuboidal cells, D)Epithelioid cells",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/2_00031_006_2_1.tif",
+        "problem": "What is the cell morphology observed in this image? A)Fibroblast cells, B)Lymphoid cells, C)Epithelioid cells, D)Ovoid cells",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/4_00004_005_2_1.tif",
+        "problem": "What is the morphology of the cells depicted in this photograph? A)Lymphoid cells, B)Ovoid cells, C)Epithelioid cells, D)Squamous cells",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/2_00010_011_2_1.tif",
+        "problem": "What is the cellular morphology depicted in this photograph? A)Epithelioid cells, B)Neoplastic cells, C)Fusiform cells, D)Spherical cells",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/2_00004_010_2_1.tif",
+        "problem": "What is the morphology of the cells depicted in this photograph? A)Epithelioid cells, B)Lymphoid cells, C)Columnar cells, D)Neoplastic cells",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/2_00039_016_2_1.tif",
+        "problem": "What is the shape of cells in this image? A)Lymphoid cells, B)Fusiform cells, C)Epithelioid cells, D)Columnar cells",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/2_00033_011_2_1.tif",
+        "problem": "What is the morphology of the cells depicted in this photograph? A)Ovoid cells, B)Epithelioid cells, C)Squamous cells, D)Spherical cells",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/2_00031_002_2_1.tif",
+        "problem": "What is the cellular morphology observed in this image? A)Epithelioid cells, B)Ovoid cells, C)Fusiform cells, D)Lymphoid cells",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/2_00010_012_2_1.tif",
+        "problem": "What are the cells in this image characterized by in terms of shape? A)Fibroblast cells, B)Epithelioid cells, C)Lymphoid cells, D)Ovoid cells",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/3_00022_015_3_1.tif",
+        "problem": "What is the morphology of the cells depicted in this photograph? A)Star-shaped cells, B)Square cells, C)Cobblestone cells, D)Crescent-shaped cells",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/3_00042_014_3_1.tif",
+        "problem": "What is the shape of cells in this image? A)Spherical cells, B)Hexagonal cells, C)Oval cells, D)Cobblestone cells",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/3_00031_015_3_1.tif",
+        "problem": "What type of cell morphology is observed in this image? A)Spherical cells, B)Cobblestone cells, C)Diamond-shaped cells, D)Round cells",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/3_00019_004_3_1.tif",
+        "problem": "What is the morphology of the cells depicted in this photograph? A)Cobblestone cells, B)Rectangular cells, C)Star-shaped cells, D)Round cells",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/3_00029_015_3_1.tif",
+        "problem": "How would you describe the morphology of the cells depicted in the provided image? A)Oval cells, B)Star-shaped cells, C)Hexagonal cells, D)Cobblestone cells",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/3_00044_007_3_1.tif",
+        "problem": "What is the shape of cells in this image? A)Rectangular cells, B)Spherical cells, C)Star-shaped cells, D)Cobblestone cells",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/3_00047_008_3_1.tif",
+        "problem": "What is the morphology of the cells depicted in the photograph? A)Square cells, B)Round cells, C)Cobblestone cells, D)Hexagonal cells",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/3_00035_012_3_1.tif",
+        "problem": "What is the term used to describe the cells in this image? A)Spherical cells, B)Star-shaped cells, C)Cobblestone cells, D)Triangular cells",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/3_00016_007_3_1.tif",
+        "problem": "What is the shape of cells in this image? A)Crescent-shaped cells, B)Spherical cells, C)Oval cells, D)Cobblestone cells",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/3_00050_001_3_1.tif",
+        "problem": "What shape do the cells in this image resemble? A)Cobblestone cells, B)Star-shaped cells, C)Oval cells, D)Round cells",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/3_00015_003_3_1.tif",
+        "problem": "What term describes the morphology of cells shown in this image? A)Diamond-shaped cells, B)Round cells, C)Cobblestone cells, D)Crescent-shaped cells",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/3_00007_008_3_1.tif",
+        "problem": "What is the morphology of the cells depicted in the photograph? A)Hexagonal cells, B)Square cells, C)Cobblestone cells, D)Crescent-shaped cells",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/3_00018_010_3_1.tif",
+        "problem": "What are the cells in this image shaped like? A)Cobblestone cells, B)Crescent-shaped cells, C)Round cells, D)Spherical cells",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/3_00050_002_3_1.tif",
+        "problem": "What is the shape of cells in this image? A)Crescent-shaped cells, B)Cobblestone cells, C)Star-shaped cells, D)Hexagonal cells",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/3_00035_004_3_1.tif",
+        "problem": "What do the cells in this image resemble in shape? A)Star-shaped cells, B)Cobblestone cells, C)Hexagonal cells, D)Square cells",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/3_00055_001_3_1.tif",
+        "problem": "What is the morphology of the cells depicted in the photograph? A)Round cells, B)Triangular cells, C)Cobblestone cells, D)Square cells",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/3_00017_004_3_1.tif",
+        "problem": "What is the shape of cells in this image? A)Hexagonal cells, B)Star-shaped cells, C)Cobblestone cells, D)Oval cells",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/3_00055_007_3_1.tif",
+        "problem": "What cell morphology is observed in this image? A)Round cells, B)Crescent-shaped cells, C)Rectangular cells, D)Cobblestone cells",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/3_00010_011_3_1.tif",
+        "problem": "What is the morphology of the cells depicted in this photograph? A)Cobblestone cells, B)Diamond-shaped cells, C)Rectangular cells, D)Star-shaped cells",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/3_00049_010_3_1.tif",
+        "problem": "What is the shape of cells in this image? A)Cobblestone cells, B)Diamond-shaped cells, C)Oval cells, D)Hexagonal cells",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/2_00013_008_4_1.tif",
+        "problem": "How would you describe the morphology of the cells depicted in this photograph? A)Polygonal cells, B)Irregular cells, C)Oval cells, D)Mixed cells of several classes (Fusiform, Epithelioid, Cobblestone).",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/4_00002_005_4_1.tif",
+        "problem": "What is the morphology of the cells depicted in this photograph? A)Irregular cells, B)Rectangular cells, C)Mixed cells of several classes (Fusiform, Epithelioid, Cobblestone)., D)Circular cells",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/4_00045_011_4_1.tif",
+        "problem": "What is the morphology of the cells depicted in the photograph? A)Rectangular cells, B)Mixed cells of several classes (Fusiform, Epithelioid, Cobblestone)., C)Tubular cells, D)Polygonal cells",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/4_00051_015_4_1.tif",
+        "problem": "What is the shape of cells in this image? A)Mixed cells of several classes (Fusiform, Epithelioid, Cobblestone)., B)Tubular cells, C)Cuboidal cells, D)Polygonal cells",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/4_00014_011_4_1.tif",
+        "problem": "What is the morphology of the cells depicted in this photograph? A)Tubular cells, B)Mixed cells of several classes (Fusiform, Epithelioid, Cobblestone)., C)Hexagonal cells, D)Oval cells",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/4_00024_003_4_1.tif",
+        "problem": "What is the morphology of the cells depicted in the photograph? A)Oval cells, B)Polygonal cells, C)Tubular cells, D)Mixed cells of several classes (Fusiform, Epithelioid, Cobblestone).",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/4_00014_006_4_1.tif",
+        "problem": "What is the shape of cells in this image? A)Mixed cells of several classes (Fusiform, Epithelioid, Cobblestone)., B)Irregular cells, C)Spherical cells, D)Circular cells",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/BioMediTech/train/2_00007_011_4_1.tif",
+        "problem": "What is the morphology of the cells depicted in the photograph? A)Triangular cells, B)Rectangular cells, C)Mixed cells of several classes (Fusiform, Epithelioid, Cobblestone)., D)Irregular cells",
+        "solution": "<answer> C </answer>"
+    }
+]

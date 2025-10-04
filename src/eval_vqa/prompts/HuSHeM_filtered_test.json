@@ -1,0 +1,92 @@
+[
+    {
+        "image": "Images/HuSHeM/03_Pyriform/image_055.BMP",
+        "problem": "What is observed in this microscopy image? A)Bacteria, B)Sperm, C)Cancer cells, D)Kidney cells",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/HuSHeM/03_Pyriform/image_046.BMP",
+        "problem": "What is show in this microscopy image? A)Bacteria, B)Sperm, C)Intestinal parasites, D)Cancer cells",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/HuSHeM/03_Pyriform/image_018.BMP",
+        "problem": "What is visible in this microscopy image? A)Brain neurons, B)Sperm, C)Fungal spores, D)Intestinal parasites",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/HuSHeM/03_Pyriform/image_032.BMP",
+        "problem": "What is displayed in this microscope picture? A)Intestinal parasites, B)Liver cells, C)Sperm, D)Cancer cells",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/HuSHeM/01_Normal/image_049.BMP",
+        "problem": "What is depicted in this microscopy image? A)Intestinal parasites, B)Fungal spores, C)Red blood cells, D)Sperm",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/HuSHeM/01_Normal/image_033.BMP",
+        "problem": "What is show in this microscopy image? A)Cancer cells, B)Muscle fibers, C)Sperm, D)Brain neurons",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/HuSHeM/01_Normal/image_022.BMP",
+        "problem": "What is show in this microscopy image? A)Sperm, B)Kidney cells, C)Intestinal parasites, D)Muscle fibers",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/HuSHeM/01_Normal/image_040.BMP",
+        "problem": "What is show in this microscopy image? A)Brain neurons, B)Fungal spores, C)White blood cells, D)Sperm",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/HuSHeM/02_Tapered/image_050.BMP",
+        "problem": "What is observed in this microscopy image? A)Brain neurons, B)Sperm, C)Intestinal parasites, D)Fungal spores",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/HuSHeM/02_Tapered/image_040.BMP",
+        "problem": "What is being depicted in this microscopy image? A)Cancer cells, B)Bacteria, C)Sperm, D)White blood cells",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/HuSHeM/02_Tapered/image_023.BMP",
+        "problem": "What is seen in this microscopic image? A)Sperm, B)Brain neurons, C)Kidney cells, D)Intestinal parasites",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/HuSHeM/01_Normal/image_033.BMP",
+        "problem": "What is the shape of sperm in this image? A)Abnormal, B)Normal, C)Oval, D)Irregular",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/HuSHeM/01_Normal/image_022.BMP",
+        "problem": "What is the shape of sperm in this image? A)Abnormal, B)Round, C)Square, D)Normal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/HuSHeM/03_Pyriform/image_037.BMP",
+        "problem": "What is the morphology of the sperm in the provided image? A)Cuboid, B)Crescent-shaped, C)Pyriform, D)Triangular",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/HuSHeM/03_Pyriform/image_029.BMP",
+        "problem": "What is the shape of sperm in this image? A)Rhombus, B)Oval, C)Spherical, D)Pyriform",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/HuSHeM/04_Amorphous/image_045.BMP",
+        "problem": "What is the shape of sperm in this image? A)Spiral, B)Triangular, C)Rectangular, D)Amorphous",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/HuSHeM/04_Amorphous/image_002.BMP",
+        "problem": "What is the shape of sperm in this image? A)Amorphous, B)Spiral, C)Rectangular, D)Hexagonal",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/HuSHeM/04_Amorphous/image_023.BMP",
+        "problem": "What can be said about the shape of the sperm in this image? A)Irregular, B)Rectangular, C)Amorphous, D)Star-shaped",
+        "solution": "<answer> C </answer>"
+    }
+]

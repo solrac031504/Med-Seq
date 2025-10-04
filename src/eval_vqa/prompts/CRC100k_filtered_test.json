@@ -1,0 +1,1397 @@
+[
+    {
+        "image": "Images/CRC100k/LYM/LYM-AEKVHHMG.tif",
+        "problem": "What imaging technique was employed to obtain this picture? A)Hematoxylin & eosin (H&E) stained histological image, B)Ultrasound imaging, C)Computed tomography (CT) scan, D)Electroencephalogram (EEG)",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/LYM/LYM-ELWDRIWQ.tif",
+        "problem": "Through what imaging technique was this picture taken? A)Fluoroscopy imaging, B)Hematoxylin & eosin (H&E) stained histological image, C)Ultrasound imaging, D)Endoscopy imaging",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/LYM/LYM-GFAGHHTN.tif",
+        "problem": "What modality is used to capture this image? A)Fluoroscopy imaging, B)Hematoxylin & eosin (H&E) stained histological image, C)Radionuclide imaging, D)Microscopic examination",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/ADI/ADI-EIGFKFIG.tif",
+        "problem": "What imaging technique was employed to obtain this picture? A)Electroencephalogram (EEG), B)Ultrasound imaging, C)Fluoroscopy imaging, D)Hematoxylin & eosin (H&E) stained histological image",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/STR/STR-CYDRHMHV.tif",
+        "problem": "What technique was utilized to obtain this image? A)Microscopic examination, B)Endoscopy imaging, C)Electroencephalogram (EEG), D)Hematoxylin & eosin (H&E) stained histological image",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/STR/STR-GFMIEHWW.tif",
+        "problem": "What modality is used to capture this image? A)Hematoxylin & eosin (H&E) stained histological image, B)Magnetic resonance imaging (MRI), C)Ultrasound imaging, D)Endoscopy imaging",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/STR/STR-HVTFIEKH.tif",
+        "problem": "What imaging technique was employed to obtain this picture? A)Radionuclide imaging, B)Ultrasound imaging, C)Computed tomography (CT) scan, D)Hematoxylin & eosin (H&E) stained histological image",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/DEB/DEB-GYIDEDRH.tif",
+        "problem": "Through what imaging technique was this picture obtained? A)X-ray imaging, B)Magnetic resonance imaging (MRI), C)Hematoxylin & eosin (H&E) stained histological image, D)Microscopic examination",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/DEB/DEB-CPWCPDMT.tif",
+        "problem": "What imaging technique was utilized to create this picture? A)Hematoxylin & eosin (H&E) stained histological image, B)Ultrasound imaging, C)Computed tomography (CT) scan, D)X-ray imaging",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUS/MUS-CHSRFNAM.tif",
+        "problem": "What imaging technique was utilized to obtain this picture? A)Hematoxylin & eosin (H&E) stained histological image, B)X-ray imaging, C)Computed tomography (CT) scan, D)Fluoroscopy imaging",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUS/MUS-FQRHIETY.tif",
+        "problem": "Through which imaging technique was this picture obtained? A)Computed tomography (CT) scan, B)Hematoxylin & eosin (H&E) stained histological image, C)Radionuclide imaging, D)Ultrasound imaging",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUS/MUS-FQYSQPFL.tif",
+        "problem": "Through which imaging technique was this picture taken? A)Radionuclide imaging, B)X-ray imaging, C)Positron emission tomography (PET) scan, D)Hematoxylin & eosin (H&E) stained histological image",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUS/MUS-ETMRKAAF.tif",
+        "problem": "What imaging technique was utilized to obtain this picture? A)Ultrasound imaging, B)Hematoxylin & eosin (H&E) stained histological image, C)Fluoroscopy imaging, D)Positron emission tomography (PET) scan",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUS/MUS-GFTINVNI.tif",
+        "problem": "Which imaging technique was employed to obtain this picture? A)Endoscopy imaging, B)Hematoxylin & eosin (H&E) stained histological image, C)Ultrasound imaging, D)Microscopic examination",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUS/MUS-ESNPDVVS.tif",
+        "problem": "What imaging technique was utilized to obtain this picture? A)Hematoxylin & eosin (H&E) stained histological image, B)Electroencephalogram (EEG), C)Fluoroscopy imaging, D)Magnetic resonance imaging (MRI)",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/BACK/BACK-DASKEQFP.tif",
+        "problem": "What imaging technique was utilized to obtain this picture? A)Positron emission tomography (PET) scan, B)X-ray imaging, C)Hematoxylin & eosin (H&E) stained histological image, D)Microscopic examination",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/BACK/BACK-EHVEWGFN.tif",
+        "problem": "What imaging technique was utilized to obtain this picture? A)Computed tomography (CT) scan, B)Hematoxylin & eosin (H&E) stained histological image, C)Radionuclide imaging, D)Microscopic examination",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/TUM/TUM-GIVRPTGI.tif",
+        "problem": "What technique is employed to obtain this picture? A)X-ray imaging, B)Fluoroscopy imaging, C)Magnetic resonance imaging (MRI), D)Hematoxylin & eosin (H&E) stained histological image",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/TUM/TUM-ADWDFHTK.tif",
+        "problem": "Through what imaging technique was this picture taken? A)Magnetic resonance imaging (MRI), B)Fluoroscopy imaging, C)Radionuclide imaging, D)Hematoxylin & eosin (H&E) stained histological image",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/TUM/TUM-PNVSHRVL.tif",
+        "problem": "What modality is used to capture this image? A)Endoscopy imaging, B)Hematoxylin & eosin (H&E) stained histological image, C)Magnetic resonance imaging (MRI), D)X-ray imaging",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/TUM/TUM-PLDADFDK.tif",
+        "problem": "What imaging technique was employed to obtain this picture? A)Fluoroscopy imaging, B)Microscopic examination, C)Hematoxylin & eosin (H&E) stained histological image, D)Endoscopy imaging",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/TUM/TUM-QAPRMDWA.tif",
+        "problem": "Through which imaging technique was this picture obtained? A)X-ray imaging, B)Hematoxylin & eosin (H&E) stained histological image, C)Electroencephalogram (EEG), D)Magnetic resonance imaging (MRI)",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/TUM/TUM-PYIVYWHH.tif",
+        "problem": "What imaging technique was utilized to obtain this picture? A)Magnetic resonance imaging (MRI), B)Ultrasound imaging, C)Radionuclide imaging, D)Hematoxylin & eosin (H&E) stained histological image",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/TUM/TUM-ADTRVGMK.tif",
+        "problem": "What imaging technique was employed to obtain this picture? A)Hematoxylin & eosin (H&E) stained histological image, B)Radionuclide imaging, C)Computed tomography (CT) scan, D)Positron emission tomography (PET) scan",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/NORM/NORM-CYERRLTE.tif",
+        "problem": "What imaging technique was employed to obtain this picture? A)Electroencephalogram (EEG), B)X-ray imaging, C)Hematoxylin & eosin (H&E) stained histological image, D)Positron emission tomography (PET) scan",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/NORM/NORM-CSIARPQQ.tif",
+        "problem": "What modality is used to capture this image? A)Magnetic resonance imaging (MRI), B)Fluoroscopy imaging, C)Hematoxylin & eosin (H&E) stained histological image, D)Positron emission tomography (PET) scan",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/NORM/NORM-EYVNWQDS.tif",
+        "problem": "What imaging technique was utilized to create this picture? A)Hematoxylin & eosin (H&E) stained histological image, B)Radionuclide imaging, C)Magnetic resonance imaging (MRI), D)Electroencephalogram (EEG)",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/NORM/NORM-EYACLDLD.tif",
+        "problem": "What modality is used to capture this image? A)Magnetic resonance imaging (MRI), B)X-ray imaging, C)Electroencephalogram (EEG), D)Hematoxylin & eosin (H&E) stained histological image",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/NORM/NORM-AELMDLKC.tif",
+        "problem": "What modality is used to capture this image? A)Hematoxylin & eosin (H&E) stained histological image, B)Computed tomography (CT) scan, C)Positron emission tomography (PET) scan, D)Ultrasound imaging",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUC/MUC-KNIFCKLW.tif",
+        "problem": "Through what imaging technique was this picture taken? A)X-ray imaging, B)Endoscopy imaging, C)Fluoroscopy imaging, D)Hematoxylin & eosin (H&E) stained histological image",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUC/MUC-KMHCCHVW.tif",
+        "problem": "What imaging technique was employed to obtain this picture? A)Microscopic examination, B)Positron emission tomography (PET) scan, C)Electroencephalogram (EEG), D)Hematoxylin & eosin (H&E) stained histological image",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUC/MUC-HITCPPWC.tif",
+        "problem": "What method was employed to obtain this image? A)Computed tomography (CT) scan, B)X-ray imaging, C)Ultrasound imaging, D)Hematoxylin & eosin (H&E) stained histological image",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUC/MUC-KRVGPMKR.tif",
+        "problem": "What technique or method is employed to obtain this image? A)Hematoxylin & eosin (H&E) stained histological image, B)Computed tomography (CT) scan, C)Radionuclide imaging, D)Magnetic resonance imaging (MRI)",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUC/MUC-CWSLTWTP.tif",
+        "problem": "What modality is used to capture this image? A)Microscopic examination, B)Positron emission tomography (PET) scan, C)Fluoroscopy imaging, D)Hematoxylin & eosin (H&E) stained histological image",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUC/MUC-ACDVPSAR.tif",
+        "problem": "What imaging technique was utilized to obtain this picture? A)Magnetic resonance imaging (MRI), B)Hematoxylin & eosin (H&E) stained histological image, C)Fluoroscopy imaging, D)X-ray imaging",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/ADI/ADI-ARSFDVEV.tif",
+        "problem": "What kind of tissue is visible in the image? A)Cartilage tissue, B)Adipose tissue, C)Connective tissue, D)Skeletal muscle tissue",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/ADI/ADI-FYCLCRTI.tif",
+        "problem": "What is the tissue shown in this image? A)Cardiac tissue, B)Smooth muscle tissue, C)Blood tissue, D)Adipose tissue",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/ADI/ADI-AWYESMTW.tif",
+        "problem": "What is the depicted tissue in this image? A)Fibrous tissue, B)Connective tissue, C)Adipose tissue, D)Nervous tissue",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/ADI/ADI-DMQFFPIR.tif",
+        "problem": "What kind of tissue is shown in the provided image? A)Skeletal muscle tissue, B)Adipose tissue, C)Blood tissue, D)Epithelial tissue",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/ADI/ADI-AFKRVTRV.tif",
+        "problem": "What is the tissue shown in this image? A)Adipose tissue, B)Epithelial tissue, C)Smooth muscle tissue, D)Lymphatic tissue",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/ADI/ADI-AKCLATGY.tif",
+        "problem": "What kind of tissue is visualized in this image? A)Cartilage tissue, B)Smooth muscle tissue, C)Adipose tissue, D)Cardiac tissue",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/ADI/ADI-CCQTHYHH.tif",
+        "problem": "What kind of tissue is being shown in this image? A)Smooth muscle tissue, B)Cartilage tissue, C)Blood tissue, D)Adipose tissue",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/ADI/ADI-AMPRSYKI.tif",
+        "problem": "Which tissue is visible in this image? A)Connective tissue, B)Adipose tissue, C)Lymphatic tissue, D)Blood tissue",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/ADI/ADI-AEGPYCKS.tif",
+        "problem": "What is the tissue identified in this image? A)Fibrous tissue, B)Connective tissue, C)Cardiac tissue, D)Adipose tissue",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/ADI/ADI-EMCRYQNQ.tif",
+        "problem": "What kind of tissue is present in this picture? A)Nervous tissue, B)Epithelial tissue, C)Adipose tissue, D)Cardiac tissue",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/ADI/ADI-ARDDYRAD.tif",
+        "problem": "What is the tissue shown in this picture? A)Adipose tissue, B)Smooth muscle tissue, C)Nervous tissue, D)Cardiac tissue",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/ADI/ADI-DPAVLFLH.tif",
+        "problem": "What is the type of tissue that can be seen in the provided image? A)Skeletal muscle tissue, B)Adipose tissue, C)Nervous tissue, D)Cardiac tissue",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/ADI/ADI-FWAWKNKN.tif",
+        "problem": "What is the tissue that can be observed in this image? A)Cartilage tissue, B)Cardiac tissue, C)Fibrous tissue, D)Adipose tissue",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/ADI/ADI-AEQENWAN.tif",
+        "problem": "What is the tissue type shown in the image? A)Smooth muscle tissue, B)Adipose tissue, C)Blood tissue, D)Fibrous tissue",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/ADI/ADI-CANMAYVG.tif",
+        "problem": "What kind of tissue is seen in the provided image? A)Adipose tissue, B)Nervous tissue, C)Smooth muscle tissue, D)Epithelial tissue",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/ADI/ADI-ANGLCGYG.tif",
+        "problem": "What is the tissue seen in this picture? A)Smooth muscle tissue, B)Nervous tissue, C)Skeletal muscle tissue, D)Adipose tissue",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/ADI/ADI-FYCGDWEH.tif",
+        "problem": "What is the tissue shown in the image? A)Cardiac tissue, B)Fibrous tissue, C)Adipose tissue, D)Nervous tissue",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/ADI/ADI-ALHHCWNS.tif",
+        "problem": "What is the type of tissue that is shown in the image? A)Fibrous tissue, B)Adipose tissue, C)Nervous tissue, D)Blood tissue",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/ADI/ADI-AWKRHRCN.tif",
+        "problem": "What is the depicted tissue type in this image? A)Epithelial tissue, B)Adipose tissue, C)Connective tissue, D)Blood tissue",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/ADI/ADI-AVVPFKVT.tif",
+        "problem": "What is the specific type of tissue that can be identified in this image? A)Adipose tissue, B)Connective tissue, C)Epithelial tissue, D)Lymphatic tissue",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/ADI/ADI-DIWQYRWE.tif",
+        "problem": "What is the tissue type that is shown in this image? A)Cardiac tissue, B)Cartilage tissue, C)Blood tissue, D)Adipose tissue",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/ADI/ADI-CAVTKGFV.tif",
+        "problem": "What is the type of tissue that is shown in this image? A)Adipose tissue, B)Epithelial tissue, C)Blood tissue, D)Nervous tissue",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/ADI/ADI-ADHSFPIY.tif",
+        "problem": "What kind of tissue is being shown in this image? A)Cardiac tissue, B)Adipose tissue, C)Connective tissue, D)Lymphatic tissue",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/ADI/ADI-EMQRNEKD.tif",
+        "problem": "What is the type of tissue shown in the provided image? A)Cartilage tissue, B)Adipose tissue, C)Fibrous tissue, D)Blood tissue",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/ADI/ADI-AVWMAVGG.tif",
+        "problem": "What kind of tissue is visualized in this picture? A)Adipose tissue, B)Fibrous tissue, C)Cartilage tissue, D)Lymphatic tissue",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/ADI/ADI-ADVILCSD.tif",
+        "problem": "What kind of tissue is visible in this image? A)Smooth muscle tissue, B)Nervous tissue, C)Connective tissue, D)Adipose tissue",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/ADI/ADI-FVWWDQIQ.tif",
+        "problem": "Which kind of tissue is visible in this image? A)Lymphatic tissue, B)Adipose tissue, C)Blood tissue, D)Smooth muscle tissue",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/ADI/ADI-AGSWKMGD.tif",
+        "problem": "What type of tissue is depicted in this image? A)Adipose tissue, B)Lymphatic tissue, C)Connective tissue, D)Cardiac tissue",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/ADI/ADI-FYSDVEKP.tif",
+        "problem": "What kind of tissue is shown in the provided image? A)Skeletal muscle tissue, B)Smooth muscle tissue, C)Adipose tissue, D)Fibrous tissue",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/ADI/ADI-AELEMGNY.tif",
+        "problem": "What is the tissue shown in the image? A)Skeletal muscle tissue, B)Adipose tissue, C)Cardiac tissue, D)Cartilage tissue",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/ADI/ADI-ADPLTDTQ.tif",
+        "problem": "What is the tissue type that can be observed in this image? A)Adipose tissue, B)Nervous tissue, C)Skeletal muscle tissue, D)Lymphatic tissue",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/ADI/ADI-CDFPSDDT.tif",
+        "problem": "What is the name of the tissue shown in this picture? A)Epithelial tissue, B)Connective tissue, C)Nervous tissue, D)Adipose tissue",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/ADI/ADI-ASRQVMSM.tif",
+        "problem": "What is the tissue shown in the provided image? A)Blood tissue, B)Lymphatic tissue, C)Adipose tissue, D)Smooth muscle tissue",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/ADI/ADI-ASPGFRTH.tif",
+        "problem": "What kind of tissue is visible in this picture? A)Smooth muscle tissue, B)Adipose tissue, C)Cartilage tissue, D)Cardiac tissue",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/ADI/ADI-CCRLKRDH.tif",
+        "problem": "What is the type of tissue that can be seen in this image? A)Smooth muscle tissue, B)Nervous tissue, C)Blood tissue, D)Adipose tissue",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/ADI/ADI-DMQKYPFV.tif",
+        "problem": "What kind of tissue is visible in the image? A)Epithelial tissue, B)Adipose tissue, C)Connective tissue, D)Smooth muscle tissue",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/ADI/ADI-AMFDMTQC.tif",
+        "problem": "What kind of tissue is shown in the provided image? A)Lymphatic tissue, B)Adipose tissue, C)Fibrous tissue, D)Nervous tissue",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/BACK/BACK-EFTYMSHK.tif",
+        "problem": "What does this section of the picture mainly depict? A)Staining artifact., B)Background of histological image., C)Microscopic structure., D)Main subject of the image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/BACK/BACK-AYTNIYDY.tif",
+        "problem": "What does this section of the picture mainly depict? A)Background of histological image., B)Artistic rendering., C)Abnormal tissue growth., D)Staining artifact.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/BACK/BACK-DDAMPISR.tif",
+        "problem": "What is the primary representation of the histological image in this part? A)Main subject of the image., B)Background of histological image., C)Artistic rendering., D)Microscopic structure.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/BACK/BACK-EFWVRHAP.tif",
+        "problem": "What is the main representation of the depicted area in the image? A)Staining artifact., B)Background of histological image., C)Artistic rendering., D)Microscopic structure.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/BACK/BACK-EHERMQKC.tif",
+        "problem": "What is the main representation of this section in the image? A)Main subject of the image., B)Background of histological image., C)Artistic rendering., D)Microscopic structure.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/BACK/BACK-FEHDGCIN.tif",
+        "problem": "What is the main representation of this area in the image? A)Staining artifact., B)Abnormal tissue growth., C)Background of histological image., D)Main subject of the image.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/BACK/BACK-FEIVHLSK.tif",
+        "problem": "What is the main representation of the image in question? A)Background of histological image., B)Staining artifact., C)Abnormal tissue growth., D)Main subject of the image.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/BACK/BACK-AYSLWFRR.tif",
+        "problem": "What is the primary representation of the histological image in terms of its visual elements? A)Abnormal tissue growth., B)Background of histological image., C)Staining artifact., D)Artistic rendering.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/BACK/BACK-DAPSMRDS.tif",
+        "problem": "What is the main representation of this portion of the image? A)Abnormal tissue growth., B)Staining artifact., C)Microscopic structure., D)Background of histological image.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/BACK/BACK-AYKWCTVY.tif",
+        "problem": "What is the primary representation of this portion of the image? A)Background of histological image., B)Abnormal tissue growth., C)Staining artifact., D)Microscopic structure.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/BACK/BACK-AAYLCKMA.tif",
+        "problem": "What is the primary representation of the histological image background? A)Abnormal tissue growth., B)Background of histological image., C)Main subject of the image., D)Artistic rendering.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/BACK/BACK-FDMVTEQV.tif",
+        "problem": "What is the primary representation of this area in the image? A)Abnormal tissue growth., B)Staining artifact., C)Artistic rendering., D)Background of histological image.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/BACK/BACK-EFYWAIGR.tif",
+        "problem": "What is the primary representation of this region in the image? A)Microscopic structure., B)Abnormal tissue growth., C)Background of histological image., D)Artistic rendering.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/BACK/BACK-EEPQVYVW.tif",
+        "problem": "What does this portion of the picture mainly depict? A)Artistic rendering., B)Microscopic structure., C)Staining artifact., D)Background of histological image.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/BACK/BACK-EFQYQQAN.tif",
+        "problem": "What is the main representation of this aspect of the image? A)Abnormal tissue growth., B)Main subject of the image., C)Microscopic structure., D)Background of histological image.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/BACK/BACK-AYWHKNLH.tif",
+        "problem": "What does the majority of this picture depict in relation to histology? A)Background of histological image., B)Abnormal tissue growth., C)Microscopic structure., D)Artistic rendering.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/BACK/BACK-CAAIFNNH.tif",
+        "problem": "What is the main depiction in this image? A)Microscopic structure., B)Main subject of the image., C)Abnormal tissue growth., D)Background of histological image.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/BACK/BACK-EGACWHRV.tif",
+        "problem": "What does this portion of the picture mainly depict? A)Microscopic structure., B)Background of histological image., C)Staining artifact., D)Artistic rendering.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/BACK/BACK-DDDNKHCV.tif",
+        "problem": "What does the primary representation of this image mainly consist of? A)Staining artifact., B)Microscopic structure., C)Artistic rendering., D)Background of histological image.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/BACK/BACK-EENWQEAS.tif",
+        "problem": "What does this section of the picture mainly depict? A)Abnormal tissue growth., B)Staining artifact., C)Background of histological image., D)Microscopic structure.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/BACK/BACK-EEYTEDQN.tif",
+        "problem": "What is the main representation in the histological image? A)Artistic rendering., B)Abnormal tissue growth., C)Background of histological image., D)Main subject of the image.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/BACK/BACK-DDNWFFAM.tif",
+        "problem": "What is the main representation in the image? A)Staining artifact., B)Background of histological image., C)Microscopic structure., D)Main subject of the image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/DEB/DEB-GWPFLHNC.tif",
+        "problem": "What substance or tissue type can you see in this image? A)Muscle fibers, B)Debris, C)Epithelial cells, D)Blood cells",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/DEB/DEB-FIVKMTCM.tif",
+        "problem": "Which substance or type of tissue is visible in this image? A)Bone fragments, B)Debris, C)Epithelial cells, D)Adipose tissue",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/DEB/DEB-GWKYYWQL.tif",
+        "problem": "What substance or tissue type can you see in this image? A)Debris, B)Mucus glands, C)Nerve tissue, D)Muscle fibers",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/DEB/DEB-GYPYQPWL.tif",
+        "problem": "What substance or tissue type can you see in this image? A)Cartilage, B)Debris, C)Muscle fibers, D)Nerve tissue",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/DEB/DEB-FNCQPVGH.tif",
+        "problem": "Which substance or type of tissue is visible in this image? A)Muscle fibers, B)Debris, C)Cartilage, D)Nerve tissue",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/DEB/DEB-FLLHCTMK.tif",
+        "problem": "What substance or tissue type can you see in this image? A)Debris, B)Lymph nodes, C)Blood cells, D)Bone fragments",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/DEB/DEB-GYIDEDRH.tif",
+        "problem": "What substance or tissue type can you see in this image? A)Blood cells, B)Debris, C)Nerve tissue, D)Adipose tissue",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/DEB/DEB-CMVPCFAS.tif",
+        "problem": "What can be observed in this image, in terms of substance or tissue? A)Debris, B)Cartilage, C)Adipose tissue, D)Bone fragments",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/DEB/DEB-CLPNAGDD.tif",
+        "problem": "What substance or tissue type can you see in this image? A)Debris, B)Muscle fibers, C)Blood cells, D)Bone fragments",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/DEB/DEB-FKHYSVGT.tif",
+        "problem": "What substance or tissue type can you see in this image? A)Lymph nodes, B)Epithelial cells, C)Mucus glands, D)Debris",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/DEB/DEB-FIMQNGPM.tif",
+        "problem": "What do you observe in this image, in terms of substance or tissue type? A)Debris, B)Adipose tissue, C)Mucus glands, D)Epithelial cells",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/DEB/DEB-GWHIARNI.tif",
+        "problem": "What substance or tissue type can you see in this image? A)Blood cells, B)Mucus glands, C)Muscle fibers, D)Debris",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/DEB/DEB-EFSPYHDT.tif",
+        "problem": "What substance or tissue type can you see in this image? A)Debris, B)Muscle fibers, C)Nerve tissue, D)Mucus glands",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/DEB/DEB-GWKWGWKY.tif",
+        "problem": "What substance or tissue type can you see in this image? A)Nerve tissue, B)Muscle fibers, C)Debris, D)Cartilage",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/DEB/DEB-FKAWQFFG.tif",
+        "problem": "What substance or tissue type can you see in this image? A)Debris, B)Connective tissue, C)Bone fragments, D)Epithelial cells",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/DEB/DEB-FIVWVEEL.tif",
+        "problem": "What is visible in this image, in terms of substance or tissue? A)Adipose tissue, B)Debris, C)Epithelial cells, D)Nerve tissue",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/DEB/DEB-GYMWEILW.tif",
+        "problem": "What substance or tissue type can you see in this image? A)Nerve tissue, B)Debris, C)Muscle fibers, D)Blood cells",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/DEB/DEB-FIWFEDVM.tif",
+        "problem": "What can be observed in this image - substance or tissue? A)Bone fragments, B)Debris, C)Epithelial cells, D)Blood cells",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/DEB/DEB-EGVMPMCM.tif",
+        "problem": "What can be observed in this image, in terms of substance or tissue? A)Mucus glands, B)Lymph nodes, C)Debris, D)Epithelial cells",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/DEB/DEB-GYIQTRIT.tif",
+        "problem": "What type of material is visible in the photograph? A)Debris, B)Connective tissue, C)Muscle fibers, D)Blood cells",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/DEB/DEB-AFFNHMDD.tif",
+        "problem": "What substance or tissue type can you see in this image? A)Cartilage, B)Muscle fibers, C)Debris, D)Epithelial cells",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/DEB/DEB-GVANHINA.tif",
+        "problem": "What do you observe in this image, in terms of substance or tissue type? A)Bone fragments, B)Lymph nodes, C)Nerve tissue, D)Debris",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/DEB/DEB-FIHPCFGQ.tif",
+        "problem": "What is visible in this image, substance- or tissue-wise? A)Adipose tissue, B)Epithelial cells, C)Lymph nodes, D)Debris",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/DEB/DEB-GWDTMETY.tif",
+        "problem": "What type of material is visible in the photograph? A)Mucus glands, B)Debris, C)Blood cells, D)Muscle fibers",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/DEB/DEB-FMTLYKCI.tif",
+        "problem": "What can be observed in this image that corresponds to substances or tissue types? A)Adipose tissue, B)Debris, C)Lymph nodes, D)Epithelial cells",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/DEB/DEB-GWNRNNAR.tif",
+        "problem": "What can be observed in this image in terms of substance or tissue? A)Epithelial cells, B)Mucus glands, C)Nerve tissue, D)Debris",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/DEB/DEB-CPFNNRCF.tif",
+        "problem": "What substance or tissue type can you see in this image? A)Lymph nodes, B)Bone fragments, C)Epithelial cells, D)Debris",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/DEB/DEB-GWKCVEQM.tif",
+        "problem": "What is visible in this image that could be classified as debris? A)Nerve tissue, B)Blood cells, C)Debris, D)Lymph nodes",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/DEB/DEB-GVFRIKHW.tif",
+        "problem": "What substance or tissue type can you see in this image? A)Adipose tissue, B)Mucus glands, C)Epithelial cells, D)Debris",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/DEB/DEB-EFELAMQA.tif",
+        "problem": "What substance or tissue type can you see in this image? A)Lymph nodes, B)Muscle fibers, C)Bone fragments, D)Debris",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/LYM/LYM-GDPFKIFG.tif",
+        "problem": "Which specific type of cells are visible in this image? A)Astrocyte, B)Keratinocyte, C)Lymphocyte, D)Erythrocyte",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/LYM/LYM-HRDTPLIK.tif",
+        "problem": "Which specific cellular type is visible in this image? A)Platelet, B)Lymphocyte, C)Neutrophil, D)Hepatocyte",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/LYM/LYM-GEQTVSQW.tif",
+        "problem": "What cell type is shown in this picture? A)Lymphocyte, B)Keratinocyte, C)Erythrocyte, D)Adipocyte",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/LYM/LYM-CSWSICNI.tif",
+        "problem": "Which type of cell is visible in this image? A)Lymphocyte, B)Erythrocyte, C)Platelet, D)Neutrophil",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/LYM/LYM-HNIHPPDA.tif",
+        "problem": "Which cell type is shown in this image? A)Platelet, B)Astrocyte, C)Lymphocyte, D)Hepatocyte",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/LYM/LYM-AESNKMLW.tif",
+        "problem": "What kind of cells are visible in this image? A)Osteocyte, B)Neutrophil, C)Lymphocyte, D)Adipocyte",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/LYM/LYM-HRVGGNAW.tif",
+        "problem": "Which specific cell type is shown in this picture? A)Erythrocyte, B)Lymphocyte, C)Adipocyte, D)Astrocyte",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/LYM/LYM-AEDRHGPD.tif",
+        "problem": "What is the cell type shown in this picture? A)Hepatocyte, B)Keratinocyte, C)Astrocyte, D)Lymphocyte",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/LYM/LYM-ADMIGGVY.tif",
+        "problem": "What is the identity of the cells shown in the image? A)Hepatocyte, B)Keratinocyte, C)Lymphocyte, D)Neutrophil",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/LYM/LYM-ACPCWMVS.tif",
+        "problem": "What specific cell type is shown in this image? A)Neutrophil, B)Osteocyte, C)Lymphocyte, D)Fibroblast",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/LYM/LYM-ACYGLGDY.tif",
+        "problem": "What specific cells are present in this image? A)Cardiomyocyte, B)Fibroblast, C)Lymphocyte, D)Erythrocyte",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/LYM/LYM-HNQCEKDA.tif",
+        "problem": "What is the cell type shown in this image? A)Keratinocyte, B)Lymphocyte, C)Hepatocyte, D)Platelet",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/LYM/LYM-GENSPYEH.tif",
+        "problem": "Which type of cells are shown in this picture? A)Cardiomyocyte, B)Lymphocyte, C)Adipocyte, D)Neutrophil",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/LYM/LYM-ENRKVWFM.tif",
+        "problem": "What kind of cells are shown in this picture? A)Lymphocyte, B)Hepatocyte, C)Cardiomyocyte, D)Fibroblast",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/LYM/LYM-HQYHDIAH.tif",
+        "problem": "What cell type is shown in the provided image? A)Lymphocyte, B)Adipocyte, C)Cardiomyocyte, D)Erythrocyte",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/LYM/LYM-CSEMREDN.tif",
+        "problem": "What specific cell type is shown in the image? A)Adipocyte, B)Lymphocyte, C)Erythrocyte, D)Keratinocyte",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/LYM/LYM-GFPFWVFM.tif",
+        "problem": "What is the specific cell type shown in this picture? A)Lymphocyte, B)Osteocyte, C)Cardiomyocyte, D)Platelet",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUC/MUC-KTQLITPL.tif",
+        "problem": "What is the substance that is visible in this image? A)Synovial fluid, B)Lymph, C)Urine, D)Mucus",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUC/MUC-CVMHLHAH.tif",
+        "problem": "What is the substance depicted in this photograph? A)Mucus, B)Tears, C)Vomit, D)Synovial fluid",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUC/MUC-LVELVYAE.tif",
+        "problem": "What type of substance is shown in this image? A)Sweat, B)Tears, C)Mucus, D)Saliva",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUC/MUC-FDILLHVM.tif",
+        "problem": "What is the substance that can be observed in the provided image? A)Vomit, B)Blood, C)Synovial fluid, D)Mucus",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUC/MUC-KNGYHPRA.tif",
+        "problem": "What substance is depicted in the provided image? A)Mucus, B)Saliva, C)Blood, D)Vomit",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUC/MUC-LPGDWILW.tif",
+        "problem": "What substance is depicted in this picture? A)Mucus, B)Saliva, C)Gastric acid, D)Tears",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUC/MUC-LSPHMEYH.tif",
+        "problem": "What is the substance that can be observed in the provided image? A)Mucus, B)Tears, C)Cerebrospinal fluid, D)Synovial fluid",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUC/MUC-KLKRTAMF.tif",
+        "problem": "What type of substance is depicted in the provided image? A)Blood, B)Mucus, C)Lymph, D)Gastric acid",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUC/MUC-CYWMCSIG.tif",
+        "problem": "What is the substance visible in the image? A)Cerebrospinal fluid, B)Vomit, C)Mucus, D)Lymph",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUC/MUC-LFTPTISN.tif",
+        "problem": "What type of substance is shown in this image? A)Vomit, B)Urine, C)Mucus, D)Synovial fluid",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUC/MUC-KWTQIQTC.tif",
+        "problem": "What kind of substance is depicted in the image? A)Urine, B)Sweat, C)Mucus, D)Gastric acid",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUC/MUC-LRITDDVM.tif",
+        "problem": "What substance is observed in the provided image? A)Sweat, B)Urine, C)Synovial fluid, D)Mucus",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUC/MUC-CTDAREMT.tif",
+        "problem": "What type of substance is shown in this image? A)Lymph, B)Gastric acid, C)Mucus, D)Sweat",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUC/MUC-AEMSFCTY.tif",
+        "problem": "What is the viscous secretion depicted in this picture? A)Lymph, B)Blood, C)Tears, D)Mucus",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUC/MUC-HHTLLQIR.tif",
+        "problem": "What kind of substance is depicted in the image? A)Mucus, B)Sweat, C)Tears, D)Blood",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUC/MUC-LEGKWYTW.tif",
+        "problem": "What substance is depicted in the image? A)Saliva, B)Blood, C)Mucus, D)Synovial fluid",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUC/MUC-HKGDPWYY.tif",
+        "problem": "What is the substance depicted in the image? A)Vomit, B)Mucus, C)Gastric acid, D)Blood",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUC/MUC-LYQGQAGV.tif",
+        "problem": "What is the substance that is depicted in this image? A)Vomit, B)Urine, C)Gastric acid, D)Mucus",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUC/MUC-LILMIDFN.tif",
+        "problem": "What is the substance seen in this image? A)Cerebrospinal fluid, B)Mucus, C)Gastric acid, D)Synovial fluid",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUC/MUC-ACMHLIIP.tif",
+        "problem": "What kind of substance is visible in this image? A)Cerebrospinal fluid, B)Lymph, C)Vomit, D)Mucus",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUC/MUC-HIELPIMI.tif",
+        "problem": "What is the substance that is depicted in this image? A)Lymph, B)Sweat, C)Synovial fluid, D)Mucus",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUC/MUC-LIFMQIWF.tif",
+        "problem": "What is the name of the secretion displayed in this photo? A)Cerebrospinal fluid, B)Mucus, C)Urine, D)Lymph",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUC/MUC-CWSLTWTP.tif",
+        "problem": "What type of substance is shown in this image? A)Urine, B)Sweat, C)Gastric acid, D)Mucus",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUC/MUC-FEPKSMGS.tif",
+        "problem": "What substance is depicted in the provided image? A)Cerebrospinal fluid, B)Sweat, C)Mucus, D)Lymph",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUC/MUC-MFVHPLHV.tif",
+        "problem": "What type of substance is shown in this image? A)Lymph, B)Sweat, C)Mucus, D)Blood",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUC/MUC-LWVIAPWT.tif",
+        "problem": "What substance is visible in this image? A)Mucus, B)Tears, C)Sweat, D)Synovial fluid",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUC/MUC-MGAACPNK.tif",
+        "problem": "What kind of substance is visible in this picture? A)Blood, B)Mucus, C)Tears, D)Urine",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUC/MUC-LFDVAPGY.tif",
+        "problem": "What is the viscous secretion depicted in this picture? A)Mucus, B)Gastric acid, C)Saliva, D)Cerebrospinal fluid",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUC/MUC-FEDQEEPL.tif",
+        "problem": "What is the substance that is depicted in this image? A)Mucus, B)Tears, C)Lymph, D)Urine",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUC/MUC-LHTVPWWM.tif",
+        "problem": "What kind of secretion can be observed in the image? A)Vomit, B)Urine, C)Blood, D)Mucus",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUC/MUC-ACLDHQGM.tif",
+        "problem": "What kind of substance is visible in this image? A)Urine, B)Sweat, C)Vomit, D)Mucus",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUC/MUC-FEMMICIH.tif",
+        "problem": "What is the substance that can be observed in this image? A)Sweat, B)Mucus, C)Vomit, D)Saliva",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUC/MUC-FFPWNFQH.tif",
+        "problem": "What is the name of the substance depicted in this image? A)Gastric acid, B)Cerebrospinal fluid, C)Mucus, D)Tears",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUC/MUC-KYNICRDN.tif",
+        "problem": "What type of substance is depicted in the provided image? A)Urine, B)Gastric acid, C)Blood, D)Mucus",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUC/MUC-LQWNQVRL.tif",
+        "problem": "What is the substance portrayed in this image? A)Tears, B)Gastric acid, C)Mucus, D)Sweat",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUC/MUC-FCHVWDWD.tif",
+        "problem": "What is the substance depicted in the provided image? A)Mucus, B)Saliva, C)Vomit, D)Blood",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUC/MUC-LAPRATHI.tif",
+        "problem": "What substance is displayed in the image? A)Lymph, B)Gastric acid, C)Mucus, D)Saliva",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUC/MUC-LLKENRTY.tif",
+        "problem": "What is the substance depicted in the picture? A)Blood, B)Lymph, C)Tears, D)Mucus",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUS/MUS-FVPFVLYW.tif",
+        "problem": "What kind of tissue is shown in the picture? A)Epithelial tissue, B)Lymphatic tissue, C)Nervous tissue, D)Smooth muscle",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUS/MUS-GFKCVPHY.tif",
+        "problem": "What kind of body tissue is shown in the picture? A)Skeletal muscle, B)Adipose tissue, C)Bone tissue, D)Smooth muscle",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUS/MUS-EVHREGSF.tif",
+        "problem": "What is the tissue featured in this image? A)Glandular tissue, B)Connective tissue, C)Cardiac muscle, D)Smooth muscle",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUS/MUS-AEGMVYYN.tif",
+        "problem": "Which type of tissue is present in the image? A)Bone tissue, B)Smooth muscle, C)Lymphatic tissue, D)Epithelial tissue",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUS/MUS-GRWRSKCL.tif",
+        "problem": "What is the name of the tissue shown in the picture? A)Blood tissue, B)Smooth muscle, C)Epithelial tissue, D)Bone tissue",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUS/MUS-FSTNLFKT.tif",
+        "problem": "What is the depicted tissue type in this image? A)Skeletal muscle, B)Smooth muscle, C)Glandular tissue, D)Cardiac muscle",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUS/MUS-GNSSEQQS.tif",
+        "problem": "What is the tissue shown in this image? A)Cardiac muscle, B)Smooth muscle, C)Connective tissue, D)Blood tissue",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUS/MUS-FWYHMKDL.tif",
+        "problem": "What kind of body tissue is shown in the picture? A)Smooth muscle, B)Bone tissue, C)Nervous tissue, D)Adipose tissue",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUS/MUS-DLAKNYIP.tif",
+        "problem": "What is the tissue type that is shown in this image? A)Smooth muscle, B)Lymphatic tissue, C)Adipose tissue, D)Blood tissue",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUS/MUS-FVTVLIEF.tif",
+        "problem": "What specific type of tissue is visible in the image? A)Adipose tissue, B)Cardiac muscle, C)Smooth muscle, D)Epithelial tissue",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUS/MUS-GFCPEAMS.tif",
+        "problem": "What kind of body tissue is shown in the picture? A)Blood tissue, B)Smooth muscle, C)Glandular tissue, D)Nervous tissue",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUS/MUS-GAWRCLYR.tif",
+        "problem": "What is the tissue portrayed in the image? A)Nervous tissue, B)Cardiac muscle, C)Smooth muscle, D)Epithelial tissue",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUS/MUS-GPCYFVAD.tif",
+        "problem": "What is the type of tissue shown in the provided image? A)Glandular tissue, B)Connective tissue, C)Smooth muscle, D)Cardiac muscle",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUS/MUS-AEEPCFCV.tif",
+        "problem": "What kind of tissue is visualized in this picture? A)Blood tissue, B)Skeletal muscle, C)Bone tissue, D)Smooth muscle",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUS/MUS-GSRCIPQF.tif",
+        "problem": "What kind of tissue is represented in the image? A)Smooth muscle, B)Skeletal muscle, C)Nervous tissue, D)Connective tissue",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUS/MUS-GCQATKEV.tif",
+        "problem": "What is the specific tissue shown in this image? A)Smooth muscle, B)Skeletal muscle, C)Bone tissue, D)Connective tissue",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUS/MUS-GQNQPTFC.tif",
+        "problem": "What is the tissue type that can be seen in this image? A)Skeletal muscle, B)Blood tissue, C)Adipose tissue, D)Smooth muscle",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUS/MUS-CFQKMMHA.tif",
+        "problem": "What kind of tissue can be seen in the image? A)Adipose tissue, B)Smooth muscle, C)Lymphatic tissue, D)Glandular tissue",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUS/MUS-GFIYINFF.tif",
+        "problem": "What kind of tissue is visible in the image? A)Adipose tissue, B)Smooth muscle, C)Bone tissue, D)Lymphatic tissue",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUS/MUS-FVSMKCTC.tif",
+        "problem": "What kind of tissue is shown in this picture? A)Smooth muscle, B)Cardiac muscle, C)Glandular tissue, D)Lymphatic tissue",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUS/MUS-FSTKVACF.tif",
+        "problem": "What specific kind of tissue is visible in the image? A)Skeletal muscle, B)Smooth muscle, C)Cardiac muscle, D)Nervous tissue",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUS/MUS-GDEWFQWK.tif",
+        "problem": "What kind of tissue is shown in the picture? A)Smooth muscle, B)Glandular tissue, C)Skeletal muscle, D)Epithelial tissue",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUS/MUS-FTTYMYES.tif",
+        "problem": "What kind of tissue is seen in the image? A)Cardiac muscle, B)Smooth muscle, C)Glandular tissue, D)Lymphatic tissue",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/MUS/MUS-ACVSMEPK.tif",
+        "problem": "What is the specific tissue seen in this image? A)Epithelial tissue, B)Smooth muscle, C)Bone tissue, D)Adipose tissue",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/NORM/NORM-EWIQYGFR.tif",
+        "problem": "What is the type of mucosa observed in the provided image? A)Intestinal mucosa, B)Normal colonic mucosa, C)Cardiac mucosa, D)Esophageal mucosa",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/NORM/NORM-GHKTIDMK.tif",
+        "problem": "What is the type of mucosa that is depicted in this image? A)Normal colonic mucosa, B)Gastric mucosa, C)Pulmonary mucosa, D)Hepatic mucosa",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/NORM/NORM-IPVGFFQK.tif",
+        "problem": "What is the mucosa type that is observed in this image? A)Cardiac mucosa, B)Normal colonic mucosa, C)Hepatic mucosa, D)Esophageal mucosa",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/NORM/NORM-ILAACAGI.tif",
+        "problem": "What type of mucosa is shown in this image? A)Normal colonic mucosa, B)Skin mucosa, C)Ovarian mucosa, D)Cardiac mucosa",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/NORM/NORM-CVPLSYPP.tif",
+        "problem": "What does this image depict in terms of mucosa? A)Skin mucosa, B)Hepatic mucosa, C)Normal colonic mucosa, D)Intestinal mucosa",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/NORM/NORM-AGTQIIIQ.tif",
+        "problem": "What is the type of mucosa observed in the image? A)Cardiac mucosa, B)Skin mucosa, C)Intestinal mucosa, D)Normal colonic mucosa",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/NORM/NORM-GEPTKKMM.tif",
+        "problem": "What is the mucosal type displayed in this image? A)Normal colonic mucosa, B)Cardiac mucosa, C)Pulmonary mucosa, D)Ovarian mucosa",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/NORM/NORM-CWVCFHCS.tif",
+        "problem": "What does this image display in terms of mucosa type? A)Cardiac mucosa, B)Hepatic mucosa, C)Normal colonic mucosa, D)Testicular mucosa",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/NORM/NORM-EVPQFTDV.tif",
+        "problem": "What is the type of mucosa present in the depicted image? A)Cardiac mucosa, B)Normal colonic mucosa, C)Hepatic mucosa, D)Intestinal mucosa",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/NORM/NORM-CRVQTPRI.tif",
+        "problem": "What is the mucosa type that is depicted in the image? A)Esophageal mucosa, B)Ovarian mucosa, C)Normal colonic mucosa, D)Renal mucosa",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/NORM/NORM-ILGANIDS.tif",
+        "problem": "What does the image show in terms of mucosa type? A)Renal mucosa, B)Intestinal mucosa, C)Hepatic mucosa, D)Normal colonic mucosa",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/NORM/NORM-AADHIVHI.tif",
+        "problem": "What is the type of mucosa seen in this image? A)Hepatic mucosa, B)Normal colonic mucosa, C)Esophageal mucosa, D)Testicular mucosa",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/NORM/NORM-CWRYDNGM.tif",
+        "problem": "What does the image depict in terms of mucosa type? A)Normal colonic mucosa, B)Pulmonary mucosa, C)Ovarian mucosa, D)Cardiac mucosa",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/NORM/NORM-ADPMQGDR.tif",
+        "problem": "What does the image in question show in terms of mucosa type? A)Hepatic mucosa, B)Normal colonic mucosa, C)Gastric mucosa, D)Intestinal mucosa",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/NORM/NORM-EVRANVFN.tif",
+        "problem": "What is the type of mucosa depicted in the image? A)Skin mucosa, B)Normal colonic mucosa, C)Pulmonary mucosa, D)Gastric mucosa",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/NORM/NORM-EYRTDTFL.tif",
+        "problem": "What kind of tissue is depicted in the given photograph, specifically from the colon? A)Intestinal mucosa, B)Cardiac mucosa, C)Normal colonic mucosa, D)Gastric mucosa",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/NORM/NORM-AEFICSLS.tif",
+        "problem": "What is the characteristic of the mucosa depicted in this image? A)Cardiac mucosa, B)Skin mucosa, C)Ovarian mucosa, D)Normal colonic mucosa",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/NORM/NORM-IQCFTGQK.tif",
+        "problem": "What does the image depict in terms of mucosa type? A)Skin mucosa, B)Esophageal mucosa, C)Cardiac mucosa, D)Normal colonic mucosa",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/NORM/NORM-EYACLDLD.tif",
+        "problem": "What is the mucosa type depicted in the provided image? A)Normal colonic mucosa, B)Testicular mucosa, C)Esophageal mucosa, D)Renal mucosa",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/NORM/NORM-INLKISNK.tif",
+        "problem": "What is the mucosa type present in this image? A)Ovarian mucosa, B)Pulmonary mucosa, C)Testicular mucosa, D)Normal colonic mucosa",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/NORM/NORM-GIVKKNCF.tif",
+        "problem": "What is the mucosal composition seen in this image? A)Pulmonary mucosa, B)Hepatic mucosa, C)Normal colonic mucosa, D)Intestinal mucosa",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/NORM/NORM-CWSQAYWF.tif",
+        "problem": "What is the type of mucosa visible in this image? A)Cardiac mucosa, B)Esophageal mucosa, C)Normal colonic mucosa, D)Intestinal mucosa",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/STR/STR-GEMCVERM.tif",
+        "problem": "What is depicted in this image in terms of tissue or abnormality? A)Benign tumor, B)Normal stroma, C)Cancer-associated stroma, D)Adipose tissue",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/STR/STR-ELMAFCEG.tif",
+        "problem": "What is the depicted tissue or abnormality in this image? A)Adipose tissue, B)Cancer-associated stroma, C)Metastatic tissue, D)Normal stroma",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/STR/STR-GFCLSIAL.tif",
+        "problem": "What is the name of the tissue or abnormality shown in this image? A)Normal stroma, B)Adipose tissue, C)Cancer-associated stroma, D)Inflammatory tissue",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/STR/STR-ACNMFEAK.tif",
+        "problem": "What kind of tissue or anomaly is depicted in this image? A)Fibrous connective tissue, B)Adipose tissue, C)Inflammatory tissue, D)Cancer-associated stroma",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/STR/STR-GCYDHEAC.tif",
+        "problem": "What is the tissue or abnormality illustrated in this image? A)Fibrous connective tissue, B)Normal stroma, C)Inflammatory tissue, D)Cancer-associated stroma",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/STR/STR-HWDKLWWC.tif",
+        "problem": "What type of cellular environment or abnormality is illustrated in the provided picture? A)Benign tumor, B)Adipose tissue, C)Necrotic tissue, D)Cancer-associated stroma",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/STR/STR-HYLDVVWV.tif",
+        "problem": "What is the specific term for the depicted tissue or anomaly in this image? A)Cancer-associated stroma, B)Normal stroma, C)Inflammatory tissue, D)Blood vessel anomaly",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/STR/STR-HWTIMWNT.tif",
+        "problem": "What is the term for the depicted tissue or anomaly in this image? A)Adipose tissue, B)Normal stroma, C)Scar tissue, D)Cancer-associated stroma",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/STR/STR-ADLYGWIL.tif",
+        "problem": "What is the tissue or anomaly shown in this image called? A)Cancer-associated stroma, B)Adipose tissue, C)Fibrous connective tissue, D)Scar tissue",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/STR/STR-GFPHGLLH.tif",
+        "problem": "What is the tissue or anomaly shown in this image called? A)Benign tumor, B)Cancer-associated stroma, C)Scar tissue, D)Epithelial tissue",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/STR/STR-GFESHNPY.tif",
+        "problem": "What is the depicted tissue or anomaly in this image? A)Cancer-associated stroma, B)Normal stroma, C)Blood vessel anomaly, D)Adipose tissue",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/STR/STR-GEKVELVL.tif",
+        "problem": "What is the depicted tissue or anomaly in this image? A)Fibrous connective tissue, B)Cancer-associated stroma, C)Benign tumor, D)Epithelial tissue",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/STR/STR-GERPMGVI.tif",
+        "problem": "What is the term for the tissue or abnormality shown in this picture? A)Blood vessel anomaly, B)Cancer-associated stroma, C)Inflammatory tissue, D)Scar tissue",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/STR/STR-GCMLLKVI.tif",
+        "problem": "What is shown in this image, in terms of tissue or abnormality? A)Adipose tissue, B)Fibrous connective tissue, C)Cancer-associated stroma, D)Inflammatory tissue",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/STR/STR-DAWMAPSD.tif",
+        "problem": "What is the term for the tissue or abnormality shown in this picture? A)Normal stroma, B)Scar tissue, C)Cancer-associated stroma, D)Metastatic tissue",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/STR/STR-GDDLVMTY.tif",
+        "problem": "What is depicted in this image, referring to abnormal tissue or structure? A)Blood vessel anomaly, B)Fibrous connective tissue, C)Cancer-associated stroma, D)Inflammatory tissue",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/STR/STR-AAPNYWIR.tif",
+        "problem": "What is the term for the tissue or anomaly depicted in this image? A)Blood vessel anomaly, B)Epithelial tissue, C)Cancer-associated stroma, D)Normal stroma",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/STR/STR-AEKKKDAT.tif",
+        "problem": "What is the term for the tissue or anomaly seen in this image? A)Metastatic tissue, B)Normal stroma, C)Cancer-associated stroma, D)Blood vessel anomaly",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/STR/STR-ADYGVEQW.tif",
+        "problem": "What is the specific tissue or abnormality present in this image? A)Normal stroma, B)Metastatic tissue, C)Cancer-associated stroma, D)Inflammatory tissue",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/STR/STR-EMVVYSWQ.tif",
+        "problem": "What is the tissue or abnormality shown in the image? A)Cancer-associated stroma, B)Metastatic tissue, C)Blood vessel anomaly, D)Adipose tissue",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/TUM/TUM-EVNLKCCM.tif",
+        "problem": "What is the term for the tissue or abnormality shown in the picture? A)Smooth muscle tissue, B)Pancreatic acinar cell adenoma, C)Colorectal adenocarcinoma epithelium, D)Cardiac muscle tissue",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/TUM/TUM-PQMHDAQE.tif",
+        "problem": "What type of tissue or abnormality is visible in this picture? A)Colorectal adenocarcinoma epithelium, B)Pancreatic acinar cell adenoma, C)Nodal metastasis in lymphoma, D)Smooth muscle tissue",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/TUM/TUM-QIGVTLAM.tif",
+        "problem": "What specific tissue or abnormality is shown in the image provided? A)Cardiac muscle tissue, B)Smooth muscle tissue, C)Chondrosarcoma of the bone, D)Colorectal adenocarcinoma epithelium",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/TUM/TUM-QQEIKSYQ.tif",
+        "problem": "What is shown in this image, indicating a type of tissue or abnormality? A)Nodal metastasis in lymphoma, B)Ovarian cyst lining, C)Colorectal adenocarcinoma epithelium, D)Prostatic hyperplasia",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/TUM/TUM-GIVRPTGI.tif",
+        "problem": "What is the specific type of tissue or abnormality shown in this image? A)Colorectal adenocarcinoma epithelium, B)Ovarian cyst lining, C)Chondrosarcoma of the bone, D)Prostatic hyperplasia",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/TUM/TUM-AARWINYS.tif",
+        "problem": "What is the tissue or abnormality shown in this image? A)Prostatic hyperplasia, B)Basal cell carcinoma of the skin, C)Cardiac muscle tissue, D)Colorectal adenocarcinoma epithelium",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/TUM/TUM-ADFNRRTL.tif",
+        "problem": "What is the subject matter of this image, specifically pertaining to tissue or abnormality? A)Colorectal adenocarcinoma epithelium, B)Smooth muscle tissue, C)Nodal metastasis in lymphoma, D)Ovarian cyst lining",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/TUM/TUM-ADWDFHTK.tif",
+        "problem": "What is the name of the tissue or abnormality shown in the image? A)Colorectal adenocarcinoma epithelium, B)Cardiac muscle tissue, C)Fibroadenoma of the breast, D)Chondrosarcoma of the bone",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/TUM/TUM-QRDNWVHH.tif",
+        "problem": "What is the depicted tissue or anomaly in this image? A)Ovarian cyst lining, B)Chondrosarcoma of the bone, C)Colorectal adenocarcinoma epithelium, D)Smooth muscle tissue",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/TUM/TUM-PLSDGEFT.tif",
+        "problem": "What is the specific tissue or abnormality visible in this image? A)Basal cell carcinoma of the skin, B)Colorectal adenocarcinoma epithelium, C)Fibroadenoma of the breast, D)Ovarian cyst lining",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/TUM/TUM-QGEASEHD.tif",
+        "problem": "What is the tissue or abnormality shown in this image? A)Prostatic hyperplasia, B)Colorectal adenocarcinoma epithelium, C)Fibroadenoma of the breast, D)Basal cell carcinoma of the skin",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/TUM/TUM-PNVSHRVL.tif",
+        "problem": "What is the depicted tissue or abnormality in this image? A)Fibroadenoma of the breast, B)Colorectal adenocarcinoma epithelium, C)Pancreatic acinar cell adenoma, D)Prostatic hyperplasia",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/TUM/TUM-EWTCHPSN.tif",
+        "problem": "What is the tissue or anomaly displayed in this image? A)Colorectal adenocarcinoma epithelium, B)Basal cell carcinoma of the skin, C)Psoriasis lesion, D)Ovarian cyst lining",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/TUM/TUM-QCTFRCIS.tif",
+        "problem": "What is the specific tissue or abnormality shown in the provided image? A)Colorectal adenocarcinoma epithelium, B)Cardiac muscle tissue, C)Smooth muscle tissue, D)Fibroadenoma of the breast",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/TUM/TUM-QQVPPEKY.tif",
+        "problem": "What is the name of the tissue or abnormality shown in the picture? A)Cardiac muscle tissue, B)Colorectal adenocarcinoma epithelium, C)Nodal metastasis in lymphoma, D)Prostatic hyperplasia",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/TUM/TUM-QPRCMFHF.tif",
+        "problem": "What is the tissue or anomaly being shown in this picture? A)Chondrosarcoma of the bone, B)Cardiac muscle tissue, C)Basal cell carcinoma of the skin, D)Colorectal adenocarcinoma epithelium",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/TUM/TUM-PSDCRLPW.tif",
+        "problem": "What kind of tissue or anomaly is depicted in this image? A)Colorectal adenocarcinoma epithelium, B)Prostatic hyperplasia, C)Ovarian cyst lining, D)Smooth muscle tissue",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/TUM/TUM-CHNNMYDL.tif",
+        "problem": "What specific abnormality or type of tissue is shown in the provided image? A)Ovarian cyst lining, B)Basal cell carcinoma of the skin, C)Colorectal adenocarcinoma epithelium, D)Pancreatic acinar cell adenoma",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/TUM/TUM-QFTFENER.tif",
+        "problem": "What is the identified tissue or abnormality in this image? A)Chondrosarcoma of the bone, B)Colorectal adenocarcinoma epithelium, C)Nodal metastasis in lymphoma, D)Fibroadenoma of the breast",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/TUM/TUM-PLDADFDK.tif",
+        "problem": "What is the term for the tissue or irregularity shown in this picture? A)Basal cell carcinoma of the skin, B)Smooth muscle tissue, C)Colorectal adenocarcinoma epithelium, D)Cardiac muscle tissue",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/TUM/TUM-PRDHYEWL.tif",
+        "problem": "What is the depicted tissue or anomaly in this image? A)Cardiac muscle tissue, B)Colorectal adenocarcinoma epithelium, C)Smooth muscle tissue, D)Fibroadenoma of the breast",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/TUM/TUM-QEFPEWTQ.tif",
+        "problem": "What kind of tissue or anomaly is depicted in this image? A)Pancreatic acinar cell adenoma, B)Colorectal adenocarcinoma epithelium, C)Fibroadenoma of the breast, D)Smooth muscle tissue",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/TUM/TUM-ADVDRITG.tif",
+        "problem": "What is the name of the depicted tissue or anomaly in this image? A)Chondrosarcoma of the bone, B)Basal cell carcinoma of the skin, C)Colorectal adenocarcinoma epithelium, D)Cardiac muscle tissue",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/TUM/TUM-PSCLYFGM.tif",
+        "problem": "What specific abnormality or tissue is shown in this picture? A)Fibroadenoma of the breast, B)Psoriasis lesion, C)Nodal metastasis in lymphoma, D)Colorectal adenocarcinoma epithelium",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/TUM/TUM-ACKTICMA.tif",
+        "problem": "What is the tissue or anomaly shown in this image? A)Basal cell carcinoma of the skin, B)Colorectal adenocarcinoma epithelium, C)Psoriasis lesion, D)Pancreatic acinar cell adenoma",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/TUM/TUM-DLGHKMCC.tif",
+        "problem": "What is the tissue or anomaly that can be seen in this image? A)Chondrosarcoma of the bone, B)Smooth muscle tissue, C)Pancreatic acinar cell adenoma, D)Colorectal adenocarcinoma epithelium",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/TUM/TUM-QQLRIVKR.tif",
+        "problem": "What is depicted in this image - a type of tissue or abnormality? A)Fibroadenoma of the breast, B)Colorectal adenocarcinoma epithelium, C)Ovarian cyst lining, D)Cardiac muscle tissue",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CRC100k/TUM/TUM-QMKPHSCI.tif",
+        "problem": "What type of cellular or structural abnormality is visible in this picture? A)Cardiac muscle tissue, B)Nodal metastasis in lymphoma, C)Prostatic hyperplasia, D)Colorectal adenocarcinoma epithelium",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CRC100k/TUM/TUM-QKRGWKVW.tif",
+        "problem": "What is the tissue or anomaly shown in the image? A)Cardiac muscle tissue, B)Prostatic hyperplasia, C)Colorectal adenocarcinoma epithelium, D)Psoriasis lesion",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/TUM/TUM-DIWVKDAG.tif",
+        "problem": "What specific type of tissue or abnormality is shown in this image? A)Colorectal adenocarcinoma epithelium, B)Ovarian cyst lining, C)Prostatic hyperplasia, D)Smooth muscle tissue",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/TUM/TUM-QEPDIMQC.tif",
+        "problem": "What specific type of tissue or abnormality is visible in this image? A)Ovarian cyst lining, B)Pancreatic acinar cell adenoma, C)Colorectal adenocarcinoma epithelium, D)Nodal metastasis in lymphoma",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/TUM/TUM-CKVKQNKH.tif",
+        "problem": "What is the term for the tissue or abnormality shown in this picture? A)Prostatic hyperplasia, B)Chondrosarcoma of the bone, C)Colorectal adenocarcinoma epithelium, D)Psoriasis lesion",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CRC100k/TUM/TUM-DNDELEWL.tif",
+        "problem": "What specific type of tissue or abnormality is shown in this picture? A)Colorectal adenocarcinoma epithelium, B)Ovarian cyst lining, C)Cardiac muscle tissue, D)Fibroadenoma of the breast",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CRC100k/TUM/TUM-EWESSNYK.tif",
+        "problem": "What does the image show in terms of tissue or abnormality? A)Chondrosarcoma of the bone, B)Nodal metastasis in lymphoma, C)Smooth muscle tissue, D)Colorectal adenocarcinoma epithelium",
+        "solution": "<answer> D </answer>"
+    }
+]

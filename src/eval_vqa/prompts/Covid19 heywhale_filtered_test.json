@@ -1,0 +1,692 @@
+[
+    {
+        "image": "Images/Covid19 heywhale/NORMAL/NORMAL (255).png",
+        "problem": "Which imaging technique is employed for capturing this image? A)CT scan, B)MRI, C)EKG, D)X-ray",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/NORMAL/NORMAL (757).png",
+        "problem": "What imaging technique was utilized to capture this picture? A)EKG, B)Ultrasound, C)X-ray, D)MRI",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (97).png",
+        "problem": "What modality is used to take this image? A)CT scan, B)EKG, C)Blood test, D)X-ray",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (1301).png",
+        "problem": "What modality is used to take this image? A)EKG, B)Ultrasound, C)X-ray, D)Blood test",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (825).png",
+        "problem": "What imaging technique was utilized to obtain this picture? A)X-ray, B)Ultrasound, C)CT scan, D)Blood test",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (572).png",
+        "problem": "What type of imaging is utilized to capture this photograph? A)Blood test, B)CT scan, C)Ultrasound, D)X-ray",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (889).png",
+        "problem": "What method was utilized to capture this image? A)CT scan, B)X-ray, C)Blood test, D)EKG",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/NORMAL/NORMAL (2).png",
+        "problem": "What content appears in this image? A)Intestine, B)Muscle, C)Lung, D)Bladder",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/NORMAL/NORMAL (93).png",
+        "problem": "What content appears in this image? A)Intestine, B)Heart, C)Lung, D)Bladder",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/NORMAL/NORMAL (94).png",
+        "problem": "What content appears in this image? A)Stomach, B)Intestine, C)Kidney, D)Lung",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/NORMAL/NORMAL (641).png",
+        "problem": "What content appears in this image? A)Liver, B)Lung, C)Stomach, D)Skin",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/NORMAL/NORMAL (685).png",
+        "problem": "What is the content of the image? A)Liver, B)Brain, C)Heart, D)Lung",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/NORMAL/NORMAL (942).png",
+        "problem": "What content appears in this image? A)Heart, B)Stomach, C)Liver, D)Lung",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/NORMAL/NORMAL (555).png",
+        "problem": "What content appears in this image? A)Heart, B)Intestine, C)Liver, D)Lung",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/NORMAL/NORMAL (560).png",
+        "problem": "What is the content depicted in this image? A)Lung, B)Intestine, C)Brain, D)Bladder",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/NORMAL/NORMAL (452).png",
+        "problem": "What content appears in this image? A)Intestine, B)Stomach, C)Lung, D)Bladder",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/NORMAL/NORMAL (1248).png",
+        "problem": "What content appears in this image? A)Kidney, B)Lung, C)Heart, D)Muscle",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/NORMAL/NORMAL (1225).png",
+        "problem": "What content appears in this image? A)Kidney, B)Bladder, C)Lung, D)Intestine",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/NORMAL/NORMAL (720).png",
+        "problem": "What content appears in this image? A)Kidney, B)Lung, C)Muscle, D)Bone",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/COVID/COVID (497).png",
+        "problem": "What content appears in this image? A)Lung, B)Bladder, C)Bone, D)Muscle",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/COVID/COVID (877).png",
+        "problem": "What content appears in this image? A)Lung, B)Bone, C)Intestine, D)Skin",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/COVID/COVID (526).png",
+        "problem": "What content appears in this image? A)Brain, B)Intestine, C)Lung, D)Muscle",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/COVID/COVID (225).png",
+        "problem": "What is the subject matter depicted in this picture? A)Lung, B)Heart, C)Bladder, D)Skin",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/COVID/COVID (529).png",
+        "problem": "What content appears in this image? A)Stomach, B)Lung, C)Kidney, D)Bone",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/COVID/COVID (191).png",
+        "problem": "What content appears in this image? A)Heart, B)Muscle, C)Bladder, D)Lung",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/COVID/COVID (231).png",
+        "problem": "What content appears in this image? A)Liver, B)Heart, C)Brain, D)Lung",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/COVID/COVID (324).png",
+        "problem": "What content appears in this image? A)Bladder, B)Heart, C)Lung, D)Stomach",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/COVID/COVID (769).png",
+        "problem": "What content appears in this image? A)Skin, B)Lung, C)Bladder, D)Liver",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/COVID/COVID (1102).png",
+        "problem": "What is depicted in this image? A)Kidney, B)Lung, C)Brain, D)Bladder",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/COVID/COVID (24).png",
+        "problem": "What do you see in the image? A)Liver, B)Lung, C)Brain, D)Muscle",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/COVID/COVID (580).png",
+        "problem": "What content appears in this image? A)Stomach, B)Lung, C)Muscle, D)Kidney",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (1096).png",
+        "problem": "What content appears in this image? A)Lung, B)Intestine, C)Bladder, D)Liver",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (288).png",
+        "problem": "What content appears in this image? A)Intestine, B)Lung, C)Heart, D)Bladder",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (541).png",
+        "problem": "What content appears in this image? A)Skin, B)Lung, C)Bladder, D)Kidney",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (654).png",
+        "problem": "What do you see in the image? A)Intestine, B)Lung, C)Brain, D)Heart",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (864).png",
+        "problem": "What content appears in this image? A)Kidney, B)Intestine, C)Liver, D)Lung",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (869).png",
+        "problem": "What content appears in this image? A)Kidney, B)Lung, C)Bladder, D)Liver",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (172).png",
+        "problem": "What content appears in this image? A)Lung, B)Liver, C)Bone, D)Muscle",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/COVID/COVID (431).png",
+        "problem": "What is the specific medical condition affecting the patient in this image? What is the corresponding organ that will experience the impact? A)Pneumonia. Lungs will be affected., B)Eczema. Lungs will be affected., C)Meningitis. Lungs will be affected., D)COVID. Lungs will be affected.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/COVID/COVID (326).png",
+        "problem": "What condition does the patient in the image have? Which organ will be impacted? A)Meningitis. Lungs will be affected., B)Gastritis. Lungs will be affected., C)COVID. Lungs will be affected., D)Asthma. Lungs will be affected.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/COVID/COVID (345).png",
+        "problem": "What medical condition does the patient in this image have? Which organ will be impacted? A)Asthma. Lungs will be affected., B)COVID. Lungs will be affected., C)Sinusitis. Lungs will be affected., D)Pneumonia. Lungs will be affected.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/COVID/COVID (399).png",
+        "problem": "Which part of the body is affected in a patient with a diagnosis of COVID shown in this image? A)Asthma. Lungs will be affected., B)COVID. Lungs will be affected., C)Influenza. Lungs will be affected., D)Pneumonia. Lungs will be affected.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/COVID/COVID (335).png",
+        "problem": "What condition is observed in the patient's image? Which organ will be impacted? A)Meningitis. Lungs will be affected., B)Gastritis. Lungs will be affected., C)Eczema. Lungs will be affected., D)COVID. Lungs will be affected.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/COVID/COVID (273).png",
+        "problem": "What is the specific medical condition affecting the patient in the image, and which organ will be impacted by it? A)Pneumonia. Lungs will be affected., B)Bronchitis. Lungs will be affected., C)COVID. Lungs will be affected., D)Eczema. Lungs will be affected.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/COVID/COVID (8).png",
+        "problem": "What illness is the patient in the image diagnosed with? Which organ will be impacted by the disease? A)Bronchitis. Lungs will be affected., B)Pneumonia. Lungs will be affected., C)COVID. Lungs will be affected., D)Asthma. Lungs will be affected.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/COVID/COVID (1162).png",
+        "problem": "What is the medical condition depicted in this image? Which organ will be impacted? A)Asthma. Lungs will be affected., B)Eczema. Lungs will be affected., C)COVID. Lungs will be affected., D)Mononucleosis. Lungs will be affected.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/COVID/COVID (728).png",
+        "problem": "Which specific illness is affecting the patient in this image and what will be the organ affected by it? A)Mononucleosis. Lungs will be affected., B)Gastritis. Lungs will be affected., C)Eczema. Lungs will be affected., D)COVID. Lungs will be affected.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/COVID/COVID (231).png",
+        "problem": "Which condition is the patient in this image likely to be diagnosed with? Which specific organ of the body will experience the impact? A)COVID. Lungs will be affected., B)Pneumonia. Lungs will be affected., C)Bronchitis. Lungs will be affected., D)Gastritis. Lungs will be affected.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/COVID/COVID (1027).png",
+        "problem": "What medical condition is the patient in the image suffering from? What organ will be impacted by this condition? A)COVID. Lungs will be affected., B)Sinusitis. Lungs will be affected., C)Influenza. Lungs will be affected., D)Eczema. Lungs will be affected.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/COVID/COVID (794).png",
+        "problem": "What is the condition impacting the lungs of the patient in this image? A)Bronchitis. Lungs will be affected., B)COVID. Lungs will be affected., C)Tuberculosis. Lungs will be affected., D)Gastritis. Lungs will be affected.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/COVID/COVID (258).png",
+        "problem": "What medical condition is indicated by the image of the patient? Which organ will be impacted by this condition? A)Eczema. Lungs will be affected., B)Sinusitis. Lungs will be affected., C)Mononucleosis. Lungs will be affected., D)COVID. Lungs will be affected.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/COVID/COVID (976).png",
+        "problem": "What specific condition does the patient in this image have and which organ will be impacted? A)Meningitis. Lungs will be affected., B)Mononucleosis. Lungs will be affected., C)Sinusitis. Lungs will be affected., D)COVID. Lungs will be affected.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/COVID/COVID (247).png",
+        "problem": "What is the medical condition that the patient in this image is diagnosed with? Which organ will be impacted as a result? A)Mononucleosis. Lungs will be affected., B)COVID. Lungs will be affected., C)Sinusitis. Lungs will be affected., D)Meningitis. Lungs will be affected.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/COVID/COVID (1189).png",
+        "problem": "What specific condition is affecting the patient in this image? Which organ will be impacted? A)Meningitis. Lungs will be affected., B)Sinusitis. Lungs will be affected., C)COVID. Lungs will be affected., D)Pneumonia. Lungs will be affected.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/COVID/COVID (450).png",
+        "problem": "What specific condition is affecting the lungs of the patient in this image? A)Tuberculosis. Lungs will be affected., B)Bronchitis. Lungs will be affected., C)Asthma. Lungs will be affected., D)COVID. Lungs will be affected.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/COVID/COVID (153).png",
+        "problem": "What condition does the person in the picture have, and which organ is primarily impacted? A)Bronchitis. Lungs will be affected., B)Eczema. Lungs will be affected., C)COVID. Lungs will be affected., D)Asthma. Lungs will be affected.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/COVID/COVID (127).png",
+        "problem": "What is the medical condition affecting the patient in this image? Which organ will be impacted by it? A)Asthma. Lungs will be affected., B)Influenza. Lungs will be affected., C)COVID. Lungs will be affected., D)Tuberculosis. Lungs will be affected.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/COVID/COVID (916).png",
+        "problem": "What is the identified condition for the patient showcased in the image? Which organ will be impacted? A)Mononucleosis. Lungs will be affected., B)COVID. Lungs will be affected., C)Bronchitis. Lungs will be affected., D)Influenza. Lungs will be affected.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/COVID/COVID (1074).png",
+        "problem": "What is the medical condition identified in the image? Which organ will be impacted? A)Eczema. Lungs will be affected., B)Influenza. Lungs will be affected., C)Pneumonia. Lungs will be affected., D)COVID. Lungs will be affected.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/COVID/COVID (1170).png",
+        "problem": "What illness is the patient in the image diagnosed with? Which organs will be impacted? A)COVID. Lungs will be affected., B)Gastritis. Lungs will be affected., C)Influenza. Lungs will be affected., D)Sinusitis. Lungs will be affected.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/COVID/COVID (92).png",
+        "problem": "What is the diagnosis for the patient in this image? which part of body will be affected? A)Tuberculosis. Lungs will be affected., B)Mononucleosis. Lungs will be affected., C)COVID. Lungs will be affected., D)Bronchitis. Lungs will be affected.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/COVID/COVID (1019).png",
+        "problem": "What is the diagnosis for the patient in this image? which part of body will be affected? A)Pneumonia. Lungs will be affected., B)COVID. Lungs will be affected., C)Meningitis. Lungs will be affected., D)Eczema. Lungs will be affected.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/NORMAL/NORMAL (1129).png",
+        "problem": "What is the patient's diagnosis indicated by the image? A)It's NORMAL., B)It's Suspicious, C)It's Inconclusive, D)It's Positive",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/NORMAL/NORMAL (893).png",
+        "problem": "What is the diagnosis for the patient in this image? A)It's Indeterminate, B)It's Irregular, C)It's Suspicious, D)It's NORMAL.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/NORMAL/NORMAL (1021).png",
+        "problem": "What is the diagnosis for the patient in this image? A)It's Irregular, B)It's NORMAL., C)It's Positive, D)It's Abnormal",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/NORMAL/NORMAL (842).png",
+        "problem": "Can you identify the patient's condition in this image? A)It's Inconclusive, B)It's Abnormal, C)It's NORMAL., D)It's Pathological",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/NORMAL/NORMAL (834).png",
+        "problem": "What is the diagnosis for the patient in this image? A)It's Suspicious, B)It's NORMAL., C)It's Inconclusive, D)It's Abnormal",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/NORMAL/NORMAL (1287).png",
+        "problem": "What is the diagnosis for the patient in this image? A)It's Abnormal, B)It's Atypical, C)It's NORMAL., D)It's Positive",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/NORMAL/NORMAL (577).png",
+        "problem": "What is the diagnosis for the patient in this image? A)It's Pathological, B)It's NORMAL., C)It's Suspicious, D)It's Indeterminate",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/NORMAL/NORMAL (1192).png",
+        "problem": "What is the diagnosis given the patient's image? A)It's NORMAL., B)It's Indeterminate, C)It's Irregular, D)It's Suspicious",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/NORMAL/NORMAL (309).png",
+        "problem": "What is the diagnosis for the patient in this image? A)It's NORMAL., B)It's Abnormal, C)It's Inconclusive, D)It's Atypical",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/NORMAL/NORMAL (702).png",
+        "problem": "What is the diagnosis for the patient in this image? A)It's NORMAL., B)It's Atypical, C)It's Anomalous, D)It's Suspicious",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/NORMAL/NORMAL (335).png",
+        "problem": "What is the diagnosis for the patient in this image? A)It's Positive, B)It's NORMAL., C)It's Abnormal, D)It's Irregular",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/NORMAL/NORMAL (1073).png",
+        "problem": "What is the diagnosis for the patient in this image? A)It's Inconclusive, B)It's Atypical, C)It's Unspecified, D)It's NORMAL.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/NORMAL/NORMAL (312).png",
+        "problem": "What is the diagnosis for the patient in this image? A)It's Positive, B)It's Anomalous, C)It's NORMAL., D)It's Indeterminate",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/NORMAL/NORMAL (470).png",
+        "problem": "What is the diagnosis for the patient in this image? A)It's Indeterminate, B)It's Atypical, C)It's Unspecified, D)It's NORMAL.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/NORMAL/NORMAL (629).png",
+        "problem": "Can you identify the patient's condition based on the image? A)It's Abnormal, B)It's Indeterminate, C)It's NORMAL., D)It's Irregular",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/NORMAL/NORMAL (154).png",
+        "problem": "What is the diagnosis for the patient in this image? A)It's Atypical, B)It's Irregular, C)It's NORMAL., D)It's Indeterminate",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/NORMAL/NORMAL (1180).png",
+        "problem": "What is the diagnosis for the patient in this image? A)It's Indeterminate, B)It's Unspecified, C)It's Anomalous, D)It's NORMAL.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/NORMAL/NORMAL (356).png",
+        "problem": "What is the diagnosis for the patient in this image? A)It's Irregular, B)It's Indeterminate, C)It's Positive, D)It's NORMAL.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/NORMAL/NORMAL (268).png",
+        "problem": "What is the diagnosis for the patient in this image? A)It's Pathological, B)It's Abnormal, C)It's Suspicious, D)It's NORMAL.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/NORMAL/NORMAL (1308).png",
+        "problem": "What is the diagnosis for the patient in this image? A)It's Positive, B)It's NORMAL., C)It's Atypical, D)It's Indeterminate",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/NORMAL/NORMAL (204).png",
+        "problem": "What is the diagnosis for the patient in this image? A)It's Atypical, B)It's NORMAL., C)It's Anomalous, D)It's Pathological",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/NORMAL/NORMAL (473).png",
+        "problem": "What is the diagnosis for the patient in the image? A)It's Unspecified, B)It's Indeterminate, C)It's Inconclusive, D)It's NORMAL.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/NORMAL/NORMAL (745).png",
+        "problem": "What is the patient's diagnosis indicated by the image? A)It's Pathological, B)It's Unspecified, C)It's Positive, D)It's NORMAL.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/NORMAL/NORMAL (155).png",
+        "problem": "What is the diagnosis for the patient in this image? A)It's Anomalous, B)It's Irregular, C)It's Pathological, D)It's NORMAL.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/NORMAL/NORMAL (1125).png",
+        "problem": "What is the diagnosis for the patient in this image? A)It's Positive, B)It's Unspecified, C)It's NORMAL., D)It's Inconclusive",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/NORMAL/NORMAL (145).png",
+        "problem": "What is the diagnosis for the patient in this image? A)It's Anomalous, B)It's Positive, C)It's NORMAL., D)It's Atypical",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/NORMAL/NORMAL (974).png",
+        "problem": "What is the patient's diagnosis indicated by the image? A)It's Anomalous, B)It's NORMAL., C)It's Irregular, D)It's Inconclusive",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/NORMAL/NORMAL (325).png",
+        "problem": "What is the diagnosis for the patient in this image? A)It's NORMAL., B)It's Suspicious, C)It's Unspecified, D)It's Inconclusive",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/NORMAL/NORMAL (747).png",
+        "problem": "What is the patient's diagnosis based on the image findings? A)It's NORMAL., B)It's Anomalous, C)It's Indeterminate, D)It's Abnormal",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/NORMAL/NORMAL (705).png",
+        "problem": "What is the diagnosis for the patient in this image? A)It's Suspicious, B)It's NORMAL., C)It's Irregular, D)It's Inconclusive",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/NORMAL/NORMAL (1120).png",
+        "problem": "What is the diagnosis for the patient in this image? A)It's Unspecified, B)It's Positive, C)It's Abnormal, D)It's NORMAL.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/NORMAL/NORMAL (510).png",
+        "problem": "What is the diagnosis for the patient in this image? A)It's Atypical, B)It's Pathological, C)It's NORMAL., D)It's Anomalous",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/NORMAL/NORMAL (258).png",
+        "problem": "What is the diagnosis for the patient in this image? A)It's Pathological, B)It's Atypical, C)It's NORMAL., D)It's Inconclusive",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/NORMAL/NORMAL (963).png",
+        "problem": "What is the diagnosis for the patient in this image? A)It's NORMAL., B)It's Abnormal, C)It's Irregular, D)It's Anomalous",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/NORMAL/NORMAL (767).png",
+        "problem": "What is the diagnosis for the patient in this image? A)It's NORMAL., B)It's Indeterminate, C)It's Atypical, D)It's Abnormal",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/NORMAL/NORMAL (163).png",
+        "problem": "What is the diagnosis for the patient in this image? A)It's Suspicious, B)It's NORMAL., C)It's Atypical, D)It's Unspecified",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (522).png",
+        "problem": "What is the diagnosis for the patient in this image? A)Lung cancer, B)Pleural effusion, C)Acute respiratory distress syndrome (ARDS), D)Viral_Pneumonia.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (883).png",
+        "problem": "What medical condition is the patient in this image diagnosed with? A)Bronchitis, B)Tuberculosis, C)Viral_Pneumonia., D)Lung cancer",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (902).png",
+        "problem": "What is the patient in the image diagnosed with? A)Bronchitis, B)Allergic rhinitis, C)Viral_Pneumonia., D)Pulmonary embolism",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (650).png",
+        "problem": "What is the medical condition observed in the patient depicted in this image? A)Pulmonary embolism, B)Viral_Pneumonia., C)Tuberculosis, D)Acute respiratory distress syndrome (ARDS)",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (266).png",
+        "problem": "What is the diagnosis for the patient in this image? A)Viral_Pneumonia., B)Sinusitis, C)Tuberculosis, D)Bronchitis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (594).png",
+        "problem": "What is the identified condition in the patient seen in this image? A)Viral_Pneumonia., B)Pleural effusion, C)Lung cancer, D)Acute respiratory distress syndrome (ARDS)",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (45).png",
+        "problem": "What is the patient's medical condition based on the image? A)Viral_Pneumonia., B)Acute respiratory distress syndrome (ARDS), C)Tuberculosis, D)Pleural effusion",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (97).png",
+        "problem": "What is the diagnosis for the patient in this image? A)Chronic obstructive pulmonary disease (COPD), B)Lung cancer, C)Viral_Pneumonia., D)Tuberculosis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (1301).png",
+        "problem": "What is the diagnosis for the patient in this image? A)Viral_Pneumonia., B)Tuberculosis, C)Bronchitis, D)Sinusitis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (1158).png",
+        "problem": "What is the diagnosis for the patient in this image? A)Acute respiratory distress syndrome (ARDS), B)Viral_Pneumonia., C)Bronchitis, D)Tuberculosis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (576).png",
+        "problem": "What is the diagnosis for the patient in this image? A)Pulmonary embolism, B)Chronic obstructive pulmonary disease (COPD), C)Acute respiratory distress syndrome (ARDS), D)Viral_Pneumonia.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (1207).png",
+        "problem": "What is the diagnosis for the patient in this image? A)Allergic rhinitis, B)Bronchitis, C)Viral_Pneumonia., D)Sinusitis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (605).png",
+        "problem": "What is the diagnosis for the patient in this image? A)Pleural effusion, B)Lung cancer, C)Asthma, D)Viral_Pneumonia.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (525).png",
+        "problem": "What is the patient in this image diagnosed with? A)Viral_Pneumonia., B)Asthma, C)Allergic rhinitis, D)Pleural effusion",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (572).png",
+        "problem": "What is the diagnosis for the patient in this image? A)Lung cancer, B)Viral_Pneumonia., C)Bronchitis, D)Asthma",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (128).png",
+        "problem": "What is the diagnosis of the patient depicted in the image? A)Bronchitis, B)Viral_Pneumonia., C)Pulmonary embolism, D)Sinusitis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (936).png",
+        "problem": "What is the diagnosis for the patient in this image? A)Viral_Pneumonia., B)Pulmonary embolism, C)Asthma, D)Chronic obstructive pulmonary disease (COPD)",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (227).png",
+        "problem": "What is the diagnosis for the patient in this image? A)Pulmonary embolism, B)Tuberculosis, C)Viral_Pneumonia., D)Bronchitis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (1238).png",
+        "problem": "What is the patient in this image diagnosed with? A)Sinusitis, B)Asthma, C)Viral_Pneumonia., D)Tuberculosis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (889).png",
+        "problem": "What is the diagnosed condition of the patient in the image? A)Viral_Pneumonia., B)Bronchitis, C)Sinusitis, D)Tuberculosis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (1338).png",
+        "problem": "What is the diagnosis for the patient in this image? A)Allergic rhinitis, B)Lung cancer, C)Bronchitis, D)Viral_Pneumonia.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (30).png",
+        "problem": "What is the diagnosis for the patient in this image? A)Viral_Pneumonia., B)Asthma, C)Pleural effusion, D)Bronchitis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (516).png",
+        "problem": "What is the medical condition identified in this image? A)Viral_Pneumonia., B)Pulmonary embolism, C)Sinusitis, D)Tuberculosis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (785).png",
+        "problem": "What is the patient in this image diagnosed with? A)Lung cancer, B)Pulmonary embolism, C)Viral_Pneumonia., D)Sinusitis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (517).png",
+        "problem": "What is the diagnosis for the patient in this image? A)Viral_Pneumonia., B)Pulmonary embolism, C)Asthma, D)Bronchitis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (185).png",
+        "problem": "What is the diagnosis for the patient in this image? A)Tuberculosis, B)Chronic obstructive pulmonary disease (COPD), C)Viral_Pneumonia., D)Acute respiratory distress syndrome (ARDS)",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (886).png",
+        "problem": "What is the diagnosis for the patient in this image? A)Viral_Pneumonia., B)Chronic obstructive pulmonary disease (COPD), C)Pulmonary embolism, D)Asthma",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (198).png",
+        "problem": "What is the diagnosis for the patient in this image? A)Bronchitis, B)Pleural effusion, C)Tuberculosis, D)Viral_Pneumonia.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (289).png",
+        "problem": "What is the diagnosis for the patient in this image? A)Tuberculosis, B)Bronchitis, C)Pulmonary embolism, D)Viral_Pneumonia.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (407).png",
+        "problem": "What is the diagnosis for the patient in this image? A)Pulmonary embolism, B)Asthma, C)Viral_Pneumonia., D)Acute respiratory distress syndrome (ARDS)",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (453).png",
+        "problem": "What is the diagnosis for the patient in this image? A)Viral_Pneumonia., B)Tuberculosis, C)Chronic obstructive pulmonary disease (COPD), D)Bronchitis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (1142).png",
+        "problem": "What is the identified condition based on the image of the patient? A)Lung cancer, B)Pleural effusion, C)Viral_Pneumonia., D)Tuberculosis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (442).png",
+        "problem": "What is the diagnosis for the patient in this image? A)Viral_Pneumonia., B)Chronic obstructive pulmonary disease (COPD), C)Acute respiratory distress syndrome (ARDS), D)Tuberculosis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (1254).png",
+        "problem": "What do you call the condition the patient in this image is diagnosed with? A)Tuberculosis, B)Bronchitis, C)Viral_Pneumonia., D)Chronic obstructive pulmonary disease (COPD)",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (1273).png",
+        "problem": "What is the condition the patient in this image is diagnosed with? A)Viral_Pneumonia., B)Chronic obstructive pulmonary disease (COPD), C)Acute respiratory distress syndrome (ARDS), D)Sinusitis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (688).png",
+        "problem": "What is the diagnosis for the patient in this image? A)Viral_Pneumonia., B)Allergic rhinitis, C)Sinusitis, D)Acute respiratory distress syndrome (ARDS)",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (1102).png",
+        "problem": "What is the diagnosis for the patient in this image? A)Allergic rhinitis, B)Viral_Pneumonia., C)Asthma, D)Tuberculosis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (306).png",
+        "problem": "What is the diagnosis for the patient in this image? A)Viral_Pneumonia., B)Pulmonary embolism, C)Bronchitis, D)Allergic rhinitis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (783).png",
+        "problem": "What is the identified condition based on the patient's image? A)Acute respiratory distress syndrome (ARDS), B)Viral_Pneumonia., C)Sinusitis, D)Lung cancer",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Covid19 heywhale/Viral_Pneumonia/Viral Pneumonia (445).png",
+        "problem": "What is the identified condition for the patient seen in this image? A)Chronic obstructive pulmonary disease (COPD), B)Viral_Pneumonia., C)Lung cancer, D)Tuberculosis",
+        "solution": "<answer> B </answer>"
+    }
+]

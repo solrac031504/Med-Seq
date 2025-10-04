@@ -1,0 +1,77 @@
+[
+    {
+        "image": "Images/NLM- Malaria Data/Parasitized/C39P4thinF_original_IMG_20150622_111942_cell_10.png",
+        "problem": "What imaging modality was used to capture this image? A)Fluoroscopy, B)Ultrasound, C)Histopathology., D)Positron emission tomography (PET)",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/NLM- Malaria Data/Parasitized/C121P82ThinF_IMG_20151002_134659_cell_74.png",
+        "problem": "What imaging modality was used to capture this image? A)Histopathology., B)Magnetic resonance imaging (MRI), C)Positron emission tomography (PET), D)Endoscopy",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/NLM- Malaria Data/Parasitized/C180P141NThinF_IMG_20151201_165528_cell_177.png",
+        "problem": "Is this image able to reveal the presence of malaria infection? A)Malaria infection., B)Measles., C)Cholera., D)Hepatitis A.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/NLM- Malaria Data/Parasitized/C182P143NThinF_IMG_20151201_172216_cell_199.png",
+        "problem": "Is it possible to identify malaria in this image? A)Influenza., B)Malaria infection., C)HIV/AIDS., D)Typhoid fever.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/NLM- Malaria Data/Parasitized/C149P110ThinF_IMG_20151115_114629_cell_271.png",
+        "problem": "Is this image indicative of a presence of malaria? A)Zika virus., B)HIV/AIDS., C)Tuberculosis., D)Malaria infection.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/NLM- Malaria Data/Parasitized/C39P4thinF_original_IMG_20150622_111723_cell_97.png",
+        "problem": "Is this image showing signs of malaria infection? A)Typhoid fever., B)Malaria infection., C)Hepatitis A., D)Cholera.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/NLM- Malaria Data/Parasitized/C184P145ThinF_IMG_20151203_104153_cell_169.png",
+        "problem": "Can malaria be detected in this image? A)Hepatitis A., B)Zika virus., C)Pneumonia., D)Malaria infection.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/NLM- Malaria Data/Uninfected/C38P3thinF_original_IMG_20150621_112023_cell_56.png",
+        "problem": "Does this image provide any evidence of a malaria infection? A)Yes, B)No.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/NLM- Malaria Data/Uninfected/C203ThinF_IMG_20151029_102123_cell_168.png",
+        "problem": "Is there any evidence suggesting the presence of malaria infection in this image? A)Yes, B)No.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/NLM- Malaria Data/Uninfected/C216ThinF_IMG_20151106_134931_cell_117.png",
+        "problem": "Is there any evidence of malaria infection depicted in this image? A)Yes, B)No.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/NLM- Malaria Data/Uninfected/C148P109ThinF_IMG_20151115_112333_cell_211.png",
+        "problem": "Is there any evidence of malaria infection depicted in this image? A)No., B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/NLM- Malaria Data/Uninfected/C100P61ThinF_IMG_20150918_144348_cell_120.png",
+        "problem": "Does this image show any signs of malaria infection? A)No., B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/NLM- Malaria Data/Uninfected/C148P109ThinF_IMG_20151115_112445_cell_129.png",
+        "problem": "Is there any evidence of malaria infection present in this image? A)Yes, B)No.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/NLM- Malaria Data/Uninfected/C137P98ThinF_IMG_20151005_160918_cell_47.png",
+        "problem": "Is there any presence of malaria infection evident in this image? A)Yes, B)No.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/NLM- Malaria Data/Uninfected/C203ThinF_IMG_20151029_102123_cell_151.png",
+        "problem": "Is there any indication of malaria infection in this image? A)Yes, B)No.",
+        "solution": "<answer> B </answer>"
+    }
+]

@@ -1,0 +1,1267 @@
+[
+    {
+        "image": "Images/OCT & X-Ray 2017/test/CNV/CNV-5674369-5.jpeg",
+        "problem": "What type of medical imaging technique was employed to obtain this image? A)Optical Coherence Tomography (OCT), B)Ultrasound, C)Fluoroscopy, D)Positron Emission Tomography (PET)",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/CNV/CNV-172472-1.jpeg",
+        "problem": "What type of imaging technology was utilized to produce this image? A)Fluoroscopy, B)Optical Coherence Tomography (OCT), C)Positron Emission Tomography (PET), D)Infrared imaging",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/CNV/CNV-732516-2.jpeg",
+        "problem": "Which imaging technique was utilized to obtain this image? A)Thermography, B)Nuclear medicine scan, C)Optical Coherence Tomography (OCT), D)Magnetic Resonance Imaging (MRI)",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/CNV/CNV-172472-10.jpeg",
+        "problem": "What modality was used to obtain this image in the field of medical imaging? A)Positron Emission Tomography (PET), B)Optical Coherence Tomography (OCT), C)Computed Tomography (CT), D)Fluoroscopy",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/CNV/CNV-2025105-1.jpeg",
+        "problem": "What imaging modality was used to capture this image? A)Fluoroscopy, B)X-ray, C)Thermography, D)Optical Coherence Tomography (OCT)",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/CNV/CNV-2350851-1.jpeg",
+        "problem": "What imaging technique was utilized to capture this picture? A)Computed Tomography (CT), B)Optical Coherence Tomography (OCT), C)Magnetic Resonance Imaging (MRI), D)Infrared imaging",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DME/DME-6716735-2.jpeg",
+        "problem": "What imaging modality was used to capture this image? A)Nuclear medicine scan, B)Positron Emission Tomography (PET), C)X-ray, D)Optical Coherence Tomography (OCT)",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DME/DME-2556938-1.jpeg",
+        "problem": "What type of imaging technique was utilized to obtain this image? A)Computed Tomography (CT), B)Magnetic Resonance Imaging (MRI), C)Thermography, D)Optical Coherence Tomography (OCT)",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DME/DME-8019418-2.jpeg",
+        "problem": "What imaging technique was utilized to capture this image? A)Magnetic Resonance Imaging (MRI), B)X-ray, C)Fluoroscopy, D)Optical Coherence Tomography (OCT)",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DME/DME-269181-3.jpeg",
+        "problem": "What imaging modality was used to capture this image? A)Computed Tomography (CT), B)Electroencephalography (EEG), C)Optical Coherence Tomography (OCT), D)Positron Emission Tomography (PET)",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DME/DME-9488073-2.jpeg",
+        "problem": "What type of diagnostic imaging technique produced this picture? A)Ultrasound, B)Optical Coherence Tomography (OCT), C)Infrared imaging, D)Fluoroscopy",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DRUSEN/DRUSEN-4293095-2.jpeg",
+        "problem": "What type of imaging modality was utilized to obtain this image? A)Computed Tomography (CT), B)Optical Coherence Tomography (OCT), C)Nuclear medicine scan, D)Infrared imaging",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DRUSEN/DRUSEN-7555604-2.jpeg",
+        "problem": "Which imaging modality was utilized for capturing this image? A)Optical Coherence Tomography (OCT), B)Ultrasound, C)Fluoroscopy, D)X-ray",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DRUSEN/DRUSEN-4343867-1.jpeg",
+        "problem": "Which imaging modality was utilized for obtaining this image? A)Electroencephalography (EEG), B)Optical Coherence Tomography (OCT), C)Computed Tomography (CT), D)Magnetic Resonance Imaging (MRI)",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DRUSEN/DRUSEN-8292670-1.jpeg",
+        "problem": "Which specific type of imaging technique was utilized to obtain this image? A)Optical Coherence Tomography (OCT), B)Magnetic Resonance Imaging (MRI), C)Nuclear medicine scan, D)Ultrasound",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DRUSEN/DRUSEN-8549730-7.jpeg",
+        "problem": "What specific modality was employed to capture this particular image? A)Ultrasound, B)Infrared imaging, C)Optical Coherence Tomography (OCT), D)X-ray",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL-460844-1.jpeg",
+        "problem": "What type of imaging technique was employed to acquire this image? A)Electroencephalography (EEG), B)Thermography, C)Optical Coherence Tomography (OCT), D)Computed Tomography (CT)",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL-2010714-1.jpeg",
+        "problem": "What modality was employed for this image to be obtained? A)Fluoroscopy, B)Nuclear medicine scan, C)Optical Coherence Tomography (OCT), D)Infrared imaging",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL-48053-1.jpeg",
+        "problem": "What type of imaging was utilized to obtain this picture? A)X-ray, B)Infrared imaging, C)Magnetic Resonance Imaging (MRI), D)Optical Coherence Tomography (OCT)",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL-33637-1.jpeg",
+        "problem": "What imaging modality was used to capture this image? A)Optical Coherence Tomography (OCT), B)Nuclear medicine scan, C)Fluoroscopy, D)Positron Emission Tomography (PET)",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL-2509453-1.jpeg",
+        "problem": "What imaging technique was utilized in acquiring this image? A)Optical Coherence Tomography (OCT), B)Magnetic Resonance Imaging (MRI), C)Fluoroscopy, D)Ultrasound",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL-626127-1.jpeg",
+        "problem": "What modality of imaging was utilized to capture this image? A)Infrared imaging, B)Positron Emission Tomography (PET), C)Ultrasound, D)Optical Coherence Tomography (OCT)",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL-1791409-1.jpeg",
+        "problem": "What method of imaging was utilized to capture this image? A)Thermography, B)Optical Coherence Tomography (OCT), C)Electroencephalography (EEG), D)Infrared imaging",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL-2095710-1.jpeg",
+        "problem": "What type of imaging modality was utilized to capture this image? A)Optical Coherence Tomography (OCT), B)Nuclear medicine scan, C)Thermography, D)Positron Emission Tomography (PET)",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL-571157-1.jpeg",
+        "problem": "What type of imaging was utilized for the acquisition of this image? A)Computed Tomography (CT), B)Optical Coherence Tomography (OCT), C)Electroencephalography (EEG), D)Thermography",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/val/DRUSEN/DRUSEN-9800172-2.jpeg",
+        "problem": "What type of medical imaging technique was utilized to obtain this image? A)Infrared imaging, B)Thermography, C)Computed Tomography (CT), D)Optical Coherence Tomography (OCT)",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/CNV/CNV-4464785-1.jpeg",
+        "problem": "What is the corresponding abnormality depicted in this image? A)Retinitis pigmentosa, B)Macular degeneration, C)Uveitis, D)Choroidal Neovascularization (CNV)",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/CNV/CNV-3200277-1.jpeg",
+        "problem": "What is the specific abnormality shown in this image? A)Cataracts, B)Optic nerve atrophy, C)Conjunctivitis, D)Choroidal Neovascularization (CNV)",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/CNV/CNV-4274486-1.jpeg",
+        "problem": "What is the term for the specific abnormality observed on this image? A)Corneal ulcer, B)Macular degeneration, C)Glaucoma, D)Choroidal Neovascularization (CNV)",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/CNV/CNV-933576-4.jpeg",
+        "problem": "Identify the pathological condition depicted in the provided picture. A)Glaucoma, B)Retinitis pigmentosa, C)Retinal detachment, D)Choroidal Neovascularization (CNV)",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/CNV/CNV-81630-2.jpeg",
+        "problem": "What is the specific abnormality shown in this image? A)Corneal ulcer, B)Uveitis, C)Choroidal Neovascularization (CNV), D)Retinal detachment",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/CNV/CNV-4283050-1.jpeg",
+        "problem": "What is the particular issue exhibited in this image? A)Cataracts, B)Retinal detachment, C)Choroidal Neovascularization (CNV), D)Diabetic retinopathy",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/CNV/CNV-2959614-1.jpeg",
+        "problem": "What specific pathology is depicted in the photograph? A)Choroidal Neovascularization (CNV), B)Uveitis, C)Corneal ulcer, D)Cataracts",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/CNV/CNV-3618489-1.jpeg",
+        "problem": "What is the abnormality observed in this image? A)Conjunctivitis, B)Diabetic retinopathy, C)Choroidal Neovascularization (CNV), D)Cataracts",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/CNV/CNV-103044-9.jpeg",
+        "problem": "What is the name of the particular anomaly observed in this picture? A)Optic nerve atrophy, B)Cataracts, C)Choroidal Neovascularization (CNV), D)Retinitis pigmentosa",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/CNV/CNV-460403-1.jpeg",
+        "problem": "What specific finding is demonstrated in this image? A)Cataracts, B)Uveitis, C)Retinitis pigmentosa, D)Choroidal Neovascularization (CNV)",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/CNV/CNV-3241692-2.jpeg",
+        "problem": "What is the specific abnormality shown in this image? A)Corneal ulcer, B)Choroidal Neovascularization (CNV), C)Conjunctivitis, D)Optic nerve atrophy",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/CNV/CNV-1784116-1.jpeg",
+        "problem": "What is the depicted anomaly in this visual representation? A)Uveitis, B)Macular degeneration, C)Cataracts, D)Choroidal Neovascularization (CNV)",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/CNV/CNV-909994-1.jpeg",
+        "problem": "What is the name of the specific anomaly depicted in this image? A)Glaucoma, B)Cataracts, C)Choroidal Neovascularization (CNV), D)Retinal detachment",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/CNV/CNV-1016042-3.jpeg",
+        "problem": "What is the name of the visual anomaly depicted in this image? A)Choroidal Neovascularization (CNV), B)Cataracts, C)Corneal ulcer, D)Optic nerve atrophy",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/CNV/CNV-904464-3.jpeg",
+        "problem": "What is the particular anomaly depicted in this image? A)Choroidal Neovascularization (CNV), B)Retinitis pigmentosa, C)Optic nerve atrophy, D)Retinal detachment",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/CNV/CNV-4244160-2.jpeg",
+        "problem": "What is the name of the specific abnormality in this image? A)Macular degeneration, B)Diabetic retinopathy, C)Choroidal Neovascularization (CNV), D)Optic nerve atrophy",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/CNV/CNV-5674369-2.jpeg",
+        "problem": "What can be observed as the specific abnormality in this image? A)Choroidal Neovascularization (CNV), B)Macular degeneration, C)Optic nerve atrophy, D)Diabetic retinopathy",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/CNV/CNV-2192440-1.jpeg",
+        "problem": "What is the name of the specific abnormality depicted in this photograph? A)Retinal detachment, B)Choroidal Neovascularization (CNV), C)Macular degeneration, D)Uveitis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/CNV/CNV-5969175-1.jpeg",
+        "problem": "What is the specific abnormality shown in this image? A)Diabetic retinopathy, B)Glaucoma, C)Choroidal Neovascularization (CNV), D)Conjunctivitis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/CNV/CNV-865813-1.jpeg",
+        "problem": "What specific condition does this image display? A)Choroidal Neovascularization (CNV), B)Optic nerve atrophy, C)Glaucoma, D)Corneal ulcer",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/CNV/CNV-172472-8.jpeg",
+        "problem": "What is the specific anomaly depicted in this image? A)Choroidal Neovascularization (CNV), B)Retinitis pigmentosa, C)Glaucoma, D)Corneal ulcer",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/CNV/CNV-1699976-4.jpeg",
+        "problem": "What is the medical term for the abnormality indicated in this image? A)Choroidal Neovascularization (CNV), B)Glaucoma, C)Macular degeneration, D)Conjunctivitis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/CNV/CNV-451136-4.jpeg",
+        "problem": "What is the specific abnormality shown in this image? A)Diabetic retinopathy, B)Choroidal Neovascularization (CNV), C)Corneal ulcer, D)Glaucoma",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/val/NORMAL/NORMAL-5171640-1.jpeg",
+        "problem": "Is there any abnormality present in this oct image? A)No., B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DME/DME-2763635-1.jpeg",
+        "problem": "What is the specific abnormality shown in this image? A)Retinal detachment, B)Uveitis, C)Cataracts, D)Diabetic Macular Edema (DME)",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DME/DME-11053-1.jpeg",
+        "problem": "What does this image reveal in terms of an abnormality? A)Macular hole, B)Diabetic Macular Edema (DME), C)Age-related Macular Degeneration, D)Glaucoma",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DME/DME-7432714-1.jpeg",
+        "problem": "What specific condition is visually represented in this image? A)Diabetic Retinopathy, B)Corneal abrasion, C)Diabetic Macular Edema (DME), D)Glaucoma",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DME/DME-8366524-2.jpeg",
+        "problem": "What is the specific abnormality shown in this image? A)Diabetic Macular Edema (DME), B)Diabetic Retinopathy, C)Corneal abrasion, D)Optic neuritis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DME/DME-6090983-1.jpeg",
+        "problem": "What is the name of the particular anomaly depicted in this image? A)Diabetic Retinopathy, B)Diabetic Macular Edema (DME), C)Optic neuritis, D)Glaucoma",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DME/DME-5834001-1.jpeg",
+        "problem": "What is the specific abnormality shown in this image? A)Diabetic Macular Edema (DME), B)Color blindness, C)Corneal abrasion, D)Glaucoma",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DME/DME-3810791-1.jpeg",
+        "problem": "What is the specific medical condition displayed in this image? A)Retinal detachment, B)Optic neuritis, C)Glaucoma, D)Diabetic Macular Edema (DME)",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DME/DME-8635355-1.jpeg",
+        "problem": "What is the name of the abnormality observed in the image? A)Optic neuritis, B)Diabetic Macular Edema (DME), C)Glaucoma, D)Color blindness",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DME/DME-8231523-1.jpeg",
+        "problem": "What is the name of the condition displayed in this image? A)Glaucoma, B)Diabetic Retinopathy, C)Cataracts, D)Diabetic Macular Edema (DME)",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DME/DME-8167779-1.jpeg",
+        "problem": "What can be identified as the particular pathology displayed in this image? A)Macular hole, B)Diabetic Macular Edema (DME), C)Glaucoma, D)Color blindness",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DME/DME-7870558-2.jpeg",
+        "problem": "What is the precise anomalous condition that is depicted in this picture? A)Cataracts, B)Macular hole, C)Color blindness, D)Diabetic Macular Edema (DME)",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DME/DME-30521-3.jpeg",
+        "problem": "What is the medical condition indicated in this image? A)Retinal detachment, B)Corneal abrasion, C)Color blindness, D)Diabetic Macular Edema (DME)",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DME/DME-9109143-1.jpeg",
+        "problem": "What is the specific abnormality shown in this image? A)Diabetic Macular Edema (DME), B)Color blindness, C)Diabetic Retinopathy, D)Glaucoma",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DME/DME-8000885-1.jpeg",
+        "problem": "What is the precise issue captured in this picture? A)Diabetic Macular Edema (DME), B)Cataracts, C)Corneal abrasion, D)Glaucoma",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DME/DME-4117019-1.jpeg",
+        "problem": "What specific pathological condition is identified in the displayed image? A)Diabetic Retinopathy, B)Retinal detachment, C)Diabetic Macular Edema (DME), D)Cataracts",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DME/DME-8889771-3.jpeg",
+        "problem": "What is the condition depicted in this image? A)Glaucoma, B)Optic neuritis, C)Color blindness, D)Diabetic Macular Edema (DME)",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DME/DME-8861620-1.jpeg",
+        "problem": "What can be identified as the particular anomaly visible in this image? A)Cataracts, B)Diabetic Macular Edema (DME), C)Corneal abrasion, D)Color blindness",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DME/DME-8457431-1.jpeg",
+        "problem": "What specific pathological condition is depicted in the photograph? A)Retinal detachment, B)Uveitis, C)Diabetic Macular Edema (DME), D)Macular hole",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/val/CNV/CNV-8598714-1.jpeg",
+        "problem": "What is the particular condition indicated by the image? A)Diabetic Retinopathy, B)Retinal detachment, C)Choroidal Neovascularization (CNV), D)Macular hole",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/val/CNV/CNV-8184974-1.jpeg",
+        "problem": "What is the specific abnormality shown in this image? A)Retinal detachment, B)Glaucoma, C)Cataracts, D)Choroidal Neovascularization (CNV)",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DRUSEN/DRUSEN-1789270-1.jpeg",
+        "problem": "What is the name of the specific abnormality depicted in this oct image? A)Diabetic retinopathy, B)Retinal detachment, C)Drusen, D)Macular degeneration",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DRUSEN/DRUSEN-7373858-1.jpeg",
+        "problem": "What is the specific abnormality shown in this oct image? A)Drusen, B)Presbyopia, C)Retinal detachment, D)Nystagmus",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DRUSEN/DRUSEN-3017923-1.jpeg",
+        "problem": "What is the oct image displaying that indicates an abnormality? A)Drusen, B)Diabetic retinopathy, C)Astigmatism, D)Uveitis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DRUSEN/DRUSEN-4878077-2.jpeg",
+        "problem": "What is the specific abnormality shown in this oct image? A)Drusen, B)Presbyopia, C)Macular degeneration, D)Cataracts",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DRUSEN/DRUSEN-9087597-1.jpeg",
+        "problem": "What is the distinctive anomaly observed in this oct image? A)Strabismus, B)Drusen, C)Glaucoma, D)Retinal detachment",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DRUSEN/DRUSEN-987193-1.jpeg",
+        "problem": "What is the specific abnormality shown in this oct image? A)Strabismus, B)Glaucoma, C)Drusen, D)Diabetic retinopathy",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DRUSEN/DRUSEN-5801431-1.jpeg",
+        "problem": "What can be observed as the specific abnormality in this oct image? A)Strabismus, B)Drusen, C)Macular degeneration, D)Presbyopia",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DRUSEN/DRUSEN-783692-1.jpeg",
+        "problem": "What is the specific abnormality shown in this oct image? A)Drusen, B)Cataracts, C)Presbyopia, D)Nystagmus",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DRUSEN/DRUSEN-9087597-2.jpeg",
+        "problem": "What is the specific abnormality shown in this oct image? A)Drusen, B)Astigmatism, C)Nystagmus, D)Macular degeneration",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DRUSEN/DRUSEN-7555604-1.jpeg",
+        "problem": "What is the specific abnormality shown in this oct image? A)Drusen, B)Retinal detachment, C)Strabismus, D)Diabetic retinopathy",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DRUSEN/DRUSEN-1487749-1.jpeg",
+        "problem": "What is the abnormality specifically depicted in the oct image? A)Glaucoma, B)Diabetic retinopathy, C)Drusen, D)Retinal detachment",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DRUSEN/DRUSEN-4304015-1.jpeg",
+        "problem": "What is the specific abnormality shown in this oct image? A)Retinal detachment, B)Drusen, C)Nystagmus, D)Cataracts",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DRUSEN/DRUSEN-5331157-1.jpeg",
+        "problem": "What is the specific abnormality shown in this oct image? A)Retinal detachment, B)Drusen, C)Strabismus, D)Macular degeneration",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DRUSEN/DRUSEN-8074563-3.jpeg",
+        "problem": "What is the specific abnormality shown in this oct image? A)Cataracts, B)Nystagmus, C)Drusen, D)Astigmatism",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DRUSEN/DRUSEN-1530990-1.jpeg",
+        "problem": "What is the specific abnormality shown in this oct image? A)Glaucoma, B)Macular degeneration, C)Drusen, D)Strabismus",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DRUSEN/DRUSEN-457907-1.jpeg",
+        "problem": "What is the specific abnormality shown in this oct image? A)Retinal detachment, B)Drusen, C)Uveitis, D)Presbyopia",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DRUSEN/DRUSEN-609387-1.jpeg",
+        "problem": "What is the specific abnormality shown in this oct image? A)Uveitis, B)Drusen, C)Retinal detachment, D)Strabismus",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DRUSEN/DRUSEN-8549730-2.jpeg",
+        "problem": "What is the name of the observed abnormality in the oct image? A)Presbyopia, B)Diabetic retinopathy, C)Drusen, D)Uveitis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DRUSEN/DRUSEN-6193297-5.jpeg",
+        "problem": "What is the specific anomaly observed in this oct image? A)Diabetic retinopathy, B)Uveitis, C)Drusen, D)Cataracts",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DRUSEN/DRUSEN-8261063-4.jpeg",
+        "problem": "What is the specific abnormality shown in this oct image? A)Cataracts, B)Strabismus, C)Drusen, D)Uveitis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DRUSEN/DRUSEN-9059831-2.jpeg",
+        "problem": "What is the specific abnormality shown in this oct image? A)Diabetic retinopathy, B)Retinal detachment, C)Drusen, D)Macular degeneration",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DRUSEN/DRUSEN-8549730-5.jpeg",
+        "problem": "What is the specific abnormality shown in this oct image? A)Macular degeneration, B)Drusen, C)Astigmatism, D)Cataracts",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DRUSEN/DRUSEN-2156263-1.jpeg",
+        "problem": "What is the specific abnormality shown in this oct image? A)Retinal detachment, B)Strabismus, C)Glaucoma, D)Drusen",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DRUSEN/DRUSEN-609387-3.jpeg",
+        "problem": "What is the specific abnormality shown in this oct image? A)Macular degeneration, B)Astigmatism, C)Drusen, D)Presbyopia",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DRUSEN/DRUSEN-8261063-7.jpeg",
+        "problem": "What is the specific abnormality shown in this oct image? A)Astigmatism, B)Glaucoma, C)Nystagmus, D)Drusen",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DRUSEN/DRUSEN-1997439-2.jpeg",
+        "problem": "What is the specific abnormality shown in this oct image? A)Strabismus, B)Drusen, C)Astigmatism, D)Nystagmus",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DRUSEN/DRUSEN-8261063-3.jpeg",
+        "problem": "What is the identified anomaly observed in this oct image? A)Glaucoma, B)Drusen, C)Presbyopia, D)Uveitis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DRUSEN/DRUSEN-8339642-1.jpeg",
+        "problem": "What is the specific abnormality shown in this oct image? A)Drusen, B)Strabismus, C)Nystagmus, D)Uveitis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DRUSEN/DRUSEN-228939-1.jpeg",
+        "problem": "What is the specific abnormality shown in this oct image? A)Retinal detachment, B)Drusen, C)Uveitis, D)Cataracts",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DRUSEN/DRUSEN-9504181-2.jpeg",
+        "problem": "Identify the distinct pathology depicted in the optical coherence tomography scan. A)Retinal detachment, B)Drusen, C)Astigmatism, D)Nystagmus",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DRUSEN/DRUSEN-827677-1.jpeg",
+        "problem": "What is the identified anomaly in this oct image? A)Cataracts, B)Diabetic retinopathy, C)Macular degeneration, D)Drusen",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DRUSEN/DRUSEN-4291972-1.jpeg",
+        "problem": "What is the specific abnormality shown in this oct image? A)Astigmatism, B)Strabismus, C)Drusen, D)Uveitis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DRUSEN/DRUSEN-2403178-6.jpeg",
+        "problem": "What is the specific abnormality shown in this oct image? A)Strabismus, B)Uveitis, C)Drusen, D)Presbyopia",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/DRUSEN/DRUSEN-1237848-2.jpeg",
+        "problem": "What is the specific abnormality shown in this oct image? A)Uveitis, B)Drusen, C)Nystagmus, D)Presbyopia",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/val/DRUSEN/DRUSEN-9894035-1.jpeg",
+        "problem": "What is the specific abnormality shown in this oct image? A)Strabismus, B)Diabetic retinopathy, C)Cataracts, D)Drusen",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL-508852-2.jpeg",
+        "problem": "Is there any abnormality present in this oct image? A)Yes, B)No.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL-664536-1.jpeg",
+        "problem": "Is there any abnormality present in this oct image? A)Yes, B)No.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL-552739-1.jpeg",
+        "problem": "Is there any abnormality present in this oct image? A)No., B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL-629493-1.jpeg",
+        "problem": "Does this oct image show any abnormality present? A)Yes, B)No.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL-443980-1.jpeg",
+        "problem": "Is there any abnormality present in this oct image? A)Yes, B)No.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL-66515-1.jpeg",
+        "problem": "Is there any abnormality present in this oct image? A)Yes, B)No.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL-2570020-1.jpeg",
+        "problem": "Is there any abnormality present in this oct image? A)Yes, B)No.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL-84466-1.jpeg",
+        "problem": "Is there any anomaly or irregularity detected in the oct image? A)Yes, B)No.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL-3347645-1.jpeg",
+        "problem": "Is there any abnormality present in this oct image? A)No., B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL-2316423-1.jpeg",
+        "problem": "Is there any abnormality present in this oct image? A)No., B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL-2158556-1.jpeg",
+        "problem": "Is there any abnormality present in this oct image? A)Yes, B)No.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL-223814-1.jpeg",
+        "problem": "Does this oct image display any abnormalities? A)Yes, B)No.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL-755659-1.jpeg",
+        "problem": "Is there any abnormality present in this oct image? A)Yes, B)No.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL-3465750-1.jpeg",
+        "problem": "Is there any abnormal finding in this oct image? A)No., B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL-2010714-1.jpeg",
+        "problem": "Is there any indication of abnormality evident in this oct image? A)No., B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL-283376-1.jpeg",
+        "problem": "Is there any abnormality present in this oct image? A)Yes, B)No.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL-1017237-1.jpeg",
+        "problem": "Is there any detectable anomaly in this oct image? A)No., B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL-3103940-1.jpeg",
+        "problem": "Is there any abnormality present in this oct image? A)Yes, B)No.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL-366503-2.jpeg",
+        "problem": "Is there any abnormality present in this oct image? A)Yes, B)No.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL-466978-1.jpeg",
+        "problem": "Is there any abnormality present in this oct image? A)No., B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL-3380901-1.jpeg",
+        "problem": "Is there any abnormal finding in this oct image? A)Yes, B)No.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL-33637-1.jpeg",
+        "problem": "Is there any abnormality present in this oct image? A)No., B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL-2120559-2.jpeg",
+        "problem": "Is the oct image free from any abnormality? A)Yes, B)No.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL-1025847-1.jpeg",
+        "problem": "Is there any abnormality present in this oct image? A)No., B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL-549356-1.jpeg",
+        "problem": "Is there any abnormality present in this oct image? A)Yes, B)No.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL-197082-1.jpeg",
+        "problem": "Is there any anomaly or irregularity detected in the oct image? A)Yes, B)No.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL-3308307-1.jpeg",
+        "problem": "Is there any abnormality detected in this oct image? A)Yes, B)No.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL-2509453-1.jpeg",
+        "problem": "Is there any abnormality present in this oct image? A)Yes, B)No.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL-3466714-1.jpeg",
+        "problem": "Is there any abnormality present in this oct image? A)No., B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL-2403175-1.jpeg",
+        "problem": "Is there any abnormality present in this oct image? A)No., B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL-450923-1.jpeg",
+        "problem": "Does this oct image show any abnormality? A)Yes, B)No.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL-2434258-1.jpeg",
+        "problem": "Is there any abnormality present in this oct image? A)Yes, B)No.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL-1957379-1.jpeg",
+        "problem": "Does the oct image show any abnormalities present? A)No., B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL-3059523-1.jpeg",
+        "problem": "Is there any abnormality present in this oct image? A)Yes, B)No.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/val/DME/DME-9655949-1.jpeg",
+        "problem": "What is the specific abnormality shown in this image? A)Glaucoma, B)Diabetic Macular Edema (DME), C)Optic neuritis, D)Diabetic Retinopathy",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/val/DME/DME-9721607-2.jpeg",
+        "problem": "What is the specific abnormality shown in this image? A)Glaucoma, B)Diabetic Macular Edema (DME), C)Optic neuritis, D)Diabetic Retinopathy",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person22_virus_54.jpeg",
+        "problem": "What imaging technique is utilized to capture this visual? A)CT scan, B)X-ray, C)Blood test, D)Ultrasound",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person81_bacteria_397.jpeg",
+        "problem": "What type of imaging technique is employed for capturing this image? A)EKG, B)PET scan, C)CT scan, D)X-ray",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL2-IM-0251-0001.jpeg",
+        "problem": "What type of imaging technique is utilized to obtain this picture? A)Ultrasound, B)X-ray, C)PET scan, D)MRI",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/IM-0031-0001.jpeg",
+        "problem": "Which imaging modality is employed for capturing this picture? A)X-ray, B)PET scan, C)MRI, D)EKG",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/IM-0086-0001.jpeg",
+        "problem": "What imaging technique is employed to obtain this picture? A)X-ray, B)EKG, C)PET scan, D)Blood test",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL2-IM-0135-0001.jpeg",
+        "problem": "Which imaging modality is used to capture this picture? A)MRI, B)X-ray, C)CT scan, D)PET scan",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/val/NORMAL/NORMAL2-IM-1440-0001.jpeg",
+        "problem": "What is the imaging technique utilized for capturing this picture? A)Ultrasound, B)Blood test, C)EKG, D)X-ray",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person28_virus_62.jpeg",
+        "problem": "What content appears in this image? A)Chest, B)Liver, C)Spine, D)Hand",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person120_bacteria_571.jpeg",
+        "problem": "What does this image depict? A)Brain, B)Hand, C)Chest, D)Knee",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person119_bacteria_567.jpeg",
+        "problem": "What content appears in this image? A)Heart, B)Chest, C)Arm, D)Hand",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person96_bacteria_466.jpeg",
+        "problem": "What content appears in this image? A)Arm, B)Knee, C)Hand, D)Chest",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person90_bacteria_442.jpeg",
+        "problem": "What content appears in this image? A)Knee, B)Foot, C)Liver, D)Chest",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person89_bacteria_440.jpeg",
+        "problem": "What content appears in this image? A)Chest, B)Knee, C)Arm, D)Stomach",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person1608_virus_2786.jpeg",
+        "problem": "What content appears in this image? A)Lungs, B)Brain, C)Knee, D)Chest",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person136_bacteria_652.jpeg",
+        "problem": "What content appears in this image? A)Brain, B)Chest, C)Spine, D)Liver",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person130_bacteria_625.jpeg",
+        "problem": "What content appears in this image? A)Arm, B)Spine, C)Chest, D)Knee",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person1626_virus_2818.jpeg",
+        "problem": "What content appears in this image? A)Foot, B)Knee, C)Chest, D)Liver",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person1678_virus_2895.jpeg",
+        "problem": "What content appears in this image? A)Liver, B)Lungs, C)Spine, D)Chest",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person59_virus_116.jpeg",
+        "problem": "What is the content displayed in this picture? A)Chest, B)Brain, C)Spine, D)Hand",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person1613_virus_2799.jpeg",
+        "problem": "What is the content displayed in this image? A)Hand, B)Heart, C)Chest, D)Brain",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person1618_virus_2805.jpeg",
+        "problem": "What does this picture display? A)Chest, B)Liver, C)Hand, D)Lungs",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person118_bacteria_559.jpeg",
+        "problem": "What is the content depicted in the image? A)Heart, B)Knee, C)Hand, D)Chest",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person113_bacteria_542.jpeg",
+        "problem": "What content appears in this image? A)Chest, B)Lungs, C)Stomach, D)Knee",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person78_bacteria_385.jpeg",
+        "problem": "What is being shown in this picture? A)Chest, B)Knee, C)Brain, D)Arm",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person128_bacteria_606.jpeg",
+        "problem": "What is the content depicted in this picture? A)Chest, B)Foot, C)Arm, D)Lungs",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person94_bacteria_456.jpeg",
+        "problem": "What is the subject matter depicted in this picture? A)Brain, B)Chest, C)Arm, D)Foot",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person140_bacteria_668.jpeg",
+        "problem": "What content appears in this image? A)Chest, B)Spine, C)Hand, D)Lungs",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person23_virus_56.jpeg",
+        "problem": "What content appears in this image? A)Chest, B)Stomach, C)Knee, D)Brain",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person1615_virus_2801.jpeg",
+        "problem": "What content appears in this image? A)Lungs, B)Liver, C)Knee, D)Chest",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person65_virus_123.jpeg",
+        "problem": "What content appears in this image? A)Foot, B)Brain, C)Chest, D)Arm",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person1671_virus_2887.jpeg",
+        "problem": "What content appears in this image? A)Foot, B)Stomach, C)Chest, D)Liver",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person121_bacteria_575.jpeg",
+        "problem": "What content appears in this image? A)Brain, B)Arm, C)Liver, D)Chest",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person47_virus_99.jpeg",
+        "problem": "What content appears in this image? A)Chest, B)Lungs, C)Foot, D)Spine",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person53_virus_107.jpeg",
+        "problem": "What content appears in this image? A)Arm, B)Lungs, C)Chest, D)Hand",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person134_bacteria_641.jpeg",
+        "problem": "What content appears in this image? A)Chest, B)Hand, C)Stomach, D)Lungs",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL2-IM-0307-0001.jpeg",
+        "problem": "What content appears in this image? A)Chest, B)Lungs, C)Hand, D)Spine",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/IM-0033-0001-0001.jpeg",
+        "problem": "What content appears in this image? A)Chest, B)Lungs, C)Heart, D)Hand",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL2-IM-0041-0001.jpeg",
+        "problem": "What content appears in this image? A)Hand, B)Chest, C)Foot, D)Stomach",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/IM-0025-0001.jpeg",
+        "problem": "What is being shown in this picture? A)Foot, B)Heart, C)Chest, D)Liver",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/IM-0102-0001.jpeg",
+        "problem": "What content appears in this image? A)Brain, B)Liver, C)Chest, D)Arm",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL2-IM-0238-0001.jpeg",
+        "problem": "What content appears in this image? A)Lungs, B)Brain, C)Chest, D)Arm",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/IM-0079-0001.jpeg",
+        "problem": "What is the visual content depicted in this image? A)Hand, B)Liver, C)Arm, D)Chest",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL2-IM-0341-0001.jpeg",
+        "problem": "What is the content of this image? A)Knee, B)Arm, C)Liver, D)Chest",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL2-IM-0310-0001.jpeg",
+        "problem": "What is the subject matter shown in this picture? A)Knee, B)Liver, C)Brain, D)Chest",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/IM-0069-0001.jpeg",
+        "problem": "What is the content depicted in the image? A)Chest, B)Heart, C)Liver, D)Foot",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL2-IM-0131-0001.jpeg",
+        "problem": "What is the content featured in this image? A)Knee, B)Spine, C)Chest, D)Liver",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL2-IM-0366-0001.jpeg",
+        "problem": "What content appears in this image? A)Brain, B)Knee, C)Chest, D)Heart",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/IM-0077-0001.jpeg",
+        "problem": "What content appears in this image? A)Foot, B)Hand, C)Chest, D)Stomach",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL2-IM-0281-0001.jpeg",
+        "problem": "What is depicted in the image? A)Heart, B)Hand, C)Foot, D)Chest",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/IM-0045-0001.jpeg",
+        "problem": "What content appears in this image? A)Heart, B)Foot, C)Chest, D)Lungs",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL2-IM-0290-0001.jpeg",
+        "problem": "What is the subject matter visible in this picture? A)Brain, B)Knee, C)Lungs, D)Chest",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL2-IM-0229-0001.jpeg",
+        "problem": "What is depicted in this visual? A)Spine, B)Stomach, C)Chest, D)Brain",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL2-IM-0287-0001.jpeg",
+        "problem": "What content appears in this image? A)Arm, B)Chest, C)Foot, D)Spine",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL2-IM-0251-0001.jpeg",
+        "problem": "Is there any anomaly detected in this radiographic image? A)No, this image indicates the presence of a collapsed lung., B)No, this image shows advanced stages of lung cancer., C)No, this is a normal chest X-ray image., D)No, this image suggests the presence of emphysema.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/IM-0036-0001.jpeg",
+        "problem": "Is the image showing any signs of abnormality? A)No, this is a normal chest X-ray image., B)No, this image displays an enlarged heart., C)No, this image suggests the presence of emphysema., D)Yes, there is a large mass visible in the lungs on this image.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL2-IM-0289-0001.jpeg",
+        "problem": "Is there any abnormality present in this image? A)No, this is a normal chest X-ray image., B)No, this image displays an enlarged heart., C)Yes, there is a large mass visible in the lungs on this image., D)No, this image suggests the presence of emphysema.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/IM-0059-0001.jpeg",
+        "problem": "Does this image show any irregularities or abnormalities? A)Yes, there are multiple fractures visible in the ribs on this image., B)No, this is a normal chest X-ray image., C)Yes, there is a tumor seen in the mediastinum on this image., D)No, this image suggests the presence of emphysema.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/IM-0030-0001.jpeg",
+        "problem": "Is there any anomaly seen in this image? A)No, this image indicates the presence of a collapsed lung., B)Yes, there is pneumonia evident in the lower lobe of the right lung on this image., C)No, this is a normal chest X-ray image., D)No, this image suggests the presence of emphysema.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL2-IM-0041-0001.jpeg",
+        "problem": "Is the image showing any anomaly? A)Yes, there are multiple fractures visible in the ribs on this image., B)No, this is a normal chest X-ray image., C)No, this image shows advanced stages of lung cancer., D)Yes, there is a large mass visible in the lungs on this image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/IM-0025-0001.jpeg",
+        "problem": "Is this image indicative of any abnormality? A)No, this is a normal chest X-ray image., B)No, this image displays an enlarged heart., C)No, this image suggests the presence of emphysema., D)Yes, there is a tumor seen in the mediastinum on this image.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/IM-0011-0001-0002.jpeg",
+        "problem": "Does this image demonstrate any abnormalities? A)No, this is a normal chest X-ray image., B)No, this image suggests the presence of emphysema., C)Yes, there is pneumonia evident in the lower lobe of the right lung on this image., D)No, this image displays an enlarged heart.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL2-IM-0098-0001.jpeg",
+        "problem": "Is there any anomaly detectable in this image? A)No, this is a normal chest X-ray image., B)No, this image suggests the presence of emphysema., C)No, this image displays an enlarged heart., D)No, this image shows advanced stages of lung cancer.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/IM-0015-0001.jpeg",
+        "problem": "Does this image show any abnormalities? A)No, this image indicates the presence of a collapsed lung., B)No, this image suggests the presence of emphysema., C)No, this is a normal chest X-ray image., D)Yes, there is pneumonia evident in the lower lobe of the right lung on this image.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL2-IM-0376-0001.jpeg",
+        "problem": "Is there any deviation from normalcy evident in this image? A)No, this is a normal chest X-ray image., B)No, this image suggests the presence of emphysema., C)No, this image shows advanced stages of lung cancer., D)Yes, there is pneumonia evident in the lower lobe of the right lung on this image.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/IM-0086-0001.jpeg",
+        "problem": "Is this image normal or is there any abnormality present? A)Yes, there is a tumor seen in the mediastinum on this image., B)Yes, there is pneumonia evident in the lower lobe of the right lung on this image., C)Yes, there are multiple fractures visible in the ribs on this image., D)No, this is a normal chest X-ray image.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL2-IM-0369-0001.jpeg",
+        "problem": "Is there any anomaly identified in this image? A)Yes, there are multiple fractures visible in the ribs on this image., B)No, this image shows advanced stages of lung cancer., C)Yes, there is a tumor seen in the mediastinum on this image., D)No, this is a normal chest X-ray image.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL2-IM-0278-0001.jpeg",
+        "problem": "Does this image reveal any abnormality? A)No, this image shows advanced stages of lung cancer., B)Yes, there are multiple fractures visible in the ribs on this image., C)No, this image suggests the presence of emphysema., D)No, this is a normal chest X-ray image.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/IM-0085-0001.jpeg",
+        "problem": "Is there any anomaly detected in this image? A)No, this is a normal chest X-ray image., B)Yes, there is a large mass visible in the lungs on this image., C)Yes, there are multiple fractures visible in the ribs on this image., D)Yes, there is pneumonia evident in the lower lobe of the right lung on this image.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL2-IM-0112-0001.jpeg",
+        "problem": "Is this image showing any anomalies or abnormalities? A)Yes, there are multiple fractures visible in the ribs on this image., B)No, this is a normal chest X-ray image., C)No, this image displays an enlarged heart., D)Yes, there is a tumor seen in the mediastinum on this image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL2-IM-0325-0001.jpeg",
+        "problem": "Is there any anomaly in this image? A)No, this is a normal chest X-ray image., B)Yes, there is a tumor seen in the mediastinum on this image., C)No, this image displays an enlarged heart., D)Yes, there are multiple fractures visible in the ribs on this image.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL2-IM-0292-0001.jpeg",
+        "problem": "Is there any anomaly or irregularity detected in this image? A)No, this image indicates the presence of a collapsed lung., B)No, this is a normal chest X-ray image., C)Yes, there is a large mass visible in the lungs on this image., D)Yes, there is a tumor seen in the mediastinum on this image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/IM-0045-0001.jpeg",
+        "problem": "Is this image showing any abnormalities? A)No, this image displays an enlarged heart., B)No, this image indicates the presence of a collapsed lung., C)No, this image suggests the presence of emphysema., D)No, this is a normal chest X-ray image.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/IM-0006-0001.jpeg",
+        "problem": "Is there any anomaly detected in this picture? A)No, this is a normal chest X-ray image., B)No, this image shows advanced stages of lung cancer., C)No, this image suggests the presence of emphysema., D)Yes, there is a tumor seen in the mediastinum on this image.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL2-IM-0059-0001.jpeg",
+        "problem": "Is there any anomaly detected in this picture? A)No, this image shows advanced stages of lung cancer., B)No, this is a normal chest X-ray image., C)Yes, there is a large mass visible in the lungs on this image., D)Yes, there are multiple fractures visible in the ribs on this image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/NORMAL2-IM-0287-0001.jpeg",
+        "problem": "Is there any pathology evident in this image? A)No, this image displays an enlarged heart., B)Yes, there is pneumonia evident in the lower lobe of the right lung on this image., C)No, this image shows advanced stages of lung cancer., D)No, this is a normal chest X-ray image.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/IM-0027-0001.jpeg",
+        "problem": "Is this image showing any abnormalities present? A)No, this image displays an enlarged heart., B)Yes, there is pneumonia evident in the lower lobe of the right lung on this image., C)No, this image indicates the presence of a collapsed lung., D)No, this is a normal chest X-ray image.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/NORMAL/IM-0107-0001.jpeg",
+        "problem": "Is the image displaying any irregularities? A)Yes, there is a tumor seen in the mediastinum on this image., B)No, this is a normal chest X-ray image., C)Yes, there are multiple fractures visible in the ribs on this image., D)Yes, there is pneumonia evident in the lower lobe of the right lung on this image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/val/NORMAL/NORMAL2-IM-1431-0001.jpeg",
+        "problem": "Does this image show any abnormalities? A)No, this is a normal chest X-ray image., B)Yes, there is pneumonia evident in the lower lobe of the right lung on this image., C)No, this image indicates the presence of a collapsed lung., D)No, this image shows advanced stages of lung cancer.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person135_bacteria_646.jpeg",
+        "problem": "What is the name of the disease portrayed in this picture? A)Sinusitis, B)Bronchitis, C)Pneumonia, D)Sepsis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person74_virus_135.jpeg",
+        "problem": "What is the name of the disease depicted in this image? A)Influenza, B)Sinusitis, C)Lung cancer, D)Pneumonia",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person1670_virus_2886.jpeg",
+        "problem": "What is the diagnosis of the condition illustrated in this image? A)Pneumonia, B)Pulmonary embolism, C)Influenza, D)Lung cancer",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person1610_virus_2793.jpeg",
+        "problem": "What is the disease that can be identified from this image? A)Sinusitis, B)Pneumonia, C)Malaria, D)Pulmonary embolism",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person134_bacteria_643.jpeg",
+        "problem": "What disease is depicted in this image? A)Lung cancer, B)Sinusitis, C)Pulmonary embolism, D)Pneumonia",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person175_bacteria_833.jpeg",
+        "problem": "What condition is shown in this picture? A)Bronchitis, B)Asthma, C)Influenza, D)Pneumonia",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person103_bacteria_489.jpeg",
+        "problem": "What is the medical term for the condition shown in this image? A)Common cold, B)Asthma, C)Pneumonia, D)Tuberculosis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person78_bacteria_387.jpeg",
+        "problem": "What is the medical condition illustrated in this picture? A)Pneumonia, B)Lung cancer, C)Influenza, D)Asthma",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person120_bacteria_571.jpeg",
+        "problem": "What disease is depicted in this image? A)Bronchitis, B)Malaria, C)Pneumonia, D)Tuberculosis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person1682_virus_2899.jpeg",
+        "problem": "What is the disease portrayed in this picture? A)Influenza, B)Malaria, C)Pneumonia, D)Lung cancer",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person10_virus_35.jpeg",
+        "problem": "What is the illness displayed in this picture? A)Pneumonia, B)Influenza, C)Common cold, D)Sinusitis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person1637_virus_2834.jpeg",
+        "problem": "What is the name of the illness shown in this picture? A)Pneumonia, B)Tuberculosis, C)Influenza, D)Asthma",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person139_bacteria_666.jpeg",
+        "problem": "What is the medical condition shown in the image? A)Pulmonary embolism, B)Sinusitis, C)Tuberculosis, D)Pneumonia",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person71_virus_132.jpeg",
+        "problem": "What is the name of the illness shown in the photograph? A)Sepsis, B)Pneumonia, C)Tuberculosis, D)Lung cancer",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person100_bacteria_481.jpeg",
+        "problem": "Which medical condition is shown in the provided image? A)Lung cancer, B)Pneumonia, C)Bronchitis, D)Pulmonary embolism",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person79_virus_148.jpeg",
+        "problem": "What ailment is being shown in this picture? A)Bronchitis, B)Pulmonary embolism, C)Asthma, D)Pneumonia",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person1_virus_13.jpeg",
+        "problem": "What is the name of the disease showcased in this image? A)Sinusitis, B)Influenza, C)Common cold, D)Pneumonia",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person133_bacteria_634.jpeg",
+        "problem": "What is the name of the illness depicted in this picture? A)Pneumonia, B)Bronchitis, C)Influenza, D)Tuberculosis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person83_bacteria_414.jpeg",
+        "problem": "What condition is being portrayed in this picture? A)Tuberculosis, B)Asthma, C)Sinusitis, D)Pneumonia",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person139_bacteria_662.jpeg",
+        "problem": "What is the name of the disease represented in this image? A)Lung cancer, B)Sepsis, C)Pneumonia, D)Bronchitis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person57_virus_113.jpeg",
+        "problem": "What is the name of the illness portrayed in the provided image? A)Pulmonary embolism, B)Lung cancer, C)Pneumonia, D)Common cold",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person120_bacteria_572.jpeg",
+        "problem": "What is the illness shown in the image? A)Sinusitis, B)Pneumonia, C)Tuberculosis, D)Bronchitis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person99_bacteria_474.jpeg",
+        "problem": "What medical condition is shown in the image? A)Asthma, B)Sinusitis, C)Influenza, D)Pneumonia",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person124_bacteria_591.jpeg",
+        "problem": "What specific illness is shown in this picture? A)Pneumonia, B)Lung cancer, C)Influenza, D)Sepsis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person18_virus_49.jpeg",
+        "problem": "What is the illness shown in this picture? A)Pneumonia, B)Influenza, C)Sinusitis, D)Malaria",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person150_bacteria_717.jpeg",
+        "problem": "Which medical condition is shown in this picture? A)Tuberculosis, B)Sepsis, C)Common cold, D)Pneumonia",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person121_bacteria_575.jpeg",
+        "problem": "What is the medical condition illustrated in this picture? A)Lung cancer, B)Malaria, C)Pneumonia, D)Pulmonary embolism",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person47_virus_99.jpeg",
+        "problem": "What is the disease shown in the image? A)Bronchitis, B)Pneumonia, C)Sinusitis, D)Malaria",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person83_bacteria_409.jpeg",
+        "problem": "What is the name of the condition shown in the image? A)Lung cancer, B)Common cold, C)Pneumonia, D)Bronchitis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person151_bacteria_718.jpeg",
+        "problem": "What is the diagnosis of the condition shown in this image? A)Pulmonary embolism, B)Pneumonia, C)Lung cancer, D)Influenza",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person1669_virus_2884.jpeg",
+        "problem": "What is the name of the disease illustrated in this picture? A)Influenza, B)Pneumonia, C)Asthma, D)Malaria",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person101_bacteria_485.jpeg",
+        "problem": "Which medical condition is shown in the provided image? A)Malaria, B)Pneumonia, C)Bronchitis, D)Pulmonary embolism",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person114_bacteria_546.jpeg",
+        "problem": "What is the condition portrayed in this picture? A)Influenza, B)Lung cancer, C)Pneumonia, D)Common cold",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OCT & X-Ray 2017/test/PNEUMONIA/person85_bacteria_422.jpeg",
+        "problem": "What illness is shown in this image? A)Pneumonia, B)Lung cancer, C)Influenza, D)Asthma",
+        "solution": "<answer> A </answer>"
+    }
+]

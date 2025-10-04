@@ -1,0 +1,517 @@
+[
+    {
+        "image": "Images/COVIDx CXR-4/test/MIDRC-RICORD-1C-419639-001629-03737-0.png",
+        "problem": "What type of medical imaging technique was employed to acquire this image? A)Blood test, B)PET scan, C)X-ray, D)Electroencephalogram (EEG)",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/MIDRC-RICORD-1C-419639-000025-17477-0.png",
+        "problem": "What type of imaging was employed to take this picture? A)X-ray, B)MRI, C)Blood test, D)Bone scan",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/MIDRC-RICORD-1C-SITE2-000023-20254-0.png",
+        "problem": "What type of medical imaging was used to capture this image? A)CT scan, B)Endoscopy, C)X-ray, D)MRI",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/MIDRC-RICORD-1C-SITE2-000208-34584-0.png",
+        "problem": "Which imaging technique was utilized to obtain this image? A)Colonoscopy, B)Endoscopy, C)PET scan, D)X-ray",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/MIDRC-RICORD-1C-419639-001829-30276-0.png",
+        "problem": "What type of medical imaging device was utilized to obtain this image? A)Ultrasound, B)Electrocardiogram (ECG), C)X-ray, D)Endoscopy",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/MIDRC-RICORD-1C-440808-000019-8.433-0.png",
+        "problem": "What method was employed to obtain this image in the field of medical imaging? A)X-ray, B)PET scan, C)Blood test, D)CT scan",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/MIDRC-RICORD-1C-419639-002929-69159-0.png",
+        "problem": "What type of diagnostic imaging was employed to obtain this picture? A)Colonoscopy, B)Electroencephalogram (EEG), C)X-ray, D)Bone scan",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/MIDRC-RICORD-1C-SITE2-000206-25871-0.png",
+        "problem": "What type of imaging technique was utilized to capture this image? A)Bone scan, B)Electroencephalogram (EEG), C)X-ray, D)Endoscopy",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/eaeb935a-7294-4dd3-8bf5-73ba781d28af.png",
+        "problem": "Which specific imaging technique was employed to acquire this image? A)Electrocardiogram (ECG), B)Colonoscopy, C)X-ray, D)Ultrasound",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/dee054ff-0e1a-4167-b814-cbf339cf689c.png",
+        "problem": "What type of imaging technique was utilized for obtaining this image? A)Endoscopy, B)Electrocardiogram (ECG), C)X-ray, D)Ultrasound",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/b540ba89-72f7-40f5-a916-376546c20014.png",
+        "problem": "What type of medical imaging technique was employed to obtain this image? A)X-ray, B)Electrocardiogram (ECG), C)Blood test, D)Ultrasound",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/bd8facb9-dce0-4048-8249-e6078b28e1b7.png",
+        "problem": "What imaging modality was utilized to acquire this image? A)Blood test, B)X-ray, C)Electrocardiogram (ECG), D)Bone scan",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/b021293c-4dd0-450c-b1a4-2d72cedab0a2.png",
+        "problem": "Which type of imaging was utilized to produce this image? A)X-ray, B)MRI, C)Electroencephalogram (EEG), D)Blood test",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/40a2f7fd-342e-494b-a7e0-5857b73ec582.png",
+        "problem": "Which imaging technique was utilized to obtain this image? A)Colonoscopy, B)MRI, C)PET scan, D)X-ray",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/3186d210-966f-4733-ba72-98729be9551a.png",
+        "problem": "What imaging modality was used to capture this image? A)X-ray, B)MRI, C)Endoscopy, D)Colonoscopy",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/ae06b30f-ae30-40d3-b237-c934ce499774.png",
+        "problem": "What modality was utilized for imaging in order to obtain this picture? A)Blood test, B)Ultrasound, C)X-ray, D)PET scan",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/acb5c720-f741-415c-993c-65855be08ffa.png",
+        "problem": "Which type of medical imaging was utilized to capture this visual representation? A)MRI, B)PET scan, C)Blood test, D)X-ray",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/652b519d-5eb4-4abc-93f7-15ae661a431f.png",
+        "problem": "What type of imaging technique was used to capture this picture? A)Ultrasound, B)X-ray, C)Colonoscopy, D)CT scan",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/1c0a780d-1cac-4eee-b46d-470ecebc9ae0.png",
+        "problem": "What type of imaging was conducted to obtain this image? A)X-ray, B)PET scan, C)Electrocardiogram (ECG), D)MRI",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/MIDRC-RICORD-1C-SITE2-000147-13199-0.png",
+        "problem": "In what area of the body is the subject of this image located? A)Foot, B)Pelvis, C)Neck, D)Chest",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/MIDRC-RICORD-1C-419639-002310-52924-0.png",
+        "problem": "What part of the body is shown in this image? A)Head, B)Chest, C)Pelvis, D)Neck",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/MIDRC-RICORD-1C-419639-001464-32013-0.png",
+        "problem": "What part of the body is captured in this image? A)Arm, B)Hand, C)Pelvis, D)Chest",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/MIDRC-RICORD-1C-SITE2-000182-35476-0.png",
+        "problem": "In which area of the human body is this image located? A)Abdomen, B)Chest, C)Neck, D)Foot",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/MIDRC-RICORD-1C-SITE2-000048-66689-0.png",
+        "problem": "What anatomical area is shown in the image? A)Head, B)Chest, C)Back, D)Abdomen",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/MIDRC-RICORD-1C-SITE2-000188-54382-0.png",
+        "problem": "What area of the physique is portrayed in this picture? A)Chest, B)Abdomen, C)Pelvis, D)Back",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/MIDRC-RICORD-1C-SITE2-000072-79474-0.png",
+        "problem": "What part of the body is being shown in the image? A)Head, B)Groin, C)Chest, D)Back",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/MIDRC-RICORD-1C-419639-003319-99931-0.png",
+        "problem": "What is the anatomical location of the body shown in the image? A)Groin, B)Chest, C)Foot, D)Head",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/MIDRC-RICORD-1C-419639-000086-21140-0.png",
+        "problem": "What area of the body does this picture show? A)Chest, B)Leg, C)Head, D)Foot",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/MIDRC-RICORD-1C-SITE2-000154-41630-0.png",
+        "problem": "In which part of the body is this image showing? A)Neck, B)Abdomen, C)Chest, D)Back",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/MIDRC-RICORD-1C-SITE2-000045-76077-0.png",
+        "problem": "What part of the body is shown in the given image? A)Head, B)Hand, C)Chest, D)Foot",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/MIDRC-RICORD-1C-419639-001661-28330-1.png",
+        "problem": "What area of the body is shown in the image? A)Back, B)Chest, C)Foot, D)Pelvis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/bc46651a-1314-44af-a834-1eb8a36e589e.png",
+        "problem": "Which region of the body does this image depict? A)Pelvis, B)Abdomen, C)Chest, D)Arm",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/8db71746-e837-43c2-bdf1-c44d1ab207e3.png",
+        "problem": "What body area is shown in this picture? A)Chest, B)Groin, C)Pelvis, D)Foot",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/a8dfd068-69e9-4486-bb22-2a04f2f2e1a5.png",
+        "problem": "What specific area of the anatomy is shown in this picture? A)Chest, B)Pelvis, C)Abdomen, D)Hand",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/1dad3414-88c9-4c56-af5d-3a1488af452c.png",
+        "problem": "In which part of the body is this image portraying? A)Chest, B)Leg, C)Groin, D)Abdomen",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/349f10b4-dc3e-4f3f-b2e4-a5b81448ce87.png",
+        "problem": "What part of the anatomy does this image represent? A)Chest, B)Leg, C)Pelvis, D)Arm",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/c21157da-1f74-4966-ba4e-c144d8f5da2d.png",
+        "problem": "What is the anatomical location of the body displayed in this image? A)Head, B)Chest, C)Pelvis, D)Back",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/dd4d6a4c-1e67-4911-bda2-7d8af75b1b19.png",
+        "problem": "What part of the body does this picture portray? A)Chest, B)Hand, C)Head, D)Pelvis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/0e03c2d7-9cea-4dc7-8e91-794a8b3ff58d.png",
+        "problem": "What is the body part shown in this picture? A)Neck, B)Head, C)Back, D)Chest",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/6804008c-94eb-4870-ba6e-b06514073e71.png",
+        "problem": "What body region is shown in this picture? A)Leg, B)Chest, C)Back, D)Abdomen",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/e2e89418-6c0e-4f50-a2d9-6cd5e58feef0.png",
+        "problem": "What area of the body is shown in the given image? A)Foot, B)Groin, C)Chest, D)Pelvis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/8ae822ae-a656-47ba-ac5b-848ce2256575.png",
+        "problem": "What part of the human body is shown in the provided image? A)Chest, B)Hand, C)Head, D)Groin",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/3c8cc0d1-be7f-493d-9570-542d851f623b.png",
+        "problem": "What anatomical part is shown in this image? A)Abdomen, B)Hand, C)Back, D)Chest",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/a77b32f6-1999-4cc6-8a0d-1ef7e53850f0.png",
+        "problem": "What is the body area that is shown in this image? A)Chest, B)Abdomen, C)Back, D)Leg",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/ca3c90e4-f7fe-4f6e-b20b-81473deab4f0.png",
+        "problem": "What abnormality is present in this image? A)Sarcoidosis, B)Pneumonia, C)COVID-19 negative, D)Lung cancer",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/af6ef3d9-81c8-434e-bc5a-dbf89bc418aa.png",
+        "problem": "What abnormality is present in this image? A)Pneumonia, B)COVID-19 negative, C)Influenza, D)Pulmonary embolism",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/35cda03a-0898-4f8b-92d3-6f263aed23ff.png",
+        "problem": "What abnormality is present in this image? A)Influenza, B)Asthma exacerbation, C)Pneumonia, D)COVID-19 negative",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/d82e5841-2f43-4eab-ac17-e98a2d90c51b.png",
+        "problem": "What abnormality is present in this image? A)Pleural effusion, B)Sarcoidosis, C)Tuberculosis, D)COVID-19 negative",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/dee054ff-0e1a-4167-b814-cbf339cf689c.png",
+        "problem": "What abnormality is present in this image? A)Tuberculosis, B)COVID-19 negative, C)Sarcoidosis, D)Pulmonary edema",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/d535a3c8-c4a4-4856-b5cd-17f6332eac8b.png",
+        "problem": "What does this image show in terms of any abnormalities? A)Tuberculosis, B)COVID-19 negative, C)Pneumonia, D)Pleural effusion",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/275f9fff-2439-4f3f-9c48-7c21f348701a.png",
+        "problem": "What abnormality is present in this image? A)Tuberculosis, B)COVID-19 negative, C)Pulmonary fibrosis, D)Pulmonary edema",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/372b2fea-2013-4600-a06f-765c3f054a82.png",
+        "problem": "What diagnosis does the observed anomaly in the photograph suggest? A)Pleural effusion, B)COVID-19 negative, C)Tuberculosis, D)Pulmonary fibrosis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/6556ce72-1a60-40aa-aaf7-b50dbf07fae7.png",
+        "problem": "What abnormality is present in this image? A)Pulmonary embolism, B)Pleural effusion, C)Pulmonary edema, D)COVID-19 negative",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/0bb24183-8b59-48f1-8bbf-4d889976fc82.png",
+        "problem": "What abnormality is present in this image? A)Sarcoidosis, B)COVID-19 negative, C)Asthma exacerbation, D)Tuberculosis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/a8dfd068-69e9-4486-bb22-2a04f2f2e1a5.png",
+        "problem": "What abnormality is present in this image? A)Pulmonary fibrosis, B)COVID-19 negative, C)Sarcoidosis, D)Influenza",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/89dd8f63-8320-48f3-b142-d903f40d5c8c.png",
+        "problem": "What abnormality is present in this image? A)Pleural effusion, B)Lung cancer, C)Pulmonary fibrosis, D)COVID-19 negative",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/9e2ddac8-9a4c-448b-98c8-a840a548d0f7.png",
+        "problem": "What abnormality is present in this image? A)Lung cancer, B)COVID-19 negative, C)Tuberculosis, D)Pulmonary fibrosis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/3e1b619a-cdd9-495a-bcbf-a9d62b418991.png",
+        "problem": "What abnormality is present in this image? A)Lung cancer, B)Pneumonia, C)COVID-19 negative, D)Tuberculosis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/f8a11cd6-e541-4765-a41b-3d70b6f3481e.png",
+        "problem": "What abnormality is present in this image? A)Pulmonary fibrosis, B)Pneumonia, C)COVID-19 negative, D)Influenza",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/3a5327d8-8830-4ae2-bd6b-293f5aa42d4b.png",
+        "problem": "What abnormality is present in this image? A)Asthma exacerbation, B)Tuberculosis, C)COVID-19 negative, D)Sarcoidosis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/a0b9597d-93f4-4a7c-a412-81cb78bccb66.png",
+        "problem": "What abnormality is present in this image? A)COVID-19 negative, B)Lung cancer, C)Pleural effusion, D)Influenza",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/cdac0980-033c-4685-b7e4-0a12c86a00a9.png",
+        "problem": "What abnormality is present in this image? A)Asthma exacerbation, B)COVID-19 negative, C)Pulmonary fibrosis, D)Lung cancer",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/d1e0d69c-a4df-485a-983c-535494221d1a.png",
+        "problem": "What abnormality is present in this image? A)Pulmonary fibrosis, B)Pulmonary embolism, C)Asthma exacerbation, D)COVID-19 negative",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/bd8facb9-dce0-4048-8249-e6078b28e1b7.png",
+        "problem": "What abnormality is present in this image? A)Influenza, B)Asthma exacerbation, C)COVID-19 negative, D)Pulmonary fibrosis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/fcd159f4-21d3-4169-a94b-95a2b5ccddcb.png",
+        "problem": "What abnormality is present in this image? A)Tuberculosis, B)Pneumonia, C)Pleural effusion, D)COVID-19 negative",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/7817b551-d220-479b-815f-395f83e1dba1.png",
+        "problem": "What abnormality is present in this image? A)Pulmonary fibrosis, B)Lung cancer, C)Influenza, D)COVID-19 negative",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/e1d5a233-39ca-41dc-a289-b07c3e78cdb1.png",
+        "problem": "What abnormality is present in this image? A)Sarcoidosis, B)Tuberculosis, C)Pleural effusion, D)COVID-19 negative",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/b51c3c24-f9aa-4039-9fc1-527a5567dff6.png",
+        "problem": "What abnormality is present in this image? A)COVID-19 negative, B)Pulmonary edema, C)Asthma exacerbation, D)Sarcoidosis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/080f2b35-fcd5-473e-864b-a7dea3054cc7.png",
+        "problem": "What abnormality is present in this image? A)Tuberculosis, B)Asthma exacerbation, C)Pneumonia, D)COVID-19 negative",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/86853bbd-5af2-4551-8273-f2978dffdd76.png",
+        "problem": "What abnormality is present in this image? A)COVID-19 negative, B)Pulmonary embolism, C)Pulmonary edema, D)Tuberculosis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/1414c7d6-dff3-453c-8322-b25bb5899d78.png",
+        "problem": "What abnormality is present in this image? A)Sarcoidosis, B)Pulmonary fibrosis, C)Influenza, D)COVID-19 negative",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/0d9b1283-fc24-4fd3-a520-bc5d563e13e1.png",
+        "problem": "What abnormality is present in this image? A)Pulmonary edema, B)Pulmonary fibrosis, C)Tuberculosis, D)COVID-19 negative",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/37f17069-62ce-42ff-9fa4-d6a1056bd075.png",
+        "problem": "What abnormality is present in this image? A)Pulmonary edema, B)Pneumonia, C)COVID-19 negative, D)Asthma exacerbation",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/e2e89418-6c0e-4f50-a2d9-6cd5e58feef0.png",
+        "problem": "What abnormality is present in this image? A)Pulmonary fibrosis, B)COVID-19 negative, C)Pulmonary edema, D)Asthma exacerbation",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/8ae822ae-a656-47ba-ac5b-848ce2256575.png",
+        "problem": "What abnormality is present in this image? A)Pulmonary fibrosis, B)COVID-19 negative, C)Sarcoidosis, D)Pulmonary edema",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/f661fe70-2fc1-4564-9f53-45504c0b0688.png",
+        "problem": "What abnormality is present in this image? A)Pneumonia, B)COVID-19 negative, C)Pulmonary fibrosis, D)Lung cancer",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/32a5977f-f8ab-41c9-9b51-5387248e4675.png",
+        "problem": "What abnormality is present in this image? A)Influenza, B)Pleural effusion, C)Tuberculosis, D)COVID-19 negative",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/3766b0a6-1769-4d82-b081-fa53531de34e.png",
+        "problem": "What abnormality is present in this image? A)COVID-19 negative, B)Lung cancer, C)Pulmonary embolism, D)Tuberculosis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/MIDRC-RICORD-1C-419639-003251-46647-0.png",
+        "problem": "What abnormality is present in this image? A)COVID-19 positive, B)Allergies, C)Common cold, D)Bronchitis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/MIDRC-RICORD-1C-419639-001464-39871-0.png",
+        "problem": "What abnormality is present in this image? A)Tuberculosis, B)COVID-19 positive, C)Pneumonia, D)Allergies",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/MIDRC-RICORD-1C-SITE2-000265-99793-1.png",
+        "problem": "What abnormality is present in this image? A)COVID-19 positive, B)Tuberculosis, C)Bronchitis, D)Allergies",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/MIDRC-RICORD-1C-419639-001464-33260-0.png",
+        "problem": "What abnormality is present in this image? A)Tuberculosis, B)Allergies, C)Mononucleosis, D)COVID-19 positive",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/MIDRC-RICORD-1C-419639-000025-56001-0.png",
+        "problem": "What abnormality is present in this image? A)COVID-19 positive, B)Allergies, C)Mononucleosis, D)Pneumonia",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/MIDRC-RICORD-1C-419639-001735-74702-0.png",
+        "problem": "What abnormality is present in this image? A)Tuberculosis, B)Pneumonia, C)Strep throat, D)COVID-19 positive",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/MIDRC-RICORD-1C-419639-002528-57471-0.png",
+        "problem": "What abnormality is present in this image? A)Strep throat, B)COVID-19 positive, C)Bronchitis, D)Asthma",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/MIDRC-RICORD-1C-419639-003365-72952-0.png",
+        "problem": "What abnormality is present in this image? A)COVID-19 positive, B)Strep throat, C)Bronchitis, D)Mononucleosis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/MIDRC-RICORD-1C-SITE2-000048-66689-0.png",
+        "problem": "What abnormality is present in this image? A)Strep throat, B)Common cold, C)COVID-19 positive, D)Influenza",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/MIDRC-RICORD-1C-419639-001903-65209-0.png",
+        "problem": "What abnormality is present in this image? A)Bronchitis, B)Allergies, C)Common cold, D)COVID-19 positive",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/MIDRC-RICORD-1C-419639-002050-25234-0.png",
+        "problem": "What abnormality is present in this image? A)Common cold, B)Bronchitis, C)Allergies, D)COVID-19 positive",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/MIDRC-RICORD-1C-SITE2-000235-44451-0.png",
+        "problem": "What abnormality is present in this image? A)Asthma, B)COVID-19 positive, C)Common cold, D)Influenza",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/MIDRC-RICORD-1C-SITE2-000153-84142-0.png",
+        "problem": "What abnormality is present in this image? A)Strep throat, B)COVID-19 positive, C)Influenza, D)Sinusitis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/MIDRC-RICORD-1C-419639-001464-82193-0.png",
+        "problem": "What abnormality is present in this image? A)Strep throat, B)Bronchitis, C)Asthma, D)COVID-19 positive",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/MIDRC-RICORD-1C-419639-002733-79941-0.png",
+        "problem": "What abnormality is present in this image? A)Common cold, B)COVID-19 positive, C)Tuberculosis, D)Bronchitis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/MIDRC-RICORD-1C-SITE2-000237-52517-0.png",
+        "problem": "What abnormality is present in this image? A)Sinusitis, B)Tuberculosis, C)Asthma, D)COVID-19 positive",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/MIDRC-RICORD-1C-SITE2-000170-25974-1.png",
+        "problem": "What abnormality is present in this image? A)COVID-19 positive, B)Mononucleosis, C)Pneumonia, D)Allergies",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/MIDRC-RICORD-1C-419639-000785-60200-0.png",
+        "problem": "What abnormality is present in this image? A)Bronchitis, B)COVID-19 positive, C)Tuberculosis, D)Common cold",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/MIDRC-RICORD-1C-SITE2-000154-41630-0.png",
+        "problem": "What abnormality is present in this image? A)Tuberculosis, B)Sinusitis, C)Mononucleosis, D)COVID-19 positive",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/MIDRC-RICORD-1C-SITE2-000176-81030-0.png",
+        "problem": "What diagnosis does this picture suggest? A)Bronchitis, B)Strep throat, C)Pneumonia, D)COVID-19 positive",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/MIDRC-RICORD-1C-419639-003191-84953-0.png",
+        "problem": "What abnormality is present in this image? A)Mononucleosis, B)COVID-19 positive, C)Tuberculosis, D)Pneumonia",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/MIDRC-RICORD-1C-SITE2-000127-30661-0.png",
+        "problem": "What abnormality is present in this image? A)Mononucleosis, B)Sinusitis, C)COVID-19 positive, D)Influenza",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/MIDRC-RICORD-1C-SITE2-000162-64489-0.png",
+        "problem": "What abnormality is present in this image? A)Allergies, B)COVID-19 positive, C)Mononucleosis, D)Strep throat",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/MIDRC-RICORD-1C-419639-001661-28330-1.png",
+        "problem": "What abnormality is present in this image? A)COVID-19 positive, B)Common cold, C)Asthma, D)Mononucleosis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/COVIDx CXR-4/test/MIDRC-RICORD-1C-419639-002895-42704-0.png",
+        "problem": "What abnormality is present in this image? A)Strep throat, B)COVID-19 positive, C)Allergies, D)Pneumonia",
+        "solution": "<answer> B </answer>"
+    }
+]

@@ -1,0 +1,687 @@
+[
+    {
+        "image": "Images/CoronaHack/test/IM-0079-0001.jpeg",
+        "problem": "What type of imaging is utilized for capturing this picture? A)Chest X-ray, B)PET scan, C)Electrocardiogram (ECG), D)Bone density test",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/IM-0077-0001.jpeg",
+        "problem": "What modality is used to take this image? A)Ultrasound, B)Mammogram, C)Chest X-ray, D)Endoscopy",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/IM-0050-0001.jpeg",
+        "problem": "What imaging technique is employed for capturing this picture? A)Chest X-ray, B)Blood test, C)Pap smear, D)CT scan",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/NORMAL2-IM-0328-0001.jpeg",
+        "problem": "What imaging modality is utilized for capturing this picture? A)Mammogram, B)Bone density test, C)CT scan, D)Chest X-ray",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/NORMAL2-IM-0322-0001.jpeg",
+        "problem": "What imaging technique was utilized for this picture? A)Pap smear, B)Bone density test, C)PET scan, D)Chest X-ray",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/NORMAL2-IM-0259-0001.jpeg",
+        "problem": "What imaging technique is employed for capturing this picture? A)Chest X-ray, B)PET scan, C)Ultrasound, D)CT scan",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/NORMAL2-IM-0222-0001.jpeg",
+        "problem": "What type of imaging is utilized for capturing this picture? A)Chest X-ray, B)Bone density test, C)Electrocardiogram (ECG), D)Endoscopy",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/NORMAL2-IM-0376-0001.jpeg",
+        "problem": "What is the imaging technique employed to capture this picture? A)Blood test, B)Pap smear, C)Chest X-ray, D)CT scan",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/NORMAL2-IM-0347-0001.jpeg",
+        "problem": "What imaging technique is employed in capturing this picture? A)Bone density test, B)Endoscopy, C)Chest X-ray, D)Ultrasound",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person159_bacteria_747.jpeg",
+        "problem": "What imaging modality is used to capture this picture? A)Electrocardiogram (ECG), B)Blood test, C)Mammogram, D)Chest X-ray",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person119_bacteria_568.jpeg",
+        "problem": "What imaging technique is employed to obtain this picture? A)Chest X-ray, B)CT scan, C)Ultrasound, D)Endoscopy",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person109_bacteria_526.jpeg",
+        "problem": "What imaging technique is utilized to capture this picture? A)PET scan, B)MRI scan, C)Ultrasound, D)Chest X-ray",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person109_bacteria_519.jpeg",
+        "problem": "What imaging technique was employed for this picture? A)Mammogram, B)Chest X-ray, C)Bone density test, D)Ultrasound",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person40_virus_87.jpeg",
+        "problem": "What modality is used to take this image? A)CT scan, B)Chest X-ray, C)Electrocardiogram (ECG), D)Mammogram",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person1_virus_6.jpeg",
+        "problem": "What modality is used to take this image? A)Blood test, B)Endoscopy, C)Ultrasound, D)Chest X-ray",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person172_bacteria_828.jpeg",
+        "problem": "What imaging method is utilized for capturing this picture? A)Blood test, B)Chest X-ray, C)Mammogram, D)Ultrasound",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person1655_virus_2861.jpeg",
+        "problem": "What type of imaging technique is used to capture this picture? A)Chest X-ray, B)Mammogram, C)Endoscopy, D)Blood test",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/IM-0009-0001.jpeg",
+        "problem": "What is depicted in this picture? A)Liver, B)Pancreas, C)Prostate (for males), D)Lungs",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/NORMAL2-IM-0028-0001.jpeg",
+        "problem": "What content appears in this image? A)Heart, B)Lungs, C)Gallbladder, D)Bladder",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/NORMAL2-IM-0023-0001.jpeg",
+        "problem": "What is shown in this image? A)Brain, B)Intestines, C)Lungs, D)Adrenal glands",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/IM-0099-0001.jpeg",
+        "problem": "What content appears in this image? A)Brain, B)Lungs, C)Heart, D)Prostate (for males)",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/IM-0071-0001.jpeg",
+        "problem": "What content appears in this image? A)Gallbladder, B)Heart, C)Kidneys, D)Lungs",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/IM-0069-0001.jpeg",
+        "problem": "What content appears in this image? A)Prostate (for males), B)Uterus (for females), C)Stomach, D)Lungs",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/IM-0045-0001.jpeg",
+        "problem": "What content appears in this image? A)Brain, B)Prostate (for males), C)Lungs, D)Kidneys",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/IM-0037-0001.jpeg",
+        "problem": "What content appears in this image? A)Stomach, B)Lungs, C)Thyroid gland, D)Gallbladder",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/IM-0030-0001.jpeg",
+        "problem": "What is depicted in the provided image? A)Intestines, B)Lungs, C)Adrenal glands, D)Spleen",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/NORMAL2-IM-0329-0001.jpeg",
+        "problem": "What content appears in this image? A)Thyroid gland, B)Prostate (for males), C)Thymus, D)Lungs",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/NORMAL2-IM-0217-0001.jpeg",
+        "problem": "What content appears in this image? A)Lungs, B)Uterus (for females), C)Thymus, D)Prostate (for males)",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/NORMAL2-IM-0206-0001.jpeg",
+        "problem": "What content appears in this image? A)Lungs, B)Stomach, C)Liver, D)Spleen",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/NORMAL2-IM-0145-0001.jpeg",
+        "problem": "What content appears in this image? A)Heart, B)Lungs, C)Prostate (for males), D)Spleen",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/NORMAL2-IM-0130-0001.jpeg",
+        "problem": "What content appears in this image? A)Lungs, B)Brain, C)Prostate (for males), D)Uterus (for females)",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/NORMAL2-IM-0102-0001.jpeg",
+        "problem": "What is the content depicted in this image? A)Spleen, B)Stomach, C)Lungs, D)Thymus",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/NORMAL2-IM-0098-0001.jpeg",
+        "problem": "What appears in this image as its content? A)Gallbladder, B)Prostate (for males), C)Uterus (for females), D)Lungs",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/NORMAL2-IM-0092-0001.jpeg",
+        "problem": "What content appears in this image? A)Stomach, B)Lungs, C)Spleen, D)Uterus (for females)",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/NORMAL2-IM-0081-0001.jpeg",
+        "problem": "What content appears in this image? A)Liver, B)Heart, C)Bladder, D)Lungs",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/NORMAL2-IM-0374-0001-0002.jpeg",
+        "problem": "What content appears in this image? A)Intestines, B)Lungs, C)Thymus, D)Heart",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/NORMAL2-IM-0338-0001.jpeg",
+        "problem": "What is featured in this picture? A)Thyroid gland, B)Intestines, C)Lungs, D)Thymus",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person159_bacteria_746.jpeg",
+        "problem": "What does this image depict? A)Thyroid gland, B)Bladder, C)Lungs, D)Prostate (for males)",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person152_bacteria_723.jpeg",
+        "problem": "What is the subject matter depicted in this picture? A)Brain, B)Adrenal glands, C)Lungs, D)Spleen",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person141_bacteria_676.jpeg",
+        "problem": "What content appears in this image? A)Prostate (for males), B)Thyroid gland, C)Bladder, D)Lungs",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person141_bacteria_670.jpeg",
+        "problem": "What content appears in this image? A)Uterus (for females), B)Stomach, C)Lungs, D)Liver",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person139_bacteria_662.jpeg",
+        "problem": "What content appears in this image? A)Uterus (for females), B)Spleen, C)Thymus, D)Lungs",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person126_bacteria_599.jpeg",
+        "problem": "What is depicted in this visual representation? A)Thymus, B)Lungs, C)Liver, D)Adrenal glands",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person121_bacteria_576.jpeg",
+        "problem": "What is featured in this picture? A)Heart, B)Thyroid gland, C)Bladder, D)Lungs",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person120_bacteria_570.jpeg",
+        "problem": "What content appears in this image? A)Adrenal glands, B)Lungs, C)Heart, D)Prostate (for males)",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person114_bacteria_544.jpeg",
+        "problem": "What content appears in this image? A)Prostate (for males), B)Brain, C)Lungs, D)Liver",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person113_bacteria_541.jpeg",
+        "problem": "What is shown in the image? A)Thyroid gland, B)Kidneys, C)Lungs, D)Gallbladder",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person110_bacteria_531.jpeg",
+        "problem": "What content appears in this image? A)Lungs, B)Adrenal glands, C)Kidneys, D)Pancreas",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person109_bacteria_527.jpeg",
+        "problem": "What content appears in this image? A)Lungs, B)Brain, C)Uterus (for females), D)Gallbladder",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person109_bacteria_526.jpeg",
+        "problem": "What content appears in this image? A)Intestines, B)Lungs, C)Stomach, D)Pancreas",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person109_bacteria_513.jpeg",
+        "problem": "What content appears in this image? A)Uterus (for females), B)Heart, C)Lungs, D)Prostate (for males)",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person108_bacteria_507.jpeg",
+        "problem": "What content appears in this image? A)Gallbladder, B)Kidneys, C)Thyroid gland, D)Lungs",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person108_bacteria_504.jpeg",
+        "problem": "What content appears in this image? A)Pancreas, B)Lungs, C)Heart, D)Uterus (for females)",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person104_bacteria_492.jpeg",
+        "problem": "What content appears in this image? A)Intestines, B)Thyroid gland, C)Lungs, D)Heart",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person91_bacteria_447.jpeg",
+        "problem": "What content appears in this image? A)Lungs, B)Heart, C)Uterus (for females), D)Kidneys",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person83_bacteria_409.jpeg",
+        "problem": "What content appears in this image? A)Lungs, B)Intestines, C)Heart, D)Prostate (for males)",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person82_bacteria_402.jpeg",
+        "problem": "What is depicted in this picture's content? A)Stomach, B)Gallbladder, C)Spleen, D)Lungs",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person81_bacteria_395.jpeg",
+        "problem": "What is depicted in this image? A)Lungs, B)Bladder, C)Intestines, D)Kidneys",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person70_virus_130.jpeg",
+        "problem": "What content appears in this image? A)Prostate (for males), B)Thyroid gland, C)Lungs, D)Gallbladder",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person52_virus_106.jpeg",
+        "problem": "What content appears in this image? A)Thymus, B)Lungs, C)Heart, D)Gallbladder",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person50_virus_102.jpeg",
+        "problem": "What content appears in this image? A)Pancreas, B)Lungs, C)Thymus, D)Bladder",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person48_virus_100.jpeg",
+        "problem": "What content appears in this image? A)Lungs, B)Pancreas, C)Bladder, D)Thyroid gland",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person44_virus_93.jpeg",
+        "problem": "What content appears in this image? A)Brain, B)Thymus, C)Prostate (for males), D)Lungs",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person40_virus_87.jpeg",
+        "problem": "What is depicted in this picture's content? A)Liver, B)Uterus (for females), C)Pancreas, D)Lungs",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person38_virus_83.jpeg",
+        "problem": "What content appears in this image? A)Stomach, B)Prostate (for males), C)Pancreas, D)Lungs",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person31_virus_70.jpeg",
+        "problem": "What do you see in the image? A)Lungs, B)Bladder, C)Gallbladder, D)Heart",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person21_virus_52.jpeg",
+        "problem": "What content appears in this image? A)Kidneys, B)Lungs, C)Adrenal glands, D)Bladder",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person1_virus_7.jpeg",
+        "problem": "What content appears in this image? A)Thymus, B)Lungs, C)Prostate (for males), D)Brain",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person1_virus_12.jpeg",
+        "problem": "What content appears in this image? A)Lungs, B)Thyroid gland, C)Bladder, D)Stomach",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person173_bacteria_831.jpeg",
+        "problem": "What is the visible content in this picture? A)Lungs, B)Prostate (for males), C)Thyroid gland, D)Thymus",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person1679_virus_2896.jpeg",
+        "problem": "What content appears in this image? A)Adrenal glands, B)Lungs, C)Prostate (for males), D)Kidneys",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person1664_virus_2877.jpeg",
+        "problem": "What content appears in this image? A)Lungs, B)Adrenal glands, C)Spleen, D)Pancreas",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person1655_virus_2861.jpeg",
+        "problem": "What content appears in this image? A)Lungs, B)Adrenal glands, C)Stomach, D)Heart",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person1642_virus_2842.jpeg",
+        "problem": "What is the content depicted in this picture? A)Lungs, B)Kidneys, C)Prostate (for males), D)Spleen",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/IM-0011-0001-0002.jpeg",
+        "problem": "What is the observed state of the lungs depicted in the image? A)The lungs appear emphysematous and filled with air pockets., B)The lungs appear scarred and weakened., C)The image shows damaged and non-functional lungs., D)The lungs appear healthy and normal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/IM-0009-0001.jpeg",
+        "problem": "What does the image of the lungs in this case show? A)The image shows lungs with fluid accumulation and pulmonary edema., B)The lungs appear diseased and abnormal., C)The lungs in the image appear fibrotic and stiff, indicating a lung disease., D)The lungs appear healthy and normal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/NORMAL2-IM-0052-0001.jpeg",
+        "problem": "What does the image indicate about the lungs? A)The image shows damaged and non-functional lungs., B)The lungs in the image appear fibrotic and stiff, indicating a lung disease., C)The lungs appear diseased and abnormal., D)The lungs appear healthy and normal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/NORMAL2-IM-0019-0001.jpeg",
+        "problem": "What is the apparent state of the lungs depicted in this image? A)The lungs in the image show signs of infection and inflammation., B)The image depicts lungs with tumors and cancerous growths., C)The lungs in the image are enlarged and congested., D)The lungs appear healthy and normal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/IM-0109-0001.jpeg",
+        "problem": "What is the condition of the lungs in this image? A)The lungs appear healthy and normal., B)The image displays lungs with collapsed and collapsed airways., C)The image shows damaged and non-functional lungs., D)The lungs in the image show signs of infection and inflammation.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/IM-0086-0001.jpeg",
+        "problem": "What is the apparent state of the lungs in this image? A)The lungs appear emphysematous and filled with air pockets., B)The lungs appear healthy and normal., C)The image shows damaged and non-functional lungs., D)The lungs appear diseased and abnormal.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/IM-0045-0001.jpeg",
+        "problem": "What does the image of the lungs indicate in terms of their condition? A)The image shows lungs with fluid accumulation and pulmonary edema., B)The lungs appear diseased and abnormal., C)The lungs appear healthy and normal., D)The lungs in the image appear fibrotic and stiff, indicating a lung disease.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/IM-0027-0001.jpeg",
+        "problem": "What is the appearance of the lungs in this image? A)The image shows lungs with fluid accumulation and pulmonary edema., B)The lungs appear scarred and weakened., C)The lungs appear diseased and abnormal., D)The lungs appear healthy and normal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/NORMAL2-IM-0336-0001.jpeg",
+        "problem": "What does the image show in terms of lung condition? A)The lungs appear scarred and weakened., B)The image displays lungs with collapsed and collapsed airways., C)The lungs appear emphysematous and filled with air pockets., D)The lungs appear healthy and normal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/NORMAL2-IM-0316-0001.jpeg",
+        "problem": "Is the lung condition in this image normal and healthy? A)The lungs appear scarred and weakened., B)The lungs appear healthy and normal., C)The lungs in the image appear fibrotic and stiff, indicating a lung disease., D)The lungs in the image show signs of infection and inflammation.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/NORMAL2-IM-0300-0001.jpeg",
+        "problem": "What can be observed about the state of the lungs in this image? A)The image shows damaged and non-functional lungs., B)The image depicts lungs with tumors and cancerous growths., C)The lungs in the image show signs of infection and inflammation., D)The lungs appear healthy and normal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/NORMAL2-IM-0283-0001.jpeg",
+        "problem": "What is the apparent state of the lungs as depicted in the image? A)The lungs in the image are enlarged and congested., B)The lungs in the image show signs of infection and inflammation., C)The lungs appear diseased and abnormal., D)The lungs appear healthy and normal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/NORMAL2-IM-0281-0001.jpeg",
+        "problem": "What does the image show about the lungs' condition? A)The lungs appear healthy and normal., B)The image shows lungs with fluid accumulation and pulmonary edema., C)The lungs in the image show signs of infection and inflammation., D)The image shows damaged and non-functional lungs.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/NORMAL2-IM-0252-0001.jpeg",
+        "problem": "What is the apparent status of the lungs depicted in this image? A)The lungs in the image are enlarged and congested., B)The image displays lungs with collapsed and collapsed airways., C)The lungs in the image show signs of infection and inflammation., D)The lungs appear healthy and normal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/NORMAL2-IM-0251-0001.jpeg",
+        "problem": "What is the apparent state of the lungs depicted in this image? A)The lungs in the image show signs of infection and inflammation., B)The lungs appear healthy and normal., C)The lungs in the image are enlarged and congested., D)The lungs appear diseased and abnormal.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/NORMAL2-IM-0249-0001.jpeg",
+        "problem": "What is the assessment of the lung status in this image? A)The lungs appear healthy and normal., B)The image depicts lungs with tumors and cancerous growths., C)The lungs in the image are enlarged and congested., D)The image shows damaged and non-functional lungs.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/NORMAL2-IM-0246-0001.jpeg",
+        "problem": "Is the condition of the lungs in this image healthy and normal? A)The lungs appear diseased and abnormal., B)The lungs appear healthy and normal., C)The lungs appear scarred and weakened., D)The lungs in the image are enlarged and congested.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/NORMAL2-IM-0238-0001.jpeg",
+        "problem": "What is the apparent status of the lungs depicted in this image? A)The image depicts lungs with tumors and cancerous growths., B)The image shows lungs with fluid accumulation and pulmonary edema., C)The lungs appear healthy and normal., D)The image displays lungs with collapsed and collapsed airways.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/NORMAL2-IM-0206-0001.jpeg",
+        "problem": "What is the apparent state of the lungs in this image? A)The lungs appear emphysematous and filled with air pockets., B)The lungs appear diseased and abnormal., C)The lungs in the image show signs of infection and inflammation., D)The lungs appear healthy and normal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/NORMAL2-IM-0171-0001.jpeg",
+        "problem": "What is the state of the lungs observed in this image? A)The image shows lungs with fluid accumulation and pulmonary edema., B)The lungs appear healthy and normal., C)The image shows damaged and non-functional lungs., D)The lungs in the image are enlarged and congested.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/NORMAL2-IM-0135-0001.jpeg",
+        "problem": "How would you describe the lungs in this image? A)The lungs appear healthy and normal., B)The lungs in the image appear fibrotic and stiff, indicating a lung disease., C)The lungs appear scarred and weakened., D)The image shows lungs with fluid accumulation and pulmonary edema.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/NORMAL2-IM-0131-0001.jpeg",
+        "problem": "What can be said about the lungs in this image? A)The lungs appear scarred and weakened., B)The lungs appear healthy and normal., C)The image shows damaged and non-functional lungs., D)The lungs appear emphysematous and filled with air pockets.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/NORMAL2-IM-0129-0001.jpeg",
+        "problem": "What is the assessment of the lung status in this image? A)The lungs appear healthy and normal., B)The lungs in the image appear fibrotic and stiff, indicating a lung disease., C)The image depicts lungs with tumors and cancerous growths., D)The lungs appear diseased and abnormal.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/NORMAL2-IM-0110-0001.jpeg",
+        "problem": "What is the observed condition of the lungs in this image? A)The image displays lungs with collapsed and collapsed airways., B)The lungs appear scarred and weakened., C)The lungs appear healthy and normal., D)The lungs appear emphysematous and filled with air pockets.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/NORMAL2-IM-0380-0001.jpeg",
+        "problem": "What does the image of the lungs in question indicate about their condition? A)The image shows lungs with fluid accumulation and pulmonary edema., B)The lungs in the image are enlarged and congested., C)The image depicts lungs with tumors and cancerous growths., D)The lungs appear healthy and normal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/NORMAL2-IM-0368-0001.jpeg",
+        "problem": "What does the image of the lungs indicate about their condition? A)The lungs appear scarred and weakened., B)The lungs appear healthy and normal., C)The image shows damaged and non-functional lungs., D)The lungs in the image appear fibrotic and stiff, indicating a lung disease.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/NORMAL2-IM-0349-0001.jpeg",
+        "problem": "How do the lungs appear in this image? A)The lungs in the image are enlarged and congested., B)The lungs appear scarred and weakened., C)The image depicts lungs with tumors and cancerous growths., D)The lungs appear healthy and normal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/NORMAL2-IM-0348-0001.jpeg",
+        "problem": "What do the lungs look like in this image? A)The image shows lungs with fluid accumulation and pulmonary edema., B)The lungs in the image appear fibrotic and stiff, indicating a lung disease., C)The image shows damaged and non-functional lungs., D)The lungs appear healthy and normal.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/NORMAL2-IM-0339-0001.jpeg",
+        "problem": "How would you describe the lungs in this image? A)The lungs appear emphysematous and filled with air pockets., B)The lungs appear healthy and normal., C)The lungs appear scarred and weakened., D)The image shows lungs with fluid accumulation and pulmonary edema.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person1627_virus_2819.jpeg",
+        "problem": "What is the medical condition represented by the image? A)Pneumonia, B)Emphysema, C)Common cold, D)Pulmonary fibrosis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person159_bacteria_746.jpeg",
+        "problem": "What is the condition depicted in this image's diagnosis? A)Lung cancer, B)Influenza, C)Pneumonia, D)Pleurisy",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person154_bacteria_728.jpeg",
+        "problem": "What is the diagnosis for the condition depicted in this image? A)Pneumonia, B)Tuberculosis, C)Common cold, D)Sinusitis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person153_bacteria_725.jpeg",
+        "problem": "What is the diagnosis for the condition depicted in this image? A)Asthma, B)Common cold, C)Pneumonia, D)Pulmonary fibrosis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person151_bacteria_718.jpeg",
+        "problem": "What condition is seen in this image? A)Pneumonia, B)Pulmonary fibrosis, C)Lung cancer, D)Influenza",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person143_bacteria_687.jpeg",
+        "problem": "What is the diagnosis for the condition depicted in this image? A)Pleurisy, B)Lung cancer, C)Pneumonia, D)Sinusitis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person141_bacteria_681.jpeg",
+        "problem": "What condition is illustrated in this image? A)Pneumonia, B)Pleurisy, C)Lung cancer, D)Tuberculosis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person139_bacteria_661.jpeg",
+        "problem": "What is the diagnosis for the condition depicted in this image? A)Bronchitis, B)Influenza, C)Pneumonia, D)Common cold",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person134_bacteria_644.jpeg",
+        "problem": "What medical condition is represented in the visual illustration? A)Influenza, B)Pneumonia, C)Pleurisy, D)Tuberculosis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person130_bacteria_627.jpeg",
+        "problem": "What medical condition does this image reveal? A)Pneumonia, B)Pleurisy, C)Asthma, D)Tuberculosis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person119_bacteria_567.jpeg",
+        "problem": "What condition is this image displaying? A)Tuberculosis, B)Pneumonia, C)Influenza, D)Bronchitis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person114_bacteria_544.jpeg",
+        "problem": "What medical condition is indicated by the image displayed? A)Tuberculosis, B)Influenza, C)Pneumonia, D)Common cold",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person113_bacteria_540.jpeg",
+        "problem": "What medical condition does the image demonstrate? A)Asthma, B)Pneumonia, C)Lung cancer, D)Pulmonary fibrosis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person109_bacteria_523.jpeg",
+        "problem": "What medical condition is evident in this image? A)Pneumonia, B)Tuberculosis, C)Lung cancer, D)Pulmonary fibrosis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person102_bacteria_487.jpeg",
+        "problem": "What is the specific medical condition portrayed in the image? A)Tuberculosis, B)Pneumonia, C)Influenza, D)Asthma",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person96_bacteria_464.jpeg",
+        "problem": "What is the diagnosis for the condition depicted in this image? A)Pneumonia, B)Asthma, C)Lung cancer, D)Common cold",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person94_bacteria_458.jpeg",
+        "problem": "What condition is evidenced by the image? A)Sinusitis, B)Pneumonia, C)Pulmonary fibrosis, D)Lung cancer",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person86_bacteria_429.jpeg",
+        "problem": "What condition is being shown in this image's diagnosis? A)Pneumonia, B)Common cold, C)Asthma, D)Influenza",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person83_bacteria_409.jpeg",
+        "problem": "What condition does the image illustrate? A)Pneumonia, B)Bronchitis, C)Pleurisy, D)Sinusitis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person69_virus_129.jpeg",
+        "problem": "What medical condition does the image represent? A)Tuberculosis, B)Pneumonia, C)Sinusitis, D)Common cold",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person60_virus_117.jpeg",
+        "problem": "What is the diagnosis for the condition depicted in this image? A)Pneumonia, B)Common cold, C)Emphysema, D)Tuberculosis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person48_virus_100.jpeg",
+        "problem": "What is the diagnosis for the condition depicted in this image? A)Influenza, B)Pneumonia, C)Pulmonary fibrosis, D)Pleurisy",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person3_virus_15.jpeg",
+        "problem": "What is the diagnosis for the condition depicted in this image? A)Asthma, B)Tuberculosis, C)Pneumonia, D)Sinusitis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person34_virus_76.jpeg",
+        "problem": "What condition is being shown in this image? A)Pleurisy, B)Pneumonia, C)Influenza, D)Sinusitis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person33_virus_72.jpeg",
+        "problem": "What medical condition is indicated by the appearance shown in this image? A)Pneumonia, B)Pleurisy, C)Emphysema, D)Influenza",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person32_virus_71.jpeg",
+        "problem": "What is the diagnosis for the condition depicted in this image? A)Pulmonary fibrosis, B)Bronchitis, C)Asthma, D)Pneumonia",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person25_virus_59.jpeg",
+        "problem": "What is the diagnosis for the condition depicted in this image? A)Bronchitis, B)Pneumonia, C)Influenza, D)Sinusitis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person21_virus_53.jpeg",
+        "problem": "What is the diagnosis for the condition depicted in this image? A)Pneumonia, B)Influenza, C)Pulmonary fibrosis, D)Pleurisy",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person1_virus_9.jpeg",
+        "problem": "What is the medical term for the condition portrayed in this picture? A)Bronchitis, B)Pneumonia, C)Tuberculosis, D)Sinusitis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person1_virus_7.jpeg",
+        "problem": "What condition is diagnosed based on the image provided? A)Bronchitis, B)Pulmonary fibrosis, C)Pneumonia, D)Emphysema",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person1_virus_12.jpeg",
+        "problem": "What is the diagnosis for the condition depicted in this image? A)Pneumonia, B)Sinusitis, C)Pulmonary fibrosis, D)Bronchitis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person172_bacteria_827.jpeg",
+        "problem": "What is the diagnosis for the condition depicted in this image? A)Sinusitis, B)Lung cancer, C)Pleurisy, D)Pneumonia",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person1669_virus_2885.jpeg",
+        "problem": "What medical condition does this image represent? A)Pneumonia, B)Emphysema, C)Common cold, D)Sinusitis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/CoronaHack/test/person1650_virus_2854.jpeg",
+        "problem": "What is the diagnosis for the condition depicted in this image? A)Pulmonary fibrosis, B)Influenza, C)Sinusitis, D)Pneumonia",
+        "solution": "<answer> D </answer>"
+    }
+]

@@ -1,0 +1,522 @@
+[
+    {
+        "image": "Images/PALM2019/T0022.jpg",
+        "problem": "Through which diagnostic technique was this picture obtained? A)Magnetic resonance imaging (MRI), B)Positron emission tomography (PET) scan, C)Fluoroscopy, D)fundus photography",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0051.jpg",
+        "problem": "Which imaging technique was employed to obtain this image? A)Mammography, B)fundus photography, C)Ultrasound imaging, D)Electroencephalography (EEG)",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0143.jpg",
+        "problem": "What type of imaging was utilized to produce this image? A)fundus photography, B)Magnetic resonance imaging (MRI), C)Computed tomography (CT) scan, D)Nuclear medicine imaging",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0158.jpg",
+        "problem": "Which type of imaging was employed to obtain this image? A)Endoscopy, B)Mammography, C)fundus photography, D)Ultrasound imaging",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0185.jpg",
+        "problem": "Through which technique was this picture obtained? A)X-ray imaging, B)Ultrasound imaging, C)Positron emission tomography (PET) scan, D)fundus photography",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0187.jpg",
+        "problem": "What imaging modality was used to capture this image? A)Positron emission tomography (PET) scan, B)Electroencephalography (EEG), C)Mammography, D)fundus photography",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0210.jpg",
+        "problem": "What was the imaging modality used to obtain this image? A)fundus photography, B)Positron emission tomography (PET) scan, C)Mammography, D)Nuclear medicine imaging",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0286.jpg",
+        "problem": "Through which imaging technique was this picture obtained? A)Nuclear medicine imaging, B)Fluoroscopy, C)fundus photography, D)Positron emission tomography (PET) scan",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0292.jpg",
+        "problem": "What imaging modality was used to capture this image? A)X-ray imaging, B)Magnetic resonance imaging (MRI), C)Nuclear medicine imaging, D)fundus photography",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0299.jpg",
+        "problem": "What imaging modality was used to capture this image? A)fundus photography, B)Computed tomography (CT) scan, C)Endoscopy, D)Fluoroscopy",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0352.jpg",
+        "problem": "What imaging modality was used to capture this image? A)Magnetic resonance imaging (MRI), B)Mammography, C)Computed tomography (CT) scan, D)fundus photography",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0355.jpg",
+        "problem": "What imaging modality was used to capture this image? A)fundus photography, B)Magnetic resonance imaging (MRI), C)Mammography, D)Electroencephalography (EEG)",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0022.jpg",
+        "problem": "Through which imaging technique was this picture obtained? A)Computed tomography (CT) scan, B)Positron emission tomography (PET) scan, C)Endoscopy, D)fundus photography",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0041.jpg",
+        "problem": "What type of imaging technique was utilized to obtain this picture? A)Magnetic resonance imaging (MRI), B)fundus photography, C)Electroencephalography (EEG), D)Mammography",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0146.jpg",
+        "problem": "What method of imaging was utilized for capturing this image? A)Ultrasound imaging, B)Endoscopy, C)fundus photography, D)Electroencephalography (EEG)",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0148.jpg",
+        "problem": "What imaging modality was used to capture this image? A)Magnetic resonance imaging (MRI), B)Mammography, C)Fluoroscopy, D)fundus photography",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0149.jpg",
+        "problem": "Through which diagnostic technique was this picture obtained? A)fundus photography, B)Electroencephalography (EEG), C)Fluoroscopy, D)Magnetic resonance imaging (MRI)",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0173.jpg",
+        "problem": "What specific modality of imaging was utilized to obtain this image? A)Mammography, B)Nuclear medicine imaging, C)X-ray imaging, D)fundus photography",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0181.jpg",
+        "problem": "What was the imaging technique employed to obtain this image? A)Fluoroscopy, B)fundus photography, C)Endoscopy, D)Ultrasound imaging",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0231.jpg",
+        "problem": "What imaging modality was used to capture this image? A)Ultrasound imaging, B)Magnetic resonance imaging (MRI), C)Endoscopy, D)fundus photography",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0276.jpg",
+        "problem": "What imaging modality was used to capture this image? A)Nuclear medicine imaging, B)Endoscopy, C)fundus photography, D)Computed tomography (CT) scan",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0303.jpg",
+        "problem": "Which imaging technique was utilized to obtain this image? A)Fluoroscopy, B)Electroencephalography (EEG), C)Computed tomography (CT) scan, D)fundus photography",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0327.jpg",
+        "problem": "What type of imaging technique was utilized to capture this image? A)Computed tomography (CT) scan, B)Positron emission tomography (PET) scan, C)fundus photography, D)Mammography",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0332.jpg",
+        "problem": "What imaging modality was used to capture this image? A)Magnetic resonance imaging (MRI), B)Ultrasound imaging, C)Electroencephalography (EEG), D)fundus photography",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0355.jpg",
+        "problem": "Through which imaging technique was this picture obtained? A)X-ray imaging, B)Magnetic resonance imaging (MRI), C)Mammography, D)fundus photography",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0006.jpg",
+        "problem": "Is there any indication of abnormalities in this image? A)The abnormalities in this image are consistent with age-related macular degeneration., B)In this image, there are no apparent abnormalities. It represents a normal or fundus of high myopia., C)The image shows a significant deviation from the normal fundus appearance., D)This image shows a severe abnormality in the fundus.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0042.jpg",
+        "problem": "Is there any abnormality present in these images? A)In this image, there are no apparent abnormalities. It represents a normal or fundus of high myopia., B)The abnormality in this image is consistent with diabetic retinopathy., C)The presence of multiple abnormalities is evident in this image., D)There is a conspicuous abnormality in the optic nerve head in this image.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0049.jpg",
+        "problem": "Is there any abnormalities observed in this image? A)The abnormalities in this image are consistent with age-related macular degeneration., B)The image shows a significant deviation from the normal fundus appearance., C)In this image, there are no apparent abnormalities. It represents a normal or fundus of high myopia., D)The anomalies visible in this image suggest a retinal detachment.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0068.jpg",
+        "problem": "Is there anything abnormal present in these images? A)There is a clear indication of a retinal anomaly in this image., B)This image displays a normal fundus with low myopia., C)In this image, there are no apparent abnormalities. It represents a normal or fundus of high myopia., D)The abnormalities in this image are consistent with age-related macular degeneration.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0083.jpg",
+        "problem": "Is there any anomalies present in these images? A)The presence of multiple abnormalities is evident in this image., B)The abnormality in this image is consistent with diabetic retinopathy., C)In this image, there are no apparent abnormalities. It represents a normal or fundus of high myopia., D)There is a clear indication of a retinal anomaly in this image.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0099.jpg",
+        "problem": "Is there any presence of abnormalities in this image? A)The anomalies in this image indicate the presence of glaucoma., B)In this image, there are no apparent abnormalities. It represents a normal or fundus of high myopia., C)The abnormality in this image is consistent with diabetic retinopathy., D)The presence of multiple abnormalities is evident in this image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0135.jpg",
+        "problem": "Is there any presence of abnormalities in the images? A)There is a clear indication of a retinal anomaly in this image., B)This image displays a normal fundus with low myopia., C)In this image, there are no apparent abnormalities. It represents a normal or fundus of high myopia., D)The presence of multiple abnormalities is evident in this image.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0147.jpg",
+        "problem": "Is there any observable abnormalities in this image? A)In this image, there are no apparent abnormalities. It represents a normal or fundus of high myopia., B)There is a conspicuous abnormality in the optic nerve head in this image., C)The image shows a significant deviation from the normal fundus appearance., D)This image displays a normal fundus with low myopia.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0169.jpg",
+        "problem": "Is there any evidence of abnormality in these images? A)This image displays a normal fundus with low myopia., B)The abnormalities in this image are consistent with age-related macular degeneration., C)In this image, there are no apparent abnormalities. It represents a normal or fundus of high myopia., D)The image shows a significant deviation from the normal fundus appearance.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0197.jpg",
+        "problem": "Is there any evidence of abnormalities in this image? A)There is a clear indication of a retinal anomaly in this image., B)The abnormality in this image is consistent with diabetic retinopathy., C)The anomalies in this image indicate the presence of glaucoma., D)In this image, there are no apparent abnormalities. It represents a normal or fundus of high myopia.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0226.jpg",
+        "problem": "Is there any evidence of abnormality in these images? A)In this image, there are no apparent abnormalities. It represents a normal or fundus of high myopia., B)The anomalies in this image indicate the presence of glaucoma., C)This image displays a normal fundus with low myopia., D)The abnormalities in this image are consistent with age-related macular degeneration.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0252.jpg",
+        "problem": "Is there any indication of abnormalities in these images? A)This image displays a normal fundus with low myopia., B)In this image, there are no apparent abnormalities. It represents a normal or fundus of high myopia., C)The abnormality in this image is consistent with diabetic retinopathy., D)There is a conspicuous abnormality in the optic nerve head in this image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0281.jpg",
+        "problem": "Is there any indication of abnormalities in these images? A)The anomalies visible in this image suggest a retinal detachment., B)There is a conspicuous abnormality in the optic nerve head in this image., C)The abnormality in this image is consistent with diabetic retinopathy., D)In this image, there are no apparent abnormalities. It represents a normal or fundus of high myopia.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0295.jpg",
+        "problem": "Is there any indication of abnormalities present in these images? A)The presence of multiple abnormalities is evident in this image., B)This image shows a severe abnormality in the fundus., C)This image displays a normal fundus with low myopia., D)In this image, there are no apparent abnormalities. It represents a normal or fundus of high myopia.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0310.jpg",
+        "problem": "Is there any indication of abnormalities in these images? A)The abnormality in this image is consistent with diabetic retinopathy., B)This image shows a severe abnormality in the fundus., C)In this image, there are no apparent abnormalities. It represents a normal or fundus of high myopia., D)The image shows a significant deviation from the normal fundus appearance.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0316.jpg",
+        "problem": "Is there any presence of anomalies or abnormalities in this image? A)The presence of multiple abnormalities is evident in this image., B)In this image, there are no apparent abnormalities. It represents a normal or fundus of high myopia., C)There is a clear indication of a retinal anomaly in this image., D)The anomalies in this image indicate the presence of glaucoma.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0330.jpg",
+        "problem": "Is there any indication of anomalies in these images? A)This image shows a severe abnormality in the fundus., B)The anomalies visible in this image suggest a retinal detachment., C)In this image, there are no apparent abnormalities. It represents a normal or fundus of high myopia., D)The anomalies in this image indicate the presence of glaucoma.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0366.jpg",
+        "problem": "Is there any indication of anomalies in this image? A)In this image, there are no apparent abnormalities. It represents a normal or fundus of high myopia., B)This image shows a severe abnormality in the fundus., C)The presence of multiple abnormalities is evident in this image., D)This image displays a normal fundus with low myopia.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0382.jpg",
+        "problem": "Is there anything abnormal present in these images? A)In this image, there are no apparent abnormalities. It represents a normal or fundus of high myopia., B)The abnormalities in this image are consistent with age-related macular degeneration., C)The abnormality in this image is consistent with diabetic retinopathy., D)There is a conspicuous abnormality in the optic nerve head in this image.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0006.jpg",
+        "problem": "Is there any evidence of abnormalities present in these images? A)In this image, there are no apparent abnormalities. It represents a normal or fundus of high myopia., B)The anomalies visible in this image suggest a retinal detachment., C)This image displays a normal fundus with low myopia., D)The presence of multiple abnormalities is evident in this image.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0031.jpg",
+        "problem": "Is there any abnormalities present in this image? A)The presence of multiple abnormalities is evident in this image., B)There is a clear indication of a retinal anomaly in this image., C)In this image, there are no apparent abnormalities. It represents a normal or fundus of high myopia., D)This image shows a severe abnormality in the fundus.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0045.jpg",
+        "problem": "Is there any abnormality observed in this image? A)In this image, there are no apparent abnormalities. It represents a normal or fundus of high myopia., B)The anomalies in this image indicate the presence of glaucoma., C)This image displays a normal fundus with low myopia., D)The image shows a significant deviation from the normal fundus appearance.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0056.jpg",
+        "problem": "Is there any evidence of abnormalities in these images? A)The presence of multiple abnormalities is evident in this image., B)This image shows a severe abnormality in the fundus., C)In this image, there are no apparent abnormalities. It represents a normal or fundus of high myopia., D)The abnormality in this image is consistent with diabetic retinopathy.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0057.jpg",
+        "problem": "Is there any evidence of abnormalities present in this image? A)The image shows a significant deviation from the normal fundus appearance., B)The abnormalities in this image are consistent with age-related macular degeneration., C)In this image, there are no apparent abnormalities. It represents a normal or fundus of high myopia., D)This image displays a normal fundus with low myopia.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0119.jpg",
+        "problem": "Is there any abnormality present in these images? A)There is a clear indication of a retinal anomaly in this image., B)There is a conspicuous abnormality in the optic nerve head in this image., C)This image shows a severe abnormality in the fundus., D)In this image, there are no apparent abnormalities. It represents a normal or fundus of high myopia.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0125.jpg",
+        "problem": "Is there any anomalies present in these images? A)There is a clear indication of a retinal anomaly in this image., B)In this image, there are no apparent abnormalities. It represents a normal or fundus of high myopia., C)This image shows a severe abnormality in the fundus., D)The abnormality in this image is consistent with diabetic retinopathy.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0142.jpg",
+        "problem": "Is there any indication of abnormalities in this image? A)In this image, there are no apparent abnormalities. It represents a normal or fundus of high myopia., B)The presence of multiple abnormalities is evident in this image., C)There is a conspicuous abnormality in the optic nerve head in this image., D)There is a clear indication of a retinal anomaly in this image.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0152.jpg",
+        "problem": "Is there any indication of abnormalities in these images? A)In this image, there are no apparent abnormalities. It represents a normal or fundus of high myopia., B)This image shows a severe abnormality in the fundus., C)This image displays a normal fundus with low myopia., D)The abnormality in this image is consistent with diabetic retinopathy.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0155.jpg",
+        "problem": "Is there any evidence of abnormalities in the image? A)In this image, there are no apparent abnormalities. It represents a normal or fundus of high myopia., B)The anomalies in this image indicate the presence of glaucoma., C)There is a clear indication of a retinal anomaly in this image., D)There is a conspicuous abnormality in the optic nerve head in this image.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0156.jpg",
+        "problem": "Is there any sign of abnormalities in this image? A)In this image, there are no apparent abnormalities. It represents a normal or fundus of high myopia., B)The anomalies in this image indicate the presence of glaucoma., C)The image shows a significant deviation from the normal fundus appearance., D)This image displays a normal fundus with low myopia.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0159.jpg",
+        "problem": "Is there any evidence of abnormalities present in these images? A)In this image, there are no apparent abnormalities. It represents a normal or fundus of high myopia., B)The anomalies in this image indicate the presence of glaucoma., C)There is a clear indication of a retinal anomaly in this image., D)This image displays a normal fundus with low myopia.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0192.jpg",
+        "problem": "Is there any indication of abnormalities in these images? A)In this image, there are no apparent abnormalities. It represents a normal or fundus of high myopia., B)This image displays a normal fundus with low myopia., C)The anomalies visible in this image suggest a retinal detachment., D)The anomalies in this image indicate the presence of glaucoma.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0214.jpg",
+        "problem": "Is there evidence of any irregularities in these images? A)In this image, there are no apparent abnormalities. It represents a normal or fundus of high myopia., B)The abnormalities in this image are consistent with age-related macular degeneration., C)This image shows a severe abnormality in the fundus., D)This image displays a normal fundus with low myopia.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0217.jpg",
+        "problem": "Is there any abnormalities present in this image? A)This image displays a normal fundus with low myopia., B)In this image, there are no apparent abnormalities. It represents a normal or fundus of high myopia., C)There is a clear indication of a retinal anomaly in this image., D)The image shows a significant deviation from the normal fundus appearance.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0231.jpg",
+        "problem": "Is there any sign of abnormalities in this image? A)There is a conspicuous abnormality in the optic nerve head in this image., B)This image shows a severe abnormality in the fundus., C)The presence of multiple abnormalities is evident in this image., D)In this image, there are no apparent abnormalities. It represents a normal or fundus of high myopia.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0239.jpg",
+        "problem": "Is there any indication of abnormalities in this image? A)The presence of multiple abnormalities is evident in this image., B)In this image, there are no apparent abnormalities. It represents a normal or fundus of high myopia., C)There is a conspicuous abnormality in the optic nerve head in this image., D)The image shows a significant deviation from the normal fundus appearance.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0290.jpg",
+        "problem": "Is there any presence of anomalies or abnormalities in this image? A)There is a clear indication of a retinal anomaly in this image., B)The abnormalities in this image are consistent with age-related macular degeneration., C)In this image, there are no apparent abnormalities. It represents a normal or fundus of high myopia., D)The image shows a significant deviation from the normal fundus appearance.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0327.jpg",
+        "problem": "Is there any abnormalities observed in this image? A)There is a clear indication of a retinal anomaly in this image., B)In this image, there are no apparent abnormalities. It represents a normal or fundus of high myopia., C)The abnormalities in this image are consistent with age-related macular degeneration., D)The abnormality in this image is consistent with diabetic retinopathy.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0368.jpg",
+        "problem": "Is there any indication of anomalies in these images? A)In this image, there are no apparent abnormalities. It represents a normal or fundus of high myopia., B)The anomalies in this image indicate the presence of glaucoma., C)The presence of multiple abnormalities is evident in this image., D)The image shows a significant deviation from the normal fundus appearance.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0382.jpg",
+        "problem": "Are there any abnormalities present in these images? A)The abnormality in this image is consistent with diabetic retinopathy., B)There is a conspicuous abnormality in the optic nerve head in this image., C)The presence of multiple abnormalities is evident in this image., D)In this image, there are no apparent abnormalities. It represents a normal or fundus of high myopia.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0004.jpg",
+        "problem": "What abnormalities can be observed in this image? A)pathologic myopia., B)Optic neuritis, C)Age-related macular degeneration, D)Retinitis pigmentosa",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0007.jpg",
+        "problem": "What is the term used to describe the abnormalities seen in this image? A)pathologic myopia., B)Retinal detachment, C)Cataracts, D)Color blindness",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0036.jpg",
+        "problem": "What is the diagnosis for the observed abnormalities in this image? A)Glaucoma, B)Optic neuritis, C)Retinal detachment, D)pathologic myopia.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0066.jpg",
+        "problem": "What condition is evident from the abnormalities in this image? A)Color blindness, B)Cataracts, C)Astigmatism, D)pathologic myopia.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0069.jpg",
+        "problem": "What abnormalities can be observed in this image? A)Retinal detachment, B)Amblyopia, C)pathologic myopia., D)Optic neuritis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0082.jpg",
+        "problem": "What is the specific abnormality present in this image? A)Retinal detachment, B)pathologic myopia., C)Amblyopia, D)Cataracts",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0107.jpg",
+        "problem": "What is the diagnosis for the observed abnormalities in this image? A)Glaucoma, B)Amblyopia, C)Astigmatism, D)pathologic myopia.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0116.jpg",
+        "problem": "What is the diagnosis for the abnormalities observed in this image? A)Color blindness, B)Diabetic retinopathy, C)pathologic myopia., D)Age-related macular degeneration",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0122.jpg",
+        "problem": "What is the term for the condition characterized by abnormal myopia observed in this image? A)Retinitis pigmentosa, B)Diabetic retinopathy, C)Cataracts, D)pathologic myopia.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0123.jpg",
+        "problem": "What abnormalities can be observed in this image? A)Retinal detachment, B)pathologic myopia., C)Optic neuritis, D)Diabetic retinopathy",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0158.jpg",
+        "problem": "What abnormalities can be observed in this image? A)Diabetic retinopathy, B)Cataracts, C)pathologic myopia., D)Amblyopia",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0177.jpg",
+        "problem": "What is the diagnosis for the abnormalities observed in this image? A)pathologic myopia., B)Amblyopia, C)Cataracts, D)Astigmatism",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0206.jpg",
+        "problem": "What abnormalities can be observed in this image? A)Age-related macular degeneration, B)Retinal detachment, C)Astigmatism, D)pathologic myopia.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0232.jpg",
+        "problem": "What is the diagnosis for the abnormalities observed in this image? A)pathologic myopia., B)Amblyopia, C)Astigmatism, D)Glaucoma",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0263.jpg",
+        "problem": "What is the potential diagnosis for the observed abnormalities in this image? A)pathologic myopia., B)Cataracts, C)Color blindness, D)Retinal detachment",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0266.jpg",
+        "problem": "What is the diagnosis for the abnormalities observed in this image? A)Amblyopia, B)Retinal detachment, C)Diabetic retinopathy, D)pathologic myopia.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0268.jpg",
+        "problem": "What is the diagnosis of the abnormalities observed in this image? A)pathologic myopia., B)Retinal detachment, C)Age-related macular degeneration, D)Optic neuritis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0270.jpg",
+        "problem": "What condition or disorder is indicated by the abnormalities in this image? A)Optic neuritis, B)Amblyopia, C)Astigmatism, D)pathologic myopia.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0347.jpg",
+        "problem": "What abnormalities can be observed in this image? A)Glaucoma, B)Age-related macular degeneration, C)pathologic myopia., D)Color blindness",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0360.jpg",
+        "problem": "What condition or disorder is indicated by the abnormalities in this image? A)Cataracts, B)Astigmatism, C)pathologic myopia., D)Amblyopia",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/PALM2019/T0388.jpg",
+        "problem": "What is the term used to describe the observed abnormalities in this image? A)Age-related macular degeneration, B)pathologic myopia., C)Retinal detachment, D)Cataracts",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0019.jpg",
+        "problem": "What is the term for the visual abnormalities seen in this image? A)Retinal detachment, B)Glaucoma, C)Amblyopia, D)pathologic myopia.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0043.jpg",
+        "problem": "What abnormalities can be observed in this image? A)Retinitis pigmentosa, B)pathologic myopia., C)Optic neuritis, D)Age-related macular degeneration",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0044.jpg",
+        "problem": "What abnormalities can be observed in this image? A)Optic neuritis, B)pathologic myopia., C)Cataracts, D)Diabetic retinopathy",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0075.jpg",
+        "problem": "What can be seen as an abnormality in this image? A)pathologic myopia., B)Amblyopia, C)Color blindness, D)Astigmatism",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0085.jpg",
+        "problem": "What abnormalities can be observed in this image? A)Astigmatism, B)Cataracts, C)Glaucoma, D)pathologic myopia.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0184.jpg",
+        "problem": "What is the name of the condition that can be identified in this image? A)pathologic myopia., B)Cataracts, C)Optic neuritis, D)Retinitis pigmentosa",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0211.jpg",
+        "problem": "What is the diagnosis for the abnormalities seen in this image? A)Cataracts, B)pathologic myopia., C)Optic neuritis, D)Age-related macular degeneration",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0234.jpg",
+        "problem": "What is the potential diagnosis for the observed abnormalities in this image? A)pathologic myopia., B)Glaucoma, C)Diabetic retinopathy, D)Retinitis pigmentosa",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0270.jpg",
+        "problem": "What abnormalities can be observed in this image? A)pathologic myopia., B)Color blindness, C)Diabetic retinopathy, D)Age-related macular degeneration",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0288.jpg",
+        "problem": "What condition is indicated by the abnormalities observed in this image? A)Cataracts, B)pathologic myopia., C)Diabetic retinopathy, D)Optic neuritis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0303.jpg",
+        "problem": "What is the term for the observed abnormalities in this image? A)Optic neuritis, B)Astigmatism, C)pathologic myopia., D)Cataracts",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0314.jpg",
+        "problem": "What abnormalities can be observed in this image? A)Astigmatism, B)Color blindness, C)pathologic myopia., D)Glaucoma",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0320.jpg",
+        "problem": "What condition is being depicted in the provided picture? A)Astigmatism, B)Cataracts, C)pathologic myopia., D)Age-related macular degeneration",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0347.jpg",
+        "problem": "What abnormalities can be observed in this image? A)pathologic myopia., B)Astigmatism, C)Optic neuritis, D)Retinal detachment",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0375.jpg",
+        "problem": "What can be seen in this image that indicates pathologic myopia? A)Optic neuritis, B)Retinitis pigmentosa, C)pathologic myopia., D)Astigmatism",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0384.jpg",
+        "problem": "What is the diagnosis for the abnormalities observed in this image? A)pathologic myopia., B)Age-related macular degeneration, C)Amblyopia, D)Glaucoma",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0385.jpg",
+        "problem": "What is the observed abnormality in this image? A)pathologic myopia., B)Amblyopia, C)Age-related macular degeneration, D)Retinal detachment",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/PALM2019/V0396.jpg",
+        "problem": "What abnormalities can be observed in this image? A)Astigmatism, B)Amblyopia, C)Optic neuritis, D)pathologic myopia.",
+        "solution": "<answer> D </answer>"
+    }
+]

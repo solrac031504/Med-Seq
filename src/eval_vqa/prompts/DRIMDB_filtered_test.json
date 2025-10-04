@@ -1,0 +1,117 @@
+[
+    {
+        "image": "Images/DRIMDB/d037e329e2be4af89b9f3059aba207eb_s.jpg",
+        "problem": "What type of imaging method was utilized to obtain this image? A)Retinal fundus imaging., B)Computed tomography (CT) scan, C)Mammography, D)X-ray imaging",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/drimdb_bad (10).jpg",
+        "problem": "What is the specific quality of the retinal image based on the three-class grading system? A)It's a good retinal image., B)It's a outlier retinal image., C)it's a bad retinal image.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/drimdb_bad (18).jpg",
+        "problem": "What specific image quality does this image possess when using a three-class grading system consisting of good, bad, and outlier classes? A)it's a bad retinal image., B)It's a outlier retinal image., C)It's a good retinal image.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/94943f477a6f464f8d9466b0522ab186.jpg",
+        "problem": "What is the specific quality classification for this retinal image using a three-class grading system? A)it's a bad retinal image., B)It's a good retinal image., C)It's a outlier retinal image.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/8bb4fc39a94d4b129861c62d7aa054b2.jpg",
+        "problem": "What is the specific grading of this retinal image in terms of image quality? A)it's a bad retinal image., B)It's a outlier retinal image., C)It's a good retinal image.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/drimdb_bad (7).jpg",
+        "problem": "What is the classification of the image quality of this retinal image based on the three-class grading system? A)It's a outlier retinal image., B)It's a good retinal image., C)it's a bad retinal image.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/5bbdf20a97214568b79e8fa32307cfcf.jpg",
+        "problem": "What classification does this retinal image receive based on its image quality in the three-class grading system? A)It's a good retinal image., B)it's a bad retinal image., C)It's a outlier retinal image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/drimdb_good (117).jpg",
+        "problem": "What is the classification of the retinal image quality in this image using a three-class grading system? A)It's a bad retinal image., B)it's a good retinal image., C)It's a outlier retinal image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/56cc89dda1524aeb807df561dfc1ac09_s.jpg",
+        "problem": "Retinal image quality assessment (IQA) is a crucial process for automated retinal image analysis systems to obtain an accurate and successful diagnosis of retinal diseases. if we used a three-class grading system that consists of good, bad, and outlier classes.  What specific image quality of in this image? A)It's a outlier retinal image., B)It's a bad retinal image., C)it's a good retinal image.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/fb8da7f2a97b40748fa8ff4d5c7656fe_s.jpg",
+        "problem": "Retinal image quality assessment (IQA) is a crucial process for automated retinal image analysis systems to obtain an accurate and successful diagnosis of retinal diseases. if we used a three-class grading system that consists of good, bad, and outlier classes.  What specific image quality of in this image? A)It's a bad retinal image., B)it's a good retinal image., C)It's a outlier retinal image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/drimdb_good (80).jpg",
+        "problem": "Retinal image quality assessment (IQA) is a crucial process for automated retinal image analysis systems to obtain an accurate and successful diagnosis of retinal diseases. if we used a three-class grading system that consists of good, bad, and outlier classes.  What specific image quality of in this image? A)it's a good retinal image., B)It's a outlier retinal image., C)It's a bad retinal image.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/fb8da7f2a97b40748fa8ff4d5c7656fe.jpg",
+        "problem": "What is the specific classification of the image quality in the retinal image using a three-class grading system? A)It's a outlier retinal image., B)It's a bad retinal image., C)it's a good retinal image.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/0b49ed42a83e44c495ad7e2dd8838cae.jpg",
+        "problem": "What quality does this retinal image possess according to the three-class grading system? A)It's a outlier retinal image., B)It's a bad retinal image., C)it's a good retinal image.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/65ff31afdba64e43aeca5eb9e9c33721_s.jpg",
+        "problem": "What is the classification of the image quality of this retinal image using a three-class grading system? A)it's a good retinal image., B)It's a bad retinal image., C)It's a outlier retinal image.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/553c15b8d6cf48d5a7d1f99d0ade3a83_s.jpg",
+        "problem": "What is the classification of the image quality in the retinal image using a three-class grading system consisting of good, bad, and outlier classes? A)It's a outlier retinal image., B)It's a bad retinal image., C)it's a good retinal image.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/3c33e6acdb514387bac48b985f409000_s.jpg",
+        "problem": "What is the classification of the image quality of this retinal image using a three-class grading system that includes good, bad, and outlier classes? A)It's a bad retinal image., B)it's a good retinal image., C)It's a outlier retinal image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/27273ead65fc4b1091c19912381fce65_s.jpg",
+        "problem": "What is the classification of the retinal image quality in this image using a three-class grading system? A)it's a good retinal image., B)It's a bad retinal image., C)It's a outlier retinal image.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/74bdf5b01d5f4ce38ae3f6f0a8566f38_s.jpg",
+        "problem": "What is the classification of the retinal image quality in this image according to the three-class grading system? A)It's a outlier retinal image., B)It's a bad retinal image., C)it's a good retinal image.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/f936626bf18a4180a8d4c1008006ec4f.jpg",
+        "problem": "Retinal image quality assessment (IQA) is a crucial process for automated retinal image analysis systems to obtain an accurate and successful diagnosis of retinal diseases. if we used a three-class grading system that consists of good, bad, and outlier classes.  What specific image quality of in this image? A)It's a bad retinal image., B)it's a good retinal image., C)It's a outlier retinal image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/drimdb_outlier (6).jpg",
+        "problem": "What classification does this image fall into in terms of retinal image quality? A)It's a good retinal image., B)It's a bad retinal image., C)it's a outlier retinal image.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/drimdb_outlier (2).jpg",
+        "problem": "What specific classification does this retinal image receive when using a three-class grading system for image quality assessment? A)it's a outlier retinal image., B)It's a good retinal image., C)It's a bad retinal image.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/drimdb_outlier (5).jpg",
+        "problem": "Retinal image quality assessment (IQA) is a crucial process for automated retinal image analysis systems to obtain an accurate and successful diagnosis of retinal diseases. if we used a three-class grading system that consists of good, bad, and outlier classes.  What specific image quality of in this image? A)It's a good retinal image., B)it's a outlier retinal image., C)It's a bad retinal image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/DRIMDB/0529b383795c4f5dbbcb9a698035de56.jpg",
+        "problem": "What classification does this retinal image fall into in terms of image quality? A)It's a good retinal image., B)it's a outlier retinal image., C)It's a bad retinal image.",
+        "solution": "<answer> B </answer>"
+    }
+]

@@ -1,0 +1,542 @@
+[
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_01-014_W84_OS_fundus_OS_W84.tif",
+        "problem": "What method of imaging was employed to obtain this image? A)The imaging modality used for this image is PET scan., B)The imaging modality used for this image is fundus photography., C)The imaging modality used for this image is mammography., D)The imaging modality used for this image is endoscopy.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_02-005_W24_OS_fundus_W24.tif",
+        "problem": "What method was utilized to obtain this image in the medical field? A)The imaging modality used for this image is nuclear medicine scan., B)The imaging modality used for this image is endoscopy., C)The imaging modality used for this image is fundus photography., D)The imaging modality used for this image is PET scan.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_Monthly_0216MOD_V17_OS_fundus_OS_V17.tif",
+        "problem": "What imaging modality was used to capture this image? A)The imaging modality used for this image is mammography., B)The imaging modality used for this image is angiography., C)The imaging modality used for this image is fundus photography., D)The imaging modality used for this image is MRI.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_01-035_W48_OD_fundus_OD_W48.tif",
+        "problem": "Which diagnostic imaging technique produced this picture? A)The imaging modality used for this image is endoscopy., B)The imaging modality used for this image is fundus photography., C)The imaging modality used for this image is CT scan., D)The imaging modality used for this image is X-ray.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_GILA_0234GOD_V8_OD_fundus_OD_V8.tif",
+        "problem": "Which method of imaging was employed to obtain this image? A)The imaging modality used for this image is X-ray., B)The imaging modality used for this image is endoscopy., C)The imaging modality used for this image is fundus photography., D)The imaging modality used for this image is angiography.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_01-002_W40_OS_fundus_W40.tif",
+        "problem": "What type of imaging technique was employed to capture this image? A)The imaging modality used for this image is fundus photography., B)The imaging modality used for this image is X-ray., C)The imaging modality used for this image is thermography., D)The imaging modality used for this image is MRI.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_TREX_0207TOS_V4_OS_TREXC_001.tif",
+        "problem": "What method of capturing images was employed to obtain this specific image? A)The imaging modality used for this image is mammography., B)The imaging modality used for this image is PET scan., C)The imaging modality used for this image is fundus photography., D)The imaging modality used for this image is endoscopy.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_TREX_0231TOD_V12_OS_TREXN_001.tif",
+        "problem": "Which diagnostic technique produced this picture? A)The imaging modality used for this image is angiography., B)The imaging modality used for this image is X-ray., C)The imaging modality used for this image is fundus photography., D)The imaging modality used for this image is CT scan.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_TREX_0228TOS_V10_OD_fundus_OD_V10.tif",
+        "problem": "What imaging modality was used to capture this image? A)The imaging modality used for this image is fundus photography., B)The imaging modality used for this image is CT scan., C)The imaging modality used for this image is ultrasound., D)The imaging modality used for this image is X-ray.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_GILA_0239GOD_V7_OS_TREXC_001.tif",
+        "problem": "What imaging modality was used to capture this image? A)The imaging modality used for this image is X-ray., B)The imaging modality used for this image is mammography., C)The imaging modality used for this image is fundus photography., D)The imaging modality used for this image is angiography.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_TREX_0228TOS_V9_OS_fundus_OS_V9.tif",
+        "problem": "What type of imaging was employed to capture this image? A)The imaging modality used for this image is fundus photography., B)The imaging modality used for this image is mammography., C)The imaging modality used for this image is ultrasound., D)The imaging modality used for this image is nuclear medicine scan.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_02-041_W44_OD_fundus_OD_W44.tif",
+        "problem": "What imaging modality was used to capture this image? A)The imaging modality used for this image is thermography., B)The imaging modality used for this image is fundus photography., C)The imaging modality used for this image is MRI., D)The imaging modality used for this image is nuclear medicine scan.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_GILA_0249GOS_V1_OD_TREXA_001.tif",
+        "problem": "What type of imaging technique was employed to acquire this image? A)The imaging modality used for this image is fundus photography., B)The imaging modality used for this image is nuclear medicine scan., C)The imaging modality used for this image is thermography., D)The imaging modality used for this image is ultrasound.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_Monthly_0204MOD_V20_OS_fundus_OS_V20.tif",
+        "problem": "What specific imaging technique was utilized to capture this visual representation? A)The imaging modality used for this image is CT scan., B)The imaging modality used for this image is thermography., C)The imaging modality used for this image is MRI., D)The imaging modality used for this image is fundus photography.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_02-042_W60_OD_fundus_OD_W60.tif",
+        "problem": "What type of imaging technology was utilized to capture this image? A)The imaging modality used for this image is fundus photography., B)The imaging modality used for this image is nuclear medicine scan., C)The imaging modality used for this image is CT scan., D)The imaging modality used for this image is mammography.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_02-018_W4_OD_fundus_OD_W4.tif",
+        "problem": "Which imaging modality was utilized to obtain this image? A)The imaging modality used for this image is PET scan., B)The imaging modality used for this image is nuclear medicine scan., C)The imaging modality used for this image is fundus photography., D)The imaging modality used for this image is angiography.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_02-042_W0_OS 2_fundus_OS 2_W0.tif",
+        "problem": "What type of imaging technique was employed to record this image? A)The imaging modality used for this image is nuclear medicine scan., B)The imaging modality used for this image is PET scan., C)The imaging modality used for this image is fundus photography., D)The imaging modality used for this image is CT scan.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_TREX_0254TOD_V8_OS_fundus_OS_V8.tif",
+        "problem": "What modality was utilized to capture this image in the field of medical imaging? A)The imaging modality used for this image is fundus photography., B)The imaging modality used for this image is X-ray., C)The imaging modality used for this image is nuclear medicine scan., D)The imaging modality used for this image is thermography.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_TREX_0242TOS_V8_OS_TREXO_001.tif",
+        "problem": "Which modality of imaging was utilized to acquire this image? A)The imaging modality used for this image is CT scan., B)The imaging modality used for this image is fundus photography., C)The imaging modality used for this image is X-ray., D)The imaging modality used for this image is mammography.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_02-036_W60_OD_fundus_OD_W60.tif",
+        "problem": "What modality was employed to obtain this image? A)The imaging modality used for this image is X-ray., B)The imaging modality used for this image is fundus photography., C)The imaging modality used for this image is thermography., D)The imaging modality used for this image is mammography.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_02-016_W0_OS_fundus_W0.tif",
+        "problem": "What imaging modality was used to capture this image? A)The imaging modality used for this image is fundus photography., B)The imaging modality used for this image is ultrasound., C)The imaging modality used for this image is angiography., D)The imaging modality used for this image is thermography.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_GILA_0217GOS_V11_OD_fundus_OD_V11.tif",
+        "problem": "What type of imaging was employed to obtain this image? A)The imaging modality used for this image is mammography., B)The imaging modality used for this image is fundus photography., C)The imaging modality used for this image is thermography., D)The imaging modality used for this image is nuclear medicine scan.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_TREX_0255TOD_V4_OS_TREXK_001.tif",
+        "problem": "Which diagnostic technique generated this picture? A)The imaging modality used for this image is fundus photography., B)The imaging modality used for this image is endoscopy., C)The imaging modality used for this image is PET scan., D)The imaging modality used for this image is nuclear medicine scan.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_GILA_0241GOD_V7_OD_TREXJ_001.tif",
+        "problem": "What type of imaging technique was employed to capture this image? A)The imaging modality used for this image is thermography., B)The imaging modality used for this image is fundus photography., C)The imaging modality used for this image is X-ray., D)The imaging modality used for this image is ultrasound.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_Monthly_0206MOD_V17_OD_fundus_OD_V17.tif",
+        "problem": "What type of medical imaging was utilized to capture this particular image? A)The imaging modality used for this image is fundus photography., B)The imaging modality used for this image is X-ray., C)The imaging modality used for this image is CT scan., D)The imaging modality used for this image is nuclear medicine scan.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_TREX_0235TOS_V1_OD_TREXB_001.tif",
+        "problem": "What was the imaging modality utilized to acquire this image? A)The imaging modality used for this image is mammography., B)The imaging modality used for this image is fundus photography., C)The imaging modality used for this image is ultrasound., D)The imaging modality used for this image is PET scan.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_GILA_0213GOD_V9_OD_TREXC_001.tif",
+        "problem": "Which diagnostic imaging technique produced this picture? A)The imaging modality used for this image is endoscopy., B)The imaging modality used for this image is angiography., C)The imaging modality used for this image is thermography., D)The imaging modality used for this image is fundus photography.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_01-002_W12_OD_fundus_OD_W12.tif",
+        "problem": "What type of imaging was employed to capture this image? A)The imaging modality used for this image is fundus photography., B)The imaging modality used for this image is MRI., C)The imaging modality used for this image is mammography., D)The imaging modality used for this image is ultrasound.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_02-046_W48_OD_fundus_OD_W48.tif",
+        "problem": "What type of imaging was employed to capture this image? A)The imaging modality used for this image is thermography., B)The imaging modality used for this image is mammography., C)The imaging modality used for this image is nuclear medicine scan., D)The imaging modality used for this image is fundus photography.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_02-045_W20_OS_fundus_OS_W20.tif",
+        "problem": "What imaging modality was used to capture this image? A)The imaging modality used for this image is PET scan., B)The imaging modality used for this image is fundus photography., C)The imaging modality used for this image is X-ray., D)The imaging modality used for this image is mammography.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_02-034_W0_OD_fundus_OD_W0.tif",
+        "problem": "What type of imaging was employed to capture this image? A)The imaging modality used for this image is mammography., B)The imaging modality used for this image is fundus photography., C)The imaging modality used for this image is MRI., D)The imaging modality used for this image is endoscopy.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_01-040_W52_OS_fundus_W52.tif",
+        "problem": "What modality was utilized to acquire this image? A)The imaging modality used for this image is fundus photography., B)The imaging modality used for this image is X-ray., C)The imaging modality used for this image is CT scan., D)The imaging modality used for this image is mammography.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_02-010_W16_OD_fundus_W16.tif",
+        "problem": "Is this the oculus dexter or oculus sinister? A)left eye, B)right eye",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_GILA_0204GOS_V11_OD_fundus_OD_V11.tif",
+        "problem": "Which eye is the correct eye, the right eye (oculus dexter) or the left eye (oculus sinister)? A)right eye, B)left eye",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_Monthly_0249MOD_V8_OD_TREXA_001.tif",
+        "problem": "Am I referring to the oculus dexter or the oculus sinister? A)left eye, B)right eye",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_TREX_0243TOS_V22_OD_TREXW_001.tif",
+        "problem": "Is this the oculus dexter or the oculus sinister? A)left eye, B)right eye",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_Monthly_0210MOD_V15_OD_fundus_OD_V15.tif",
+        "problem": "Which eye is being referred to: the right eye (oculus dexter) or the left eye (oculus sinister)? A)left eye, B)right eye",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_Monthly_0206MOD_V24_OD_fundus_OD_V24.tif",
+        "problem": "Which eye is this, the right eye or the left eye? A)left eye, B)right eye",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_02-031_W68_OD_fundus_W68.tif",
+        "problem": "Which eye is this, the right eye or the left eye? A)right eye, B)left eye",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_02-004_W4_OD_fundus_W4.tif",
+        "problem": "Are we referring to the oculus dexter or the oculus sinister? A)left eye, B)right eye",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_02-015_W36_OD_fundus_W36.tif",
+        "problem": "Am I referring to the oculus dexter or the oculus sinister? A)right eye, B)left eye",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_01-013_W16_OD_fundus_W16.tif",
+        "problem": "Are we referring to the oculus dexter or oculus sinister? A)right eye, B)left eye",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_GILA_0217GOS_V15_OD_fundus_OD_V15.tif",
+        "problem": "Are we referring to the oculus dexter or oculus sinister? A)right eye, B)left eye",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_TREX_0226TOS_V1_OD_fundus_OD_V1.tif",
+        "problem": "Which-eye is this, the right eye or the left eye? A)right eye, B)left eye",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_GILA_0238GOD_V13_OD_fundus_OD_V13.tif",
+        "problem": "Which eye is it, the right eye (oculus dexter) or the left eye (oculus sinister)? A)right eye, B)left eye",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_01-047_W44_OD_fundus_OD_W44.tif",
+        "problem": "Am I referring to the oculus dexter or the oculus sinister? A)left eye, B)right eye",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_02-031_W48_OD_fundus_W48.tif",
+        "problem": "Are we referring to the oculus dexter or the oculus sinister? A)left eye, B)right eye",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_01-047_W52_OD_fundus_W52.tif",
+        "problem": "Which eye are we referring to, the right eye or the left eye? A)right eye, B)left eye",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_02-024_W36_OD_fundus_OD_W36.tif",
+        "problem": "Which eye is this? A)right eye, B)left eye",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_Monthly_0245MOD_V3_OD_fundus_OD_V3.tif",
+        "problem": "Are we referring to the oculus dexter or the oculus sinister? A)left eye, B)right eye",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_Monthly_0210MOD_V20_OD_TREXJ_001.tif",
+        "problem": "Is this the eye on the right side or the left side? A)right eye, B)left eye",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_Monthly_0210MOD_V14_OD_fundus_OD_V14.tif",
+        "problem": "Am I referring to the oculus dexter or oculus sinister? A)left eye, B)right eye",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_02-045_W92_OD_fundus_W92.tif",
+        "problem": "Which eye is this, oculus dexter (right eye) or oculus sinister (left eye)? A)right eye, B)left eye",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_Monthly_0245MOD_V19_OD_fundus_OD_V19.tif",
+        "problem": "Which eye is this, the right or the left? A)right eye, B)left eye",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_01-040_W92_OD_fundus_W92.tif",
+        "problem": "Am I referring to the oculus dexter or the oculus sinister? A)right eye, B)left eye",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_Monthly_0222MOS_V17_OD_fundus_OD_V17.tif",
+        "problem": "Which eye is this, oculus dexter or oculus sinister? A)right eye, B)left eye",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_02-030_W36_OD_fundus_OD_W36.tif",
+        "problem": "Are we referring to the oculus dexter or the oculus sinister? A)left eye, B)right eye",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_GILA_0213GOD_V2_OD_fundus_OD_V2.tif",
+        "problem": "Are we referring to the left eye (oculus sinister) or the right eye (oculus dexter)? A)left eye, B)right eye",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_Monthly_0206MOD_V7_OD_fundus_OD_V7.tif",
+        "problem": "Which eye is it, the right eye (oculus dexter) or the left eye (oculus sinister)? A)right eye, B)left eye",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_Monthly_0222MOS_V20_OD_fundus_OD_V20.tif",
+        "problem": "Which eye is referred to as oculus dexter, the right or the left? A)right eye, B)left eye",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_GILA_0238GOD_V1_OD_fundus_OD_V1.tif",
+        "problem": "Am I referring to the oculus dexter or the oculus sinister? A)right eye, B)left eye",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_GILA_0232GOD_V13_OD_fundus_OD_V13.tif",
+        "problem": "Which eye is this, the right eye or the left eye? A)left eye, B)right eye",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_01-038_W48_OD_fundus_W48.tif",
+        "problem": "Which eye is referred to as oculus dexter, the right or the left? A)left eye, B)right eye",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_02-036_W84_OD 2_fundus_OD 2_W84.tif",
+        "problem": "Which eye is this: right eye (oculus dexter) or left eye (oculus sinister)? A)left eye, B)right eye",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_02-005_W40_OD_fundus_W40.tif",
+        "problem": "Which eye is it, the right eye or the left eye? A)left eye, B)right eye",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_GILA_0243GOD_V10_OD_fundus_OD_V10.tif",
+        "problem": "Which eye is this - the right eye or the left eye? A)right eye, B)left eye",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_02-008_W32_OD_fundus_OD_W32.tif",
+        "problem": "Which eye is this - the oculus dexter or the oculus sinister? A)right eye, B)left eye",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_TREX_0226TOS_V6_OD_TREXW_001.tif",
+        "problem": "Am I referring to the oculus dexter or the oculus sinister? A)left eye, B)right eye",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_TREX_0235TOS_V1_OD_TREXB_001.tif",
+        "problem": "Which eye is referred to as oculus dexter, the right or the left? A)left eye, B)right eye",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_Monthly_0216MOD_V25_OD_fundus_OD_V25.tif",
+        "problem": "Is this the eye labeled as oculus dexter or oculus sinister? A)left eye, B)right eye",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_02-043_W44_OD_fundus_W44.tif",
+        "problem": "Is this the eye labeled as oculus dexter or oculus sinister? A)left eye, B)right eye",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_01-027_W60_OD_fundus_OD_W60.tif",
+        "problem": "Which eye is this, the right eye or the left eye? A)left eye, B)right eye",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_Monthly_0248MOD_V21_OD_fundus_OD_V21.tif",
+        "problem": "Am I referring to the oculus dexter or the oculus sinister? A)right eye, B)left eye",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_02-024_W40_OD_fundus_W40.tif",
+        "problem": "Which eye is this, the right eye or the left eye? A)left eye, B)right eye",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_01-023_W32_OD_fundus_W32.tif",
+        "problem": "Are we referring to the oculus dexter or the oculus sinister? A)left eye, B)right eye",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_01-027_W40_OD_fundus_W40.tif",
+        "problem": "Which eye is this, the right eye or the left eye? A)left eye, B)right eye",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_01-047_W28_OD_fundus_OD_W28.tif",
+        "problem": "Is this the right eye (oculus dexter) or the left eye (oculus sinister)? A)left eye, B)right eye",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_01-014_W84_OS_fundus_OS_W84.tif",
+        "problem": "Is this the oculus dexter or oculus sinister? A)left eye, B)right eye",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_01-027_W0_OS_fundus_OS_W0.tif",
+        "problem": "Which eye is referred to as oculus dexter, the right or the left? A)left eye, B)right eye",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_TREX_0243TOS_V12_OS_TREXW_001.tif",
+        "problem": "Which eye is this: right eye or left eye? A)right eye, B)left eye",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_01-047_W48_OS_fundus_OS_W48.tif",
+        "problem": "Is this the right eye (oculus dexter) or the left eye (oculus sinister)? A)right eye, B)left eye",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_GILA_0229GOD_V5_OS_fundus_OS_V5.tif",
+        "problem": "Which eye is considered the left eye (oculus sinister) versus the right eye (oculus dexter)? A)left eye, B)right eye",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_GILA_0226GOD_V8_OS_fundus_OS_V8.tif",
+        "problem": "Which eye is this, the oculus dexter or the oculus sinister? A)left eye, B)right eye",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_TREX_0207TOS_V5_OS_fundus_OS_V5.tif",
+        "problem": "Is this the oculus dexter or oculus sinister? A)left eye, B)right eye",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_GILA_0241GOD_V7_OS_fundus_OS_V7.tif",
+        "problem": "Am I referring to the oculus dexter or oculus sinister? A)left eye, B)right eye",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_Monthly_0248MOD_V26_OS_TREXN_001.tif",
+        "problem": "Which eye is being referred to, the right eye or the left eye? A)right eye, B)left eye",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_TREX_0242TOS_V1_OS_fundus_OS_V1.tif",
+        "problem": "Which eye is this, the right eye or the oculus dexter, or the left eye or the oculus sinister? A)left eye, B)right eye",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_GILA_0239GOD_V1_OS_fundus_OS_V1.tif",
+        "problem": "Is this the oculus dexter or the oculus sinister? A)left eye, B)right eye",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_01-020_W20_OS_fundus_OS_W20.tif",
+        "problem": "Am I referring to the oculus dexter or the oculus sinister? A)left eye, B)right eye",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_Monthly_0253MOS_V1_OS_fundus_OS_V1.tif",
+        "problem": "Which eye is this, the right (oculus dexter) or the left (oculus sinister)? A)left eye, B)right eye",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_01-038_W44_OS_fundus_W44.tif",
+        "problem": "Are we discussing the oculus dexter or the oculus sinister? A)right eye, B)left eye",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_02-017_W24_OS_fundus_W24.tif",
+        "problem": "Is the eye in question the oculus dexter or oculus sinister? A)left eye, B)right eye",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_Monthly_0222MOS_V25_OS_fundus_OS_V25.tif",
+        "problem": "Is this the right eye (oculus dexter) or the left eye (oculus sinister)? A)right eye, B)left eye",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_01-014_W104_OS_fundus_OS_W104.tif",
+        "problem": "Are we referring to the left eye (oculus sinister) or the right eye (oculus dexter)? A)left eye, B)right eye",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_02-039_W16_OS_fundus_OS_W16.tif",
+        "problem": "Is this the right eye (oculus dexter) or the left eye (oculus sinister)? A)left eye, B)right eye",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_02-042_W0_OS 2_fundus_OS 2_W0.tif",
+        "problem": "Are we referring to the oculus dexter or oculus sinister? A)right eye, B)left eye",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_02-008_W0_OS_fundus_OS_W0.tif",
+        "problem": "Am I referring to the oculus dexter or oculus sinister? A)right eye, B)left eye",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_01-026_W28_OS_fundus_OS_W28.tif",
+        "problem": "Are we referring to the oculus dexter or the oculus sinister here? A)left eye, B)right eye",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_GILA_0201GOD_V6_OS_fundus_OS_V6.tif",
+        "problem": "Is this the oculus sinister or oculus dexter? A)left eye, B)right eye",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_GILA_0234GOD_V8_OS_TREXW_001.tif",
+        "problem": "Are we referring to the oculus dexter or oculus sinister? A)right eye, B)left eye",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_Monthly_0253MOS_V20_OS_fundus_OS_V20.tif",
+        "problem": "Are we referring to the oculus dexter or the oculus sinister? A)left eye, B)right eye",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_GILA_0215GOS_V1_OS_TREXS_001.tif",
+        "problem": "Which eye, the right eye or the left eye, is it? A)right eye, B)left eye",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/TREX DME_GILA_0249GOS_V6_OS_fundus_OS_V6.tif",
+        "problem": "Are we talking about the oculus dexter or the oculus sinister? A)left eye, B)right eye",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_02-017_W104_OS_fundus_W104.tif",
+        "problem": "Is this the oculus dexter or oculus sinister? A)right eye, B)left eye",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_02-036_W20_OS_fundus_W20.tif",
+        "problem": "Is this the right eye (oculus dexter) or the left eye (oculus sinister)? A)left eye, B)right eye",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_02-010_W4_OS_fundus_W4.tif",
+        "problem": "Which eye is this, the right eye or the left eye? A)left eye, B)right eye",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_02-024_W76_OS_fundus_W76.tif",
+        "problem": "Are we referring to the oculus dexter or oculus sinister? A)left eye, B)right eye",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/OLIVES/train/Prime_FULL_Prime_FULL_01-012_W36_OS_fundus_W36.tif",
+        "problem": "Am I referring to the oculus dexter or oculus sinister? A)left eye, B)right eye",
+        "solution": "<answer> A </answer>"
+    }
+]

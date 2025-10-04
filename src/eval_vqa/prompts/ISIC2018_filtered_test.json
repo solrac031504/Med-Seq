@@ -1,0 +1,282 @@
+[
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034357.jpg",
+        "problem": "What imaging modality is employed to acquire this picture? A)Dermoscopic imaging, B)Ultrasound imaging, C)Positron emission tomography (PET) scan, D)Mammography imaging",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034406.jpg",
+        "problem": "What is the imaging modality employed to obtain this picture? A)Mammography imaging, B)Electrocardiogram (ECG) imaging, C)Dermoscopic imaging, D)X-ray imaging",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034465.jpg",
+        "problem": "Which imaging modality is utilized to obtain this image? A)Positron emission tomography (PET) scan, B)Endoscopy imaging, C)Dermoscopic imaging, D)Nuclear medicine imaging",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034338.jpg",
+        "problem": "What part of the body is showcased in this image? A)Reproductive system, B)Muscles, C)Nervous system, D)Skin",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034361.jpg",
+        "problem": "Which body part is shown in the image? A)Lymphatic system, B)Urinary system, C)Muscles, D)Skin",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034394.jpg",
+        "problem": "What is the anatomical region depicted in this image? A)Skin, B)Muscles, C)Endocrine system, D)Bones",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034402.jpg",
+        "problem": "What is the anatomical location of the body that is being represented in this visual depiction? A)Endocrine system, B)Muscles, C)Nervous system, D)Skin",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034403.jpg",
+        "problem": "What is the anatomical region shown in the image? A)Respiratory system, B)Skin, C)Urinary system, D)Endocrine system",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034418.jpg",
+        "problem": "Which part of the body is shown in this image? A)Skin, B)Muscles, C)Cardiovascular system, D)Reproductive system",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034425.jpg",
+        "problem": "Which region of the body is depicted in this image? A)Urinary system, B)Skin, C)Endocrine system, D)Reproductive system",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034441.jpg",
+        "problem": "What specific part of the human body is shown in the provided image? A)Urinary system, B)Skin, C)Reproductive system, D)Respiratory system",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034443.jpg",
+        "problem": "What part of the body is illustrated in the picture? A)Skin, B)Endocrine system, C)Bones, D)Lymphatic system",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034452.jpg",
+        "problem": "What part of the human anatomy is being shown in the provided picture? A)Cardiovascular system, B)Respiratory system, C)Skin, D)Lymphatic system",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034454.jpg",
+        "problem": "Which region of the body is depicted in this image? A)Skin, B)Muscles, C)Reproductive system, D)Lymphatic system",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034455.jpg",
+        "problem": "What body part is illustrated in this picture? A)Skin, B)Lymphatic system, C)Cardiovascular system, D)Reproductive system",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034487.jpg",
+        "problem": "Which region of the body is depicted in this image? A)Lymphatic system, B)Skin, C)Bones, D)Reproductive system",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034500.jpg",
+        "problem": "What part of the human anatomy is being shown in the provided picture? A)Urinary system, B)Skin, C)Digestive system, D)Reproductive system",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034507.jpg",
+        "problem": "Which region of the body is depicted in this image? A)Reproductive system, B)Endocrine system, C)Skin, D)Bones",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034521.jpg",
+        "problem": "What anatomical part is illustrated in this picture? A)Bones, B)Skin, C)Endocrine system, D)Digestive system",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034376.jpg",
+        "problem": "What type of abnormality is present in this image? A)Vitiligo, B)Hemangioma, C)Actinic keratosis, D)Melanoma",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034438.jpg",
+        "problem": "What kind of anomaly is observed in this image? A)Vitiligo, B)Eczema, C)Melanoma, D)Actinic keratosis",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034482.jpg",
+        "problem": "What kind of irregularity can be observed in the provided picture? A)Hemangioma, B)Rosacea, C)Melanoma, D)Leukemia",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034497.jpg",
+        "problem": "What kind of irregularity is depicted in this photograph? A)Actinic keratosis, B)Carcinoma, C)Rosacea, D)Melanoma",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034322.jpg",
+        "problem": "What is the specific abnormality displayed in the image? A)Melanocytic nevus, B)Eczema, C)Dermatofibroma, D)Hemangioma",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034324.jpg",
+        "problem": "What kind of irregularity can be observed in the photograph? A)Melanocytic nevus, B)Malignant melanoma, C)Eczema, D)Dermatofibroma",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034342.jpg",
+        "problem": "What kind of anomaly can be observed in this picture? A)Malignant melanoma, B)Eczema, C)Melanocytic nevus, D)Rosacea",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034351.jpg",
+        "problem": "What is the abnormality observed in this image? A)Melanocytic nevus, B)Rosacea, C)Seborrheic keratosis, D)Acne vulgaris",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034352.jpg",
+        "problem": "What type of abnormality is present in this image? A)Psoriasis, B)Malignant melanoma, C)Rosacea, D)Melanocytic nevus",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034374.jpg",
+        "problem": "What type of abnormality is present in this image? A)Dermatofibroma, B)Hemangioma, C)Melanocytic nevus, D)Acne vulgaris",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034378.jpg",
+        "problem": "What is the presence of what type of abnormality is depicted in this image? A)Melanocytic nevus, B)Malignant melanoma, C)Eczema, D)Actinic keratosis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034395.jpg",
+        "problem": "What type of abnormality is present in this image? A)Melanocytic nevus, B)Rosacea, C)Malignant melanoma, D)Actinic keratosis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034399.jpg",
+        "problem": "What type of abnormality is present in this image? A)Rosacea, B)Melanocytic nevus, C)Psoriasis, D)Basal cell carcinoma",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034400.jpg",
+        "problem": "What type of abnormality is present in this image? A)Melanocytic nevus, B)Seborrheic keratosis, C)Hemangioma, D)Malignant melanoma",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034403.jpg",
+        "problem": "What kind of irregularity can be identified in the picture provided? A)Seborrheic keratosis, B)Actinic keratosis, C)Hemangioma, D)Melanocytic nevus",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034408.jpg",
+        "problem": "What type of abnormality is present in this image? A)Rosacea, B)Hemangioma, C)Actinic keratosis, D)Melanocytic nevus",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034425.jpg",
+        "problem": "What is the classification of the anomaly displayed in this image? A)Eczema, B)Dermatofibroma, C)Seborrheic keratosis, D)Melanocytic nevus",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034426.jpg",
+        "problem": "What is the nature of the anomaly seen in this picture? A)Melanocytic nevus, B)Seborrheic keratosis, C)Eczema, D)Hemangioma",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034443.jpg",
+        "problem": "What type of abnormality is present in this image? A)Melanocytic nevus, B)Hemangioma, C)Malignant melanoma, D)Seborrheic keratosis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034447.jpg",
+        "problem": "What is the nature of the anomaly shown in this image? A)Basal cell carcinoma, B)Actinic keratosis, C)Melanocytic nevus, D)Dermatofibroma",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034449.jpg",
+        "problem": "What type of abnormality is present in this image? A)Rosacea, B)Seborrheic keratosis, C)Basal cell carcinoma, D)Melanocytic nevus",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034461.jpg",
+        "problem": "What type of abnormality is present in this image? A)Acne vulgaris, B)Actinic keratosis, C)Melanocytic nevus, D)Dermatofibroma",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034475.jpg",
+        "problem": "What type of abnormality is present in this image? A)Malignant melanoma, B)Melanocytic nevus, C)Hemangioma, D)Basal cell carcinoma",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034476.jpg",
+        "problem": "What is the specific abnormality identified in this image? A)Rosacea, B)Melanocytic nevus, C)Actinic keratosis, D)Eczema",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034483.jpg",
+        "problem": "What type of abnormality is present in this image? A)Actinic keratosis, B)Melanocytic nevus, C)Rosacea, D)Seborrheic keratosis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034501.jpg",
+        "problem": "What is the term used to describe the anomaly in this picture? A)Melanocytic nevus, B)Basal cell carcinoma, C)Rosacea, D)Actinic keratosis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034503.jpg",
+        "problem": "What kind of anomaly is observable in this image? A)Malignant melanoma, B)Acne vulgaris, C)Melanocytic nevus, D)Basal cell carcinoma",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034518.jpg",
+        "problem": "What is the term used to describe the abnormality observed in this image? A)Seborrheic keratosis, B)Actinic keratosis, C)Hemangioma, D)Melanocytic nevus",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034519.jpg",
+        "problem": "What type of abnormality is present in this image? A)Malignant melanoma, B)Basal cell carcinoma, C)Eczema, D)Melanocytic nevus",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034344.jpg",
+        "problem": "What type of abnormality is present in this image? A)Rosacea, B)Psoriasis, C)Dermatitis, D)Basal cell carcinoma",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034404.jpg",
+        "problem": "What kind of pathological condition can be identified in the given picture? A)Basal cell carcinoma, B)Melanoma, C)Rosacea, D)Seborrheic keratosis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034478.jpg",
+        "problem": "What type of abnormality is present in this image? A)Mole (nevus), B)Basal cell carcinoma, C)Squamous cell carcinoma, D)Rosacea",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034486.jpg",
+        "problem": "What is the specific abnormality displayed in this image? A)Mole (nevus), B)Psoriasis, C)Rosacea, D)Basal cell carcinoma",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034410.jpg",
+        "problem": "What is the diagnosis for the anomaly shown in this image? A)Vitiligo, B)Squamous cell carcinoma, C)Melanoma, D)Actinic keratosis",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034427.jpg",
+        "problem": "What type of abnormality is present in this image? A)Actinic keratosis, B)Basal cell carcinoma, C)Allergic contact dermatitis, D)Melanoma",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034485.jpg",
+        "problem": "What is the specific abnormality that can be observed in the image? A)Bowen's disease, B)Verruca vulgaris, C)Basal cell carcinoma, D)Benign keratosis",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISIC2018/val/ISIC_0034500.jpg",
+        "problem": "What is the specific anomaly depicted in this image? A)Basal cell carcinoma, B)Bowen's disease, C)Benign keratosis, D)Dysplastic nevus",
+        "solution": "<answer> C </answer>"
+    }
+]

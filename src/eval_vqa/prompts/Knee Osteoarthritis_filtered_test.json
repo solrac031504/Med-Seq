@@ -1,0 +1,522 @@
+[
+    {
+        "image": "Images/Knee Osteoarthritis/test/0/9078889R.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)x_ray., B)Computed Tomography (CT) scan, C)Thermography, D)SPECT scan",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/0/9156307L.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)Magnetic Resonance Imaging (MRI), B)Ultrasound, C)x_ray., D)Computed Tomography (CT) scan",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/0/9197994R.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)x_ray., B)Gastrografin swallow, C)Cystography, D)Barium swallow",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/0/9236300L.png",
+        "problem": "What imaging technique was utilized to obtain this picture? A)Cystography, B)x_ray., C)Doppler ultrasound, D)Bone density scan",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/0/9273964R.png",
+        "problem": "What modality is used to capture this image? A)Myelogram, B)Fluoroscopy, C)Barium swallow, D)x_ray.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/0/9337068L.png",
+        "problem": "What imaging technique was employed to obtain this picture? A)Thermography, B)Arthroscopy, C)Thermographic imaging, D)x_ray.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/0/9337068R.png",
+        "problem": "Which imaging technique is utilized to obtain this picture? A)Echocardiogram, B)Nuclear Medicine scan, C)Angiography, D)x_ray.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/0/9363408R.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)Gastrografin swallow, B)Thermographic imaging, C)x_ray., D)Arthroscopy",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/0/9366178R.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)x_ray., B)Thermography, C)Myelogram, D)Computed Tomography (CT) scan",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/0/9596248R.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)Ultrasound, B)x_ray., C)Thermography, D)Barium swallow",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/0/9643521R.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)x_ray., B)Angiography, C)Bone density scan, D)SPECT scan",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/0/9721192L.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)Arthroscopy, B)Fluoroscopy, C)x_ray., D)Thermography",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/0/9733523L.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)Bone density scan, B)Positron Emission Tomography (PET) scan, C)Nuclear Medicine scan, D)x_ray.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/0/9778477R.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)x_ray., B)Cystography, C)Endoscopy, D)Myelogram",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/0/9781589R.png",
+        "problem": "What imaging technique is utilized to acquire this picture? A)Angiography, B)Thermography, C)x_ray., D)Fluoroscopy",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/0/9810475L.png",
+        "problem": "What modality is used to capture this image? A)Endoscopy, B)x_ray., C)Cystography, D)Doppler ultrasound",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/0/9833361R.png",
+        "problem": "What modality is used to capture this image? A)Cystography, B)Angiography, C)x_ray., D)Computed Tomography (CT) scan",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/0/9886808L.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)Computed Tomography (CT) scan, B)x_ray., C)Magnetic Resonance Imaging (MRI), D)Doppler ultrasound",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/0/9896668L.png",
+        "problem": "What imaging technique is utilized to acquire this picture? A)Barium swallow, B)Arthroscopy, C)Echocardiogram, D)x_ray.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/0/9924366L.png",
+        "problem": "What imaging technique is utilized to acquire this picture? A)SPECT scan, B)Endoscopy, C)x_ray., D)Barium swallow",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/0/9929175R.png",
+        "problem": "What imaging technique was employed to obtain this picture? A)x_ray., B)Thermographic imaging, C)Positron Emission Tomography (PET) scan, D)Barium swallow",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/0/9965823L.png",
+        "problem": "What type of imaging is utilized to obtain this picture? A)Endoscopy, B)x_ray., C)Fluoroscopy, D)Positron Emission Tomography (PET) scan",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/0/9993362L.png",
+        "problem": "Which imaging technique is employed to obtain this image? A)Myelogram, B)Gastrografin swallow, C)x_ray., D)Barium swallow",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/0/9998089L.png",
+        "problem": "What modality is used to capture this image? A)Endoscopy, B)Gastrografin swallow, C)Ultrasound, D)x_ray.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/1/9018291L.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)Ultrasound, B)Endoscopy, C)SPECT scan, D)x_ray.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/1/9157304R.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)Thermographic imaging, B)Myelogram, C)x_ray., D)Echocardiogram",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/1/9177408R.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)Gastrografin swallow, B)Angiography, C)x_ray., D)Positron Emission Tomography (PET) scan",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/1/9207798R.png",
+        "problem": "Which imaging technique is utilized to obtain this picture? A)Myelogram, B)x_ray., C)Endoscopy, D)Ultrasound",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/1/9245448R.png",
+        "problem": "What modality is used to capture this image? A)Arthroscopy, B)x_ray., C)Nuclear Medicine scan, D)Echocardiogram",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/1/9369649R.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)SPECT scan, B)Angiography, C)Cystography, D)x_ray.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/1/9397088R.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)Nuclear Medicine scan, B)Barium swallow, C)Myelogram, D)x_ray.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/1/9430234R.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)Bone density scan, B)Myelogram, C)Positron Emission Tomography (PET) scan, D)x_ray.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/1/9544188L.png",
+        "problem": "What imaging technique is utilized to capture this picture? A)x_ray., B)Fluoroscopy, C)Thermographic imaging, D)Arthroscopy",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/1/9589735R.png",
+        "problem": "Which technique was employed to obtain this image? A)Gastrografin swallow, B)x_ray., C)Cystography, D)Barium swallow",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/1/9597680R.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)Arthroscopy, B)x_ray., C)Myelogram, D)Echocardiogram",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/1/9728442L.png",
+        "problem": "What method is employed to acquire this picture? A)Angiography, B)Magnetic Resonance Imaging (MRI), C)x_ray., D)SPECT scan",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/1/9746055R.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)SPECT scan, B)Positron Emission Tomography (PET) scan, C)Angiography, D)x_ray.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/1/9938236R.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)Magnetic Resonance Imaging (MRI), B)Myelogram, C)Cystography, D)x_ray.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/2/9027422R.png",
+        "problem": "What imaging technique is employed to capture this picture? A)SPECT scan, B)x_ray., C)Bone density scan, D)Endoscopy",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/2/9102440L.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)Angiography, B)Nuclear Medicine scan, C)x_ray., D)Arthroscopy",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/2/9175691L.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)Nuclear Medicine scan, B)x_ray., C)Echocardiogram, D)Thermography",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/2/9301826L.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)x_ray., B)Barium swallow, C)Nuclear Medicine scan, D)Echocardiogram",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/2/9396242L.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)Nuclear Medicine scan, B)Magnetic Resonance Imaging (MRI), C)Positron Emission Tomography (PET) scan, D)x_ray.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/2/9616634L.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)x_ray., B)Computed Tomography (CT) scan, C)Nuclear Medicine scan, D)Magnetic Resonance Imaging (MRI)",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/2/9698137R.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)Angiography, B)Echocardiogram, C)x_ray., D)Barium swallow",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/2/9711506R.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)Angiography, B)Endoscopy, C)x_ray., D)Fluoroscopy",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/2/9722541R.png",
+        "problem": "What technique is employed to obtain this picture? A)Echocardiogram, B)x_ray., C)Bone density scan, D)Ultrasound",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/2/9768469R.png",
+        "problem": "What imaging technique is used to obtain this picture? A)Angiography, B)x_ray., C)Nuclear Medicine scan, D)SPECT scan",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/2/9850238L.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)Computed Tomography (CT) scan, B)Magnetic Resonance Imaging (MRI), C)x_ray., D)Endoscopy",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/2/9878596R.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)x_ray., B)Thermography, C)Ultrasound, D)Myelogram",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/2/9902662R.png",
+        "problem": "What is the imaging technique used to obtain this picture? A)x_ray., B)Bone density scan, C)Doppler ultrasound, D)Computed Tomography (CT) scan",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/2/9911221L.png",
+        "problem": "Which imaging technique is employed to obtain this picture? A)Endoscopy, B)x_ray., C)Computed Tomography (CT) scan, D)Bone density scan",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/2/9924366R.png",
+        "problem": "What imaging technique is employed to acquire this picture? A)x_ray., B)Barium swallow, C)Positron Emission Tomography (PET) scan, D)Nuclear Medicine scan",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/2/9999862R.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)Thermographic imaging, B)x_ray., C)Bone density scan, D)SPECT scan",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/3/9027422L.png",
+        "problem": "What imaging technique is employed to capture this picture? A)Endoscopy, B)Doppler ultrasound, C)Echocardiogram, D)x_ray.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/3/9098409L.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)x_ray., B)Computed Tomography (CT) scan, C)Bone density scan, D)Gastrografin swallow",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/3/9164114L.png",
+        "problem": "What imaging technique was employed to obtain this picture? A)x_ray., B)Barium swallow, C)Arthroscopy, D)Angiography",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/3/9397988R.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)Bone density scan, B)Nuclear Medicine scan, C)x_ray., D)Computed Tomography (CT) scan",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/3/9750882R.png",
+        "problem": "What is the imaging modality used to obtain this picture? A)Magnetic Resonance Imaging (MRI), B)x_ray., C)Barium swallow, D)Cystography",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/3/9786086L.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)x_ray., B)Angiography, C)Thermography, D)Barium swallow",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/3/9786086R.png",
+        "problem": "What type of imaging is employed to obtain this picture? A)Positron Emission Tomography (PET) scan, B)Arthroscopy, C)x_ray., D)Ultrasound",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/3/9884591R.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)Magnetic Resonance Imaging (MRI), B)SPECT scan, C)x_ray., D)Doppler ultrasound",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/3/9903160R.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)Thermographic imaging, B)SPECT scan, C)Barium swallow, D)x_ray.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/4/9448133L.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)x_ray., B)Positron Emission Tomography (PET) scan, C)Cystography, D)Echocardiogram",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/test/4/9719999R.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)x_ray., B)Endoscopy, C)Angiography, D)SPECT scan",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/val/0/9146801R.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)Echocardiogram, B)Myelogram, C)Fluoroscopy, D)x_ray.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/val/0/9195845L.png",
+        "problem": "What modality is used to capture this image? A)x_ray., B)Gastrografin swallow, C)Thermographic imaging, D)Barium swallow",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/val/0/9280249R.png",
+        "problem": "What type of imaging is utilized to obtain this picture? A)Positron Emission Tomography (PET) scan, B)x_ray., C)Cystography, D)Ultrasound",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/val/0/9282022L.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)x_ray., B)Doppler ultrasound, C)Angiography, D)SPECT scan",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/val/0/9305272L.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)x_ray., B)Doppler ultrasound, C)Computed Tomography (CT) scan, D)Thermography",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/val/0/9305272R.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)Angiography, B)Bone density scan, C)Positron Emission Tomography (PET) scan, D)x_ray.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/val/0/9333793L.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)x_ray., B)Gastrografin swallow, C)Magnetic Resonance Imaging (MRI), D)Endoscopy",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/val/0/9417544R.png",
+        "problem": "What imaging technique was employed to obtain this picture? A)x_ray., B)Endoscopy, C)Myelogram, D)Positron Emission Tomography (PET) scan",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/val/0/9531050L.png",
+        "problem": "What modality is used to capture this image? A)Myelogram, B)Doppler ultrasound, C)Barium swallow, D)x_ray.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/val/0/9617748R.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)Magnetic Resonance Imaging (MRI), B)Positron Emission Tomography (PET) scan, C)x_ray., D)Thermographic imaging",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/val/0/9731969L.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)Echocardiogram, B)Angiography, C)x_ray., D)Gastrografin swallow",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/val/0/9859873L.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)Positron Emission Tomography (PET) scan, B)Cystography, C)Thermographic imaging, D)x_ray.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/val/0/9879774L.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)Computed Tomography (CT) scan, B)Positron Emission Tomography (PET) scan, C)Angiography, D)x_ray.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/val/0/9882107R.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)Thermographic imaging, B)Magnetic Resonance Imaging (MRI), C)x_ray., D)Gastrografin swallow",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/val/0/9886598L.png",
+        "problem": "What modality is used to capture this image? A)Echocardiogram, B)x_ray., C)Nuclear Medicine scan, D)Thermographic imaging",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/val/0/9949467R.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)Angiography, B)Bone density scan, C)Thermographic imaging, D)x_ray.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/val/1/9246518L.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)Angiography, B)Endoscopy, C)Barium swallow, D)x_ray.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/val/1/9429147L.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)x_ray., B)Endoscopy, C)Barium swallow, D)Nuclear Medicine scan",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/val/1/9432194L.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)x_ray., B)Computed Tomography (CT) scan, C)Magnetic Resonance Imaging (MRI), D)Gastrografin swallow",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/val/1/9432194R.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)Positron Emission Tomography (PET) scan, B)Computed Tomography (CT) scan, C)x_ray., D)Arthroscopy",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/val/1/9562591L.png",
+        "problem": "What modality is used to capture this image? A)Magnetic Resonance Imaging (MRI), B)Nuclear Medicine scan, C)Fluoroscopy, D)x_ray.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/val/1/9766889L.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)Myelogram, B)Magnetic Resonance Imaging (MRI), C)x_ray., D)Bone density scan",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/val/1/9776018L.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)Bone density scan, B)x_ray., C)Nuclear Medicine scan, D)Magnetic Resonance Imaging (MRI)",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/val/1/9777471L.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)Magnetic Resonance Imaging (MRI), B)x_ray., C)Arthroscopy, D)Barium swallow",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/val/1/9886746R.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)x_ray., B)Doppler ultrasound, C)Arthroscopy, D)Magnetic Resonance Imaging (MRI)",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/val/1/9962232L.png",
+        "problem": "What modality is used to capture this image? A)x_ray., B)Cystography, C)Endoscopy, D)Myelogram",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/val/2/9127180R.png",
+        "problem": "What imaging technique is utilized to capture this picture? A)x_ray., B)Cystography, C)Nuclear Medicine scan, D)Gastrografin swallow",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/val/2/9222068L.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)SPECT scan, B)Echocardiogram, C)Positron Emission Tomography (PET) scan, D)x_ray.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/val/2/9332791R.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)Echocardiogram, B)x_ray., C)Magnetic Resonance Imaging (MRI), D)Angiography",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/val/2/9455113R.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)x_ray., B)Nuclear Medicine scan, C)SPECT scan, D)Computed Tomography (CT) scan",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/val/2/9466438L.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)Arthroscopy, B)x_ray., C)Doppler ultrasound, D)Myelogram",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/val/2/9493073R.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)Thermography, B)Gastrografin swallow, C)x_ray., D)Angiography",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/val/2/9757418L.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)Myelogram, B)Echocardiogram, C)x_ray., D)Barium swallow",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/val/2/9895555L.png",
+        "problem": "What imaging technique is employed to obtain this picture? A)x_ray., B)Arthroscopy, C)Positron Emission Tomography (PET) scan, D)Thermography",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/val/2/9999295R.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)Angiography, B)Barium swallow, C)Gastrografin swallow, D)x_ray.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/val/3/9389580L.png",
+        "problem": "Which imaging technique is employed to obtain this picture? A)Magnetic Resonance Imaging (MRI), B)SPECT scan, C)x_ray., D)Gastrografin swallow",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/val/3/9920298R.png",
+        "problem": "What is the imaging modality used to obtain this picture? A)x_ray., B)Thermography, C)Cystography, D)Echocardiogram",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/val/4/9127180L.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)x_ray., B)Magnetic Resonance Imaging (MRI), C)Computed Tomography (CT) scan, D)Arthroscopy",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Knee Osteoarthritis/val/4/9818359L.png",
+        "problem": "What imaging technique is utilized to obtain this picture? A)Angiography, B)x_ray., C)Doppler ultrasound, D)Barium swallow",
+        "solution": "<answer> B </answer>"
+    }
+]

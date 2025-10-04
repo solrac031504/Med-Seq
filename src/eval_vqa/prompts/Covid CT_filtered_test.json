@@ -1,0 +1,192 @@
+[
+    {
+        "image": "Images/Covid CT/CT_NonCOVID/71%1.jpg",
+        "problem": "What type of imaging technique was utilized to obtain this image? A)Bone scan, B)CT., C)Angiography, D)X-ray",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Covid CT/CT_NonCOVID/30%1.jpg",
+        "problem": "What type of imaging technique was employed to acquire this picture? A)CT., B)Angiography, C)Endoscopy, D)Ultrasound",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Covid CT/CT_NonCOVID/1952.png",
+        "problem": "What type of imaging was utilized to acquire this image? A)Ultrasound, B)PET scan, C)Fluoroscopy, D)CT.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Covid CT/CT_COVID/2020.02.22.20024927-p18-66%0.png",
+        "problem": "What type of imaging was employed to capture this image? A)Fluoroscopy, B)Bone scan, C)CT., D)Mammography",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Covid CT/CT_COVID/2020.03.12.20027185-p8-221.png",
+        "problem": "What type of imaging was utilized to capture this image? A)Fluoroscopy, B)PET scan, C)CT., D)X-ray",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Covid CT/CT_COVID/2020.02.25.20021568-p24-111%1.png",
+        "problem": "Which imaging technique was employed to obtain this image? A)MRI, B)Ultrasound, C)Fluoroscopy, D)CT.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Covid CT/CT_COVID/2020.02.10.20021584-p6-52%13.png",
+        "problem": "Which imaging modality was utilized to obtain this image? A)Fluoroscopy, B)Ultrasound, C)MRI, D)CT.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Covid CT/CT_COVID/2020.03.03.20030775-p10-88%0.png",
+        "problem": "What modality was utilized to obtain this image? A)Ultrasound, B)CT., C)Bone scan, D)Fluoroscopy",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Covid CT/CT_NonCOVID/18%0.jpg",
+        "problem": "What body area is shown in the given image? A)Head and neck region, B)Hip region, C)Chest region., D)Shoulder and upper back region",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Covid CT/CT_NonCOVID/673.png",
+        "problem": "What part of the body is shown in this image? A)Chest region., B)Abdominal region, C)Leg region, D)Shoulder and upper back region",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Covid CT/CT_NonCOVID/81%3.jpg",
+        "problem": "What area of the anatomy is depicted in this image? A)Chest region., B)Hip region, C)Shoulder and upper back region, D)Abdominal region",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Covid CT/CT_NonCOVID/486.png",
+        "problem": "What area of the body is shown in the provided image? A)Chest region., B)Abdominal region, C)Shoulder and upper back region, D)Pelvic region",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Covid CT/CT_NonCOVID/29%2.jpg",
+        "problem": "What is the anatomical location of the area shown in the image? A)Shoulder and upper back region, B)Abdominal region, C)Chest region., D)Hip region",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Covid CT/CT_COVID/2020.02.11.20022053-p12-67%1.png",
+        "problem": "What part of the body is depicted in this image? A)Chest region., B)Pelvic region, C)Hand and wrist region, D)Head and neck region",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Covid CT/CT_COVID/2020.03.22.20034041-p16-66.png",
+        "problem": "What anatomical area does this picture represent? A)Pelvic region, B)Chest region., C)Hip region, D)Lower back region",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Covid CT/CT_COVID/2020.02.22.20024927-p19-68%3.png",
+        "problem": "What is the anatomical location of the body shown in this image? A)Chest region., B)Hip region, C)Lower back region, D)Shoulder and upper back region",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Covid CT/CT_COVID/2020.03.18.20038125-p16-56-1.png",
+        "problem": "What anatomical area does this picture represent? A)Chest region., B)Upper arm region, C)Pelvic region, D)Shoulder and upper back region",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Covid CT/CT_COVID/2020.03.01.20029769-p21-73_2%1.png",
+        "problem": "In what area of the body is this image illustrating? A)Hip region, B)Hand and wrist region, C)Leg region, D)Chest region.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Covid CT/CT_COVID/2020.03.21.20040691-p18-67-2.png",
+        "problem": "What area of the body does this picture represent? A)Foot and ankle region, B)Hand and wrist region, C)Chest region., D)Head and neck region",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Covid CT/CT_COVID/2020.02.13.20022673-p13-77%0.png",
+        "problem": "Which anatomical area does this image represent? A)Upper arm region, B)Chest region., C)Leg region, D)Pelvic region",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Covid CT/CT_COVID/2020.03.03.20030775-p12-93%0.png",
+        "problem": "What is the diagnosis for the abnormality seen in this image? A)Pulmonary embolism, B)Tuberculosis, C)COVID-19 infection., D)Influenza",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Covid CT/CT_COVID/2020.03.22.20034041-p18-92-1.png",
+        "problem": "What is the identifiable anomaly shown in this image? A)Tuberculosis, B)Influenza, C)Asthma exacerbation, D)COVID-19 infection.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Covid CT/CT_COVID/kjr-21-e25-p1-10.png",
+        "problem": "What is the diagnosis for the abnormality observed in this image? A)Lung cancer, B)Tuberculosis, C)COVID-19 infection., D)Asthma exacerbation",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Covid CT/CT_COVID/2020.02.25.20021568-p23-108%4.png",
+        "problem": "What specific abnormality is present in this image? A)Sinusitis, B)Bronchitis, C)COVID-19 infection., D)Influenza",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Covid CT/CT_COVID/2020.02.22.20024927-p19-68%3.png",
+        "problem": "What is the diagnosis for the specific abnormality seen in this image? A)Tuberculosis, B)Lung cancer, C)Influenza, D)COVID-19 infection.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Covid CT/CT_COVID/2020.03.26.20041426-p11-130.png",
+        "problem": "What specific abnormality is present in this image? A)Bronchitis, B)Asthma exacerbation, C)Sinusitis, D)COVID-19 infection.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Covid CT/CT_COVID/2020.03.21.20040691-p18-67-2.png",
+        "problem": "What is the specific condition depicted in this image? A)Asthma exacerbation, B)COVID-19 infection., C)Common cold, D)Influenza",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Covid CT/CT_COVID/2020.03.21.20040691-p18-67-3.png",
+        "problem": "What specific abnormality is present in this image? A)Pneumonia, B)Sinusitis, C)COVID-19 infection., D)Common cold",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Covid CT/CT_COVID/2020.02.10.20021584-p6-52%11.png",
+        "problem": "What is the specific condition being depicted in this image? A)SARS (Severe Acute Respiratory Syndrome), B)Tuberculosis, C)COVID-19 infection., D)Pulmonary embolism",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Covid CT/CT_COVID/2020.03.01.20029769-p21-73_2%2.png",
+        "problem": "What is the particular anomaly detected in this image? A)COVID-19 infection., B)Asthma exacerbation, C)Lung cancer, D)Common cold",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Covid CT/CT_COVID/2020.03.25.20037721-p27-172.png",
+        "problem": "What specific abnormality is present in this image? A)Pneumonia, B)Lung cancer, C)COVID-19 infection., D)SARS (Severe Acute Respiratory Syndrome)",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Covid CT/CT_NonCOVID/26%0.jpg",
+        "problem": "Is there any abnormalities present in the image? A)Yes, B)No.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Covid CT/CT_NonCOVID/673.png",
+        "problem": "Is there any sign of abnormalities in this image? A)Yes, B)No.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Covid CT/CT_NonCOVID/25%3.jpg",
+        "problem": "Is there any abnormalities in this image? A)No., B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Covid CT/CT_NonCOVID/1499.png",
+        "problem": "Is there any abnormality detected in this image? A)Yes, B)No.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Covid CT/CT_NonCOVID/381.png",
+        "problem": "Is there anything abnormal shown in this image? A)No., B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Covid CT/CT_NonCOVID/84%0.jpg",
+        "problem": "Is there any evidence of abnormalities present in this image? A)Yes, B)No.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Covid CT/CT_NonCOVID/30%3.jpg",
+        "problem": "Is there any abnormalities present in this image? A)Yes, B)No.",
+        "solution": "<answer> B </answer>"
+    }
+]

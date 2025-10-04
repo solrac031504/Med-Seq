@@ -1,0 +1,297 @@
+[
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0530_1.png",
+        "problem": "What imaging modality was utilized to generate this picture? A)MRI, B)PET scan, C)Biopsy, D)X-ray",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0042_0.png",
+        "problem": "What part of the body is seen in this image? A)Back, B)Chest, C)Groin, D)Abdomen",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0221_0.png",
+        "problem": "What body part is featured in this image? A)Arm, B)Groin, C)Leg, D)Chest",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0191_0.png",
+        "problem": "What part of the body is displayed in this image? A)Abdomen, B)Chest, C)Groin, D)Neck",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0053_0.png",
+        "problem": "What part of the body is depicted in this picture? A)Pelvis, B)Chest, C)Back, D)Foot",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0201_0.png",
+        "problem": "What is the anatomical region displayed in this picture? A)Arm, B)Chest, C)Groin, D)Back",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0086_0.png",
+        "problem": "What part of the body is the subject of this image? A)Leg, B)Chest, C)Abdomen, D)Foot",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0315_0.png",
+        "problem": "What is the anatomical area represented in this picture? A)Foot, B)Head, C)Chest, D)Neck",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0658_1.png",
+        "problem": "What part of the body is portrayed in this picture? A)Pelvis, B)Head, C)Chest, D)Groin",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0213_0.png",
+        "problem": "What is the anatomical term for the body region shown in this image? A)Arm, B)Foot, C)Leg, D)Chest",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0230_0.png",
+        "problem": "What area of the anatomical structure is shown in the given image? A)Neck, B)Chest, C)Arm, D)Foot",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0155_0.png",
+        "problem": "Does this image contain any anomalies? A)No, B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0123_0.png",
+        "problem": "Is there any indication of abnormalities in this image? A)Yes, B)No",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0042_0.png",
+        "problem": "Is there any irregularity present in this image? A)Yes, B)No",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0322_0.png",
+        "problem": "Is there any abnormality visible in this image? A)No, B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0161_0.png",
+        "problem": "Is there any abnormalities present in this image? A)No, B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0035_0.png",
+        "problem": "Is there anything abnormal or unusual present in this image? A)Yes, B)No",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0245_0.png",
+        "problem": "Is there any abnormality visible in this image? A)Yes, B)No",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0086_0.png",
+        "problem": "Is there any presence of abnormalities in this image? A)Yes, B)No",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0170_0.png",
+        "problem": "Is there any evidence of abnormalities in this image? A)No, B)Yes",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0108_0.png",
+        "problem": "Is there any indication of abnormalities present in this image? A)Yes, B)No",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0123_0.png",
+        "problem": "Which specific body part can be identified in the image? A)Bladder, B)Intestine, C)Lung, D)Kidney",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0303_0.png",
+        "problem": "What is the organ that can be seen in the image? A)Liver, B)Lung, C)Bladder, D)Gallbladder",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0211_0.png",
+        "problem": "What is the organ that can be identified in this image? A)Spleen, B)Lung, C)Kidney, D)Stomach",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0053_0.png",
+        "problem": "Which organ is visible in this image? A)Heart, B)Lung, C)Brain, D)Liver",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0325_0.png",
+        "problem": "Which organ is being shown in the image? A)Gallbladder, B)Pancreas, C)Liver, D)Lung",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0086_0.png",
+        "problem": "Which body part can be seen in this picture? A)Lung, B)Stomach, C)Spleen, D)Kidney",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0087_0.png",
+        "problem": "Which organ is visible in this image? A)Lung, B)Kidney, C)Stomach, D)Spleen",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0010_0.png",
+        "problem": "Which organ is visible in this image? A)Heart, B)Brain, C)Spleen, D)Lung",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0213_0.png",
+        "problem": "What is the organ shown in this image? A)Heart, B)Bladder, C)Pancreas, D)Lung",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0112_0.png",
+        "problem": "What is the organ that can be identified in this picture? A)Bladder, B)Liver, C)Lung, D)Gallbladder",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0490_1.png",
+        "problem": "What is the identification of the anomaly observed in this image? A)Abnormal kidney, B)Abnormal bone, C)Abnormal lung, D)Abnormal skin",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0517_1.png",
+        "problem": "What is the observed anomaly in this image? A)Abnormal skin, B)Normal lung, C)Abnormal liver, D)Abnormal lung",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0462_1.png",
+        "problem": "What is the anomaly in this image? A)Abnormal blood cells, B)Abnormal skin, C)Abnormal lung, D)Abnormal brain",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0476_1.png",
+        "problem": "What abnormality is present in this image? A)Abnormal lung, B)Abnormal skin, C)Abnormal liver, D)Abnormal brain",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0538_1.png",
+        "problem": "What abnormality is present in this image? A)Normal lung, B)Abnormal heart, C)Abnormal lung, D)Abnormal kidney",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0478_1.png",
+        "problem": "What is the anomaly observed in this image? A)Abnormal bone, B)Abnormal liver, C)Abnormal blood cells, D)Abnormal lung",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0341_1.png",
+        "problem": "What is the presence of an abnormality observed in this image? A)Abnormal liver, B)Abnormal bone, C)Normal lung, D)Abnormal lung",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0626_1.png",
+        "problem": "What abnormality is present in this image? A)Abnormal stomach, B)Normal lung, C)Abnormal lung, D)Abnormal bone",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0427_1.png",
+        "problem": "What abnormality is present in this image? A)Abnormal lung, B)Abnormal brain, C)Abnormal spleen, D)Abnormal heart",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0442_1.png",
+        "problem": "What abnormality is present in this image? A)Abnormal heart, B)Abnormal spleen, C)Abnormal lung, D)Abnormal liver",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0361_1.png",
+        "problem": "What is the anomaly depicted in this image? A)Abnormal skin, B)Abnormal stomach, C)Abnormal lung, D)Normal lung",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0623_1.png",
+        "problem": "What abnormality is present in this image? A)Abnormal lung, B)Abnormal skin, C)Abnormal kidney, D)Abnormal stomach",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0547_1.png",
+        "problem": "What is the identified irregularity in this image? A)Abnormal lung, B)Abnormal bone, C)Abnormal brain, D)Abnormal skin",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0488_1.png",
+        "problem": "What is the anomaly detected in this image? A)Abnormal brain, B)Abnormal stomach, C)Abnormal skin, D)Abnormal lung",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0528_1.png",
+        "problem": "What is the anomaly observed in this image? A)Abnormal lung, B)Abnormal kidney, C)Abnormal heart, D)Abnormal liver",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0477_1.png",
+        "problem": "Which body part is impacted in this visual depiction? A)Bladder, B)Lung, C)Intestines, D)Spleen",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0475_1.png",
+        "problem": "What is the organ that is involved in the image? A)Intestines, B)Liver, C)Stomach, D)Lung",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0476_1.png",
+        "problem": "What is the organ involved in this image? A)Lung, B)Spleen, C)Intestines, D)Liver",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0387_1.png",
+        "problem": "What organ is seen to be affected in this image? A)Stomach, B)Pancreas, C)Lung, D)Spleen",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0341_1.png",
+        "problem": "Which organ is impacted in this image? A)Kidney, B)Heart, C)Lung, D)Bladder",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0427_1.png",
+        "problem": "Which organ is depicted in the image? A)Lung, B)Pancreas, C)Intestines, D)Gallbladder",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0329_1.png",
+        "problem": "What organ is involved in this image? A)Lung, B)Gallbladder, C)Heart, D)Brain",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0612_1.png",
+        "problem": "What organ is depicted in the image? A)Intestines, B)Gallbladder, C)Kidney, D)Lung",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0362_1.png",
+        "problem": "What is the organ depicted in this image? A)Spleen, B)Lung, C)Intestines, D)Kidney",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0488_1.png",
+        "problem": "What is the affected organ in the image? A)Spleen, B)Brain, C)Kidney, D)Lung",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0528_1.png",
+        "problem": "What is the organ that is impacted in this image? A)Heart, B)Stomach, C)Pancreas, D)Lung",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0607_1.png",
+        "problem": "Which organ is depicted in this image? A)Heart, B)Bladder, C)Kidney, D)Lung",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Pulmonary Chest Shenzhen/CHNCXR_0575_1.png",
+        "problem": "What organ is impacted in the provided image? A)Lung, B)Spleen, C)Stomach, D)Pancreas",
+        "solution": "<answer> A </answer>"
+    }
+]

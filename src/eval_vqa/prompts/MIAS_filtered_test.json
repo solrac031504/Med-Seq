@@ -1,0 +1,132 @@
+[
+    {
+        "image": "Images/MIAS/mdb248.png",
+        "problem": "What imaging technique is employed to capture this image? A)Mammography, B)CT scan, C)Endoscopy, D)Bone scan",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MIAS/mdb100.png",
+        "problem": "What modality is used to take this image? A)Mammography, B)X-ray, C)MRI, D)Endoscopy",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MIAS/mdb094.png",
+        "problem": "What modality is used to take this image? A)MRI, B)CT scan, C)Mammography, D)X-ray",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MIAS/mdb171.png",
+        "problem": "What content appears in this image? A)Bone tissue, B)Liver tissue, C)Brain tissue, D)Breast tissue",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MIAS/mdb058.png",
+        "problem": "What content appears in this image? A)Brain tissue, B)Breast tissue, C)Skin tissue, D)Bone tissue",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MIAS/mdb267.png",
+        "problem": "What content appears in this image? A)Skin tissue, B)Cardiac tissue, C)Breast tissue, D)Liver tissue",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MIAS/mdb253.png",
+        "problem": "What content appears in this image? A)Liver tissue, B)Kidney tissue, C)Breast tissue, D)Muscle tissue",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MIAS/mdb118.png",
+        "problem": "What content appears in this image? A)Breast tissue, B)Liver tissue, C)Brain tissue, D)Lung tissue",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MIAS/mdb084.png",
+        "problem": "What content appears in this image? A)Intestinal tissue, B)Lung tissue, C)Breast tissue, D)Kidney tissue",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MIAS/mdb131.png",
+        "problem": "What content appears in this image? A)Breast tissue, B)Bone tissue, C)Intestinal tissue, D)Lung tissue",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MIAS/mdb001.png",
+        "problem": "What content appears in this image? A)Breast tissue, B)Brain tissue, C)Intestinal tissue, D)Cardiac tissue",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MIAS/mdb027.png",
+        "problem": "What content appears in this image? A)Skin tissue, B)Muscle tissue, C)Liver tissue, D)Breast tissue",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MIAS/mdb094.png",
+        "problem": "What content appears in this image? A)Muscle tissue, B)Liver tissue, C)Brain tissue, D)Breast tissue",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MIAS/mdb001.png",
+        "problem": "What type of abnormality is depicted in this image? A)Scattered/sprinkled lesions, B)Well-defined/circumscribed masses, C)Unbounded/unrestricted masses, D)Amorphous shape masses",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MIAS/mdb118.png",
+        "problem": "What type of abnormality is depicted in this image? A)A tumor, B)Infection, C)No, It's normal, D)Autoimmune disorder",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MIAS/mdb133.png",
+        "problem": "What type of abnormality is depicted in this image? A)Congenital defect, B)Autoimmune disorder, C)Inflammation, D)No, It's normal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MIAS/mdb053.png",
+        "problem": "What type of abnormality is depicted in this image? A)No, It's normal, B)Genetic mutation, C)Infection, D)Autoimmune disorder",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MIAS/mdb285.png",
+        "problem": "What type of abnormality is depicted in this image? A)Inflammation, B)Genetic mutation, C)No, It's normal, D)Infection",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MIAS/mdb309.png",
+        "problem": "What type of abnormality is depicted in this image? A)Infection, B)No, It's normal, C)Fracture, D)Congenital defect",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MIAS/mdb166.png",
+        "problem": "What type of abnormality is depicted in this image? A)Vascular anomaly, B)No, It's normal, C)Infection, D)Degenerative disease",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/MIAS/mdb058.png",
+        "problem": "What type of abnormality is depicted in this image? A)Other, ill-defined masses, B)Benign tumors, C)Malignant tumors, D)Inflammatory nodules",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MIAS/mdb267.png",
+        "problem": "What type of abnormality is depicted in this image? A)Other, ill-defined masses, B)Cystic lesions, C)Normal anatomical structures, D)Malignant tumors",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MIAS/mdb099.png",
+        "problem": "What type of abnormality is depicted in this image? A)Uniformity, B)Equanimity, C)Asymmetry, D)Congruity",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/MIAS/mdb083.png",
+        "problem": "What type of abnormality is depicted in this image? A)Asymmetry, B)Symmetry, C)Equanimity, D)Bilaterality",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/MIAS/mdb163.png",
+        "problem": "Which term describes the anomaly shown in this image? A)Metabolic imbalance, B)Vascular anomaly, C)Genetic aberration, D)Architectural distortion",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/MIAS/mdb248.png",
+        "problem": "What is the depicted abnormality in this image? A)Calcification, B)Hypertrophy, C)Ischemia, D)Hyperplasia",
+        "solution": "<answer> A </answer>"
+    }
+]

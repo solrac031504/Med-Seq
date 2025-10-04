@@ -1,0 +1,2005 @@
+{
+  "accuracy": 75.5,
+  "results": [
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025000.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 4
+      },
+      "ground_truth": 4,
+      "model_output": "<think>\nThe image contains four distinct objects: a cyan fighter, a red van, a green mountain bike, and a cyan bicycle.\n</think>\n<answer>\n4\n</answer>",
+      "extracted_answer": 4
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025001.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 9
+      },
+      "ground_truth": 9,
+      "model_output": "<think>\nA. 9\n</think>\n<answer>\n9\n</answer>",
+      "extracted_answer": 9
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025002.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 10
+      },
+      "ground_truth": 10,
+      "model_output": "<think>\nThe image contains a variety of objects, including a green dirt bike, a green car, a yellow bus, a yellow motorcycle, a blue scooter, a yellow car, a yellow school bus, a yellow train, a blue bus, a blue car, a brown car, a brown school bus, a green car, a green dirt bike, a green car, a green car, a green car, a green car, a green car, a green car, a green car, a green car, a green car, a green car, a green car, a green car, a green car, a green car, a green car, a green car, a green car, a green car, a green car, a green car, a green car, a green car, a green car, a green car, a green car, a green car, a green car, a green car, a green car, a green car, a green car, a green car, a green car, a green car, a green car, a green car, a green car, a green car, a green car, a green car, a green car, a green car, a green car, a green car, a green car, a green car,",
+      "extracted_answer": null
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025003.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 4
+      },
+      "ground_truth": 4,
+      "model_output": "<think>\nThe image contains four distinct objects: a purple dirt bike, a brown bicycle, a blue bicycle, and a red tandem bicycle.\n</think>\n<answer>\n4\n</answer>",
+      "extracted_answer": 4
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025004.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 3
+      },
+      "ground_truth": 3,
+      "model_output": "<think>\nThe image contains three distinct objects: a small yellow car, a small blue car, and a small gray motorcycle. There are no other objects present in the image.\n</think>\n<answer>\n3\n</answer>",
+      "extracted_answer": 3
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025005.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 3
+      },
+      "ground_truth": 3,
+      "model_output": "<think>\nThe image contains three distinct objects: a cyan fighter jet, a yellow airplane, and a gray scooter. There are no other objects present in the image.\n</think>\n<answer>\n3\n</answer>",
+      "extracted_answer": 3
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025006.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 3
+      },
+      "ground_truth": 3,
+      "model_output": "<think>\nThe image contains three distinct objects: a purple biplane, a blue truck, and a gray chopper. There are no other objects present in the image.\n</think>\n<answer>\n3\n</answer>",
+      "extracted_answer": 3
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025007.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 4
+      },
+      "ground_truth": 4,
+      "model_output": "<think>\nThe image contains four distinct objects: a purple road bike, a gray scooter, a small cyan mountain bike, and a gray dirt bike.\n</think>\n<answer>\n4\n</answer>",
+      "extracted_answer": 4
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025008.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 9
+      },
+      "ground_truth": 9,
+      "model_output": "<think>\nA. 9\n</think>\n<answer>\n9\n</answer>",
+      "extracted_answer": 9
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025009.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 10
+      },
+      "ground_truth": 10,
+      "model_output": "<think>\nA. 10\n</think>\n<answer>\n10\n</answer>",
+      "extracted_answer": 10
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025010.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 7
+      },
+      "ground_truth": 7,
+      "model_output": "<think>\nThe image contains several distinct objects, including a biplane, a chopper, a motorcycle, an airplane, a bicycle, a fighter jet, and a small green object. There are also several small metallic objects, including a bike, a motorcycle, and a fighter jet.\n</think>\n<answer>\n7\n</answer>",
+      "extracted_answer": 7
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025011.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 7
+      },
+      "ground_truth": 7,
+      "model_output": "<think>\nThe image contains several objects, including a green bus, two motorcycles, a small red school bus, a purple school bus, a blue car, and a large gray chopper. There are also two smaller objects, a purple and a red school bus, and a small blue motorcycle.\n</think>\n<answer>\n7\n</answer>",
+      "extracted_answer": 7
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025012.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 7
+      },
+      "ground_truth": 7,
+      "model_output": "<think>\nThe image contains several different types of vehicles, including cars, trucks, a bus, and a motorcycle. There are also some smaller objects like a car and a truck. The objects are arranged in a way that suggests a scene with multiple vehicles and a motorcycle.\n</think>\n<answer>\n7\n</answer>",
+      "extracted_answer": 7
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025013.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 6
+      },
+      "ground_truth": 6,
+      "model_output": "<think>\nThe image contains five distinct objects: a purple bus, a gray double-decker bus, a yellow motorcycle, a yellow dirt bike, and a gray tram.\n</think>\n<answer>\n5\n</answer>",
+      "extracted_answer": 5
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025014.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 5
+      },
+      "ground_truth": 5,
+      "model_output": "<think>\nThe image contains several objects, including a red car, a red sedan, a brown bicycle, a green school bus, a brown regular bus, and a yellow object. There are also two other objects that are not clearly distinguishable from the others.\n</think>\n<answer>\n5\n</answer>",
+      "extracted_answer": 5
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025015.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 10
+      },
+      "ground_truth": 10,
+      "model_output": "<think>\nThe image contains a variety of objects, including bicycles, cars, and a motorcycle. There are 9 distinct objects in the image.\n</think>\n<answer>\n10\n</answer>",
+      "extracted_answer": 10
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025016.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 4
+      },
+      "ground_truth": 4,
+      "model_output": "<think>\nThe image contains four distinct objects: a large purple airplane, a small brown scooter, a large cyan airplane, and a small brown car.\n</think>\n<answer>\n4\n</answer>",
+      "extracted_answer": 4
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025017.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 5
+      },
+      "ground_truth": 5,
+      "model_output": "<think>\nThe image contains five distinct objects: a yellow tandem bicycle, a green school bus, a green minivan, a yellow tram, and a small metallic tram.\n</think>\n<answer>\n5\n</answer>",
+      "extracted_answer": 5
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025018.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 6
+      },
+      "ground_truth": 6,
+      "model_output": "<think>\nThe image contains several distinct objects, including a yellow chopper, a red double-decker bus, a small green object, a brown motorcycle, a small brown train, a yellow car, a small green car, a small purple motorcycle, and a small cyan car. There are also two large yellow objects, one of which is a chopper and the other is a car.\n</think>\n<answer>\n6\n</answer>",
+      "extracted_answer": 6
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025019.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 8
+      },
+      "ground_truth": 8,
+      "model_output": "<think>\nThe image contains several distinct objects, including a red dirt bike, a red bus, a blue dirt bike, a brown chopper, a brown minivan, a brown bicycle, a green car, and a brown motorcycle. There are also several smaller objects like a small green car and a small brown bike.\n</think>\n<answer>\n9\n</answer>",
+      "extracted_answer": 9
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025020.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 10
+      },
+      "ground_truth": 10,
+      "model_output": "<think>\nA. 10\n</think>\n<answer>\n10\n</answer>",
+      "extracted_answer": 10
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025021.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 3
+      },
+      "ground_truth": 3,
+      "model_output": "<think>\nThe image contains three distinct objects: a brown airplane, a small metallic bicycle, and a shiny turquoise car.\n</think>\n<answer>\n3\n</answer>",
+      "extracted_answer": 3
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025022.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 4
+      },
+      "ground_truth": 4,
+      "model_output": "<think>\nThe image contains four distinct objects: a brown minivan, a brown airplane, a blue motorcycle, and a green double-decker bus.\n</think>\n<answer>\n4\n</answer>",
+      "extracted_answer": 4
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025023.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 4
+      },
+      "ground_truth": 4,
+      "model_output": "<think>\nThe image contains four distinct objects: a yellow dirt bike, a purple motorcycle, a green tram, and a small red fighter. There are no other objects in the image.\n</think>\n<answer>\n4\n</answer>",
+      "extracted_answer": 4
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025024.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 5
+      },
+      "ground_truth": 5,
+      "model_output": "<think>\nThe image contains five distinct objects: two blue biplanes, a small green airplane, a small purple airplane, and a small gray bicycle.\n</think>\n<answer>\n5\n</answer>",
+      "extracted_answer": 5
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025025.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 5
+      },
+      "ground_truth": 5,
+      "model_output": "<think>\nThe image contains four distinct objects: a purple scooter, a purple bus, a yellow airplane, and a blue motorcycle.\n</think>\n<answer>\n4\n</answer>",
+      "extracted_answer": 4
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025026.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 7
+      },
+      "ground_truth": 7,
+      "model_output": "<think>\nThe image contains several objects, including a large gray airplane, a small cyan biplane, a large red SUV, a small gray mountain bike, and a large cyan bicycle. There are also two smaller gray objects, a small gray airplane, and a small gray car.\n</think>\n<answer>\n7\n</answer>",
+      "extracted_answer": 7
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025027.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 4
+      },
+      "ground_truth": 4,
+      "model_output": "<think>\nThe image contains four distinct objects: a green fighter jet, a yellow double-decker bus, a yellow scooter, and a red dirt bike.\n</think>\n<answer>\n4\n</answer>",
+      "extracted_answer": 4
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025028.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 4
+      },
+      "ground_truth": 4,
+      "model_output": "<think>\nThe image contains four distinct objects: a green truck, a blue double bus, a blue dirt bike, and a brown car.\n</think>\n<answer>\n4\n</answer>",
+      "extracted_answer": 4
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025029.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 9
+      },
+      "ground_truth": 9,
+      "model_output": "<think>\nThe image contains several objects, including a red motorcycle, a green SUV, a yellow bus, a yellow and red bus, a purple tandem bike, a purple wagon, a gray school bus, a brown school bus, a gray airplane, and a gray metallic object. There are also two different types of buses, one yellow and one yellow and red.\n</think>\n<answer>\n9\n</answer>",
+      "extracted_answer": 9
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025030.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 8
+      },
+      "ground_truth": 8,
+      "model_output": "<think>\nThe image contains several objects, including a blue motorcycle, a green motorcycle, a gray road bike, a green fighter, a gray fighter, a green dirt bike, a brown airplane, and a small airplane. There are also two other objects that are not clearly identified as vehicles or aircraft.\n</think>\n<answer>\n7\n</answer>",
+      "extracted_answer": 7
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025031.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 6
+      },
+      "ground_truth": 6,
+      "model_output": "<think>\nThe image contains five distinct objects: a purple train, a blue bicycle, a green motorcycle, a yellow bicycle, and a small brown car.\n</think>\n<answer>\n5\n</answer>",
+      "extracted_answer": 5
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025032.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 3
+      },
+      "ground_truth": 3,
+      "model_output": "<think>\nThe image contains three distinct objects: a gray mountain bike, a small brown wooden bicycle, and a small red metallic object. There are no other objects in the image.\n</think>\n<answer>\n3\n</answer>",
+      "extracted_answer": 3
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025033.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 10
+      },
+      "ground_truth": 10,
+      "model_output": "<think>\nA. 10\n</think>\n<answer>\n10\n</answer>",
+      "extracted_answer": 10
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025034.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 9
+      },
+      "ground_truth": 9,
+      "model_output": "<think>\nThe image contains a variety of objects, including a school bus, a scooter, a biplane, a truck, a wagon, a minivan, a tandem bike, a bicycle, a motorcycle, and a dirt bike. There are also several small objects like a toy plane and a toy car.\n</think>\n<answer>\n10\n</answer>",
+      "extracted_answer": 10
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025035.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 9
+      },
+      "ground_truth": 9,
+      "model_output": "<think>\nA. 10\n</think>\n<answer>\n9\n</answer>",
+      "extracted_answer": 9
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025036.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 3
+      },
+      "ground_truth": 3,
+      "model_output": "<think>\nThe image contains three distinct objects: a cyan bus, a green car, and a purple bus. There are no other objects present in the image.\n</think>\n<answer>\n3\n</answer>",
+      "extracted_answer": 3
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025037.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 6
+      },
+      "ground_truth": 6,
+      "model_output": "<think>\nThe image contains several objects, including a green scooter, a purple bicycle, a green double bus, a purple truck, a purple regular bus, and a small metallic scooter. There are also some other objects like a small green object and a small purple object.\n</think>\n<answer>\n7\n</answer>",
+      "extracted_answer": 7
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025038.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 6
+      },
+      "ground_truth": 6,
+      "model_output": "<think>\nThe image contains several objects, including a biplane, a truck, a bus, a motorcycle, and an airplane. There are also two motorcycles, one of which is a small motorcycle and the other is a larger motorcycle. Additionally, there is a small bus and a small airplane. The objects are arranged in a way that they are not directly adjacent to each other, but they are all distinct entities.\n</think>\n<answer>\n6\n</answer>",
+      "extracted_answer": 6
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025039.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 5
+      },
+      "ground_truth": 5,
+      "model_output": "<think>\nThe image contains five distinct objects: a yellow road bike, a blue motorcycle, a gray motorcycle, a purple metal object, and a yellow road bike.\n</think>\n<answer>\n5\n</answer>",
+      "extracted_answer": 5
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025040.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 3
+      },
+      "ground_truth": 3,
+      "model_output": "<think>\nThe image contains three distinct objects: a brown mountain bike, a green biplane, and a brown jet plane. There are no other objects present in the image.\n</think>\n<answer>\n3\n</answer>",
+      "extracted_answer": 3
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025041.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 10
+      },
+      "ground_truth": 10,
+      "model_output": "<think>\nA. 10\n</think>\n<answer>\n10\n</answer>",
+      "extracted_answer": 10
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025042.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 6
+      },
+      "ground_truth": 6,
+      "model_output": "<think>\nThe image contains several objects, including a brown motorcycle, a cyan bicycle, a blue car, a gray and silver tandem bike, a purple mountain bike, and a cyan bus. There are also other objects like a purple and a gray object that are not clearly identified.\n</think>\n<answer>\n6\n</answer>",
+      "extracted_answer": 6
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025043.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 3
+      },
+      "ground_truth": 3,
+      "model_output": "<think>\nThe image contains three distinct objects: a small gray bicycle, a large purple tandem bicycle, and a large purple tandem bicycle. There are no other objects present in the image.\n</think>\n\n<answer>\n3\n</answer>",
+      "extracted_answer": 3
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025044.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 6
+      },
+      "ground_truth": 6,
+      "model_output": "<think>\nThe image contains five distinct objects: a blue car, a purple bus, a green bicycle, a yellow car, and a brown car.\n</think>\n<answer>\n5\n</answer>",
+      "extracted_answer": 5
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025045.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 5
+      },
+      "ground_truth": 5,
+      "model_output": "<think>\nThe image contains five distinct objects: a red chopper, a blue bicycle, a small brown bus, a small brown motorcycle, and a gray road bike.\n</think>\n<answer>\n5\n</answer>",
+      "extracted_answer": 5
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025046.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 7
+      },
+      "ground_truth": 7,
+      "model_output": "<think>\nThe image contains several objects, including a large and small school bus, a mountain bike, a small yellow object, a small purple car, a small gray car, a small red car, a small cyan bicycle, and a small purple metal object.\n</think>\n<answer>\n7\n</answer>",
+      "extracted_answer": 7
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025047.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 5
+      },
+      "ground_truth": 5,
+      "model_output": "<think>\nThe image contains five distinct objects: a large gray airplane, a small green toy airplane, a small cyan toy car, a small shiny cyan car, and a large purple toy car.\n</think>\n<answer>\n5\n</answer>",
+      "extracted_answer": 5
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025048.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 5
+      },
+      "ground_truth": 5,
+      "model_output": "<think>\nThe image contains five distinct objects: a purple SUV, a small purple airplane, a yellow school bus, a large cyan minivan, and a brown sedan.\n</think>\n<answer>\n5\n</answer>",
+      "extracted_answer": 5
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025049.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 10
+      },
+      "ground_truth": 10,
+      "model_output": "<think>\nThe image contains a variety of objects, including a yellow tandem bicycle, a blue bus, a yellow articulated bus, a gray scooter, a purple truck, a purple pickup truck, a small airplane, a small biplane, a small truck, a minivan, and a motorcycle.\n</think>\n<answer>\n10\n</answer>",
+      "extracted_answer": 10
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025050.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 6
+      },
+      "ground_truth": 6,
+      "model_output": "<think>\nThe image contains several objects, including a green motorcycle, a green bicycle, a red car, a cyan bicycle, a brown biplane, a green scooter, and a green tandem bike. There are also two large objects, a large green scooter and a large cyan bicycle, and a small green motorcycle.\n</think>\n<answer>\n6\n</answer>",
+      "extracted_answer": 6
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025051.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 3
+      },
+      "ground_truth": 3,
+      "model_output": "<think>\nThe image contains three distinct objects: a yellow road bike, a purple car, and a brown SUV. There are no other objects present in the image.\n</think>\n<answer>\n3\n</answer>",
+      "extracted_answer": 3
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025052.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 7
+      },
+      "ground_truth": 7,
+      "model_output": "<think>\nThe image contains several objects, including a biplane, a bicycle, a car, a motorcycle, a bus, and a small car. There are also several other objects like a red road bike, a brown bicycle, and a yellow object. Additionally, there is a small green object that appears to be a motorcycle.\n</think>\n<answer>\n8\n</answer>",
+      "extracted_answer": 8
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025053.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 9
+      },
+      "ground_truth": 9,
+      "model_output": "<think>\nA. 9\n</think>\n<answer>\n9\n</answer>",
+      "extracted_answer": 9
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025054.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 7
+      },
+      "ground_truth": 7,
+      "model_output": "<think>\nThe image contains several distinct objects, including a scooter, a bicycle, a double-decker bus, a chopper, a biplane, and a small train. There are also several small details like handles and wheels on some of the objects.\n</think>\n<answer>\n6\n</answer>",
+      "extracted_answer": 6
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025055.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 6
+      },
+      "ground_truth": 6,
+      "model_output": "<think>\nThe image contains several objects, including a green road bike, a green double bus, a purple scooter, a cyan biplane, a cyan tandem bike, and a brown truck. There are also two small objects, a green rubber object, and a small purple object.\n</think>\n<answer>\n6\n</answer>",
+      "extracted_answer": 6
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025056.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 9
+      },
+      "ground_truth": 9,
+      "model_output": "<think>\nThe image contains a variety of objects, including cars, bicycles, a scooter, and a train. There are 9 distinct objects in the image.\n</think>\n<answer>\n9\n</answer>",
+      "extracted_answer": 9
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025057.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 8
+      },
+      "ground_truth": 8,
+      "model_output": "<think>\nThe image contains several distinct objects, including a cyan biplane, a purple SUV, a green bus, a blue car, a red school bus, a brown truck, a red truck, a yellow truck, a cyan motorcycle, and a metal airplane. There are also multiple instances of each object, making it challenging to count them all.\n</think>\n<answer>\n8\n</answer>",
+      "extracted_answer": 8
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025058.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 10
+      },
+      "ground_truth": 10,
+      "model_output": "<think>\nA. 10\n</think>\n<answer>\n10\n</answer>",
+      "extracted_answer": 10
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025059.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 10
+      },
+      "ground_truth": 10,
+      "model_output": "<think>\nThe image contains a variety of different objects, including vehicles, vehicles, and a motorcycle. There are 9 distinct objects in the image.\n</think>\n<answer>\n9\n</answer>",
+      "extracted_answer": 9
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025060.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 8
+      },
+      "ground_truth": 8,
+      "model_output": "<think>\nThe image contains several objects, including a car, a motorcycle, a bus, a bicycle, and a small airplane. There are also several smaller objects like a small yellow bicycle and a small blue bus. The objects are arranged in various positions, with some overlapping.\n</think>\n<answer>\n7\n</answer>",
+      "extracted_answer": 7
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025061.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 8
+      },
+      "ground_truth": 8,
+      "model_output": "<think>\nA. 7\n</think>\n<answer>\n7\n</answer>",
+      "extracted_answer": 7
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025062.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 8
+      },
+      "ground_truth": 8,
+      "model_output": "<think>\nThe image contains a variety of objects, including a small brown SUV, a yellow bus, a small cyan scooter, a small brown mountain bike, a small brown motorcycle, a small gray school bus, a small brown fighter, and a small brown road bike. There are also some other objects that are not clearly distinguishable.\n</think>\n<answer>\n7\n</answer>",
+      "extracted_answer": 7
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025063.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 10
+      },
+      "ground_truth": 10,
+      "model_output": "<think>\nA. 10\n</think>\n<answer>\n10\n</answer>",
+      "extracted_answer": 10
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025064.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 3
+      },
+      "ground_truth": 3,
+      "model_output": "<think>\nThe image contains three distinct objects: a blue jet, a green bus, and a green tram. There are no other objects present in the image.\n</think>\n<answer>\n3\n</answer>",
+      "extracted_answer": 3
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025065.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 4
+      },
+      "ground_truth": 4,
+      "model_output": "<think>\nThe image contains four distinct objects: a purple fighter, a cyan school bus, a cyan dirt bike, and a yellow double-decker bus.\n</think>\n<answer>\n4\n</answer>",
+      "extracted_answer": 4
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025066.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 6
+      },
+      "ground_truth": 6,
+      "model_output": "<think>\nThe image contains several distinct objects, including a cyan truck, a red truck, a yellow chopper, a brown motorcycle, a red airplane, and a small brown fighter. There are also two red metallic objects, one of which is a truck and the other is a car.\n</think>\n<answer>\n6\n</answer>",
+      "extracted_answer": 6
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025067.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 7
+      },
+      "ground_truth": 7,
+      "model_output": "<think>\nThe image contains several distinct objects, including a yellow mountain bike, a green regular bus, a green truck, a blue dirt bike, a red car, a cyan truck, a red bicycle, a green pickup truck, a yellow bicycle, a blue bike, a green bus, a cyan bicycle, and a red car.\n</think>\n<answer>\n8\n</answer>",
+      "extracted_answer": 8
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025068.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 3
+      },
+      "ground_truth": 3,
+      "model_output": "<think>\nThe image contains three distinct objects: a bus, a train, and an airplane. The bus and the train are both large and have a similar design, while the airplane is smaller and has a simpler design.\n</think>\n<answer>\n3\n</answer>",
+      "extracted_answer": 3
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025069.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 10
+      },
+      "ground_truth": 10,
+      "model_output": "<think>\nA. 9\n</think>\n<answer>\n9\n</answer>",
+      "extracted_answer": 9
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025070.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 9
+      },
+      "ground_truth": 9,
+      "model_output": "<think>\nA. 9\n</think>\n<answer>\n9\n</answer>",
+      "extracted_answer": 9
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025071.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 6
+      },
+      "ground_truth": 6,
+      "model_output": "<think>\nThe image contains several distinct objects, including a yellow car, a brown car, a dirt bike, a regular bus, a green bicycle, and a road bike. There are also some parts of other objects, such as the wheels of the car and the handlebars of the dirt bike.\n</think>\n<answer>\n5\n</answer>",
+      "extracted_answer": 5
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025072.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 10
+      },
+      "ground_truth": 10,
+      "model_output": "<think>\nA. 10\n</think>\n<answer>\n10\n</answer>",
+      "extracted_answer": 10
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025073.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 5
+      },
+      "ground_truth": 5,
+      "model_output": "<think>\nThe image contains several distinct objects, including a gray airplane, a gray chopper, a cyan tandem bike, a red object, a blue jet, and a small brown motorcycle. There are also some parts of other objects, such as the engine of the chopper and the frame of the motorcycle.\n</think>\n<answer>\n6\n</answer>",
+      "extracted_answer": 6
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025074.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 9
+      },
+      "ground_truth": 9,
+      "model_output": "<think>\nA. 9\n</think>\n<answer>\n9\n</answer>",
+      "extracted_answer": 9
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025075.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 3
+      },
+      "ground_truth": 3,
+      "model_output": "<think>\nThe image contains three distinct objects: a green school bus, a small purple car, and a red biplane. There are no other objects present in the image.\n</think>\n<answer>\n3\n</answer>",
+      "extracted_answer": 3
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025076.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 5
+      },
+      "ground_truth": 5,
+      "model_output": "<think>\nThe image contains five distinct objects: a purple SUV, a yellow motorcycle, a small brown airplane, a small gray bicycle, and a small purple car.\n</think>\n<answer>\n5\n</answer>",
+      "extracted_answer": 5
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025077.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 5
+      },
+      "ground_truth": 5,
+      "model_output": "<think>\nThe image contains several objects: a gray bicycle, a green bicycle, a green motorcycle, a red airplane, and a gray airplane. There are also two small objects: a green and a red airplane, and a red motorcycle.\n</think>\n<answer>\n5\n</answer>",
+      "extracted_answer": 5
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025078.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 5
+      },
+      "ground_truth": 5,
+      "model_output": "<think>\nThe image contains five distinct objects: a yellow car, a small brown airplane, a green train, a small blue car, and a large silver jet.\n</think>\n<answer>\n5\n</answer>",
+      "extracted_answer": 5
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025079.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 9
+      },
+      "ground_truth": 9,
+      "model_output": "<think>\nThe image contains a variety of objects, including cars, a school bus, a tandem bicycle, a scooter, a train, and an airplane. There are 9 distinct objects in the image.\n</think>\n<answer>\n9\n</answer>",
+      "extracted_answer": 9
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025080.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 5
+      },
+      "ground_truth": 5,
+      "model_output": "<think>\nThe image contains five distinct objects: a red biplane, a green motorcycle, a purple minivan, a red double-decker bus, and a small gray car.\n</think>\n<answer>\n5\n</answer>",
+      "extracted_answer": 5
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025081.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 5
+      },
+      "ground_truth": 5,
+      "model_output": "<think>\nThe image contains several objects: a yellow car, a brown double-decker bus, a green bicycle, a purple fighter, and a cyan minivan. There are also two large, soft-colored objects, a yellow car and a purple fighter, which are not directly visible in the image but implied by the context.\n</think>\n\n<answer>\n5\n</answer>",
+      "extracted_answer": 5
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025082.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 10
+      },
+      "ground_truth": 10,
+      "model_output": "<think>\nA. 10\n</think>\n<answer>\n10\n</answer>",
+      "extracted_answer": 10
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025083.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 4
+      },
+      "ground_truth": 4,
+      "model_output": "<think>\nThe image contains three distinct objects: a small red airplane, a small cyan motorcycle, and a large cyan airplane. There are no other objects present in the image.\n</think>\n<answer>\n3\n</answer>",
+      "extracted_answer": 3
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025084.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 8
+      },
+      "ground_truth": 8,
+      "model_output": "<think>\nThe image contains several distinct objects, including a green road bike, a large brown train, a brown biplane, a gray car, a blue car, a green motorcycle, a brown scooter, a gray minivan, and a brown motorcycle.\n</think>\n<answer>\n8\n</answer>",
+      "extracted_answer": 8
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025085.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 8
+      },
+      "ground_truth": 8,
+      "model_output": "<think>\nThe image contains several objects, including a purple double-decker bus, a purple sedan, a red truck, a blue fighter, a green chopper, a purple bicycle, a purple tandem bike, a purple car, a purple bus, a purple minivan, a purple sedan, a purple truck, a purple motorcycle, a purple car, a purple bus, a purple minivan, a purple sedan, a purple truck, a purple car, a purple motorcycle, a purple minivan, a purple sedan, a purple truck, a purple car, a purple bus, a purple minivan, a purple sedan, a purple truck, a purple car, a purple motorcycle, a purple minivan, a purple sedan, a purple truck, a purple car, a purple bus, a purple minivan, a purple sedan, a purple truck, a purple car, a purple motorcycle, a purple minivan, a purple sedan, a purple truck, a purple car, a purple bus, a purple minivan, a purple sedan, a purple truck, a purple car, a purple motorcycle, a purple minivan, a purple sedan, a purple truck, a purple car, a purple bus, a purple minivan, a purple sedan, a purple truck",
+      "extracted_answer": null
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025086.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 10
+      },
+      "ground_truth": 10,
+      "model_output": "<think>\nA. 10\n</think>\n<answer>\n10\n</answer>",
+      "extracted_answer": 10
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025087.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 9
+      },
+      "ground_truth": 9,
+      "model_output": "<think>\nThe image contains several objects, including cars, a school bus, a fighter jet, a bus, and a chopper. There are also several metallic objects, such as the cars and the chopper, which are likely to be in different positions and orientations.\n</think>\n<answer>\n9\n</answer>",
+      "extracted_answer": 9
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025088.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 3
+      },
+      "ground_truth": 3,
+      "model_output": "<think>\nThe image contains three distinct objects: a blue bicycle, a green bus, and a yellow chopper. There are no other objects present in the image.\n</think>\n<answer>\n3\n</answer>",
+      "extracted_answer": 3
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025089.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 4
+      },
+      "ground_truth": 4,
+      "model_output": "<think>\nThe image contains four distinct objects: a cyan road bike, a yellow car, a brown fighter, and a yellow airplane.\n</think>\n<answer>\n4\n</answer>",
+      "extracted_answer": 4
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025090.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 9
+      },
+      "ground_truth": 9,
+      "model_output": "<think>\nA. 8\n</think>\n<answer>\n8\n</answer>",
+      "extracted_answer": 8
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025091.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 7
+      },
+      "ground_truth": 7,
+      "model_output": "<think>\nThe image contains several objects, including a yellow double-decker bus, a purple school bus, a red truck, a yellow bicycle, a yellow scooter, and a blue jet plane. There are also two small yellow objects, a yellow road bike, and a small yellow object that appears to be a part of the scooter.\n</think>\n<answer>\n7\n</answer>",
+      "extracted_answer": 7
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025092.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 6
+      },
+      "ground_truth": 6,
+      "model_output": "<think>\nThe image contains several objects, including a gray car, a yellow car, a red school bus, a blue double-decker bus, a red train, and a gray fighter jet. There are also some other objects like a red bus and a red car.\n</think>\n<answer>\n7\n</answer>",
+      "extracted_answer": 7
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025093.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 10
+      },
+      "ground_truth": 10,
+      "model_output": "<think>\nThe image contains a variety of objects, including cars, trucks, airplanes, and bicycles. There are 9 cars, 2 trucks, 2 airplanes, and 2 bicycles. The objects are scattered throughout the image, with some overlapping.\n</think>\n<answer>\n10\n</answer>",
+      "extracted_answer": 10
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025094.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 6
+      },
+      "ground_truth": 6,
+      "model_output": "<think>\nThe image contains several objects, including a yellow road bike, a yellow motorcycle, a purple minivan, a gray SUV, a green minivan, and a blue fighter. There are also two smaller objects, a yellow and a gray object, which are not clearly distinguishable from the larger objects.\n</think>\n<answer>\n6\n</answer>",
+      "extracted_answer": 6
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025095.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 6
+      },
+      "ground_truth": 6,
+      "model_output": "<think>\nThe image contains five distinct objects: a green school bus, a purple bicycle, a blue chopper, a small yellow airplane, and a large brown school bus. There are no other objects in the image.\n</think>\n<answer>\n5\n</answer>",
+      "extracted_answer": 5
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025096.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 8
+      },
+      "ground_truth": 8,
+      "model_output": "<think>\nA. 8\n</think>\n<answer>\n8\n</answer>",
+      "extracted_answer": 8
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025097.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 7
+      },
+      "ground_truth": 7,
+      "model_output": "<think>\nThe image contains several distinct objects, including a school bus, a road bike, a motorcycle, a car, and a small green bus. There are also two metallic objects, a large airplane, and a small cyan motorcycle.\n</think>\n<answer>\n6\n</answer>",
+      "extracted_answer": 6
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025098.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 10
+      },
+      "ground_truth": 10,
+      "model_output": "<think>\nA. 10\n</think>\n<answer>\n10\n</answer>",
+      "extracted_answer": 10
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025099.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 10
+      },
+      "ground_truth": 10,
+      "model_output": "<think>\nA. 10\n</think>\n<answer>\n9\n</answer>",
+      "extracted_answer": 9
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025100.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 5
+      },
+      "ground_truth": 5,
+      "model_output": "<think>\nThe image contains four distinct objects: a road bike, a jet plane, a dirt bike, and a car. There are no other objects present in the image.\n</think>\n<answer>\n4\n</answer>",
+      "extracted_answer": 4
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025101.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 7
+      },
+      "ground_truth": 7,
+      "model_output": "<think>\nThe image contains several objects, including a blue fighter jet, a brown tandem bicycle, a yellow van, a cyan dirt bike, a brown regular bus, a brown biplane, and a purple jet. There are also two small objects, a yellow and a brown, which are not clearly distinguishable from the larger objects.\n</think>\n<answer>\n7\n</answer>",
+      "extracted_answer": 7
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025102.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 3
+      },
+      "ground_truth": 3,
+      "model_output": "<think>\nThe image contains three distinct objects: a green double-decker bus, a red truck, and a red train. There are no other objects present in the image.\n</think>\n<answer>\n3\n</answer>",
+      "extracted_answer": 3
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025103.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 6
+      },
+      "ground_truth": 6,
+      "model_output": "<think>\nThe image contains several objects, including a yellow car, a blue bus, a red car, a brown motorcycle, a gray train, and a small green bus. There are also two small green and one small cyan bus. The objects are arranged in a somewhat scattered manner.\n</think>\n<answer>\n6\n</answer>",
+      "extracted_answer": 6
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025104.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 9
+      },
+      "ground_truth": 9,
+      "model_output": "<think>\nThe image contains a variety of objects, including a green bicycle, a green truck, a gray SUV, a blue car, a yellow car, a red scooter, a small green van, a small cyan mountain bike, a small yellow car, a small cyan car, a small green car, a small green bicycle, a small green truck, a small green bus, and a large cyan bus.\n</think>\n<answer>\n9\n</answer>",
+      "extracted_answer": 9
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025105.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 7
+      },
+      "ground_truth": 7,
+      "model_output": "<think>\nThe image contains several objects, including a blue scooter, a blue truck, a red car, a green bicycle, a small blue school bus, a small gray chopper, and a small cyan car. There are also some other objects that are not clearly distinguishable.\n</think>\n<answer>\n6\n</answer>",
+      "extracted_answer": 6
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025106.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 8
+      },
+      "ground_truth": 8,
+      "model_output": "<think>\nThe image contains several distinct objects, including a green minivan, a green SUV, a purple biplane, a purple school bus, a purple bus, a purple school bus, a purple bus, a purple school bus, a purple school bus, a purple school bus, a purple school bus, a purple school bus, a purple school bus, a purple school bus, a purple school bus, a purple school bus, a purple school bus, a purple school bus, a purple school bus, a purple school bus, a purple school bus, a purple school bus, a purple school bus, a purple school bus, a purple school bus, a purple school bus, a purple school bus, a purple school bus, a purple school bus, a purple school bus, a purple school bus, a purple school bus, a purple school bus, a purple school bus, a purple school bus, a purple school bus, a purple school bus, a purple school bus, a purple school bus, a purple school bus, a purple school bus, a purple school bus, a purple school bus, a purple school bus, a purple school bus, a purple school bus, a purple school bus, a purple school bus, a purple school bus, a purple school",
+      "extracted_answer": null
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025107.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 8
+      },
+      "ground_truth": 8,
+      "model_output": "<think>\nA. 8\n</think>\n<answer>\n8\n</answer>",
+      "extracted_answer": 8
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025108.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 3
+      },
+      "ground_truth": 3,
+      "model_output": "<think>\nThe image contains three distinct objects: a blue train, a red car, and a gray car. The blue train is larger than the gray car and the red car, and the red car is larger than the gray car. The red car is also larger than the blue train.\n</think>\n<answer>\n3\n</answer>",
+      "extracted_answer": 3
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025109.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 7
+      },
+      "ground_truth": 7,
+      "model_output": "<think>\nThe image contains a variety of objects, including a minivan, a truck, a school bus, a biplane, a motorcycle, and a scooter. There are also several metallic objects, such as the minivan and the motorcycle.\n</think>\n<answer>\n7\n</answer>",
+      "extracted_answer": 7
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025110.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 8
+      },
+      "ground_truth": 8,
+      "model_output": "<think>\nThe image contains several objects, including a blue car, a red car, a red scooter, a blue bicycle, a cyan truck, a cyan scooter, and a small brown car. There are also several smaller objects like a small blue bicycle, a small blue car, and a small brown car.\n</think>\n<answer>\n8\n</answer>",
+      "extracted_answer": 8
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025111.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 9
+      },
+      "ground_truth": 9,
+      "model_output": "<think>\nA. 9\n</think>\n<answer>\n9\n</answer>",
+      "extracted_answer": 9
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025112.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 9
+      },
+      "ground_truth": 9,
+      "model_output": "<think>\nThe image contains a variety of objects, including a large blue SUV, a purple truck, a purple scooter, a large green bus, a small green train, a large gray bus, a small gray bicycle, a small yellow car, a large cyan chopper, a large blue car, a small gray car, a small green train, a small gray bike, a small yellow car, a small gray car, a small green train, a small gray bike, a small yellow car, a small gray car, a small green train, a small gray bike, a small yellow car, a small gray car, a small green train, a small gray bike, a small yellow car, a small gray car, a small green train, a small gray bike, a small yellow car, a small gray car, a small green train, a small gray bike, a small yellow car, a small gray car, a small green train, a small gray bike, a small yellow car, a small gray car, a small green train, a small gray bike, a small yellow car, a small gray car, a small green train, a small gray bike, a small yellow car, a small gray car, a small green train, a small gray bike,",
+      "extracted_answer": null
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025113.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 6
+      },
+      "ground_truth": 6,
+      "model_output": "<think>\nThe image contains five different objects: a brown road bike, a green scooter, a purple school bus, a cyan tandem bike, and a cyan car.\n</think>\n<answer>\n5\n</answer>",
+      "extracted_answer": 5
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025114.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 6
+      },
+      "ground_truth": 6,
+      "model_output": "<think>\nThe image contains several objects, including a yellow double bus, a green double bus, a green airplane, a cyan dirt bike, a small yellow airplane, a green bus, a gray bus, and a small green and gray object. There are also some details like the seats on the yellow double bus and the wheels on the green double bus.\n</think>\n<answer>\n6\n</answer>",
+      "extracted_answer": 6
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025115.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 9
+      },
+      "ground_truth": 9,
+      "model_output": "<think>\nA. 9\n</think>\n<answer>\n8\n</answer>",
+      "extracted_answer": 8
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025116.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 7
+      },
+      "ground_truth": 7,
+      "model_output": "<think>\nThe image contains several objects, including a small red bus, a small blue school bus, a small gray car, a small gray bicycle, a small cyan airplane, a small red jet, a small cyan school bus, and a small red double-decker bus. There are also two large objects, a large cyan airplane and a large gray car.\n</think>\n<answer>\n7\n</answer>",
+      "extracted_answer": 7
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025117.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 9
+      },
+      "ground_truth": 9,
+      "model_output": "<think>\nA. 10\n</think>\n<answer>\n10\n</answer>",
+      "extracted_answer": 10
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025118.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 5
+      },
+      "ground_truth": 5,
+      "model_output": "<think>\nThe image contains five different objects: a gray train, a green double-decker bus, a gray mountain bike, a blue bicycle, and a yellow car.\n</think>\n<answer>\n5\n</answer>",
+      "extracted_answer": 5
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025119.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 9
+      },
+      "ground_truth": 9,
+      "model_output": "<think>\nThe image contains a variety of objects, including cars, airplanes, a school bus, a road bike, a train, and a truck. There are also several different types of vehicles, such as cars, airplanes, and trucks. The objects are scattered throughout the image, with some close to each other and others spread out.\n</think>\n<answer>\n9\n</answer>",
+      "extracted_answer": 9
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025120.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 6
+      },
+      "ground_truth": 6,
+      "model_output": "<think>\nThe image contains several objects, including a purple fighter jet, a purple airplane, a red bus, a small cyan bicycle, a small gray biplane, a small gray scooter, and a small green biplane. There are also two large purple objects, one large purple airplane and one large purple fighter jet.\n</think>\n<answer>\n6\n</answer>",
+      "extracted_answer": 6
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025121.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 10
+      },
+      "ground_truth": 10,
+      "model_output": "<think>\nA. 9\n</think>\n<answer>\n9\n</answer>",
+      "extracted_answer": 9
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025122.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 10
+      },
+      "ground_truth": 10,
+      "model_output": "<think>\nA. 9\n</think>\n<answer>\n9\n</answer>",
+      "extracted_answer": 9
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025123.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 6
+      },
+      "ground_truth": 6,
+      "model_output": "<think>\nThe image contains several objects, including a green tandem bicycle, a blue car, a yellow motorcycle, a purple car, and a gray scooter. There are also two small objects, a small yellow motorcycle and a small purple car.\n</think>\n<answer>\n6\n</answer>",
+      "extracted_answer": 6
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025124.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 8
+      },
+      "ground_truth": 8,
+      "model_output": "<think>\nThe image contains several objects, including a truck, a double bus, a jet, a biplane, a motorcycle, a tandem bike, and a school bus. There are also multiple colors and types of vehicles, such as cars, motorcycles, and bicycles.\n</think>\n<answer>\n8\n</answer>",
+      "extracted_answer": 8
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025125.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 8
+      },
+      "ground_truth": 8,
+      "model_output": "<think>\nThe image contains several objects, including a blue dirt bike, a blue bicycle, a green car, a red motorcycle, a brown chopper, a brown bicycle, a green biplane, and a small gray chopper. There are also several other objects that are not clearly distinguishable.\n</think>\n<answer>\n8\n</answer>",
+      "extracted_answer": 8
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025126.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 3
+      },
+      "ground_truth": 3,
+      "model_output": "<think>\nThe image contains three distinct objects: a brown school bus, a green school bus, and a shiny cyan bicycle. There are no other objects present in the image.\n</think>\n<answer>\n3\n</answer>",
+      "extracted_answer": 3
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025127.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 7
+      },
+      "ground_truth": 7,
+      "model_output": "<think>\nThe image contains several distinct objects, including a yellow bicycle, a brown bicycle, a brown minivan, a small cyan car, a small brown airplane, a purple scooter, and a large yellow bicycle. There are also some smaller objects like a small gray bicycle and a small brown wheel.\n</think>\n<answer>\n7\n</answer>",
+      "extracted_answer": 7
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025128.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 6
+      },
+      "ground_truth": 6,
+      "model_output": "<think>\nThe image contains several distinct objects, including a large biplane, a small biplane, a bus, a motorcycle, a dirt bike, and a double-decker bus. There are also several smaller objects like a green plane and a small green object.\n</think>\n<answer>\n6\n</answer>",
+      "extracted_answer": 6
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025129.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 4
+      },
+      "ground_truth": 4,
+      "model_output": "<think>\nThe image contains four distinct objects: a red biplane, a purple motorcycle, a gray motorcycle, and a small metallic car.\n</think>\n<answer>\n4\n</answer>",
+      "extracted_answer": 4
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025130.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 5
+      },
+      "ground_truth": 5,
+      "model_output": "<think>\nThe image contains five distinct objects: a purple SUV, a blue car, a blue train, a small brown truck, and a small purple van.\n</think>\n<answer>\n5\n</answer>",
+      "extracted_answer": 5
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025131.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 8
+      },
+      "ground_truth": 8,
+      "model_output": "<think>\nThe image contains several objects, including a yellow mountain bike, a red scooter, a purple double-decker bus, a red minivan, a red double-decker bus, a green chopper, a yellow minivan, a yellow airplane, and a yellow bus. There are also two red minivans, one large red metallic van, and one small red metallic van. Additionally, there is a small green motorcycle and a small yellow airplane.\n</think>\n<answer>\n9\n</answer>",
+      "extracted_answer": 9
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025132.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 3
+      },
+      "ground_truth": 3,
+      "model_output": "<think>\nThe image contains three distinct objects: a red SUV, a cyan road bike, and a small purple car. There are no other objects present in the image.\n</think>\n<answer>\n3\n</answer>",
+      "extracted_answer": 3
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025133.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 5
+      },
+      "ground_truth": 5,
+      "model_output": "<think>\nThe image contains four distinct objects: a small brown bicycle, a large green double-decker bus, a large purple train, and a large red jet plane.\n</think>\n<answer>\n4\n</answer>",
+      "extracted_answer": 4
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025134.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 8
+      },
+      "ground_truth": 8,
+      "model_output": "<think>\nA. 9\n</think>\n<answer>\n9\n</answer>",
+      "extracted_answer": 9
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025135.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 8
+      },
+      "ground_truth": 8,
+      "model_output": "<think>\nThe image contains several objects, including a road bike, a school bus, a red car, a green bus, a small airplane, a small car, a small truck, and a small SUV. There are also some smaller objects like a red airplane and a small airplane. Additionally, there are two cars, one small and one large, and a truck. There is also a small airplane and a small car in the background.\n</think>\n<answer>\n8\n</answer>",
+      "extracted_answer": 8
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025136.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 6
+      },
+      "ground_truth": 6,
+      "model_output": "<think>\nThe image contains several objects, including a gray car, a yellow motorcycle, a yellow fighter jet, a purple truck, a red jet, and a yellow dirt bike. There are also two small objects, a small brown scooter and a small cyan object, which could be a toy or a small part of the car.\n</think>\n<answer>\n6\n</answer>",
+      "extracted_answer": 6
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025137.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 5
+      },
+      "ground_truth": 5,
+      "model_output": "<think>\nThe image contains five distinct objects: a blue scooter, a gray biplane, a green airplane, a small cyan fighter, and a large gray metal tandem bike.\n</think>\n<answer>\n5\n</answer>",
+      "extracted_answer": 5
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025138.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 3
+      },
+      "ground_truth": 3,
+      "model_output": "<think>\nThe image contains three distinct objects: a small brown airplane, a small gray bicycle, and a small purple bus. There are no other objects present in the image.\n</think>\n<answer>\n3\n</answer>",
+      "extracted_answer": 3
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025139.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 4
+      },
+      "ground_truth": 4,
+      "model_output": "<think>\nThe image contains four distinct objects: a red scooter, a green tandem bicycle, a yellow double bus, and a small black motorcycle.\n</think>\n<answer>\n4\n</answer>",
+      "extracted_answer": 4
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025140.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 3
+      },
+      "ground_truth": 3,
+      "model_output": "<think>\nThe image contains three distinct objects: a tandem bicycle, a blue school bus, and a gray truck. There are no other objects present in the image.\n</think>\n<answer>\n3\n</answer>",
+      "extracted_answer": 3
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025141.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 9
+      },
+      "ground_truth": 9,
+      "model_output": "<think>\nA. 9\n</think>\n<answer>\n9\n</answer>",
+      "extracted_answer": 9
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025142.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 10
+      },
+      "ground_truth": 10,
+      "model_output": "<think>\nA. 9\n</think>\n<answer>\n9\n</answer>",
+      "extracted_answer": 9
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025143.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 5
+      },
+      "ground_truth": 5,
+      "model_output": "<think>\nThe image contains five distinct objects: a purple car, a green bicycle, a red airplane, a gray dirt bike, and a small brown bicycle.\n</think>\n<answer>\n5\n</answer>",
+      "extracted_answer": 5
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025144.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 6
+      },
+      "ground_truth": 6,
+      "model_output": "<think>\nThe image contains several objects, including a purple car, a purple dirt bike, a green bicycle, a blue scooter, and a blue motorcycle. There is also a small green metal object that appears to be a fighter jet.\n</think>\n<answer>\n6\n</answer>",
+      "extracted_answer": 6
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025145.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 10
+      },
+      "ground_truth": 10,
+      "model_output": "<think>\nA. 10\n</think>\n<answer>\n10\n</answer>",
+      "extracted_answer": 10
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025146.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 5
+      },
+      "ground_truth": 5,
+      "model_output": "<think>\nThe image contains several distinct objects: a purple car, a brown bicycle, a cyan mountain bike, a green and yellow object that resembles a small train, and a large gray train.\n</think>\n<answer>\n5\n</answer>",
+      "extracted_answer": 5
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025147.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 6
+      },
+      "ground_truth": 6,
+      "model_output": "<think>\nThe image contains six different objects: a gray dirt bike, a gray school bus, a yellow airplane, a small purple biplane, a small blue car, and a small gray biplane.\n</think>\n<answer>\n6\n</answer>",
+      "extracted_answer": 6
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025148.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 8
+      },
+      "ground_truth": 8,
+      "model_output": "<think>\nA. 8\n</think>\n<answer>\n8\n</answer>",
+      "extracted_answer": 8
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025149.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 8
+      },
+      "ground_truth": 8,
+      "model_output": "<think>\nThe image contains several objects, including a biplane, a fighter jet, a road bike, a train, a minivan, and two vans. There are also several small objects like a bicycle, a train, and a bus. The objects are arranged in various positions, with some overlapping.\n</think>\n<answer>\n7\n</answer>",
+      "extracted_answer": 7
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025150.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 9
+      },
+      "ground_truth": 9,
+      "model_output": "<think>\nA. 9\n</think>\n<answer>\n9\n</answer>",
+      "extracted_answer": 9
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025151.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 8
+      },
+      "ground_truth": 8,
+      "model_output": "<think>\nThe image contains several objects, including a purple bicycle, a green scooter, a green motorcycle, a double-decker bus, a brown car, a red bicycle, a red tandem bike, and a gray minivan. There are also two small objects, a small green object and a small gray object, which might be mistaken for a car but are actually small objects.\n</think>\n<answer>\n7\n</answer>",
+      "extracted_answer": 7
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025152.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 10
+      },
+      "ground_truth": 10,
+      "model_output": "<think>\nThe image contains a variety of objects, including cars, buses, a motorcycle, and a small train. There are multiple cars, with one large gray car, one small brown car, and one large brown SUV. There are also two buses, one large blue bus and one small yellow bus. Additionally, there is a motorcycle and a small train. The total number of different objects is 10.\n</think>\n<answer>\n10\n</answer>",
+      "extracted_answer": 10
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025153.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 3
+      },
+      "ground_truth": 3,
+      "model_output": "<think>\nThe image contains three distinct objects: a purple bicycle, a yellow scooter, and a small brown bus. The purple bicycle and the yellow scooter are both in the foreground, while the small brown bus is in the background.\n</think>\n\n<answer>\n3\n</answer>",
+      "extracted_answer": 3
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025154.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 5
+      },
+      "ground_truth": 5,
+      "model_output": "<think>\nThe image contains five distinct objects: a blue wagon, a blue dirt bike, a blue bicycle, a blue bus, and a cyan double-decker bus.\n</think>\n<answer>\n5\n</answer>",
+      "extracted_answer": 5
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025155.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 10
+      },
+      "ground_truth": 10,
+      "model_output": "<think>\nThe image contains a variety of objects, including a road bike, a blue bike, a purple mountain bike, a green school bus, a purple car, a red car, a small red truck, a small green car, a small blue car, a small yellow car, a small brown car, a small green bus, a small purple bus, a small green truck, a small green bus, a small purple bus, a small green bus, a small purple bus, a small green bus, a small purple bus, a small green bus, a small purple bus, a small green bus, a small purple bus, a small green bus, a small purple bus, a small green bus, a small purple bus, a small green bus, a small purple bus, a small green bus, a small purple bus, a small green bus, a small purple bus, a small green bus, a small purple bus, a small green bus, a small purple bus, a small green bus, a small purple bus, a small green bus, a small purple bus, a small green bus, a small purple bus, a small green bus, a small purple bus, a small green bus, a small purple bus, a small green bus, a small purple",
+      "extracted_answer": null
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025156.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 3
+      },
+      "ground_truth": 3,
+      "model_output": "<think>\nThe image contains three distinct objects: a blue dirt bike, a green bus, and a brown school bus.\n</think>\n<answer>\n3\n</answer>",
+      "extracted_answer": 3
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025157.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 6
+      },
+      "ground_truth": 6,
+      "model_output": "<think>\nThe image contains several distinct objects, including a large brown car, a small blue motorcycle, a green car, a yellow school bus, a small brown bicycle, a small yellow object, and a small yellow motorcycle.\n</think>\n<answer>\n6\n</answer>",
+      "extracted_answer": 6
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025158.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 4
+      },
+      "ground_truth": 4,
+      "model_output": "<think>\nThe image contains four distinct objects: a red fighter jet, two metallic motorcycles, and a metallic chopper. There are no other objects present in the image.\n</think>\n<answer>\n4\n</answer>",
+      "extracted_answer": 4
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025159.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 5
+      },
+      "ground_truth": 5,
+      "model_output": "<think>\nThe image contains five distinct objects: a yellow airplane, a blue airplane, a green truck, a brown train, and a red double-decker bus.\n</think>\n<answer>\n5\n</answer>",
+      "extracted_answer": 5
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025160.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 9
+      },
+      "ground_truth": 9,
+      "model_output": "<think>\nA. 9\n</think>\n<answer>\n9\n</answer>",
+      "extracted_answer": 9
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025161.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 3
+      },
+      "ground_truth": 3,
+      "model_output": "<think>\nThe image contains three distinct objects: a yellow mountain bike, a gray bicycle, and a green and blue object that appears to be a tram or a similar vehicle. There are no other objects in the image.\n</think>\n<answer>\n3\n</answer>",
+      "extracted_answer": 3
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025162.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 5
+      },
+      "ground_truth": 5,
+      "model_output": "<think>\nThe image contains five distinct objects: a blue bus, a yellow school bus, a green biplane, a cyan tandem bicycle, and a small brown metallic fighter jet.\n</think>\n<answer>\n5\n</answer>",
+      "extracted_answer": 5
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025163.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 10
+      },
+      "ground_truth": 10,
+      "model_output": "<think>\nA. 10\n</think>\n<answer>\n9\n</answer>",
+      "extracted_answer": 9
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025164.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 9
+      },
+      "ground_truth": 9,
+      "model_output": "<think>\nA. 8\n</think>\n<answer>\n8\n</answer>",
+      "extracted_answer": 8
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025165.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 7
+      },
+      "ground_truth": 7,
+      "model_output": "<think>\nThe image contains several distinct objects, including a school bus, a minivan, a chopper, a road bike, a jet, and a motorcycle. There are also multiple bicycles, including a large purple one and a smaller one. Additionally, there is a small green object that appears to be a chopper.\n</think>\n<answer>\n7\n</answer>",
+      "extracted_answer": 7
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025166.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 8
+      },
+      "ground_truth": 8,
+      "model_output": "<think>\nA. 8\n</think>\n<answer>\n8\n</answer>",
+      "extracted_answer": 8
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025167.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 7
+      },
+      "ground_truth": 7,
+      "model_output": "<think>\nThe image contains several objects, including a yellow bicycle, a yellow chopper, a small red chopper, a small green airplane, a small brown road bike, a small yellow mountain bike, and a large gray jet plane. There are also two other objects that are not explicitly mentioned in the image but are implied to be present based on the context.\n</think>\n<answer>\n7\n</answer>",
+      "extracted_answer": 7
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025168.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 3
+      },
+      "ground_truth": 3,
+      "model_output": "<think>\nThe image contains three distinct objects: a brown motorcycle, a red scooter, and a green double-decker bus. There are no other objects present in the image.\n</think>\n<answer>\n3\n</answer>",
+      "extracted_answer": 3
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025169.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 10
+      },
+      "ground_truth": 10,
+      "model_output": "<think>\nA. 10\n</think>\n<answer>\n9\n</answer>",
+      "extracted_answer": 9
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025170.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 8
+      },
+      "ground_truth": 8,
+      "model_output": "<think>\nThe image contains several objects, including a yellow minivan, a yellow SUV, a green mountain bike, a green jet, a gray train, a yellow motorcycle, a brown car, a brown bus, and a green airplane. There are also several other objects like a small gray train, a small green airplane, and a small brown car.\n</think>\n<answer>\n8\n</answer>",
+      "extracted_answer": 8
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025171.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 7
+      },
+      "ground_truth": 7,
+      "model_output": "<think>\nThe image contains several objects, including a green scooter, a purple motorcycle, a yellow bicycle, a purple train, a gray jet, a brown truck, and a blue bus. There are also some other smaller objects like a small green object and a small yellow object.\n</think>\n<answer>\n6\n</answer>",
+      "extracted_answer": 6
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025172.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 4
+      },
+      "ground_truth": 4,
+      "model_output": "<think>\nThe image contains four distinct objects: a brown car, a blue chopper, a gray car, and a small gray train.\n</think>\n<answer>\n4\n</answer>",
+      "extracted_answer": 4
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025173.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 10
+      },
+      "ground_truth": 10,
+      "model_output": "<think>\nA. 10\n</think>\n<answer>\n10\n</answer>",
+      "extracted_answer": 10
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025174.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 9
+      },
+      "ground_truth": 9,
+      "model_output": "<think>\nA. 9\n</think>\n<answer>\n9\n</answer>",
+      "extracted_answer": 9
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025175.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 4
+      },
+      "ground_truth": 4,
+      "model_output": "<think>\nThe image contains four distinct objects: a red bus, a green bus, a green car, and a red road bike.\n</think>\n<answer>\n4\n</answer>",
+      "extracted_answer": 4
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025176.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 9
+      },
+      "ground_truth": 9,
+      "model_output": "<think>\nThe image contains a variety of objects, including a blue SUV, a red SUV, a yellow motorcycle, a yellow biplane, a gray scooter, a blue bus, a small brown car, a yellow bicycle, and a large cyan bus. There are also several other smaller objects like a yellow scooter, a yellow car, and a yellow train.\n</think>\n<answer>\n9\n</answer>",
+      "extracted_answer": 9
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025177.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 6
+      },
+      "ground_truth": 6,
+      "model_output": "<think>\nThe image contains several objects, including a yellow motorcycle, a blue car, a small blue car, a small green car, a green bus, a small green truck, a small green train, a small green bus, a small green car, a small green truck, a small green train, a small green bus, a small green airplane, a small green helicopter, a small green boat, a small green car, a small green truck, a small green train, a small green bus, a small green airplane, a small green helicopter, a small green boat, a small green car, a small green truck, a small green train, a small green bus, a small green airplane, a small green helicopter, a small green boat, a small green car, a small green truck, a small green train, a small green bus, a small green airplane, a small green helicopter, a small green boat, a small green car, a small green truck, a small green train, a small green bus, a small green airplane, a small green helicopter, a small green boat, a small green car, a small green truck, a small green train, a small green bus, a small green airplane, a small green helicopter, a small green boat",
+      "extracted_answer": null
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025178.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 10
+      },
+      "ground_truth": 10,
+      "model_output": "<think>\nA. 10\n</think>\n<answer>\n10\n</answer>",
+      "extracted_answer": 10
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025179.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 6
+      },
+      "ground_truth": 6,
+      "model_output": "<think>\nThe image contains several objects, including a green car, a green minivan, two blue and brown dirt bikes, a gray mountain bike, and a small cyan mountain bike. There are also two gray objects, one of which is a large gray mountain bike.\n</think>\n<answer>\n6\n</answer>",
+      "extracted_answer": 6
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025180.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 3
+      },
+      "ground_truth": 3,
+      "model_output": "<think>\nThe image contains three distinct objects: a yellow SUV, a green bicycle, and a large, shiny turquoise bicycle. There are no other objects present in the image.\n</think>\n<answer>\n3\n</answer>",
+      "extracted_answer": 3
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025181.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 3
+      },
+      "ground_truth": 3,
+      "model_output": "<think>\nThe image contains three distinct objects: a green tandem bicycle, a small blue toy motorcycle, and a small red toy van. There are no other objects present in the image.\n</think>\n\n<answer>\n3\n</answer>",
+      "extracted_answer": 3
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025182.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 8
+      },
+      "ground_truth": 8,
+      "model_output": "<think>\nThe image contains several objects, including a chopper, a biplane, two bicycles, a small car, and a small sedan. There are also two airplanes, one large and one small. Additionally, there is a small blue bicycle and a small red mountain bike.\n</think>\n<answer>\n8\n</answer>",
+      "extracted_answer": 8
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025183.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 5
+      },
+      "ground_truth": 5,
+      "model_output": "<think>\nThe image contains five distinct objects: a red school bus, a brown scooter, a brown mountain bike, a brown wagon, and a yellow SUV.\n</think>\n<answer>\n5\n</answer>",
+      "extracted_answer": 5
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025184.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 5
+      },
+      "ground_truth": 5,
+      "model_output": "<think>\nThe image contains five distinct objects: a gray dirt bike, a yellow biplane, a small yellow car, a small cyan plane, and a small purple van.\n</think>\n<answer>\n5\n</answer>",
+      "extracted_answer": 5
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025185.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 3
+      },
+      "ground_truth": 3,
+      "model_output": "<think>\nThe image contains three distinct objects: a red airplane, a red minivan, and a small purple truck. There are no other objects present in the image.\n</think>\n<answer>\n3\n</answer>",
+      "extracted_answer": 3
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025186.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 4
+      },
+      "ground_truth": 4,
+      "model_output": "<think>\nThe image contains three distinct objects: a gray tandem bicycle, a small red bicycle, and a small brown scooter. There is also a green shiny car.\n</think>\n<answer>\n4\n</answer>",
+      "extracted_answer": 4
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025187.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 5
+      },
+      "ground_truth": 5,
+      "model_output": "<think>\nThe image contains five distinct objects: a green car, a green motorcycle, a purple airplane, a brown dirt bike, and a yellow double-decker bus.\n</think>\n<answer>\n5\n</answer>",
+      "extracted_answer": 5
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025188.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 5
+      },
+      "ground_truth": 5,
+      "model_output": "<think>\nThe image contains five distinct objects: a blue chopper, a brown SUV, a brown road bike, a gray motorcycle, and a gray mountain bike.\n</think>\n<answer>\n5\n</answer>",
+      "extracted_answer": 5
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025189.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 3
+      },
+      "ground_truth": 3,
+      "model_output": "<think>\nThe image contains three distinct objects: a yellow bicycle, a brown tandem bicycle, and a red SUV. There are no other objects present in the image.\n</think>\n\n<answer>\n3\n</answer>",
+      "extracted_answer": 3
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025190.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 5
+      },
+      "ground_truth": 5,
+      "model_output": "<think>\nThe image contains five distinct objects: a green scooter, a gray school bus, a brown fighter jet, a yellow airplane, and a cyan road bike.\n</think>\n<answer>\n5\n</answer>",
+      "extracted_answer": 5
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025191.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 8
+      },
+      "ground_truth": 8,
+      "model_output": "<think>\nThe image contains several objects, including a large green fighter jet, a blue mountain bike, a blue tandem bicycle, a small purple car, a small red car, a yellow van, a purple bicycle, and a large blue fighter jet. There are also two small purple objects, a small purple car, and a small purple bicycle.\n</think>\n<answer>\n8\n</answer>",
+      "extracted_answer": 8
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025192.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 3
+      },
+      "ground_truth": 3,
+      "model_output": "<think>\nThe image contains three distinct objects: a yellow airplane, a brown chopper, and a cyan train. There are no other objects present in the image.\n</think>\n<answer>\n3\n</answer>",
+      "extracted_answer": 3
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025193.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 9
+      },
+      "ground_truth": 9,
+      "model_output": "<think>\nThe image contains a variety of objects, including a large airplane, a school bus, a truck, a bicycle, a jet, a bus, a minivan, and a double-decker bus. There are also several smaller objects like a green bus, a green and gray bicycle, and a green and gray minivan.\n</think>\n<answer>\n9\n</answer>",
+      "extracted_answer": 9
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025194.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 10
+      },
+      "ground_truth": 10,
+      "model_output": "<think>\nA. 10\n</think>\n<answer>\n10\n</answer>",
+      "extracted_answer": 10
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025195.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 5
+      },
+      "ground_truth": 5,
+      "model_output": "<think>\nThe image contains four distinct objects: a brown car, a yellow school bus, a purple chopper, and a gray fighter jet.\n</think>\n<answer>\n4\n</answer>",
+      "extracted_answer": 4
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025196.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 6
+      },
+      "ground_truth": 6,
+      "model_output": "<think>\nThe image contains several objects, including a purple dirt bike, a yellow car, a green car, a brown train, a cyan biplane, a small green car, a small cyan bicycle, and a small brown train. There are also two different types of vehicles: a dirt bike and a car. Additionally, there are two different types of vehicles: a car and a train. There are also two different types of vehicles: a car and a bike. There are also two different types of vehicles: a car and a train. There are also two different types of vehicles: a car and a bike. There are also two different types of vehicles: a car and a bike. There are also two different types of vehicles: a car and a bike. There are also two different types of vehicles: a car and a bike. There are also two different types of vehicles: a car and a bike. There are also two different types of vehicles: a car and a bike. There are also two different types of vehicles: a car and a bike. There are also two different types of vehicles: a car and a bike. There are also two different types of vehicles: a car and a bike. There are also two different types of vehicles: a car",
+      "extracted_answer": null
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025197.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 3
+      },
+      "ground_truth": 3,
+      "model_output": "<think>\nThe image contains three distinct objects: a purple bus, a small blue toy airplane, and a purple school bus. There are no other objects present in the image.\n</think>\n<answer>\n3\n</answer>",
+      "extracted_answer": 3
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025198.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 4
+      },
+      "ground_truth": 4,
+      "model_output": "<think>\nThe image contains four distinct objects: a green truck, a red airplane, a red school bus, and a blue bus.\n</think>\n<answer>\n4\n</answer>",
+      "extracted_answer": 4
+    },
+    {
+      "question": {
+        "image_path": "./images/superCLEVR_new_025199.png",
+        "question": "How many different items are there in the image?",
+        "ground_truth": 3
+      },
+      "ground_truth": 3,
+      "model_output": "<think>\nThe image contains three distinct objects: a purple scooter, a purple airplane, and a small, shiny car. There are no other objects present in the image.\n</think>\n<answer>\n3\n</answer>",
+      "extracted_answer": 3
+    }
+  ]
+}

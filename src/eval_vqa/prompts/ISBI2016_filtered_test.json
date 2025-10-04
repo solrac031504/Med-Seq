@@ -1,0 +1,687 @@
+[
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0000053.jpg",
+        "problem": "What method was utilized to acquire this image? A)Endoscopy, B)Electroencephalogram (EEG) imaging, C)Dermoscopic imaging, D)Computed tomography (CT) scan",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0000132.jpg",
+        "problem": "What type of imaging was utilized to obtain this image? A)Dermoscopic imaging, B)Mammogram imaging, C)Magnetic resonance imaging (MRI), D)Endoscopy",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0000161.jpg",
+        "problem": "What was the technique employed to obtain this image? A)Dermoscopic imaging, B)Magnetic resonance imaging (MRI), C)Computed tomography (CT) scan, D)Positron emission tomography (PET) scan",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0000172.jpg",
+        "problem": "What was the method utilized to obtain this image? A)Electroencephalogram (EEG) imaging, B)Mammogram imaging, C)X-ray imaging, D)Dermoscopic imaging",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0000227.jpg",
+        "problem": "What modality was used to capture this image? A)Mammogram imaging, B)Dermoscopic imaging, C)Positron emission tomography (PET) scan, D)Endoscopy",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0000311.jpg",
+        "problem": "What method was employed to obtain this picture? A)Angiography, B)Dermoscopic imaging, C)Positron emission tomography (PET) scan, D)Magnetic resonance imaging (MRI)",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0001427.jpg",
+        "problem": "What modality was used to capture this image? A)Ultrasound imaging, B)Positron emission tomography (PET) scan, C)Mammogram imaging, D)Dermoscopic imaging",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0008659.jpg",
+        "problem": "What modality was used to capture this image? A)Endoscopy, B)Electrocardiogram (ECG) imaging, C)Dermoscopic imaging, D)X-ray imaging",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0009898.jpg",
+        "problem": "What modality was used to capture this image? A)Dermoscopic imaging, B)Magnetic resonance imaging (MRI), C)Endoscopy, D)Ultrasound imaging",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0009965.jpg",
+        "problem": "What imaging method was employed to obtain this picture? A)Ultrasound imaging, B)Dermoscopic imaging, C)X-ray imaging, D)Magnetic resonance imaging (MRI)",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0010034.jpg",
+        "problem": "What modality was used to capture this image? A)Ultrasound imaging, B)Computed tomography (CT) scan, C)Electroencephalogram (EEG) imaging, D)Dermoscopic imaging",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0010477.jpg",
+        "problem": "What modality was used to capture this image? A)Dermoscopic imaging, B)Positron emission tomography (PET) scan, C)Angiography, D)X-ray imaging",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0010598.jpg",
+        "problem": "What type of imaging was utilized to obtain this picture? A)Endoscopy, B)Magnetic resonance imaging (MRI), C)Ultrasound imaging, D)Dermoscopic imaging",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0010604.jpg",
+        "problem": "What was the method utilized to obtain this image? A)Dermoscopic imaging, B)Computed tomography (CT) scan, C)Ultrasound imaging, D)Magnetic resonance imaging (MRI)",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0010854.jpg",
+        "problem": "What imaging technique was employed to capture this picture? A)X-ray imaging, B)Endoscopy, C)Electroencephalogram (EEG) imaging, D)Dermoscopic imaging",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0011092.jpg",
+        "problem": "What technique was utilized to obtain this picture? A)Mammogram imaging, B)Magnetic resonance imaging (MRI), C)Electroencephalogram (EEG) imaging, D)Dermoscopic imaging",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0000072.jpg",
+        "problem": "What part of the body does the image primarily highlight? A)Internal organs, B)Endocrine system, C)Skin, D)Digestive system",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0000126.jpg",
+        "problem": "What part of the body does this image specifically target? A)Nervous system, B)Endocrine system, C)Internal organs, D)Skin",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0000197.jpg",
+        "problem": "What specific area of the human body does this image primarily highlight? A)Lymphatic system, B)Reproductive system, C)Respiratory system, D)Skin",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0000254.jpg",
+        "problem": "What part of the body does this image primarily target? A)Digestive system, B)Skin, C)Endocrine system, D)Bones",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0000271.jpg",
+        "problem": "What is the specific area of the body that is the main focus of this image? A)Lymphatic system, B)Respiratory system, C)Nervous system, D)Skin",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0000407.jpg",
+        "problem": "What part of the body is being depicted in this image? A)Skin, B)Circulatory system, C)Muscles, D)Endocrine system",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0000494.jpg",
+        "problem": "What part of the body does this image primarily target? A)Muscles, B)Respiratory system, C)Internal organs, D)Skin",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0000534.jpg",
+        "problem": "What part of the body does this image primarily highlight? A)Reproductive system, B)Endocrine system, C)Skin, D)Internal organs",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0000550.jpg",
+        "problem": "What area of the body is the main focus in this image? A)Skin, B)Internal organs, C)Reproductive system, D)Nervous system",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0001242.jpg",
+        "problem": "What area of the anatomy does this image specifically target? A)Reproductive system, B)Muscles, C)Circulatory system, D)Skin",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0009201.jpg",
+        "problem": "Which region of the body do this image focus on? A)Bones, B)Skin, C)Nervous system, D)Reproductive system",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0009881.jpg",
+        "problem": "What part of the body does this image primarily focus on? A)Nervous system, B)Lymphatic system, C)Skin, D)Bones",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0009882.jpg",
+        "problem": "What area of the body is the main focus in this image? A)Lymphatic system, B)Internal organs, C)Circulatory system, D)Skin",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0009906.jpg",
+        "problem": "Which part of the anatomy is highlighted in this image? A)Muscles, B)Respiratory system, C)Skin, D)Nervous system",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0009923.jpg",
+        "problem": "Which part of the body does this image specifically target? A)Respiratory system, B)Skin, C)Muscles, D)Bones",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0009927.jpg",
+        "problem": "Which part of the body does this image primarily concentrate on? A)Circulatory system, B)Lymphatic system, C)Skin, D)Nervous system",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0009930.jpg",
+        "problem": "What part of the human body does this image primarily depict? A)Nervous system, B)Lymphatic system, C)Skin, D)Internal organs",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0009931.jpg",
+        "problem": "What is the specific area of the body that is the main focus of this image? A)Skin, B)Bones, C)Nervous system, D)Muscles",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0009955.jpg",
+        "problem": "Which body part does the image primarily highlight? A)Bones, B)Skin, C)Internal organs, D)Lymphatic system",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0010023.jpg",
+        "problem": "What area of the human body is depicted in this image? A)Respiratory system, B)Endocrine system, C)Skin, D)Reproductive system",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0010062.jpg",
+        "problem": "Which region of the body do this image focus on? A)Reproductive system, B)Circulatory system, C)Nervous system, D)Skin",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0010077.jpg",
+        "problem": "Which part of the body does this image primarily concentrate on? A)Endocrine system, B)Skin, C)Bones, D)Digestive system",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0010257.jpg",
+        "problem": "What body part does the image primarily zoom in on? A)Skin, B)Muscles, C)Lymphatic system, D)Circulatory system",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0010452.jpg",
+        "problem": "What part of the human body does this image specifically target? A)Lymphatic system, B)Reproductive system, C)Muscles, D)Skin",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0011122.jpg",
+        "problem": "What part of the human anatomy does this image primarily depict? A)Internal organs, B)Skin, C)Respiratory system, D)Endocrine system",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0011132.jpg",
+        "problem": "What part of the body does this image primarily depict? A)Muscles, B)Skin, C)Lymphatic system, D)Reproductive system",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0011143.jpg",
+        "problem": "What part of the body is the main focus of this image? A)Skin, B)Lymphatic system, C)Respiratory system, D)Internal organs",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0011151.jpg",
+        "problem": "What area of the human anatomy is being depicted in this image? A)Skin, B)Respiratory system, C)Internal organs, D)Bones",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0011152.jpg",
+        "problem": "What part of the body does this image specifically target? A)Skin, B)Endocrine system, C)Respiratory system, D)Internal organs",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0011224.jpg",
+        "problem": "On which part of the body does this image primarily concentrate? A)Bones, B)Endocrine system, C)Skin, D)Muscles",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0011325.jpg",
+        "problem": "Which region of the body do this image focus on? A)Endocrine system, B)Circulatory system, C)Internal organs, D)Skin",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0011384.jpg",
+        "problem": "What specific bodily area does this image highlight? A)Skin, B)Nervous system, C)Internal organs, D)Bones",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0000057.jpg",
+        "problem": "Is this lesion shown in the image benign? A)Yes, B)No.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0000092.jpg",
+        "problem": "Is this image of a lesion indicative of being benign? A)No., B)Yes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0000227.jpg",
+        "problem": "Is this image showing a non-cancerous growth? A)No., B)Yes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0000343.jpg",
+        "problem": "Is the lesion shown in this image benign? A)No., B)Yes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0000354.jpg",
+        "problem": "Is this image indicating the presence of a non-cancerous growth? A)No., B)Yes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0001204.jpg",
+        "problem": "Is this image of a lesion showing benign characteristics? A)Yes, B)No.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0001427.jpg",
+        "problem": "Is this image indicative of a non-cancerous growth? A)No., B)Yes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0003056.jpg",
+        "problem": "Is this image of a lesion indicative of a benign condition? A)Yes, B)No.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0003559.jpg",
+        "problem": "Is this image displaying a non-malignant lesion? A)Yes, B)No.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0008406.jpg",
+        "problem": "Is this image indicative of a non-cancerous lesion? A)Yes, B)No.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0009889.jpg",
+        "problem": "Is the lesion in this picture non-malignant? A)Yes, B)No.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0009901.jpg",
+        "problem": "Is the depicted lesion benign? A)No., B)Yes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0009956.jpg",
+        "problem": "Is the lesion displayed in this image benign? A)Yes, B)No.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0009958.jpg",
+        "problem": "Is this image indicating the presence of a non-cancerous growth? A)Yes, B)No.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0009982.jpg",
+        "problem": "Is the lesion shown in this image considered benign? A)Yes, B)No.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0009988.jpg",
+        "problem": "Is this lesion in the image benign? A)No., B)Yes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0010020.jpg",
+        "problem": "Is this image depicting a non-malignant lesion? A)No., B)Yes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0010183.jpg",
+        "problem": "Is this image indicating a non-cancerous lesion? A)Yes, B)No.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0010190.jpg",
+        "problem": "Is this image indicative of a non-cancerous lesion? A)Yes, B)No.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0010192.jpg",
+        "problem": "Is this lesion shown in the image benign or not? A)No., B)Yes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0010193.jpg",
+        "problem": "Is it true that the image displays a non-cancerous lesion? A)Yes, B)No.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0010254.jpg",
+        "problem": "Can it be confirmed that this image depicts a non-malignant lesion? A)Yes, B)No.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0010346.jpg",
+        "problem": "Is the lesion shown in this image benign? A)Yes, B)No.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0010449.jpg",
+        "problem": "Is this image displaying a harmless growth? A)No., B)Yes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0010477.jpg",
+        "problem": "Is this image depicting a lesion that is not malignant? A)No., B)Yes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0010483.jpg",
+        "problem": "Is this image indicative of a harmless lesion? A)Yes, B)No.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0010498.jpg",
+        "problem": "Is this image displaying a non-cancerous growth? A)Yes, B)No.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0010607.jpg",
+        "problem": "Is the lesion depicted in this image non-cancerous? A)No., B)Yes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0011092.jpg",
+        "problem": "Is the lesion shown in this image benign? A)No., B)Yes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0011107.jpg",
+        "problem": "Could this image possibly indicate the presence of a non-malignant lesion? A)Yes, B)No.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0011148.jpg",
+        "problem": "Is this image depicting a non-malignant lesion? A)No., B)Yes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0011152.jpg",
+        "problem": "Is this image depicting a noncancerous growth? A)No., B)Yes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0011162.jpg",
+        "problem": "Is this lesion shown in the image benign? A)Yes, B)No.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0011177.jpg",
+        "problem": "Is this lesion shown in the image benign or not? A)No., B)Yes",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0000197.jpg",
+        "problem": "Does this dermoscopic image suggest that the condition is malignant or benign? A)Benign condition., B)Non-cancerous condition., C)Inconclusive condition., D)Malignant condition.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0000226.jpg",
+        "problem": "Is this dermoscopic image suggestive of a malignant or benign state? A)Aggressive condition., B)Indeterminate condition., C)Malignant condition., D)Benign condition.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0000253.jpg",
+        "problem": "Is this dermoscopic image indicative of a malignant or benign condition? A)Aggressive condition., B)Benign condition., C)Non-cancerous condition., D)Unknown condition.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0000328.jpg",
+        "problem": "Does this dermoscopic image suggest a non-cancerous or cancerous condition? A)Inconclusive condition., B)Metastatic condition., C)Benign condition., D)Progressive condition.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0000377.jpg",
+        "problem": "Is the dermoscopic image suggestive of a malignancy or a non-malignant condition? A)Suspicious condition., B)Indeterminate condition., C)Benign condition., D)Progressive condition.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0000380.jpg",
+        "problem": "Does this dermoscopic image indicate a malignant or benign condition? A)Suspicious condition., B)Pre-cancerous condition., C)Benign condition., D)Aggressive condition.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0000494.jpg",
+        "problem": "Does this dermoscopic image suggest a malignancy or a non-cancerous condition? A)Unknown condition., B)Indeterminate condition., C)Benign condition., D)Suspicious condition.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0000515.jpg",
+        "problem": "Is this dermoscopic image suggestive of a malignancy or a non-cancerous condition? A)Non-cancerous condition., B)Unknown condition., C)Malignant condition., D)Benign condition.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0008406.jpg",
+        "problem": "Does this dermoscopic image indicate a malignant or benign condition? A)Benign condition., B)Inconclusive condition., C)Pre-cancerous condition., D)Suspicious condition.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0009564.jpg",
+        "problem": "Does this dermoscopic image suggest that the condition is malignant or benign? A)Indeterminate condition., B)Benign condition., C)Suspicious condition., D)Malignant condition.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0009931.jpg",
+        "problem": "Does this dermoscopic image suggest a malignancy or a non-malignant condition? A)Aggressive condition., B)Suspicious condition., C)Benign condition., D)Malignant condition.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0009943.jpg",
+        "problem": "Could this dermoscopic image suggest a malignant or benign condition? A)Inconclusive condition., B)Indeterminate condition., C)Unknown condition., D)Benign condition.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0010013.jpg",
+        "problem": "Is this dermoscopic image indicative of a malignant or benign condition? A)Indeterminate condition., B)Inconclusive condition., C)Benign condition., D)Unknown condition.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0010037.jpg",
+        "problem": "Is this dermoscopic image indicative of a malignant or non-malignant condition? A)Progressive condition., B)Inconclusive condition., C)Benign condition., D)Non-cancerous condition.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0010073.jpg",
+        "problem": "Does this dermoscopic image indicate a benign or malignant condition? A)Malignant condition., B)Benign condition., C)Progressive condition., D)Unknown condition.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0010100.jpg",
+        "problem": "Is this dermoscopic image indicative of a malignant or non-malignant condition? A)Suspicious condition., B)Pre-cancerous condition., C)Malignant condition., D)Benign condition.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0010103.jpg",
+        "problem": "Does this dermoscopic image suggest a benign or malignant condition? A)Suspicious condition., B)Indeterminate condition., C)Pre-cancerous condition., D)Benign condition.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0010173.jpg",
+        "problem": "Does this dermoscopic image suggest a malignancy or a non-cancerous condition? A)Metastatic condition., B)Pre-cancerous condition., C)Benign condition., D)Non-cancerous condition.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0010183.jpg",
+        "problem": "Is this dermoscopic image indicative of a malignant or benign condition? A)Non-cancerous condition., B)Benign condition., C)Aggressive condition., D)Suspicious condition.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0010261.jpg",
+        "problem": "Is this dermoscopic image indicative of a malignant or benign condition? A)Metastatic condition., B)Benign condition., C)Pre-cancerous condition., D)Progressive condition.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0010348.jpg",
+        "problem": "Is this dermoscopic image suggestive of a malignant or benign ailment? A)Progressive condition., B)Indeterminate condition., C)Aggressive condition., D)Benign condition.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0010368.jpg",
+        "problem": "Is this dermoscopic image suggestive of a malignant or benign condition? A)Suspicious condition., B)Benign condition., C)Non-cancerous condition., D)Aggressive condition.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0010378.jpg",
+        "problem": "Does the dermoscopic image suggest the presence of a malignant or benign condition? A)Metastatic condition., B)Malignant condition., C)Benign condition., D)Non-cancerous condition.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0010556.jpg",
+        "problem": "Could this dermoscopic image suggest a benign or malignant condition? A)Indeterminate condition., B)Unknown condition., C)Benign condition., D)Aggressive condition.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0010607.jpg",
+        "problem": "Is this dermoscopic image indicative of a malignant or benign condition? A)Malignant condition., B)Non-cancerous condition., C)Progressive condition., D)Benign condition.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0011294.jpg",
+        "problem": "Is the dermoscopic image suggestive of a malignant or benign condition? A)Metastatic condition., B)Aggressive condition., C)Benign condition., D)Pre-cancerous condition.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0011392.jpg",
+        "problem": "Does this dermoscopic image reveal a benign or malignant condition? A)Aggressive condition., B)Benign condition., C)Malignant condition., D)Suspicious condition.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0000022.jpg",
+        "problem": "Is this image indicative of a cancerous lesion? A)No, B)Doubtful, C)I'm not sure, D)Yes",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0000036.jpg",
+        "problem": "Is this image depicting a cancerous lesion? A)Doubtful, B)I'm not sure, C)No, D)Yes",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0000040.jpg",
+        "problem": "Is the lesion depicted in this image cancerous? A)I'm not sure, B)Doubtful, C)No, D)Yes",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0000043.jpg",
+        "problem": "Is this image displaying a cancerous lesion? A)Doubtful, B)Yes, C)No, D)I'm not sure",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0000149.jpg",
+        "problem": "Is this image indicative of malignancy? A)No, B)Doubtful, C)I'm not sure, D)Yes",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0000165.jpg",
+        "problem": "Is the lesion depicted in this image cancerous? A)I'm not sure, B)Doubtful, C)Yes, D)No",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0000310.jpg",
+        "problem": "Can this image indicate the presence of a cancerous growth? A)No, B)I'm not sure, C)Yes, D)Doubtful",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0000484.jpg",
+        "problem": "Is this image indicative of a malignant lesion? A)No, B)Doubtful, C)Yes, D)I'm not sure",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0009992.jpg",
+        "problem": "Is the lesion in this image malignant? A)I'm not sure, B)No, C)Doubtful, D)Yes",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0010089.jpg",
+        "problem": "Is the lesion shown in the image malignant? A)Doubtful, B)I'm not sure, C)No, D)Yes",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0010596.jpg",
+        "problem": "Is the lesion in this image malignant? A)No, B)Doubtful, C)I'm not sure, D)Yes",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0011151.jpg",
+        "problem": "Is this image indicating the presence of a malignant lesion? A)Yes, B)I'm not sure, C)No, D)Doubtful",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0011305.jpg",
+        "problem": "Is this image depicting a cancerous lesion? A)Yes, B)No, C)Doubtful, D)I'm not sure",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0000013.jpg",
+        "problem": "Does this dermoscopic image suggest a malignant or benign condition? A)Metabolic condition., B)Malignant condition., C)Benign condition., D)Non-cancerous condition.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0000040.jpg",
+        "problem": "What type of condition does this dermoscopic image indicate, benign or malignant? A)Pre-cancerous condition., B)Non-cancerous condition., C)Autoimmune condition., D)Malignant condition.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0000141.jpg",
+        "problem": "Does this dermoscopic image suggest a benign or malignant condition? A)Malignant condition., B)Indeterminate condition., C)Autoimmune condition., D)Congenital condition.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0000169.jpg",
+        "problem": "Is the dermoscopic image suggestive of a benign or malignant condition? A)Infectious condition., B)Congenital condition., C)Indeterminate condition., D)Malignant condition.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0000279.jpg",
+        "problem": "Is this dermoscopic image indicative of a malignant or benign condition? A)Pre-cancerous condition., B)Malignant condition., C)Inflammatory condition., D)Congenital condition.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0000484.jpg",
+        "problem": "What type of condition does this dermoscopic image suggest, malignant or benign? A)Autoimmune condition., B)Metabolic condition., C)Indeterminate condition., D)Malignant condition.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0000533.jpg",
+        "problem": "Does this dermoscopic image suggest the presence of a malignant or benign condition? A)Congenital condition., B)Pre-cancerous condition., C)Inflammatory condition., D)Malignant condition.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0000550.jpg",
+        "problem": "Does this dermoscopic image suggest a benign or malignant condition? A)Pre-cancerous condition., B)Traumatic condition., C)Malignant condition., D)Autoimmune condition.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0009927.jpg",
+        "problem": "Is this dermoscopic image indicative of a malignant or benign condition? A)Traumatic condition., B)Infectious condition., C)Non-cancerous condition., D)Malignant condition.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0010011.jpg",
+        "problem": "Does this dermoscopic image suggest a condition that is malignant or benign? A)Non-cancerous condition., B)Indeterminate condition., C)Traumatic condition., D)Malignant condition.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0010089.jpg",
+        "problem": "Does this dermoscopic picture suggest a non-cancerous or cancerous lesion? A)Pre-cancerous condition., B)Indeterminate condition., C)Congenital condition., D)Malignant condition.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0010231.jpg",
+        "problem": "Does this dermoscopic picture suggest a non-cancerous or cancerous lesion? A)Autoimmune condition., B)Congenital condition., C)Indeterminate condition., D)Malignant condition.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0010360.jpg",
+        "problem": "What type of condition does this dermoscopic image indicate, benign or malignant? A)Malignant condition., B)Pre-cancerous condition., C)Infectious condition., D)Non-cancerous condition.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0010591.jpg",
+        "problem": "What type of condition does this dermoscopic image indicate, benign or malignant? A)Indeterminate condition., B)Metabolic condition., C)Congenital condition., D)Malignant condition.",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ISBI2016/ISBI2016_ISIC_Part3_Test_Data/ISIC_0011374.jpg",
+        "problem": "Does this dermoscopic image suggest the presence of a benign or malignant condition? A)Malignant condition., B)Inflammatory condition., C)Traumatic condition., D)Metabolic condition.",
+        "solution": "<answer> A </answer>"
+    }
+]

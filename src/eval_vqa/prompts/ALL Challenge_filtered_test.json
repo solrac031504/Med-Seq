@@ -1,0 +1,312 @@
+[
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1501.bmp",
+        "problem": "What method is utilized to capture this image in medicine? A)Positron Emission Tomography (PET) scan, B)Microscopy, C)Ultrasound, D)Nuclear medicine scan",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1544.bmp",
+        "problem": "What imaging technique is employed to capture this picture? A)X-ray, B)Microscopy, C)Mammography, D)Nuclear medicine scan",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1611.bmp",
+        "problem": "What imaging modality is used to take this image? A)Nuclear medicine scan, B)Microscopy, C)Thermography, D)Positron Emission Tomography (PET) scan",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1618.bmp",
+        "problem": "What modality is utilized to capture this image? A)Ultrasound, B)Microscopy, C)Mammography, D)Magnetic Resonance Imaging (MRI)",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1662.bmp",
+        "problem": "What imaging modality is used to take this image? A)Microscopy, B)Mammography, C)Thermography, D)Magnetic Resonance Imaging (MRI)",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1671.bmp",
+        "problem": "What imaging modality is used to take this image? A)Microscopy, B)Computed Tomography (CT) scan, C)X-ray, D)Mammography",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1673.bmp",
+        "problem": "What method of imaging is employed to capture this picture? A)X-ray, B)Microscopy, C)Nuclear medicine scan, D)Positron Emission Tomography (PET) scan",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1686.bmp",
+        "problem": "What modality of imaging is utilized to capture this image? A)Microscopy, B)Electroencephalography (EEG), C)Endoscopy, D)Thermography",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1775.bmp",
+        "problem": "What is the imaging modality used to capture this picture? A)Microscopy, B)Computed Tomography (CT) scan, C)Endoscopy, D)Mammography",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1780.bmp",
+        "problem": "What type of imaging technique is utilized to capture this visual? A)Ultrasound, B)Magnetic Resonance Imaging (MRI), C)Microscopy, D)X-ray",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1795.bmp",
+        "problem": "What modality of imaging is utilized to capture this picture? A)Magnetic Resonance Imaging (MRI), B)Positron Emission Tomography (PET) scan, C)Ultrasound, D)Microscopy",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1812.bmp",
+        "problem": "What is the imaging modality employed to capture this picture? A)X-ray, B)Endoscopy, C)Ultrasound, D)Microscopy",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1819.bmp",
+        "problem": "What modality is utilized for capturing this image? A)Mammography, B)Electroencephalography (EEG), C)Thermography, D)Microscopy",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1823.bmp",
+        "problem": "What imaging modality is used to take this image? A)Mammography, B)Nuclear medicine scan, C)Computed Tomography (CT) scan, D)Microscopy",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1824.bmp",
+        "problem": "What imaging technique is employed to capture this visual representation? A)Electroencephalography (EEG), B)Thermography, C)Microscopy, D)Computed Tomography (CT) scan",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1859.bmp",
+        "problem": "What modality is utilized for capturing this image? A)Ultrasound, B)Endoscopy, C)Microscopy, D)Thermography",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1518.bmp",
+        "problem": "What is the disease that the corresponding subject is afflicted with, based on this image? A)Pneumonia, B)Hypothyroidism, C)Hematologic Malignancies, D)Kidney stones",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1557.bmp",
+        "problem": "What is the disease that the subject in the corresponding image is diagnosed with? A)Hypothyroidism, B)Appendicitis, C)Hematologic Malignancies, D)Diabetes",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1629.bmp",
+        "problem": "What is the disease diagnosed in the corresponding subject, as shown in this image? A)Hematologic Malignancies, B)Appendicitis, C)Kidney stones, D)Migraine headaches",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1634.bmp",
+        "problem": "What condition is indicated by the disease shown in this image? A)Hematologic Malignancies, B)Osteoporosis, C)Migraine headaches, D)Appendicitis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1655.bmp",
+        "problem": "What is the disease diagnosed in the corresponding subject depicted in the image? A)Hematologic Malignancies, B)Dermatitis, C)Hypothyroidism, D)High blood pressure",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1670.bmp",
+        "problem": "What disease is the corresponding subject suffering from, as indicated by this image? A)Diabetes, B)Hematologic Malignancies, C)Pneumonia, D)Dermatitis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1671.bmp",
+        "problem": "What is the disease that the corresponding subject in this image is afflicted with? A)Asthma, B)Osteoporosis, C)Diabetes, D)Hematologic Malignancies",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1694.bmp",
+        "problem": "What disease is the corresponding subject afflicted with, as depicted in this image? A)Migraine headaches, B)Pneumonia, C)Hematologic Malignancies, D)Kidney stones",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1700.bmp",
+        "problem": "What specific condition is the individual in the image afflicted with? A)High blood pressure, B)Kidney stones, C)Pneumonia, D)Hematologic Malignancies",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1741.bmp",
+        "problem": "What is the disease that the subject in the image is diagnosed with? A)Hematologic Malignancies, B)Appendicitis, C)Diabetes, D)Dermatitis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1749.bmp",
+        "problem": "What is the medical condition that the subject in the image is afflicted with? A)High blood pressure, B)Migraine headaches, C)Hematologic Malignancies, D)Diabetes",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1763.bmp",
+        "problem": "What specific medical condition is indicated by the presence of hematologic malignancies in the corresponding subject illustrated in the image? A)Hematologic Malignancies, B)Osteoporosis, C)Asthma, D)Pneumonia",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1773.bmp",
+        "problem": "What is the disease that the corresponding subject in this image is afflicted with? A)Dermatitis, B)Osteoporosis, C)Pneumonia, D)Hematologic Malignancies",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1783.bmp",
+        "problem": "What is the disease that the corresponding subject in this image is afflicted with? A)Hematologic Malignancies, B)Migraine headaches, C)Asthma, D)Pneumonia",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1792.bmp",
+        "problem": "What condition is the corresponding subject diagnosed with, based on the image? A)Diabetes, B)Hypothyroidism, C)High blood pressure, D)Hematologic Malignancies",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1798.bmp",
+        "problem": "What is the disease that the corresponding subject in this image is diagnosed with? A)Hematologic Malignancies, B)Appendicitis, C)Kidney stones, D)High blood pressure",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1845.bmp",
+        "problem": "What medical condition is the corresponding subject diagnosed with, as indicated by this image? A)Kidney stones, B)Hematologic Malignancies, C)Dermatitis, D)High blood pressure",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1850.bmp",
+        "problem": "What is the diagnosis of the subject in the image? A)Diabetes, B)Hematologic Malignancies, C)Hypothyroidism, D)Asthma",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1865.bmp",
+        "problem": "What is the diagnosis for the subject shown in this image? A)Hematologic Malignancies, B)Migraine headaches, C)High blood pressure, D)Dermatitis",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1499.bmp",
+        "problem": "What is the probable diagnosis suggested by the image? A)Polycythemia vera, B)Acute lymphoblastic leukemia, C)Acute myeloid leukemia, D)Myelodysplastic syndrome",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1506.bmp",
+        "problem": "What diagnosis is most likely represented by the image? A)Waldenstrom macroglobulinemia, B)Acute myeloid leukemia, C)Acute lymphoblastic leukemia, D)Myelodysplastic syndrome",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1512.bmp",
+        "problem": "What is the most probable condition that is depicted in this image? A)Acute lymphoblastic leukemia, B)Burkitt's lymphoma, C)Chronic lymphocytic leukemia, D)Chronic myeloid leukemia",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1570.bmp",
+        "problem": "What is the most likely diagnosis show in this image? A)Hodgkin's lymphoma, B)Acute lymphoblastic leukemia, C)Non-Hodgkin's lymphoma, D)Polycythemia vera",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1571.bmp",
+        "problem": "What is the most probable condition depicted in the provided image? A)Acute lymphoblastic leukemia, B)Myelodysplastic syndrome, C)Multiple myeloma, D)Polycythemia vera",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1581.bmp",
+        "problem": "What is the probable diagnosis seen in the image provided? A)Waldenstrom macroglobulinemia, B)Acute lymphoblastic leukemia, C)Acute myeloid leukemia, D)Multiple myeloma",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1586.bmp",
+        "problem": "What is the most likely diagnosis show in this image? A)Hodgkin's lymphoma, B)Myelodysplastic syndrome, C)Acute lymphoblastic leukemia, D)Non-Hodgkin's lymphoma",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1644.bmp",
+        "problem": "What is the probable diagnosis depicted in this image? A)Acute lymphoblastic leukemia, B)Acute myeloid leukemia, C)Waldenstrom macroglobulinemia, D)Chronic lymphocytic leukemia",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1653.bmp",
+        "problem": "What diagnosis is most likely indicated by the image shown? A)Chronic myeloid leukemia, B)Chronic lymphocytic leukemia, C)Burkitt's lymphoma, D)Acute lymphoblastic leukemia",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1662.bmp",
+        "problem": "What would be the most probable diagnosis based on the appearance of this image? A)Burkitt's lymphoma, B)Acute lymphoblastic leukemia, C)Chronic myeloid leukemia, D)Acute myeloid leukemia",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1672.bmp",
+        "problem": "What is the probable medical condition depicted in this image? A)Non-Hodgkin's lymphoma, B)Acute lymphoblastic leukemia, C)Myelodysplastic syndrome, D)Multiple myeloma",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1677.bmp",
+        "problem": "What is the probable diagnosis depicted in this image? A)Acute lymphoblastic leukemia, B)Waldenstrom macroglobulinemia, C)Polycythemia vera, D)Hodgkin's lymphoma",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1684.bmp",
+        "problem": "What would be the likely diagnosis indicated by this image? A)Acute lymphoblastic leukemia, B)Myelodysplastic syndrome, C)Polycythemia vera, D)Chronic lymphocytic leukemia",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1698.bmp",
+        "problem": "What is the likely diagnosis indicated in this image? A)Acute myeloid leukemia, B)Acute lymphoblastic leukemia, C)Waldenstrom macroglobulinemia, D)Chronic myeloid leukemia",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1704.bmp",
+        "problem": "What condition is most likely depicted in this image? A)Multiple myeloma, B)Acute lymphoblastic leukemia, C)Chronic lymphocytic leukemia, D)Non-Hodgkin's lymphoma",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1708.bmp",
+        "problem": "What is the most likely diagnosis show in this image? A)Myelodysplastic syndrome, B)Acute lymphoblastic leukemia, C)Chronic myeloid leukemia, D)Chronic lymphocytic leukemia",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1727.bmp",
+        "problem": "What condition is most likely seen in this image? A)Myelodysplastic syndrome, B)Acute lymphoblastic leukemia, C)Chronic myeloid leukemia, D)Burkitt's lymphoma",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1737.bmp",
+        "problem": "What is the likely diagnosis that this image indicates? A)Acute lymphoblastic leukemia, B)Chronic lymphocytic leukemia, C)Burkitt's lymphoma, D)Waldenstrom macroglobulinemia",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1771.bmp",
+        "problem": "What diagnosis is most likely suggested by the image? A)Multiple myeloma, B)Acute lymphoblastic leukemia, C)Polycythemia vera, D)Hodgkin's lymphoma",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1788.bmp",
+        "problem": "What condition is most likely depicted in this image? A)Acute lymphoblastic leukemia, B)Myelodysplastic syndrome, C)Polycythemia vera, D)Acute myeloid leukemia",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1790.bmp",
+        "problem": "What is the probable diagnosis depicted in this image? A)Waldenstrom macroglobulinemia, B)Acute lymphoblastic leukemia, C)Multiple myeloma, D)Hodgkin's lymphoma",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1810.bmp",
+        "problem": "What is the likely diagnosis depicted in this image? A)Multiple myeloma, B)Acute lymphoblastic leukemia, C)Acute myeloid leukemia, D)Waldenstrom macroglobulinemia",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1825.bmp",
+        "problem": "What is the most likely diagnosis show in this image? A)Acute lymphoblastic leukemia, B)Polycythemia vera, C)Acute myeloid leukemia, D)Multiple myeloma",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1828.bmp",
+        "problem": "What is the most likely diagnosis show in this image? A)Acute lymphoblastic leukemia, B)Myelodysplastic syndrome, C)Waldenstrom macroglobulinemia, D)Non-Hodgkin's lymphoma",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1831.bmp",
+        "problem": "What is the most probable condition indicated by the image? A)Acute lymphoblastic leukemia, B)Chronic lymphocytic leukemia, C)Waldenstrom macroglobulinemia, D)Polycythemia vera",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1855.bmp",
+        "problem": "What is the most probable condition demonstrated in this image? A)Myelodysplastic syndrome, B)Acute lymphoblastic leukemia, C)Acute myeloid leukemia, D)Chronic myeloid leukemia",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/ALL Challenge/validation_data/C-NMC_test_prelim_phase_data/1859.bmp",
+        "problem": "What is the probable diagnosis exhibited in the image? A)Myelodysplastic syndrome, B)Waldenstrom macroglobulinemia, C)Acute myeloid leukemia, D)Acute lymphoblastic leukemia",
+        "solution": "<answer> D </answer>"
+    }
+]

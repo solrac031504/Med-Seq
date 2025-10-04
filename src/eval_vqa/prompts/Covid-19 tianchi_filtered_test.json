@@ -1,0 +1,82 @@
+[
+    {
+        "image": "Images/Covid-19 tianchi/Covid-19-Image-Dataset_test_datasets/Viral-Pneumonia/0111.jpeg",
+        "problem": "What type of imaging was utilized to obtain this image? A)x_ray., B)MRI., C)CT scan., D)Ultrasound.",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Covid-19 tianchi/Covid-19-Image-Dataset_test_datasets/Normal/0114.jpeg",
+        "problem": "What part of the anatomy is showing in this picture? A)Neck, B)Chest, C)Foot, D)Hand",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Covid-19 tianchi/Covid-19-Image-Dataset_test_datasets/Covid/0119.jpeg",
+        "problem": "What is the anatomical location of the body shown in the image? A)Head, B)Chest, C)Arm, D)Groin",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Covid-19 tianchi/Covid-19-Image-Dataset_test_datasets/Covid/COVID-00022.jpg",
+        "problem": "What specific abnormality is present in this image? A)Pneumothorax, B)COVID-19 pneumonia, C)Silicosis, D)Tuberculosis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Covid-19 tianchi/Covid-19-Image-Dataset_test_datasets/Covid/COVID-00003b.jpg",
+        "problem": "What specific abnormality is present in this image? A)Influenza pneumonia, B)Tuberculosis, C)Silicosis, D)COVID-19 pneumonia",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Covid-19 tianchi/Covid-19-Image-Dataset_test_datasets/Covid/0108.jpeg",
+        "problem": "What specific abnormality is present in this image? A)COVID-19 pneumonia, B)Influenza pneumonia, C)Pulmonary embolism, D)Lung cancer",
+        "solution": "<answer> A </answer>"
+    },
+    {
+        "image": "Images/Covid-19 tianchi/Covid-19-Image-Dataset_test_datasets/Normal/0102.jpeg",
+        "problem": "Is the image showing any signs of abnormality? A)The image appears normal, but further testing is needed to confirm., B)The image shows a slight abnormality, but it is likely insignificant., C)The image is too blurry to determine if there are any abnormalities., D)No, the image appears normal",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Covid-19 tianchi/Covid-19-Image-Dataset_test_datasets/Normal/0108.jpeg",
+        "problem": "Is there any indication of abnormality in this image? A)The image shows a slight abnormality, but it is likely insignificant., B)No, the image appears normal, C)No, the image is too low quality to accurately detect abnormalities., D)The image appears normal, but further testing is needed to confirm.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Covid-19 tianchi/Covid-19-Image-Dataset_test_datasets/Normal/0107.jpeg",
+        "problem": "Does the image show any signs of abnormality? A)Yes, there are multiple abnormalities detected in this image., B)No, the image appears normal, C)The image appears normal, but further testing is needed to confirm., D)The image is too blurry to determine if there are any abnormalities.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Covid-19 tianchi/Covid-19-Image-Dataset_test_datasets/Normal/0109.jpeg",
+        "problem": "Is there any indication of abnormality in this image? A)No, the image is too low quality to accurately detect abnormalities., B)The image appears normal, but further testing is needed to confirm., C)No, the image appears normal, D)Yes, there are multiple abnormalities detected in this image.",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Covid-19 tianchi/Covid-19-Image-Dataset_test_datasets/Normal/0112.jpeg",
+        "problem": "Is there any indication of abnormality in this image? A)The image appears normal, but further testing is needed to confirm., B)No, the image appears normal, C)No, the image is too low quality to accurately detect abnormalities., D)Yes, there are multiple abnormalities detected in this image.",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Covid-19 tianchi/Covid-19-Image-Dataset_test_datasets/Viral-Pneumonia/0116.jpeg",
+        "problem": "What is the specific medical condition depicted in this image? A)Chronic obstructive pulmonary disease (COPD), B)Lobar pneumonia, C)Bacterial pneumonia, D)Viral pneumonia",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Covid-19 tianchi/Covid-19-Image-Dataset_test_datasets/Viral-Pneumonia/0118.jpeg",
+        "problem": "What is the identified abnormality depicted in this image? A)Bacterial pneumonia, B)Viral pneumonia, C)Lobar pneumonia, D)Pulmonary fibrosis",
+        "solution": "<answer> B </answer>"
+    },
+    {
+        "image": "Images/Covid-19 tianchi/Covid-19-Image-Dataset_test_datasets/Viral-Pneumonia/0115.jpeg",
+        "problem": "What is the specific diagnosis for the abnormality shown in this image? A)Chronic obstructive pulmonary disease (COPD), B)Lobar pneumonia, C)Asthma, D)Viral pneumonia",
+        "solution": "<answer> D </answer>"
+    },
+    {
+        "image": "Images/Covid-19 tianchi/Covid-19-Image-Dataset_test_datasets/Viral-Pneumonia/0101.jpeg",
+        "problem": "What is the specific condition depicted in this image? A)Bacterial pneumonia, B)Chronic obstructive pulmonary disease (COPD), C)Viral pneumonia, D)Heart failure",
+        "solution": "<answer> C </answer>"
+    },
+    {
+        "image": "Images/Covid-19 tianchi/Covid-19-Image-Dataset_test_datasets/Viral-Pneumonia/0106.jpeg",
+        "problem": "What is the identifiable abnormality seen in this image? A)Chronic obstructive pulmonary disease (COPD), B)Viral pneumonia, C)Tuberculosis, D)Lung cancer",
+        "solution": "<answer> B </answer>"
+    }
+]

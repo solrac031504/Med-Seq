@@ -1,0 +1,7 @@
+[
+    {
+        "image": "Images/Chest CT Scan/test/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000143 (6).png",
+        "problem": "What imaging technique was employed for capturing this image? A)Angiography, B)Electrocardiogram (ECG), C)Mammogram, D)CT",
+        "solution": "<answer> D </answer>"
+    }
+]
