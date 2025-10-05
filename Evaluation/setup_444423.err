@@ -1,0 +1,158 @@
+ERROR: Could not find a version that satisfies the requirement torchaudio (from versions: none)
+ERROR: No matching distribution found for torchaudio
+  error: subprocess-exited-with-error
+  
+  × Building wheel for tokenizers (pyproject.toml) did not run successfully.
+  │ exit code: 1
+  ╰─> [79 lines of output]
+      Running `maturin pep517 build-wheel -i /home/in642270/miniconda/bin/python3.13 --compatibility off`
+      Python reports SOABI: cpython-313-x86_64-linux-gnu
+      Computed rustc target triple: x86_64-unknown-linux-gnu
+      Installation directory: /home/in642270/.cache/puccinialin
+      Rustup already downloaded
+      Installing rust to /home/in642270/.cache/puccinialin/rustup
+      warn: It looks like you have an existing rustup settings file at:
+      warn: /home/in642270/.rustup/settings.toml
+      warn: Rustup will install the default toolchain as specified in the settings file,
+      warn: instead of the one inferred from the default host triple.
+      info: profile set to 'minimal'
+      info: default host triple is x86_64-unknown-linux-gnu
+      warn: Updating existing toolchain, profile choice will be ignored
+      info: syncing channel updates for 'stable-x86_64-unknown-linux-gnu'
+      info: default toolchain set to 'stable-x86_64-unknown-linux-gnu'
+      Checking if cargo is installed
+      cargo 1.90.0 (840b83a10 2025-07-30)
+      ⚠️  Warning: `project.version` field is required in pyproject.toml unless it is present in the `project.dynamic` list
+      🍹 Building a mixed python/rust project
+      🔗 Found pyo3 bindings
+      🐍 Found CPython 3.13 at /home/in642270/miniconda/bin/python3.13
+      📡 Using build options features, bindings from pyproject.toml
+         Compiling proc-macro2 v1.0.81
+         Compiling unicode-ident v1.0.12
+         Compiling autocfg v1.2.0
+         Compiling target-lexicon v0.12.14
+         Compiling libc v0.2.153
+         Compiling once_cell v1.19.0
+         Compiling cfg-if v1.0.0
+         Compiling crossbeam-utils v0.8.19
+         Compiling pyo3-build-config v0.21.2
+         Compiling quote v1.0.36
+         Compiling memchr v2.7.2
+         Compiling syn v2.0.60
+         Compiling cc v1.0.94
+         Compiling strsim v0.10.0
+         Compiling ident_case v1.0.1
+         Compiling fnv v1.0.7
+         Compiling num-traits v0.2.18
+         Compiling smallvec v1.13.2
+         Compiling serde v1.0.198
+         Compiling portable-atomic v1.6.0
+         Compiling crossbeam-epoch v0.9.18
+         Compiling pyo3-ffi v0.21.2
+         Compiling aho-corasick v1.1.3
+         Compiling lock_api v0.4.11
+         Compiling pkg-config v0.3.30
+         Compiling darling_core v0.20.8
+         Compiling rayon-core v1.12.1
+         Compiling regex-syntax v0.8.3
+         Compiling serde_derive v1.0.198
+         Compiling darling_macro v0.20.8
+         Compiling either v1.11.0
+         Compiling parking_lot_core v0.9.9
+         Compiling darling v0.20.8
+         Compiling regex-automata v0.4.6
+         Compiling onig_sys v69.8.1
+      error: failed to run custom build command for `pyo3-ffi v0.21.2`
+      
+      Caused by:
+        process didn't exit successfully: `/tmp/pip-install-nmhelyuz/tokenizers_5bee8afe418d4a8ab6f5fd71db1c90f4/bindings/python/target/release/build/pyo3-ffi-6b926e6b725f39bd/build-script-build` (exit status: 1)
+        --- stdout
+        cargo:rerun-if-env-changed=PYO3_CROSS
+        cargo:rerun-if-env-changed=PYO3_CROSS_LIB_DIR
+        cargo:rerun-if-env-changed=PYO3_CROSS_PYTHON_VERSION
+        cargo:rerun-if-env-changed=PYO3_CROSS_PYTHON_IMPLEMENTATION
+        cargo:rerun-if-env-changed=PYO3_PRINT_CONFIG
+        cargo:rerun-if-env-changed=PYO3_USE_ABI3_FORWARD_COMPATIBILITY
+      
+        --- stderr
+        error: the configured Python interpreter version (3.13) is newer than PyO3's maximum supported version (3.12)
+        = help: please check if an updated version of PyO3 is available. Current version: 0.21.2
+        = help: set PYO3_USE_ABI3_FORWARD_COMPATIBILITY=1 to suppress this check and build anyway using the stable ABI
+      warning: build failed, waiting for other jobs to finish...
+      💥 maturin failed
+        Caused by: Failed to build a native library through cargo
+        Caused by: Cargo build finished with "exit status: 101": `env -u CARGO PYO3_BUILD_EXTENSION_MODULE="1" PYO3_ENVIRONMENT_SIGNATURE="cpython-3.13-64bit" PYO3_PYTHON="/home/in642270/miniconda/bin/python3.13" PYTHON_SYS_EXECUTABLE="/home/in642270/miniconda/bin/python3.13" "cargo" "rustc" "--features" "pyo3/extension-module" "--message-format" "json-render-diagnostics" "--manifest-path" "/tmp/pip-install-nmhelyuz/tokenizers_5bee8afe418d4a8ab6f5fd71db1c90f4/bindings/python/Cargo.toml" "--release" "--lib"`
+      Rust not found, installing into a temporary directory
+      Error: command ['maturin', 'pep517', 'build-wheel', '-i', '/home/in642270/miniconda/bin/python3.13', '--compatibility', 'off'] returned non-zero exit status 1
+      [end of output]
+  
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+  ERROR: Failed building wheel for tokenizers
+error: failed-wheel-build-for-install
+
+× Failed to build installable wheels for some pyproject.toml based projects
+╰─> tokenizers
+ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.
+trl 0.9.6 requires numpy<2.0.0,>=1.18.2, but you have numpy 2.2.6 which is incompatible.
+  error: subprocess-exited-with-error
+  
+  × python setup.py egg_info did not run successfully.
+  │ exit code: 1
+  ╰─> [43 lines of output]
+      Traceback (most recent call last):
+        File "<string>", line 2, in <module>
+          exec(compile('''
+          ~~~~^^^^^^^^^^^^
+          # This is <pip-setuptools-caller> -- a caller that pip uses to run setup.py
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+          ...<32 lines>...
+          exec(compile(setup_py_code, filename, "exec"))
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+          ''' % ('/tmp/pip-install-t8j31yek/flash-attn_de1084177c7d4988b1868f07c5d669d1/setup.py',), "<pip-setuptools-caller>", "exec"))
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        File "<pip-setuptools-caller>", line 35, in <module>
+        File "/tmp/pip-install-t8j31yek/flash-attn_de1084177c7d4988b1868f07c5d669d1/setup.py", line 172, in <module>
+          _, bare_metal_version = get_cuda_bare_metal_version(CUDA_HOME)
+                                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+        File "/tmp/pip-install-t8j31yek/flash-attn_de1084177c7d4988b1868f07c5d669d1/setup.py", line 89, in get_cuda_bare_metal_version
+          raw_output = subprocess.check_output([cuda_dir + "/bin/nvcc", "-V"], universal_newlines=True)
+        File "/home/in642270/miniconda/lib/python3.13/subprocess.py", line 472, in check_output
+          return run(*popenargs, stdout=PIPE, timeout=timeout, check=True,
+                 ~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                     **kwargs).stdout
+                     ^^^^^^^^^
+        File "/home/in642270/miniconda/lib/python3.13/subprocess.py", line 554, in run
+          with Popen(*popenargs, **kwargs) as process:
+               ~~~~~^^^^^^^^^^^^^^^^^^^^^^
+        File "/home/in642270/miniconda/lib/python3.13/subprocess.py", line 1039, in __init__
+          self._execute_child(args, executable, preexec_fn, close_fds,
+          ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                              pass_fds, cwd, env,
+                              ^^^^^^^^^^^^^^^^^^^
+          ...<5 lines>...
+                              gid, gids, uid, umask,
+                              ^^^^^^^^^^^^^^^^^^^^^^
+                              start_new_session, process_group)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        File "/home/in642270/miniconda/lib/python3.13/subprocess.py", line 1972, in _execute_child
+          raise child_exception_type(errno_num, err_msg, err_filename)
+      FileNotFoundError: [Errno 2] No such file or directory: '/usr/local/cuda/bin/nvcc'
+      
+      
+      torch.__version__  = 2.8.0+cu128
+      
+      
+      [end of output]
+  
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+error: metadata-generation-failed
+
+× Encountered error while generating package metadata.
+╰─> See above for output.
+
+note: This is an issue with the package mentioned above, not pip.
+hint: See above for details.
+ERROR: Ignored the following versions that require a different python version: 0.10.0 Requires-Python >=3.9,<3.13; 0.10.1 Requires-Python >=3.9,<3.13; 0.10.1.1 Requires-Python >=3.9,<3.13; 0.2.0 Requires-Python >=3.9,<3.13; 0.2.1 Requires-Python >=3.9,<3.13; 0.2.3 Requires-Python >=3.9,<3.13; 0.8.4 Requires-Python >=3.9,<3.13; 0.8.5 Requires-Python >=3.9,<3.13; 0.8.5.post1 Requires-Python >=3.9,<3.13; 0.9.0 Requires-Python >=3.9,<3.13; 0.9.0.1 Requires-Python >=3.9,<3.13; 0.9.1 Requires-Python >=3.9,<3.13; 0.9.2 Requires-Python >=3.9,<3.13; 1.0.0 Requires-Python >=3.9,<3.13; 1.0.1 Requires-Python >=3.9,<3.13; 1.0.2 Requires-Python >=3.9,<3.13; 1.0.3 Requires-Python >=3.9,<3.13; 1.0.4 Requires-Python >=3.9,<3.13; 1.1.0 Requires-Python >=3.9,<3.13; 1.1.1 Requires-Python >=3.9,<3.13; 1.2.0 Requires-Python >=3.9,<3.13; 1.2.1 Requires-Python >=3.9,<3.13; 1.2.2 Requires-Python >=3.9,<3.13; 1.2.3 Requires-Python >=3.9,<3.13; 1.2.4 Requires-Python >=3.9,<3.13; 1.2.5 Requires-Python >=3.9,<3.13; 1.21.2 Requires-Python >=3.7,<3.11; 1.21.3 Requires-Python >=3.7,<3.11; 1.21.4 Requires-Python >=3.7,<3.11; 1.21.5 Requires-Python >=3.7,<3.11; 1.21.6 Requires-Python >=3.7,<3.11; 1.26.0 Requires-Python >=3.9,<3.13; 1.26.1 Requires-Python >=3.9,<3.13
+ERROR: Could not find a version that satisfies the requirement torchaudio==2.5.1 (from vllm) (from versions: 2.6.0, 2.7.0, 2.7.1, 2.8.0)
+ERROR: No matching distribution found for torchaudio==2.5.1
+ERROR: file:///lustre/fs1/home/in642270/GSPO_MED/src does not appear to be a Python project: neither 'setup.py' nor 'pyproject.toml' found.
