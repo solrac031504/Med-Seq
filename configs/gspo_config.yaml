@@ -14,15 +14,15 @@ trust_remote_code: true
 # ------------------------------
 # Training Data Configuration
 # ------------------------------
-train_data_dir: "/lustre/fs1/home/in642270/GSPO_MED/Splits/modality/train"
-image_root: "/lustre/fs1/home/in642270/GSPO_MED/Images"
+train_data_dir: "/lustre/fs1/home/ca362088/Med_GSPO/Splits/modality/train"
+image_root: "/lustre/fs1/home/ca362088/Med_GSPO/Images"
 use_images: true
 shuffle: true
 
 # ------------------------------
 # Output Configuration
 # ------------------------------
-output_dir: "/lustre/fs1/home/in642270/GSPO_MED/outputs_gspo_vqa"
+output_dir: "/lustre/fs1/home/ca362088/Med_GSPO/outputs_gspo_vqa"
 save_total_limit: 3
 save_strategy: "steps"
 save_steps: 200

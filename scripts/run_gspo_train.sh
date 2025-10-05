@@ -30,7 +30,7 @@ nvcc --version || echo "nvcc not found, but proceeding..."
 #  Training Parameters
 # ============================================================
 
-PROJECT_ROOT="/lustre/fs1/home/in642270/GSPO_MED"
+PROJECT_ROOT="/lustre/fs1/home/ca362088/Med_GSPO"
 CONFIG_PATH="$PROJECT_ROOT/configs/gspo_config.yaml"
 SCRIPT_PATH="$PROJECT_ROOT/src/gspo_vqa_nothink.py"
 

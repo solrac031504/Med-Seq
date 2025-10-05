@@ -63,7 +63,7 @@ class MedVQADataset(Dataset):
 # ------------------------------------------------------------------------------
 def main():
     # Paths
-    base_dir = "/lustre/fs1/home/in642270/GSPO_MED"
+    base_dir = "/lustre/fs1/home/ca362088/Med_GSPO"
     image_root = os.path.join(base_dir, "Images")
     split_dir = os.path.join(base_dir, "Splits/modality/train")
 

@@ -21,7 +21,7 @@ source ~/.bashrc
 conda activate base
 
 # Ensure working directory
-cd /lustre/fs1/home/in642270/GSPO_MED || exit
+cd /lustre/fs1/home/ca362088/Med_GSPO || exit
 mkdir -p Evaluation
 
 # CUDA configuration
