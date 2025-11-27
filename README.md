@@ -1,1 +1,0 @@
-Using findings of Med-R1, switch GRPO for GSPO in hopes of improving the original findings. 
