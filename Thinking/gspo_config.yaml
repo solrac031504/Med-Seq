@@ -1,0 +1,68 @@
+# ============================================================
+#  GSPO Configuration for Qwen2VL (Optimized for Medical Imaging)
+# ============================================================
+
+# ------------------------------
+# Model Configuration
+# ------------------------------
+model_name_or_path: "Qwen/Qwen2.5-VL-3B-Instruct"
+torch_dtype: "bfloat16"
+trust_remote_code: true
+
+# ------------------------------
+# Training / Evaluation Data
+# ------------------------------
+train_data_dir: "Splits/question_type/train/Anatomy Identification_train.json"
+eval_data_dir: "Splits/question_type/test/Anatomy Identification_test.json"
+image_root: "Images"
+
+# ------------------------------
+# Output and Checkpoints
+# ------------------------------
+output_dir: "outputs"
+checkpoint_dir: "checkpoints"
+logging_steps: 50
+save_total_limit: 3
+seed: 42
+
+# ------------------------------
+# GSPO Algorithm Parameters
+# ------------------------------
+num_generations: 4                     # number of rollouts per prompt
+importance_sampling_level: "sequence"  # sequence-level self-play optimization
+kl_penalty: 0.1                        # stability term vs reference policy
+clip_range: 0.1                        # PPO-style clipping (GRPO compatibility)
+max_grad_norm: 0.5                     # gradient clipping
+
+# ------------------------------
+# Optimization Hyperparameters
+# ------------------------------
+learning_rate: 1e-5
+batch_size: 4
+per_device_train_batch_size: 4
+num_epochs: 2
+weight_decay: 0.1
+gradient_accumulation_steps: 1
+
+# ------------------------------
+# Generation Settings
+# ------------------------------
+max_new_tokens: 16
+temperature: 0.3
+top_p: 0.85
+do_sample: true
+repetition_penalty: 1.1
+
+# ------------------------------
+# Evaluation Settings
+# ------------------------------
+eval_interval_steps: 100
+eval_batch_size: 1
+eval_max_samples: 100
+
+# ------------------------------
+# Miscellaneous
+# ------------------------------
+dataloader_num_workers: 2
+report_to: "none"
+bf16: true
